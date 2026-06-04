@@ -11,6 +11,7 @@ from __future__ import annotations
 
 import argparse
 import re
+import time
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -152,6 +153,16 @@ def main() -> None:
         raise SystemExit("SLACK_LEADS_CHANNEL_ID not set")
 
     oldest = _read_last_ts()
+    if oldest is None:
+        # First run: seed the high-water mark to now and process nothing, so we
+        # never ingest the channel's backlog — only signups posted from here
+        # forward get handled. (Backfilling, if ever wanted, is a deliberate act.)
+        seed = f"{time.time():.6f}"
+        _write_last_ts(seed)
+        print(f"[slack_leads_reader] first run — seeded last_ts={seed}; "
+              "processing forward only")
+        return
+
     messages = slack_history(channel, oldest=oldest, limit=args.limit)
 
     newest_ts = oldest
