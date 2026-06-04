@@ -4,9 +4,9 @@ Automated first-touch outreach for new Polymer signups. A signup posted in the n
 
 ## Flow
 ```
-new-leads-from-signups Slack msg
+app-prod-new-companies Slack msg
   → [A] ingest + qualify (drop gmail/.edu/free + common domains)
-       → commit lead + post "good lead" to email-review channel        (durable)
+       → commit lead + post "good lead" to new-leads-from-signups       (durable)
   → [B] research → extract → verify-loop → draft ×N → review/score-loop
        → post each shipping variation as its own message
   → [C] Jessica reacts ✅ → poll reads the reaction → Gmail draft created
@@ -24,7 +24,7 @@ All three stages run as GitHub Actions on a cron. No server/Lambda.
 1. `make install`
 2. `cp .env.example .env` and fill it in (Anthropic, Slack bot token, Slack channel ids, Gmail OAuth — see `gmail-setup.txt`).
 3. Add the same values as **GitHub Actions secrets** on this repo (the workflows read `secrets.*`).
-4. Slack: the bot needs scopes `channels:history`, `chat:write`, `reactions:read`, and must be invited to both channels.
+4. Slack: the bot needs scopes `channels:history`, `groups:history`, `chat:write`, `reactions:read`, and must be invited to all three channels (app-prod-new-companies, new-leads-from-signups, email-review).
 
 ## Local
 - `make ingest` — run Stage A once.

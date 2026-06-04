@@ -129,9 +129,9 @@ def _process_message(msg: dict) -> bool:
         row["status"] = "qualified"
         row["qualified_at"] = _utcnow_iso()
         upsert_lead(row)
-        review_channel = env("SLACK_REVIEW_CHANNEL_ID")
-        if review_channel:
-            slack_post(review_channel, blocks=_good_lead_blocks(row))
+        good_leads_channel = env("SLACK_GOOD_LEADS_CHANNEL_ID")
+        if good_leads_channel:
+            slack_post(good_leads_channel, blocks=_good_lead_blocks(row))
     else:
         row["status"] = "skipped"
         row["skip_reason"] = reason

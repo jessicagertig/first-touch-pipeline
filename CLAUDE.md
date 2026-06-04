@@ -6,7 +6,7 @@ Turns a new Polymer signup into a reviewed, ready-to-send first-touch outreach e
 Python 3.12, GitHub Actions (all compute/orchestration), Anthropic Claude API, Slack API, Gmail API. No AWS/Lambda. Standalone — no dependency on inflow-ats internals; it only consumes the "New Company" Slack messages.
 
 ## Architecture (3 stages, all GitHub Actions)
-- **Stage A — Capture** (`.github/workflows/ingest_qualify.yml`, cron): read the new-leads Slack channel → parse leads → dedup → qualify gate → on pass, commit to `state/leads.csv` and post "good lead" to the review channel. Durable: the lead is saved + notified before any servicing, so nothing downstream can drop it.
+- **Stage A — Capture** (`.github/workflows/ingest_qualify.yml`, cron): read the new-leads Slack channel → parse leads → dedup → qualify gate → on pass, commit to `state/leads.csv` and post "good lead" to the good-leads channel. Durable: the lead is saved + notified before any servicing, so nothing downstream can drop it.
 - **Stage B — Service** (`.github/workflows/service_lead.yml`): for each `qualified` lead, run research → extract → verify-loop → draft (N variations) → review/score-loop until variations ship (score ≥ 8) or caps hit, then post each shipping variation as its own message to the review channel (status → `awaiting_pick`). Retriable; a failure leaves the lead recoverable.
 - **Stage C — Pick** (`.github/workflows/poll_picks.yml`, cron): read reactions on the posted variation messages; the one Jessica reacts to with ✅ gets turned into a **Gmail draft** in `jessica@polymer.co` via `users.drafts.create`. No Lambda, no buttons — reactions only.
 
@@ -20,9 +20,10 @@ Email-domain blocklist: free/consumer mailboxes (gmail, yahoo, hotmail, outlook,
 `state/leads.csv` is the durable, git-committed status store: `qualified → serviced → awaiting_pick → draft_created` (+ `skipped`, `no_ship`, `error`). Dedup by email + Slack ts.
 
 ## Slack
-One bot (shared with thought-leadership). Required scopes: `channels:history`, `chat:write`, `reactions:read`. The bot must be a member of both channels:
-- `SLACK_LEADS_CHANNEL_ID` — new-leads-from-signups (read for ingest)
-- `SLACK_REVIEW_CHANNEL_ID` — email-review (post good-leads + variations; read ✅ reactions)
+One bot (`content_creation_bot`, shared with thought-leadership). Required scopes: `channels:history`, `groups:history`, `chat:write`, `reactions:read`. The bot must be a member of all three channels:
+- `SLACK_LEADS_CHANNEL_ID` — app-prod-new-companies (source: Polymer's "New Company" posts; bot reads)
+- `SLACK_GOOD_LEADS_CHANNEL_ID` — new-leads-from-signups (pipeline posts each qualified good lead)
+- `SLACK_REVIEW_CHANNEL_ID` — email-review (pipeline posts draft variations; bot reads ✅ reactions)
 Pick emoji: ✅ (`white_check_mark`).
 
 ## Gotchas
