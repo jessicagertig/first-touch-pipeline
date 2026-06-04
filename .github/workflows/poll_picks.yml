@@ -9,6 +9,9 @@ concurrency:
   group: ft-poll-picks
   cancel-in-progress: false
 
+permissions:
+  contents: write
+
 jobs:
   poll:
     runs-on: ubuntu-latest
@@ -31,7 +34,11 @@ jobs:
         run: |
           git config user.name "first-touch-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add state/ output/ || true
-          git diff --cached --quiet || git commit -m "poll-picks: drafts created"
-          git pull --rebase || true
-          git push || true
+          git add state/ output/
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "poll-picks: drafts created"
+            git pull --rebase
+            git push
+          fi

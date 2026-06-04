@@ -16,6 +16,9 @@ concurrency:
   group: ft-service-${{ github.event.inputs.lead_id || 'sweep' }}
   cancel-in-progress: false
 
+permissions:
+  contents: write
+
 jobs:
   service:
     runs-on: ubuntu-latest
