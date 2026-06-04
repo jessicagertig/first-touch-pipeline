@@ -1,0 +1,40 @@
+{
+  "candidates": [
+    {
+      "item": "Give us your tired, your unaccounted for. Your huddled masses yearning for more. The wretched refuse on the algorithm shore. Send these to us, all foul and fair. To lift their lamps on a Saturday Night From Nowhere.",
+      "why_interesting": "The entire public-facing website is nothing but a rewritten version of the Statue of Liberty poem \u2014 swapping 'the algorithm shore' in for the original \u2014 with zero product or service information. It's a genuinely unusual creative choice: a company's only public-facing statement is a piece of found-poetry pastiche that signals digital-culture awareness and a specific sensibility, rather than anything about what the company does. Most companies use their homepage to explain themselves; this one uses it to do something weirder.",
+      "level": "company",
+      "source_url": "https://snfn.co.uk/",
+      "as_of_date_if_known": "2024\u20132025 (page confirmed live at time of research)",
+      "recency_note": "Live holding page; content unchanged since at least research date",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Saturday Night From Nowhere Ltd (Companies House #12073159) has been incorporated since 27 June 2019 \u2014 over five years \u2014 with no publicly visible products, services, social media presence, SIC code, or press coverage of any kind. The website remains a teaser/holding page only.",
+      "why_interesting": "A company deliberately maintaining total public silence for 5+ years while staying legally active is unusual. It suggests either a deeply long-horizon stealth play, a passion/side project kept very private, or a vehicle being held ready for something. The combination of a fully registered Ltd, a real office address in Manchester's Northern Quarter creative district, and near-zero public footprint is a distinctive posture worth noting.",
+      "level": "company",
+      "source_url": "https://find-and-update.company-information.service.gov.uk/company/12073159/officers",
+      "as_of_date_if_known": "Incorporated 27 June 2019; confirmed active at time of research",
+      "recency_note": "Companies House filing confirmed active; no public activity found as of research date",
+      "sensitivity": "none"
+    },
+    {
+      "item": "The registered address for Saturday Night From Nowhere Ltd is 79 Tib Street, Manchester, M4 1LS \u2014 a single address shared by over 200 registered companies including Blossoms Music Limited (the indie-rock band Blossoms' company), placing SNFN in the heart of Manchester's Northern Quarter creative/music district.",
+      "why_interesting": "The co-registration address with Blossoms Music Limited (the Stockport indie band) at a known Northern Quarter creative hub is an interesting contextual signal \u2014 it suggests the registered agent or address provider serves music/entertainment clients specifically, strengthening (though not confirming) the hypothesis that SNFN is a music or entertainment venture.",
+      "level": "company",
+      "source_url": "https://find-and-update.company-information.service.gov.uk/company/10190307/officers",
+      "as_of_date_if_known": "Confirmed via Companies House records at time of research",
+      "recency_note": "Companies House address data; stable",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Andrew Spence signed up using andy@snfn.co.uk and entered 'Andrew Spence' \u2014 not 'Saturday Night From Nowhere Ltd' \u2014 as the organisation name, suggesting a sole-trader or personal framing. He does not appear as a named director on Companies House for SNFN.",
+      "why_interesting": "The gap between the registered company (two unnamed directors) and the person who signed up (Andrew Spence, not listed as a director, presenting under his own name rather than the company name) is a genuinely interesting puzzle. It suggests Andrew may be a key operator, contractor, or associate who sits outside the formal directorship structure \u2014 an unusual arrangement worth acknowledging.",
+      "level": "individual",
+      "source_url": "https://find-and-update.company-information.service.gov.uk/company/12073159/officers",
+      "as_of_date_if_known": "Unknown \u2014 based on sign-up data provided",
+      "recency_note": "Role and relationship to SNFN unconfirmed from any public source",
+      "sensitivity": "Low \u2014 factual observation about public company records vs. sign-up data; no private or sensitive personal info involved"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "company": {
+    "website": "https://snfn.co.uk",
+    "what_they_do": "Saturday Night From Nowhere Ltd is a UK-registered private limited company (Companies House #12073159), incorporated 27 June 2019, based in Manchester (registered address: 79 Tib Street, Manchester, M4 1LS). The website at snfn.co.uk is a teaser/holding page only \u2014 it displays cryptic, poetic copy riffing on the Statue of Liberty inscription, ending with 'To lift their lamps on a Saturday Night From Nowhere \u00b7 Stay tuned to this channel'. No products, services, or business description are publicly visible on the site. The actual business activity is unconfirmed from first-party sources. The company has two directors (DOBs January 1978 and September 1978, both British nationals resident in England); neither is publicly named in the search results. The Tib Street, Manchester address places them in the Northern Quarter, a creative/cultural hub. Based on available signals (name, teaser tone, Manchester location), the company may operate in creative, entertainment, media, or events \u2014 but this cannot be confirmed from sources found.",
+    "raw_notes": "- Domain: snfn.co.uk confirmed as Saturday Night From Nowhere Ltd. - Companies House #12073159, incorporated 27 June 2019. - Registered address: 79 Tib Street, Manchester, M4 1LS (Northern Quarter \u2014 known creative/music/events district). - Second director address: 51 School Road, Stretford, Manchester, M32 8DJ. - Website is a coming-soon/teaser page only. No product or service pages. - Tagline/copy on site: riff on Statue of Liberty 'give me your tired' poem, reframed around 'the algorithm shore' and 'Saturday Night From Nowhere' \u2014 suggests awareness of digital culture/media, possibly music or entertainment industry. - 'Stay tuned to this channel' is the only CTA, implying a media/broadcast/content play. - No SIC code, turnover, or industry classification found in search results. - Company appears to be pre-launch or early-stage / deliberately low-profile.",
+    "source_urls": [
+      "https://snfn.co.uk/",
+      "https://find-and-update.company-information.service.gov.uk/company/12073159/officers"
+    ]
+  },
+  "individual": {
+    "name": "Andrew Spence",
+    "role_if_found": null,
+    "notes": "Andrew Spence signed up using the email andy@snfn.co.uk and entered 'Andrew Spence' as the org name (suggesting a freelancer/sole-trader framing rather than the company name). He is NOT listed as a director of Saturday Night From Nowhere Ltd on Companies House \u2014 the two registered directors have DOBs of January 1978 and September 1978. His exact role at or relationship with SNFN (employee, consultant, founder associate, etc.) is unknown from public sources. No personal profile for an 'Andrew Spence' at SNFN could be found online. There are several UK-based Andrew Spences in unrelated fields (e.g. Sony Music Publishing UK General Counsel, a Mazars tax partner, a building surveyor, a musician/drummer). None of these can be confirmed as the andy@snfn.co.uk signee without additional evidence.",
+    "source_urls": [
+      "https://find-and-update.company-information.service.gov.uk/company/12073159/officers"
+    ]
+  },
+  "could_not_find": [
+    "What Saturday Night From Nowhere Ltd actually does \u2014 no product/service pages exist on snfn.co.uk; business activity not disclosed in any indexed source.",
+    "SIC code / industry classification for the company (not surfaced in search results).",
+    "Andrew Spence's specific role or title at SNFN \u2014 he is not a listed director; no public profile found.",
+    "Whether snfn.co.uk is pre-launch, a side project, or an active business.",
+    "Any news, press coverage, or social media presence for Saturday Night From Nowhere Ltd.",
+    "Founding story or founders' identities (directors not named in publicly indexed results)."
+  ]
+}
