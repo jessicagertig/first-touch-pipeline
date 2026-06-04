@@ -1,0 +1,80 @@
+{
+  "lead_id": "truto-dev",
+  "company_name": "Truto Dev",
+  "recipient_name": "Riya Sethi",
+  "email": "riya@truto.one",
+  "variations": [
+    {
+      "variant_n": 1,
+      "compliment": "Truto looks like a great company - that customer going from 2 to 17 integrations in a few hours instead of 4 months is a remarkable example of what you're building.",
+      "email": "Hello Riya,\n\nThanks for checking out Polymer! Truto looks like a great company - that customer going from 2 to 17 integrations in a few hours instead of 4 months is a remarkable example of what you're building.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://truto.one/"
+      ],
+      "score": 8,
+      "tells": [
+        "a remarkable example of what you're building"
+      ],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1780609481.144439",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 2,
+      "compliment": "Truto looks like a great product – I loved seeing the customer who went from 2 to 17 integrations in a few hours when it would have otherwise taken them months.",
+      "email": "Hello Riya,\n\nThanks for checking out Polymer! Truto looks like a great product – I loved seeing the customer who went from 2 to 17 integrations in a few hours when it would have otherwise taken them months.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://truto.one/"
+      ],
+      "score": 9,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1780609481.337579",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 3,
+      "compliment": "Truto looks really impressive – the idea of a runtime with zero integration-specific code, where adding a new connector is just a data operation rather than a code deployment, is such a clever approach.",
+      "email": "Hello Riya,\n\nThanks for checking out Polymer! Truto looks really impressive – the idea of a runtime with zero integration-specific code, where adding a new connector is just a data operation rather than a code deployment, is such a clever approach.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://truto.one/blog/why-truto-is-the-best-unified-api-for-startups-shipping-integrations-in-2026/"
+      ],
+      "score": 7,
+      "tells": [
+        "the idea of a runtime with zero integration-specific code, where adding a new connector is just a data operation rather than a code deployment — this parrots their technical marketing copy back verbatim and overstuffs the single sentence"
+      ],
+      "verdict": "revise",
+      "ship": false
+    },
+    {
+      "variant_n": 4,
+      "compliment": "Truto looks like a really thoughtful solution – I love that the runtime has zero integration-specific code, so adding a new integration is just a data operation instead of a whole code deployment.",
+      "email": "Hello Riya,\n\nThanks for checking out Polymer! Truto looks like a really thoughtful solution – I love that the runtime has zero integration-specific code, so adding a new integration is just a data operation instead of a whole code deployment.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://truto.one/blog/why-truto-is-the-best-unified-api-for-startups-shipping-integrations-in-2026/"
+      ],
+      "score": 8,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1780609481.499089",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 5,
+      "compliment": "Truto looks great – I love that a customer went from 2 to 17 integrations in a few hours, when that would have taken at least 4 months otherwise!",
+      "email": "Hello Riya,\n\nThanks for checking out Polymer! Truto looks great – I love that a customer went from 2 to 17 integrations in a few hours, when that would have taken at least 4 months otherwise!\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://truto.one/"
+      ],
+      "score": 9,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1780609481.677269",
+      "slack_channel": "C0B87Q5UEL9"
+    }
+  ]
+}

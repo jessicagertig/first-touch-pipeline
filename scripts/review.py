@@ -11,8 +11,9 @@ from typing import Any
 
 from scripts.utils import (
     DRAFT_MODEL,
-    call_anthropic,
+    call_json,
     extract_text,
+    library_compliments_text,
     load_prompt,
     parse_json,
 )
@@ -28,13 +29,15 @@ def _score_one(prompt: str, variation: dict) -> dict:
         f"{json.dumps(variation.get('source_urls', []), indent=2)}\n\n"
         "Return the review JSON exactly as specified."
     )
-    response = call_anthropic(
+    raw = call_json(
         model=DRAFT_MODEL,
         messages=[{"role": "user", "content": user}],
         system=prompt,
         label="review",
     )
-    review: dict[str, Any] = parse_json(extract_text(response))
+    if isinstance(raw, list):  # model sometimes wraps the review object in a list
+        raw = next((x for x in raw if isinstance(x, dict)), {})
+    review: dict[str, Any] = raw if isinstance(raw, dict) else {}
     try:
         score = int(review.get("score", 0))
     except (TypeError, ValueError):
@@ -51,7 +54,13 @@ def score_variations(variations: list[dict]) -> list[dict]:
 
     Adds {score, tells, verdict} to each variation per 05-adversarial-reviewer.
     """
-    prompt = load_prompt("05-adversarial-reviewer")
+    prompt = (
+        load_prompt("05-adversarial-reviewer")
+        + "\n\n## Her real compliments (score by how well the draft matches these)\n"
+        "Each line is one real compliment Jessica sent. A 10 is indistinguishable "
+        "from these; flag anything that doesn't fit in.\n"
+        + library_compliments_text()
+    )
     scored: list[dict] = []
     for variation in variations:
         review = _score_one(prompt, variation)

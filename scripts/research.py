@@ -14,7 +14,7 @@ from scripts.utils import (
     RESEARCH_MODEL,
     WEB_SEARCH_TOOL,
     REPO_ROOT,
-    call_anthropic,
+    call_json,
     extract_text,
     load_prompt,
     parse_json,
@@ -50,14 +50,15 @@ def research_lead(lead: dict) -> dict:
         f"{json.dumps(inputs, indent=2)}\n\n"
         "Return the research JSON exactly as specified."
     )
-    response = call_anthropic(
+    research = call_json(
         model=RESEARCH_MODEL,
         messages=[{"role": "user", "content": user}],
         system=system,
         tools=[WEB_SEARCH_TOOL],
         label="research",
     )
-    research: dict[str, Any] = parse_json(extract_text(response))
+    if not isinstance(research, dict):
+        research = {}
 
     out = _output_dir(lead["lead_id"]) / "research.json"
     out.write_text(json.dumps(research, indent=2), encoding="utf-8")

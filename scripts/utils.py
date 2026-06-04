@@ -124,7 +124,39 @@ def parse_json(text: str) -> Any:
                     return json.loads(t[i:j + 1])
                 except Exception:
                     continue
-        raise
+        return None  # unparseable; callers default gracefully
+
+
+def call_json(
+    *,
+    model: str,
+    messages: list[dict],
+    system: str | None = None,
+    tools: list[dict] | None = None,
+    max_tokens: int = 4096,
+    label: str = "",
+) -> Any:
+    """call_anthropic + parse_json, with one strict-JSON retry on parse failure.
+
+    Returns the parsed JSON value, or None if it still can't be parsed after the
+    retry. The retry shows the model its bad output and demands valid JSON.
+    """
+    resp = call_anthropic(model=model, messages=messages, system=system,
+                          tools=tools, max_tokens=max_tokens, label=label)
+    text = extract_text(resp)
+    parsed = parse_json(text)
+    if parsed is not None:
+        return parsed
+    retry = list(messages) + [
+        {"role": "assistant", "content": text or "(no text)"},
+        {"role": "user", "content":
+            "That was not valid JSON. Reply with ONLY a single valid JSON value "
+            "and nothing else — escape every quote, backslash, and newline inside "
+            "string values."},
+    ]
+    resp2 = call_anthropic(model=model, messages=retry, system=system,
+                           tools=tools, max_tokens=max_tokens, label=f"{label}-jsonretry")
+    return parse_json(extract_text(resp2))
 
 
 WEB_SEARCH_TOOL = {"type": "web_search_20250305", "name": "web_search"}
@@ -151,6 +183,20 @@ def load_library() -> list[dict]:
 def library_jsonl_text() -> str:
     """Raw JSONL string of the 88 examples, for embedding in a draft prompt."""
     return LIBRARY_PATH.read_text(encoding="utf-8")
+
+
+def library_compliments_text() -> str:
+    """Just the real compliment sentences, one per line — no metadata.
+
+    The voice signal for the drafter: only what Jessica actually wrote, so the
+    examples lead instead of being diluted by the surrounding JSONL fields.
+    """
+    lines = []
+    for row in load_library():
+        c = (row.get("compliment_text") or "").strip()
+        if c:
+            lines.append(c)
+    return "\n".join(lines)
 
 
 # --------------------------------------------------------------------------- #

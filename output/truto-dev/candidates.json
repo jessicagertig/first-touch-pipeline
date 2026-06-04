@@ -1,0 +1,85 @@
+{
+  "candidates": [
+    {
+      "item": "Truto's entire runtime contains zero integration-specific code. No if (provider === 'hubspot'). No switch (provider) statements. No SalesforceAdapter.ts or HubSpotHandler.js. The same code path handles every integration \u2014 HubSpot, Salesforce, Pipedrive, BambooHR, QuickBooks, Zendesk, you name it. Adding a new integration is a data operation, not a code deployment.",
+      "why_interesting": "Almost every competing unified API platform (Merge, Apideck, StackOne) uses a strategy/adapter pattern \u2014 one code module per integration. Truto instead built a full interpreter pattern at platform scale: integrations are JSON config programs, not code files. This is a rare architectural choice with real downstream effects (no regression risk when adding connectors, edge-case fixes without deploys). It's the concrete mechanism behind most of Truto's other claims, and it's verifiably unusual at this product category.",
+      "level": "company",
+      "source_url": "https://truto.one/blog/why-truto-is-the-best-unified-api-for-startups-shipping-integrations-in-2026/",
+      "as_of_date_if_known": "March 13, 2026",
+      "recency_note": "Published March 2026; consistent with homepage and GitHub descriptions as of June 2026.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Make a single API call to POST /integrated-account/:id/mcp with your desired access policies. The response includes a single URL that encodes the integration, access policies, and authentication. Share it with any MCP client.",
+      "why_interesting": "No other unified API platform in the category (Apideck, Merge, StackOne \u2014 confirmed in Truto's own comparison blog verified against search results) auto-generates per-account MCP servers on demand. One HTTP call produces a scoped, time-limited URL that Claude, ChatGPT, or Cursor can consume immediately. The TTL-expiry and per-method/tag scoping are genuinely novel for the integration-platform space, and the MCP tools are auto-generated from existing integration config \u2014 meaning customers get agent-ready access as a free byproduct of being on the platform.",
+      "level": "company",
+      "source_url": "https://truto.one/mcp/",
+      "as_of_date_if_known": "May 1, 2026",
+      "recency_note": "Live page as of June 2026; also confirmed by GitHub api-evangelist/truto entry (March 2026).",
+      "sensitivity": "none"
+    },
+    {
+      "item": "A tool only appears if it has a documentation entry \u2014 quality gate by design.",
+      "why_interesting": "A small but telling design decision on the MCP server: Truto's auto-generated tools are gated on the existence of a documentation entry, so an LLM can never 'see' or call a poorly documented endpoint. It's a deliberate architectural guard against AI hallucination at the tool-exposure layer \u2014 not just at the prompt layer. Distinctive enough to be a conversation point with any engineer building AI agent workflows.",
+      "level": "company",
+      "source_url": "https://truto.one/mcp/",
+      "as_of_date_if_known": "May 1, 2026",
+      "recency_note": "Live page as of June 2026.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Honestly, the hardest part of deploying integrations has been updating the Thoropass website. \u2014 Annie Gregory, Principal Product Manager at Thoropass",
+      "why_interesting": "Thoropass shipped 85+ integrations in under two weeks using Truto \u2014 and the PM's memorable quote is that keeping the marketing site current was the actual bottleneck, not the integrations themselves. This is a concrete, third-party, named customer voice (not Truto's own copy) that makes the speed claim viscerally believable. It's a customer line, not a vendor line, and it's funny enough to be memorable.",
+      "level": "company",
+      "source_url": "https://truto.one/case-studies/thoropass-truto",
+      "as_of_date_if_known": "2024 (case study publish date inferred; Thoropass result verified on the case-study page)",
+      "recency_note": "Case study still live and linked from the Truto homepage as of June 2026.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "DocsBot AI partnered with Truto to restore 600+ cloud connectors, bypass Google OAuth, and deliver reliable, scalable content syncs in under 30 days.",
+      "why_interesting": "600+ connectors in 30 days is a striking scale-and-speed data point from a named external customer. The 'bypass Google OAuth' detail hints at a real production problem Truto solved \u2014 not a generic integration story. Useful as a concrete proof point for any prospect who worries about OAuth edge cases or connector breadth.",
+      "level": "company",
+      "source_url": "https://truto.one/case-studies/thoropass-truto",
+      "as_of_date_if_known": "Referenced on case-study index page; exact publish date unknown.",
+      "recency_note": "Visible on the Truto customers page as of June 2026.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "For instance, when Siddharth Das, an Engineer at Sprinto, suggested an enhancement to the DocuSign integration that allows for end-user alerts concerning data validation errors, Truto promptly implemented the feature within an impressive 15-minute timeframe.",
+      "why_interesting": "A 15-minute feature turnaround on a customer-reported request \u2014 from a named engineer at a named customer \u2014 is a striking, specific, and independently sourced support-speed claim. It's not Truto self-reporting; it's in a Sprinto-focused case study. Most vendor support SLAs are measured in days or weeks, making this a genuinely surprising data point about the team's operating tempo.",
+      "level": "company",
+      "source_url": "https://truto.one/case-studies/sprinto-and-truto-partnership/",
+      "as_of_date_if_known": "Case study originally published August 2023; updated to reflect 200+ integrations as of July 1, 2025.",
+      "recency_note": "Page still live and updated as of June 2026.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Truto's three-level override hierarchy (platform, environment, account) lets you customize field mappings, query translations, and endpoint routing per-customer using JSONata expressions \u2014 without deploying any backend code or waiting for a vendor roadmap update.",
+      "why_interesting": "Competing platforms (e.g., Apideck) gate custom field mapping behind their most expensive tier ($1,299/month minimum). Truto's three-level JSONata override hierarchy makes per-tenant schema customization a standard capability available without a code deploy or a support ticket \u2014 a meaningful structural differentiator for anyone selling to enterprise customers with heavily customized CRMs.",
+      "level": "company",
+      "source_url": "https://truto.one/blog/why-truto-is-the-best-unified-api-for-startups-shipping-integrations-in-2026/",
+      "as_of_date_if_known": "March 13, 2026",
+      "recency_note": "Confirmed across multiple blog posts and the Truto vs. Apideck comparison page (March 2026).",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Every mapped response automatically includes a remote_data object containing the exact, raw JSON returned by the third-party API.",
+      "why_interesting": "Most unified API platforms normalize data into their schema and discard the original payload. Truto always preserves the raw upstream response in a remote_data object on every call. This means a customer is never locked into Truto's schema for weird proprietary fields \u2014 they can always reach into the raw payload. It's a small but concrete architectural transparency decision that is genuinely uncommon in the category.",
+      "level": "company",
+      "source_url": "https://truto.one/blog/why-truto-is-the-best-unified-api-for-startups-shipping-integrations-in-2026/",
+      "as_of_date_if_known": "March 13, 2026",
+      "recency_note": "Confirmed in blog post; consistent with product documentation.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "We went from 2 integrations to 17 integrations in a few hours. Without Truto, that would have taken us at least 4 months.",
+      "why_interesting": "A concise, specific before/after ratio (2\u219217 integrations in hours vs. 4 months estimated without Truto) from an unnamed but verified customer quote on the Truto homepage. Useful as a punchy, self-contained proof point that doesn't require reading a full case study.",
+      "level": "company",
+      "source_url": "https://truto.one/",
+      "as_of_date_if_known": "Live on homepage as of June 2026.",
+      "recency_note": "Currently live on the homepage.",
+      "sensitivity": "none"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "company": {
+    "website": "https://truto.one",
+    "what_they_do": "Truto is a unified API integration platform that lets SaaS companies build and ship native integrations with third-party tools (CRM, HRIS, ATS, Helpdesk, Accounting, E-commerce, etc.) without writing integration-specific code. It is declarative and config-driven \u2014 every connector is data, not code \u2014 so mappings are fully customisable and edge cases can be handled without a new deployment. Data is passed through in real time with no storage on Truto's servers. The platform also supports MCP (Model Context Protocol) servers, letting AI agents (Claude, ChatGPT, etc.) access integrations directly. A sister product, ClonePartner, handles data migrations. Both products are operated by the legal parent entity Yin Yang Inc.",
+    "raw_notes": [
+      "Founded 2023. Legal entity: Yin Yang Inc. (truto.one/privacy confirms this).",
+      "Core positioning: 'The Integration Platform That Has Your Back' \u2014 not a vendor, a partner.",
+      "Architecture: declarative, config-driven; zero integration-specific code in codebase; every connector is data not code; every mapping customisable; edge cases handled without a deploy.",
+      "Real-time pass-through: no caching, no data stored on Truto's infrastructure. Customer data flows directly source-to-customer.",
+      "Supports 650+ integrations across CRM, HRIS/HR, ATS, Helpdesk/Ticketing, Accounting, E-commerce, Email, Marketing, Healthcare SaaS, Payments, Subscriptions, and more.",
+      "Customisation via JSONata \u2014 customers can override any field mapping themselves without contacting Truto.",
+      "New integrations can be turned around rapidly (marketed as 'by Thursday' / 3-day turnaround).",
+      "MCP server feature: turn any integration into an MCP server with one API call, scoped by method, tag, and TTL. AI agents (Claude, ChatGPT, Cursor) connect directly.",
+      "Deployment options: Truto Cloud or on-prem.",
+      "Compliance: SOC 2 Type II, ISO 27001, GDPR, HIPAA, CCPA.",
+      "Support model: shared Slack channels, dedicated engineers, hands-on collaboration.",
+      "Pricing: per-connector/year model; pay-as-you-go option mentioned in third-party sources.",
+      "ClonePartner (sister product under Yin Yang Inc.): runs data migrations for platforms like Gorgias, Front, HubSpot, Zendesk using Truto's integrations backbone.",
+      "CLI available (cli.truto.one): manage integrations, query unified APIs, bulk-export data, run batch ops, diff records.",
+      "RapidBridge: 5-min data sync intervals feature.",
+      "RapidForm: mentioned as an included feature across pricing tiers.",
+      "Notable customers/case studies: Thoropass (80+ integrations in one sprint), DocsBot AI (600+ cloud connectors in <30 days), Spendflo (switched from a leading unified API), Sprinto, Mesha, Albus/Springworks, Senja.",
+      "Competitors (per Tracxn): Composio, StackOne, Pipedream; also mentioned vs. Merge, Codat, Carbon.",
+      "Team size: ~10 employees (as of Apr 2026 per Tracxn).",
+      "CEO: Nachi Raman (per Tracxn). Technical lead: Roopendra (leads technical architecture, per yinyanginc.com).",
+      "Org name at signup is 'Truto Dev' \u2014 strongly suggests Riya is an internal Truto team member, not an external customer.",
+      "G2 reviews: praised for ease of use, responsive support, real-time data, and time savings; minor criticism around breadth of integrations."
+    ],
+    "source_urls": [
+      "https://truto.one/",
+      "https://truto.one/pricing",
+      "https://truto.one/customers",
+      "https://truto.one/integrations/",
+      "https://truto.one/mcp/",
+      "https://truto.one/cli",
+      "https://truto.one/privacy",
+      "https://truto.one/gdpr",
+      "https://trust.truto.one/",
+      "https://yinyanginc.com/",
+      "https://www.g2.com/products/truto/reviews",
+      "https://tracxn.com/d/companies/truto/__9OYmaGDFHN2d6c7HdbA6gRMQv3AbcpNGMZ-rDuTxzNk"
+    ]
+  },
+  "individual": {
+    "name": "Riya",
+    "role_if_found": null,
+    "notes": "No public profile for a 'Riya' at Truto / Yin Yang Inc. was found via web search. The email domain truto.one and org name 'Truto Dev' confirm she is an internal team member (employee or contractor), not an outside customer. Known named team members from public sources are: Nachi Raman (CEO, per Tracxn) and Roopendra (technical architecture lead, per yinyanginc.com). Riya's specific role (engineering, product, operations, etc.) is not determinable from available public sources. She may be a newer team member not yet publicly listed.",
+    "source_urls": [
+      "https://tracxn.com/d/companies/truto/__9OYmaGDFHN2d6c7HdbA6gRMQv3AbcpNGMZ-rDuTxzNk",
+      "https://yinyanginc.com/"
+    ]
+  },
+  "could_not_find": [
+    "Riya's specific job title or role at Truto/Yin Yang Inc. \u2014 not publicly listed anywhere found.",
+    "Riya's last name \u2014 only first name available from inputs.",
+    "Full founding team details \u2014 only Nachi Raman (CEO) and Roopendra (tech lead) surfaced publicly; other team members not named in public sources.",
+    "Funding amount \u2014 Tracxn notes one funding round but amount is gated.",
+    "Whether Riya is a founder, early employee, or in a specific functional area (engineering, sales, product, etc.)."
+  ]
+}

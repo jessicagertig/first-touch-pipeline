@@ -12,7 +12,10 @@ Critique each DRAFT for voice and fit. This is about the WRITING, not the facts 
 - Complimenting the mundane core function — "congrats on existing" (e.g., praising a trucking company for moving freight).
 - Recipient-misfit — e.g., a founder's personal origin story sent to a non-founder.
 - Over-explaining — a trailing clause that restates a point already made (a redundant re-saying).
-- Anything that simply doesn't sound like the library examples.
+- Announcing the noticing — "stood out to me," "jumped out at me," "caught my eye," "what stood out." Redundant (of course it did) and a giveaway AI tell. NOTE: genuine feeling ("I love…," "found it exciting") is NOT a tell — do not flag it.
+- Empty verdict-padding — a vague evaluative tag-on like "that kind of speed says a lot" / "that says a lot about you."
+- More than one sentence — her compliments are a single sentence. Flag any draft that runs to two or more.
+- Anything that simply doesn't sound like the real compliments shown below.
 
 ## Output (JSON only)
 {

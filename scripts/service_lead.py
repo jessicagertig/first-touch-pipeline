@@ -155,8 +155,15 @@ def service_lead(lead_id: str) -> None:
             max_rounds,
         )
 
+        variations_doc = {
+            "lead_id": lead_id,
+            "company_name": lead.get("company_name", ""),
+            "recipient_name": lead.get("recipient_name", ""),
+            "email": lead.get("email", ""),
+            "variations": final,
+        }
         _output_path(lead_id, "variations.json").write_text(
-            json.dumps(final, indent=2), encoding="utf-8"
+            json.dumps(variations_doc, indent=2), encoding="utf-8"
         )
 
         update_lead(lead_id, status="serviced", serviced_at=_utcnow_iso())

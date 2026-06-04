@@ -1,0 +1,34 @@
+[
+  {
+    "fact": "Truto's entire runtime contains zero integration-specific code. No if (provider === 'hubspot'). No switch (provider) statements. No SalesforceAdapter.ts or HubSpotHandler.js. The same code path handles every integration \u2014 HubSpot, Salesforce, Pipedrive, BambooHR, QuickBooks, Zendesk, you name it. Adding a new integration is a data operation, not a code deployment. The runtime is a generic execution pipeline that reads declarative JSON configurations (Integration Config) and JSONata expressions (Integration Mapping); two layers of declarative data power every connector without any integration-specific conditionals in the codebase.",
+    "source_url": "https://truto.one/blog/why-truto-is-the-best-unified-api-for-startups-shipping-integrations-in-2026/"
+  },
+  {
+    "fact": "Make a single API call to POST /integrated-account/:id/mcp with your desired access policies. The response includes a single URL that encodes the integration, access policies, and authentication. Share it with any MCP client.",
+    "source_url": "https://truto.one/mcp/"
+  },
+  {
+    "fact": "A tool only appears if it has a documentation entry \u2014 quality gate by design. (truto.one/mcp/, dated May 1, 2026)",
+    "source_url": "https://truto.one/mcp/"
+  },
+  {
+    "fact": "\"Honestly, the hardest part of deploying integrations has been updating the Thoropass website.\" \u2014 Annie Gregory, Principal Product Manager at Thoropass (truto.one homepage and case study page, confirmed live June 2026)",
+    "source_url": "https://truto.one/"
+  },
+  {
+    "fact": "When Siddharth Das, an Engineer at Sprinto, suggested an enhancement to the DocuSign integration that allows for end-user alerts concerning data validation errors, Truto promptly implemented the feature within an impressive 15-minute timeframe. (Source: https://truto.one/case-studies/sprinto-and-truto-partnership/, confirmed live as of June 2026, page last updated July 1, 2025)",
+    "source_url": "https://truto.one/case-studies/sprinto-and-truto-partnership/"
+  },
+  {
+    "fact": "Truto's three-level override hierarchy (platform, environment, account) lets you customize field mappings, query translations, and endpoint routing per-customer using JSONata expressions \u2014 without deploying any backend code or waiting for a vendor roadmap update.",
+    "source_url": "https://truto.one/blog/why-truto-is-the-best-unified-api-for-startups-shipping-integrations-in-2026/"
+  },
+  {
+    "fact": "Every mapped result includes a remote_data field containing the raw, unmodified third-party JSON response. Truto automatically appends a remote_data object to every unified response containing the exact, unmodified JSON payload returned by the third-party API, ensuring developers are never locked out of custom fields that don't fit the common data model.",
+    "source_url": "https://truto.one/blog/what-is-a-common-data-model-in-apis-2026-architecture-guide/"
+  },
+  {
+    "fact": "\"We went from 2 integrations to 17 integrations in a few hours. Without Truto, that would have taken us at least 4 months.\" \u2014 customer testimonial quote, currently live on truto.one homepage and customers page (June 2026).",
+    "source_url": "https://truto.one/"
+  }
+]

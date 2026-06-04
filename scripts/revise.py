@@ -11,9 +11,9 @@ from typing import Any
 
 from scripts.utils import (
     DRAFT_MODEL,
-    call_anthropic,
+    call_json,
     extract_text,
-    library_jsonl_text,
+    library_compliments_text,
     load_prompt,
     parse_json,
 )
@@ -35,16 +35,15 @@ def revise_variation(
     prompt = load_prompt("06-revise")
     system = (
         f"{prompt}\n\n"
-        "## The library (the 88 real example emails, as JSONL)\n"
-        "Treat each line below as one of Jessica's real first-touch emails.\n"
-        "```jsonl\n"
-        f"{library_jsonl_text()}\n"
-        "```\n\n"
+        "## Her real compliments (the voice — match these)\n"
+        "Each line is one real compliment Jessica sent. Do not copy any line "
+        "verbatim; write a new one that would fit right in.\n"
+        f"{library_compliments_text()}\n\n"
         "## Output format (JSON only)\n"
-        'Return ONLY JSON: {"compliment": "<just the rewritten compliment '
-        'sentence(s)>", "source_urls": ["..."]}\n'
-        "The compliment MUST lead with the company name and use only the "
-        "verified facts provided."
+        'Return ONLY JSON: {"compliment": "<the rewritten single-sentence '
+        'compliment>", "source_urls": ["..."]}\n'
+        "The compliment MUST lead with the company name, be ONE sentence, and "
+        "use only the verified facts provided."
     )
     user = (
         "The flagged draft:\n"
@@ -56,13 +55,16 @@ def revise_variation(
         "Rewrite the compliment. Return the JSON described."
     )
 
-    response = call_anthropic(
+    parsed: Any = call_json(
         model=DRAFT_MODEL,
         messages=[{"role": "user", "content": user}],
         system=system,
         label="revise",
     )
-    parsed: Any = parse_json(extract_text(response))
+    if isinstance(parsed, list):  # model sometimes wraps the object in a list
+        parsed = next((x for x in parsed if isinstance(x, dict)), {})
+    if not isinstance(parsed, dict):
+        parsed = {}
     compliment = (parsed.get("compliment") or "").strip()
     source_urls = parsed.get("source_urls", variation.get("source_urls", []))
 

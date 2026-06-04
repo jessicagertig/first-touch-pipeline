@@ -15,8 +15,10 @@ samconfig.local.toml
 # OS
 .DS_Store
 
-# Runtime scratch (NOT state/ — leads.csv is the committed durable store)
-output/
+# Runtime scratch
+# NOTE: state/ AND output/ are committed durable stores — the service cron
+# writes output/<lead>/variations.json and the poll cron (a fresh checkout)
+# reads it to build the Gmail draft, so it must persist in the repo.
 *.violations.txt
 
 # Google token cache (never commit credentials)

@@ -1,1 +1,6 @@
 lead_id,slack_ts,company_name,recipient_name,email,email_domain,careers_slug,status,skip_reason,qualified_at,serviced_at,gmail_draft_id,notes
+hashir-izrar,1780518568.144299,Hashir izrar,Hashir Awan,ha11220015@gmail.com,gmail.com,hashir-izrar,skipped,free mailbox (gmail.com),,,,
+mono-diary,1780505479.305149,Mono diary,Prayogo Pangestu,prayogo.pe@gmail.com,gmail.com,mono-diary,skipped,free mailbox (gmail.com),,,,
+online,1780504703.931749,Online,Kundan  Kumar,eclatengineeringkundan@gmail.com,gmail.com,online,skipped,free mailbox (gmail.com),,,,
+andrew-spence,1780499309.626029,Andrew Spence,Andrew Spence,andy@snfn.co.uk,snfn.co.uk,andrew-spence,qualified,,2026-06-04T02:39:20.621488+00:00,,,
+truto-dev,1780485687.458439,Truto Dev,Riya Sethi,riya@truto.one,truto.one,truto-dev,awaiting_pick,,2026-06-04T02:39:20.767224+00:00,2026-06-04T21:44:40.809692+00:00,,"Expecting ',' delimiter: line 7 column 50 (char 188)"

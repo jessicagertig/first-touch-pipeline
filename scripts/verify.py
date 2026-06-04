@@ -16,7 +16,7 @@ from typing import Any
 from scripts.utils import (
     RESEARCH_MODEL,
     WEB_SEARCH_TOOL,
-    call_anthropic,
+    call_json,
     env,
     extract_text,
     load_prompt,
@@ -39,15 +39,16 @@ def verify_candidate(company_name: str, candidate: dict) -> dict:
         f"{json.dumps(candidate, indent=2)}\n\n"
         "Return the verify JSON exactly as specified."
     )
-    response = call_anthropic(
+    raw = call_json(
         model=RESEARCH_MODEL,
         messages=[{"role": "user", "content": user}],
         system=system,
         tools=[WEB_SEARCH_TOOL],
         label="verify",
     )
-    verdict: dict[str, Any] = parse_json(extract_text(response))
-    return verdict
+    if isinstance(raw, list):  # model sometimes wraps the verdict object in a list
+        raw = next((x for x in raw if isinstance(x, dict)), {})
+    return raw if isinstance(raw, dict) else {}
 
 
 def verify_with_loop(

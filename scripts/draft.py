@@ -12,9 +12,9 @@ from typing import Any
 
 from scripts.utils import (
     DRAFT_MODEL,
-    call_anthropic,
+    call_json,
     extract_text,
-    library_jsonl_text,
+    library_compliments_text,
     load_prompt,
     parse_json,
 )
@@ -35,18 +35,16 @@ def draft_variations(lead: dict, verified_facts: list[dict], n: int) -> list[dic
 
     system = (
         f"{prompt}\n\n"
-        "## The library (the 88 real example emails, as JSONL)\n"
-        "Treat each line below as one of Jessica's real first-touch emails. "
-        "Study HOW she writes; do not copy any line verbatim.\n"
-        "```jsonl\n"
-        f"{library_jsonl_text()}\n"
-        "```\n\n"
+        "## Her real compliments (the voice — match these)\n"
+        "Each line is one real compliment Jessica sent. Do not copy any line "
+        "verbatim; write a new one that would fit right in.\n"
+        f"{library_compliments_text()}\n\n"
         "## Output format (JSON only)\n"
         "Return ONLY JSON: a list of objects, one per variation, each:\n"
-        '{"variant_n": <int>, "compliment": "<just the compliment sentence(s), '
+        '{"variant_n": <int>, "compliment": "<a single-sentence compliment, '
         'no greeting/closer/signature>", "source_urls": ["..."]}\n'
-        "The compliment MUST lead with the company name and use only the "
-        "verified facts provided."
+        "The compliment MUST lead with the company name, be ONE sentence, and "
+        "use only the verified facts provided."
     )
     user = (
         f"first_name: {recipient_name.strip().split(' ')[0] if recipient_name else ''}\n"
@@ -56,16 +54,17 @@ def draft_variations(lead: dict, verified_facts: list[dict], n: int) -> list[dic
         f"Write {n} variations. Return the JSON list described."
     )
 
-    response = call_anthropic(
+    parsed: Any = call_json(
         model=DRAFT_MODEL,
         messages=[{"role": "user", "content": user}],
         system=system,
         max_tokens=8192,
         label="draft",
     )
-    parsed: Any = parse_json(extract_text(response))
     if isinstance(parsed, dict):
         parsed = parsed.get("variations", [parsed])
+    if not isinstance(parsed, list):
+        parsed = []
 
     variations: list[dict] = []
     for i, item in enumerate(parsed, start=1):
