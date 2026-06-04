@@ -278,6 +278,20 @@ def slack_history(channel: str, *, oldest: str | None = None, limit: int = 200) 
     return messages
 
 
+def slack_reactions(channel: str, timestamp: str) -> list[str]:
+    """Return the reaction emoji names present on a message (e.g. ['white_check_mark'])."""
+    resp = requests.get(
+        f"{SLACK_API}/reactions.get",
+        headers={"Authorization": f"Bearer {_slack_token()}"},
+        params={"channel": channel, "timestamp": timestamp, "full": "true"}, timeout=30,
+    )
+    data = resp.json()
+    if not data.get("ok"):
+        return []
+    msg = data.get("message", {}) or {}
+    return [r.get("name") for r in (msg.get("reactions") or [])]
+
+
 def post_error_to_slack(message: str, *, channel: str | None = None) -> None:
     ch = channel or os.environ.get("SLACK_REVIEW_CHANNEL_ID")
     if ch:

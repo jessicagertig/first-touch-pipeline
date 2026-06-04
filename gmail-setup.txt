@@ -1,0 +1,43 @@
+GMAIL CREDENTIAL SETUP — one time, to let the pipeline create drafts in jessica@polymer.co
+
+============================================================
+PART 1 — Google Cloud Console (clicks, at console.cloud.google.com)
+============================================================
+1. Pick/create a project (top bar project selector).
+2. Enable the Gmail API:
+   APIs & Services -> Library -> search "Gmail API" -> Enable.
+3. OAuth consent screen:
+   APIs & Services -> OAuth consent screen.
+   User type: Internal  (works because polymer.co is a Workspace).
+   Fill the app name/email, Save.
+4. Create the OAuth client:
+   APIs & Services -> Credentials -> Create Credentials -> OAuth client ID.
+   Application type: Desktop app -> Create.
+   Click "Download JSON". Save that file as:
+      /Users/jessica/first-touch-pipeline/client_secret.json
+   (That filename is already git-ignored, so it won't be committed.)
+
+============================================================
+PART 2 — Terminal (run these one line at a time)
+============================================================
+cd /Users/jessica/first-touch-pipeline
+python3.12 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+python -m scripts.gmail_oauth_setup --client-secret client_secret.json
+
+A browser window opens. Sign in / consent as jessica@polymer.co.
+(The scope requested is gmail.compose — create drafts only; it cannot read your mail.)
+
+============================================================
+PART 3 — Result
+============================================================
+The script prints three lines:
+   GOOGLE_CLIENT_ID=...
+   GOOGLE_CLIENT_SECRET=...
+   GOOGLE_REFRESH_TOKEN=...
+Copy those three into  /Users/jessica/first-touch-pipeline/.env
+(make .env from .env.example first:  cp .env.example .env)
+
+If it prints "(!) No refresh_token returned": revoke prior access at
+myaccount.google.com/permissions, then re-run the last command.

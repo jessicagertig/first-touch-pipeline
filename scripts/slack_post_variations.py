@@ -1,100 +1,63 @@
-"""Stage C — post draft variations to Slack for the human pick.
+"""Stage C (post) — post each shipping variation as its own Slack message.
 
-Reads output/<lead_id>/variations.json, builds a Slack Block Kit message
-listing every shippable variation with a "Use this one" button, and posts it to
-the review channel (SLACK_REVIEW_CHANNEL_ID). If nothing cleared the score bar,
-posts a note with the best scores instead.
+Jessica reacts with the pick emoji (default ✅) on the one she wants; the
+poll_picks Action then creates the Gmail draft. No buttons, no Lambda — the
+per-message ts is recorded so a reaction maps back to a specific variation.
 """
 from __future__ import annotations
 
 import argparse
 import json
+from pathlib import Path
 
-from scripts.slack_leads_reader import slugify  # noqa: F401  (shared helper)
-from scripts.utils import REPO_ROOT, env, post_error_to_slack, slack_post
+from scripts import utils
 
-
-def _load_variations(lead_id: str) -> dict:
-    path = REPO_ROOT / "output" / lead_id / "variations.json"
-    return json.loads(path.read_text(encoding="utf-8"))
+PICK_EMOJI = "✅"  # the emoji to react with to choose a variation
 
 
-def _header_block(data: dict) -> dict:
-    text = (
-        f"*Drafts for {data.get('company_name', '')} — "
-        f"{data.get('recipient_name', '')} ({data.get('email', '')})*"
-    )
-    return {"type": "section", "text": {"type": "mrkdwn", "text": text}}
-
-
-def _variation_blocks(lead_id: str, variation: dict) -> list[dict]:
-    variant_n = variation.get("variant_n")
-    source_urls = variation.get("source_urls") or []
-    source_line = f"\n\n_Source:_ {source_urls[0]}" if source_urls else ""
-    body = f"*#{variant_n}*\n{variation.get('email', '')}{source_line}"
-    return [
-        {"type": "section", "text": {"type": "mrkdwn", "text": body}},
-        {
-            "type": "actions",
-            "elements": [
-                {
-                    "type": "button",
-                    "text": {
-                        "type": "plain_text",
-                        "text": f"Use this one (#{variant_n})",
-                    },
-                    "action_id": f"ft_pick_{lead_id}_{variant_n}",
-                    "value": f"{lead_id}|{variant_n}",
-                }
-            ],
-        },
-    ]
-
-
-def _no_ship_block(variations: list[dict]) -> dict:
-    ranked = sorted(
-        variations, key=lambda v: v.get("score") or 0, reverse=True
-    )
-    scores = ", ".join(
-        f"#{v.get('variant_n')}: {v.get('score')}" for v in ranked
-    )
-    text = (
-        ":no_entry: Nothing cleared the score bar.\n"
-        f"*Best scores:* {scores}"
-    )
-    return {"type": "section", "text": {"type": "mrkdwn", "text": text}}
+def _variations_path(lead_id: str) -> Path:
+    return utils.REPO_ROOT / "output" / lead_id / "variations.json"
 
 
 def post_variations(lead_id: str) -> None:
-    """Build and post the Block Kit pick message for one lead."""
-    channel = env("SLACK_REVIEW_CHANNEL_ID")
+    """Post the shipping variations to the review channel and record each ts."""
+    path = _variations_path(lead_id)
+    data = json.loads(path.read_text(encoding="utf-8"))
+    channel = utils.env("SLACK_REVIEW_CHANNEL_ID")
     if not channel:
-        post_error_to_slack("SLACK_REVIEW_CHANNEL_ID not set; cannot post variations")
-        raise SystemExit("SLACK_REVIEW_CHANNEL_ID not set")
+        raise RuntimeError("SLACK_REVIEW_CHANNEL_ID not set")
 
-    data = _load_variations(lead_id)
-    variations = data.get("variations") or []
-    shippable = [v for v in variations if v.get("ship") is True]
+    ships = [v for v in data["variations"] if v.get("ship")]
+    if not ships:
+        best = sorted(data["variations"], key=lambda v: v.get("score", 0), reverse=True)
+        lines = "\n".join(f"• #{v['variant_n']} (score {v.get('score')})" for v in best)
+        utils.slack_post(channel, text=(
+            f"No drafts cleared the score bar for *{data['company_name']}* "
+            f"({data['email']}).\n{lines}"))
+        utils.update_lead(lead_id, status="no_ship")
+        return
 
-    blocks: list[dict] = [_header_block(data)]
-    if shippable:
-        for variation in shippable:
-            blocks.append({"type": "divider"})
-            blocks.extend(_variation_blocks(lead_id, variation))
-        fallback = f"Drafts for {data.get('company_name', '')}"
-    else:
-        blocks.append(_no_ship_block(variations))
-        fallback = f"No drafts cleared the bar for {data.get('company_name', '')}"
+    utils.slack_post(channel, text=(
+        f"*Drafts for {data['company_name']}* — {data['recipient_name']} ({data['email']})\n"
+        f"React {PICK_EMOJI} on the one you want sent (it'll land in your Gmail drafts)."))
 
-    slack_post(channel, text=fallback, blocks=blocks)
+    for v in ships:
+        src = (v.get("source_urls") or [None])[0]
+        text = f"*#{v['variant_n']}*\n```{v['email']}```"
+        if src:
+            text += f"\nsource: {src}"
+        resp = utils.slack_post(channel, text=text)
+        v["slack_ts"] = resp.get("ts")
+        v["slack_channel"] = channel
+
+    path.write_text(json.dumps(data, indent=2, ensure_ascii=False), encoding="utf-8")
+    utils.update_lead(lead_id, status="awaiting_pick")
 
 
 def main() -> None:
-    """CLI entry point: post variations for one lead by --lead."""
-    parser = argparse.ArgumentParser(description="Stage C: post draft variations to Slack.")
-    parser.add_argument("--lead", required=True, help="lead_id to post variations for.")
-    args = parser.parse_args()
-    post_variations(args.lead)
+    ap = argparse.ArgumentParser(description="Post draft variations for the human pick.")
+    ap.add_argument("--lead", required=True)
+    post_variations(ap.parse_args().lead)
 
 
 if __name__ == "__main__":

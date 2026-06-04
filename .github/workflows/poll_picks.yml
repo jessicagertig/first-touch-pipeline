@@ -1,0 +1,37 @@
+name: poll-picks
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch: {}
+
+concurrency:
+  group: ft-poll-picks
+  cancel-in-progress: false
+
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: Read reactions, create Gmail draft for picks
+        env:
+          SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
+          SLACK_REVIEW_CHANNEL_ID: ${{ secrets.SLACK_REVIEW_CHANNEL_ID }}
+          GMAIL_SENDER: ${{ secrets.GMAIL_SENDER }}
+          GOOGLE_CLIENT_ID: ${{ secrets.GOOGLE_CLIENT_ID }}
+          GOOGLE_CLIENT_SECRET: ${{ secrets.GOOGLE_CLIENT_SECRET }}
+          GOOGLE_REFRESH_TOKEN: ${{ secrets.GOOGLE_REFRESH_TOKEN }}
+        run: python -m scripts.poll_picks
+      - name: Commit state
+        run: |
+          git config user.name "first-touch-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add state/ output/ || true
+          git diff --cached --quiet || git commit -m "poll-picks: drafts created"
+          git pull --rebase || true
+          git push || true
