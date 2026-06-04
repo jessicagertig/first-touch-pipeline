@@ -1,0 +1,63 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Transform: AWS::Serverless-2016-10-31
+Description: First-Touch Pipeline - Slack interactivity Lambda (draft-pick button -> workflow_dispatch)
+
+Parameters:
+  SlackBotToken:
+    Type: String
+    NoEcho: true
+    Description: Slack bot token (xoxb-...)
+  SlackSigningSecret:
+    Type: String
+    NoEcho: true
+    Description: Slack signing secret for request verification
+  GithubOwner:
+    Type: String
+    Description: GitHub repo owner
+  GithubRepo:
+    Type: String
+    Default: first-touch-pipeline
+    Description: GitHub repo name
+  GithubToken:
+    Type: String
+    NoEcho: true
+    Description: GitHub PAT with actions:write for workflow_dispatch
+
+Globals:
+  Function:
+    Runtime: python3.12
+    Timeout: 10
+    MemorySize: 128
+
+Resources:
+
+  SlackApi:
+    Type: AWS::Serverless::Api
+    Properties:
+      StageName: Prod
+
+  SlackHandlerFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      FunctionName: first-touch-slack-handler
+      Handler: handler.lambda_handler
+      CodeUri: lambdas/slack_handler/
+      Environment:
+        Variables:
+          SLACK_BOT_TOKEN: !Ref SlackBotToken
+          SLACK_SIGNING_SECRET: !Ref SlackSigningSecret
+          GITHUB_OWNER: !Ref GithubOwner
+          GITHUB_REPO: !Ref GithubRepo
+          GITHUB_TOKEN: !Ref GithubToken
+      Events:
+        SlackInteract:
+          Type: Api
+          Properties:
+            RestApiId: !Ref SlackApi
+            Path: /slack/interact
+            Method: POST
+
+Outputs:
+  SlackInteractUrl:
+    Description: Set this as the Slack Interactivity Request URL
+    Value: !Sub "https://${SlackApi}.execute-api.${AWS::Region}.amazonaws.com/Prod/slack/interact"

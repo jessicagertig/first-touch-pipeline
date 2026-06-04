@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+
+# Secrets / local env
+.env
+*.local
+
+# SAM / build
+.aws-sam/
+samconfig.local.toml
+
+# OS
+.DS_Store
+
+# Runtime scratch (NOT state/ — leads.csv is the committed durable store)
+output/
+*.violations.txt
+
+# Google token cache (never commit credentials)
+token.json
+client_secret*.json
+service_account*.json

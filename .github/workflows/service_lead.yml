@@ -1,0 +1,81 @@
+name: Service Lead (Stage B)
+
+on:
+  workflow_dispatch:
+    inputs:
+      lead_id:
+        description: 'Lead ID to service. Leave blank to sweep all qualified leads.'
+        required: false
+        type: string
+        default: ''
+  schedule:
+    # Sweep every 15 minutes for any leads still in `qualified`.
+    - cron: '*/15 * * * *'
+
+concurrency:
+  group: ft-service-${{ github.event.inputs.lead_id || 'sweep' }}
+  cancel-in-progress: false
+
+jobs:
+  service:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Service one lead
+        if: ${{ github.event.inputs.lead_id != '' }}
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
+          SLACK_REVIEW_CHANNEL_ID: ${{ secrets.SLACK_REVIEW_CHANNEL_ID }}
+          RESEARCH_MODEL: ${{ secrets.RESEARCH_MODEL }}
+          DRAFT_MODEL: ${{ secrets.DRAFT_MODEL }}
+          LEAD: ${{ github.event.inputs.lead_id }}
+        run: python -m scripts.service_lead --lead "$LEAD"
+
+      - name: Sweep all qualified leads
+        # `scripts.service_lead --sweep` would do the same; we inline the loop
+        # to keep servicing explicit and per-lead.
+        if: ${{ github.event.inputs.lead_id == '' }}
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
+          SLACK_REVIEW_CHANNEL_ID: ${{ secrets.SLACK_REVIEW_CHANNEL_ID }}
+          RESEARCH_MODEL: ${{ secrets.RESEARCH_MODEL }}
+          DRAFT_MODEL: ${{ secrets.DRAFT_MODEL }}
+        run: |
+          python -c '
+          import runpy, sys
+          from scripts.utils import leads_by_status
+          from scripts import service_lead
+          for lead in leads_by_status("qualified"):
+              lead_id = lead["lead_id"]
+              print(f"Servicing {lead_id}")
+              sys.argv = ["service_lead", "--lead", lead_id]
+              service_lead.main()
+          '
+
+      - name: Commit state & output changes
+        if: always()
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add state/ output/
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "service: update leads & outputs"
+            git pull --rebase
+            git push
+          fi
