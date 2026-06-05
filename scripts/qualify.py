@@ -7,6 +7,8 @@ domain passes. (Hook left for richer qualification later.)
 """
 from __future__ import annotations
 
+from scripts.company_blocklist import BLOCKED_COMPANY_NAMES, normalize_company
+
 # Free/consumer mailbox providers — automatic out.
 FREE_MAILBOX_DOMAINS = {
     "gmail.com", "googlemail.com", "yahoo.com", "yahoo.co.uk", "ymail.com",
@@ -60,4 +62,6 @@ def qualify(email: str, company_name: str = "", recipient_name: str = "") -> tup
         return False, f"common/shared domain ({domain})"
     if _name_is_person(company_name, recipient_name):
         return False, f"company name is the person's name ({company_name})"
+    if normalize_company(company_name) in BLOCKED_COMPANY_NAMES:
+        return False, f"blocklisted company name ({company_name})"
     return True, ""
