@@ -1,8 +1,9 @@
 """Phase 1 — the qualify gate.
 
 Deterministic, no LLM, no research: a signup whose email is on a free/consumer
-mailbox or a common/shared domain (.edu et al.) is an automatic out. Only a
-company-specific domain passes. (Hook left for richer qualification later.)
+mailbox or a common/shared domain (.edu et al.) is an automatic out, as is one
+whose "company" is really just the person's own name. Only a company-specific
+domain passes. (Hook left for richer qualification later.)
 """
 from __future__ import annotations
 
@@ -27,7 +28,28 @@ def domain_of(email: str) -> str:
     return email.split("@", 1)[1].strip().lower() if "@" in email else ""
 
 
-def qualify(email: str) -> tuple[bool, str]:
+def _norm(name: str) -> str:
+    """Lowercase and collapse whitespace for name comparison."""
+    return " ".join((name or "").lower().split())
+
+
+def _name_is_person(company_name: str, recipient_name: str) -> bool:
+    """True when the company name is really just the person's name.
+
+    A signup where the "company" equals the person's full name, or their first
+    or last name alone, is an individual, not a company — an automatic out.
+    """
+    org = _norm(company_name)
+    person = _norm(recipient_name)
+    if not org or not person:
+        return False
+    if org == person:
+        return True
+    parts = person.split(" ")
+    return org == parts[0] or org == parts[-1]
+
+
+def qualify(email: str, company_name: str = "", recipient_name: str = "") -> tuple[bool, str]:
     """Return (passes, reason). reason is the skip reason when it fails."""
     domain = domain_of(email)
     if not domain:
@@ -36,4 +58,6 @@ def qualify(email: str) -> tuple[bool, str]:
         return False, f"free mailbox ({domain})"
     if domain.endswith(COMMON_DOMAIN_SUFFIXES):
         return False, f"common/shared domain ({domain})"
+    if _name_is_person(company_name, recipient_name):
+        return False, f"company name is the person's name ({company_name})"
     return True, ""

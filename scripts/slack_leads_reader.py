@@ -125,7 +125,9 @@ def _process_message(msg: dict) -> bool:
         "careers_slug": parsed["careers_slug"],
     }
 
-    passes, reason = qualify.qualify(email)
+    passes, reason = qualify.qualify(
+        email, parsed["company_name"], parsed["recipient_name"]
+    )
     if passes:
         row["status"] = "qualified"
         row["qualified_at"] = _utcnow_iso()

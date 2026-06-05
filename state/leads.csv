@@ -2,7 +2,7 @@ lead_id,slack_ts,company_name,recipient_name,email,email_domain,careers_slug,sta
 hashir-izrar,1780518568.144299,Hashir izrar,Hashir Awan,ha11220015@gmail.com,gmail.com,hashir-izrar,skipped,free mailbox (gmail.com),,,,
 mono-diary,1780505479.305149,Mono diary,Prayogo Pangestu,prayogo.pe@gmail.com,gmail.com,mono-diary,skipped,free mailbox (gmail.com),,,,
 online,1780504703.931749,Online,Kundan  Kumar,eclatengineeringkundan@gmail.com,gmail.com,online,skipped,free mailbox (gmail.com),,,,
-andrew-spence,1780499309.626029,Andrew Spence,Andrew Spence,andy@snfn.co.uk,snfn.co.uk,andrew-spence,no_ship,,2026-06-04T02:39:20.621488+00:00,2026-06-04T22:48:31.937162+00:00,,
+andrew-spence,1780499309.626029,Andrew Spence,Andrew Spence,andy@snfn.co.uk,snfn.co.uk,andrew-spence,skipped,company name is the person's name (Andrew Spence),2026-06-04T02:39:20.621488+00:00,2026-06-04T22:48:31.937162+00:00,,
 truto-dev,1780485687.458439,Truto Dev,Riya Sethi,riya@truto.one,truto.one,truto-dev,draft_created,,2026-06-04T02:39:20.767224+00:00,2026-06-04T21:44:40.809692+00:00,r4127518297353537889,draft created via cloud poll run 26981696777
 service-design,1780588443.923649,Service Design,Khalil Kitouni,khalilkitounii@gmail.com,gmail.com,service-design,skipped,free mailbox (gmail.com),,,,
 tahreem,1780585172.027889,Tahreem,Tahreem Maqsood,tahreemmaqsood4387@gmail.com,gmail.com,tahreem,skipped,free mailbox (gmail.com),,,,
