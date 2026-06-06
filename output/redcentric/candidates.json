@@ -1,3 +1,49 @@
 {
-  "candidates": []
+  "candidates": [
+    {
+      "item": "The domain uses the .site TLD rather than a more established extension (.com, .co.uk), which is notable for a claimed worldwide staffing firm.",
+      "why_interesting": "Legitimate global recruitment agencies virtually never use .site TLDs \u2014 this is a low-cost, low-credibility extension that raises authenticity questions about a company claiming 'worldwide placement solutions.'",
+      "level": "company",
+      "source_url": "https://redcentric.site/",
+      "as_of_date_if_known": "unknown",
+      "recency_note": "Observed during step-1 research; no date stamp available.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "The email prefix 'admamjames' appears to be a scrambled or reversed arrangement of 'james addam' (itself a non-standard spelling of 'James Adam/Adams').",
+      "why_interesting": "A business email address with a visibly scrambled or transposed prefix is highly anomalous \u2014 real company email addresses follow predictable first.last or f.last patterns. This specific pattern (reversed name + non-standard spelling) is a known marker of synthetically generated or alias addresses used in fraudulent outreach.",
+      "level": "individual",
+      "source_url": "",
+      "as_of_date_if_known": "unknown",
+      "recency_note": "Derived from email address pattern analysis during step-1 research.",
+      "sensitivity": "Potentially sensitive \u2014 implies possible fraud or identity fabrication; use with care."
+    },
+    {
+      "item": "No About page, no team page, no service detail pages, no client logos, no blog, and no verifiable founding date or location were found on redcentric.site.",
+      "why_interesting": "For a company explicitly claiming 'worldwide placement solutions,' zero supporting content \u2014 no team, no offices, no clients, no history \u2014 is not a quirk but a structural red flag. Even the most barebones legitimate staffing firms list a location and a contact name.",
+      "level": "company",
+      "source_url": "https://redcentric.site/",
+      "as_of_date_if_known": "unknown",
+      "recency_note": "Observed during step-1 research; no date stamp available.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "No individual named 'James Addam' or any close variant could be found associated with redcentric.site through web search \u2014 no LinkedIn profile, company team page, press mention, or other first-party source confirms this person's identity, role, or affiliation.",
+      "why_interesting": "A recruiter with zero verifiable online presence \u2014 no LinkedIn, no mentions anywhere \u2014 is essentially impossible for a legitimately operating professional in the staffing industry, where personal professional profiles are table stakes.",
+      "level": "individual",
+      "source_url": "",
+      "as_of_date_if_known": "unknown",
+      "recency_note": "Derived from exhaustive search during step-1 research.",
+      "sensitivity": "Potentially sensitive \u2014 implies the individual may not exist as described; handle carefully."
+    },
+    {
+      "item": "redcentric.site has very little indexed content and no third-party coverage or reviews, and should NOT be confused with Redcentric PLC (redcentricplc.com), a legitimate, publicly listed UK IT MSP founded in 1997 with ~450 employees, headquartered in Harrogate.",
+      "why_interesting": "The name 'RedCentric' is closely shared with a real, publicly listed UK company \u2014 a fact that could be exploited to lend false credibility to an otherwise unverifiable entity. Name proximity to a legitimate brand is a documented tactic in fraudulent recruitment schemes.",
+      "level": "company",
+      "source_url": "https://redcentric.site/",
+      "as_of_date_if_known": "unknown",
+      "recency_note": "Observed during step-1 research.",
+      "sensitivity": "Sensitive \u2014 implies possible deliberate brand impersonation; flag clearly if used."
+    }
+  ]
 }

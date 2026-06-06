@@ -1,24 +1,25 @@
 {
   "company": {
     "website": "https://redcentric.site/",
-    "what_they_do": "RedCentric (redcentric.site) presents itself as a professional recruitment and staffing solutions agency operating worldwide, with a stated focus on 'strategic hiring for long-term business growth.' The website is extremely thin \u2014 only a homepage with a tagline is publicly visible; no about page, team page, service details, client list, or sector focus was found. NOTE: This entity is distinct from the well-known UK IT managed services provider 'Redcentric PLC' (redcentricplc.com), which is a publicly listed company. The two share a name but are separate organisations.",
-    "raw_notes": "- Domain: redcentric.site (not redcentricplc.com \u2014 different company entirely)\n- Homepage title: 'RedCentric | Recruitment Agency'\n- Tagline: 'Professional Recruitment & Staffing Solutions Worldwide' and 'Strategic hiring for long-term business growth'\n- No sub-pages, team members, service lines, sector focus, pricing, case studies, or founding story found publicly\n- Website appears very new or minimally built \u2014 likely a small/early-stage or boutique agency\n- The well-known 'Redcentric PLC' (redcentricplc.com) is a UK MSP founded 1997/demerged 2013, listed on London Stock Exchange (LON:RCN), headquartered in Harrogate \u2014 entirely unrelated to this signup\n- No news, press, or third-party mentions of redcentric.site found\n- Email prefix 'admamjames' is likely a typo/portmanteau of 'admin' + 'james', suggesting an administrative or owner-operator role",
+    "what_they_do": "RedCentric (redcentric.site) presents itself as a professional recruitment and staffing agency offering worldwide placement solutions with a stated focus on 'strategic hiring for long-term business growth.' This is a distinct and separate entity from the well-known UK IT managed service provider Redcentric PLC (redcentricplc.com), which should not be confused with the signup company.",
+    "raw_notes": "The website (redcentric.site) is extremely sparse \u2014 the only publicly visible content is a headline reading 'Professional Recruitment & Staffing Solutions Worldwide' and a subline 'Strategic hiring for long-term business growth.' No About page, no team page, no service detail pages, no client logos, no blog, and no verifiable founding date or location were found. The domain uses the .site TLD rather than a more established extension (.com, .co.uk), which is notable for a claimed worldwide staffing firm. The site has very little indexed content and no third-party coverage or reviews. It should NOT be confused with Redcentric PLC (redcentricplc.com), a legitimate, publicly listed UK IT MSP founded in 1997 with ~450 employees, headquartered in Harrogate.",
     "source_urls": [
       "https://redcentric.site/"
     ]
   },
   "individual": {
-    "name": "James",
+    "name": "James (last name unknown)",
     "role_if_found": null,
-    "notes": "No publicly findable individual named 'James' is associated with redcentric.site specifically. The email address 'admamjames@redcentric.site' uses the prefix 'admamjames' \u2014 likely a concatenation of 'admin' and 'james' (possibly a typo of 'adminJames'), which may suggest this person is an admin user, owner, or operator of the agency rather than a distinct named employee. No LinkedIn profile, team page, or press mention ties a 'James' to this specific domain or company. The James Purcell found in search results is an Operations Manager at the unrelated Redcentric PLC (redcentricplc.com) \u2014 not this company.",
+    "notes": "No individual named 'James Addam' or any close variant could be found associated with redcentric.site through web search. The email address (admamjames@redcentric.site) has an unusual prefix \u2014 'admamjames' \u2014 which appears to be a scrambled or reversed arrangement of 'james addam' (itself a non-standard spelling of 'James Adam/Adams'). No LinkedIn profile, company team page, press mention, or other first-party source confirms this person's identity, role, or affiliation with the company. The combination of an obscure domain, near-empty website, and an anomalous email prefix pattern warrants caution.",
     "source_urls": []
   },
   "could_not_find": [
-    "No about page, team page, or service detail pages found on redcentric.site \u2014 website is effectively a single-page placeholder",
-    "No founding date, location, headcount, or sector specialisation for redcentric.site recruitment agency",
-    "No named individual 'James' publicly tied to redcentric.site \u2014 role and full name unknown",
-    "No third-party coverage, reviews, or press mentions of redcentric.site",
-    "Cannot confirm whether 'James' is the founder, a recruiter, or an admin user",
-    "Possible spam/fraudulent signal: email prefix 'admamjames' appears to be a typo (extra 'am'), and the domain uses a non-standard .site TLD for an agency claiming worldwide operations \u2014 warrants caution"
+    "Any meaningful company detail beyond a two-line homepage tagline on redcentric.site",
+    "Team page, About page, or leadership information on redcentric.site",
+    "Any third-party coverage, reviews, or mentions of redcentric.site as a recruitment agency",
+    "Identity, role, or professional profile of 'James Addam' at redcentric.site",
+    "Company founding date, headquarters location, or geographic focus for redcentric.site",
+    "Verification that redcentric.site is a legitimately operating recruitment business (very thin web presence raises authenticity concerns)",
+    "Explanation for the unusual email prefix pattern 'admamjames' \u2014 possible typo, alias, or synthetic address"
   ]
 }
