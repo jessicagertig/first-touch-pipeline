@@ -1,3 +1,23 @@
 {
-  "candidates": []
+  "candidates": [
+    {
+      "item": "Domain 'redcentric.site' uses a non-standard TLD (.site) which is sometimes associated with newer or lower-profile web presences.",
+      "why_interesting": "Choosing a .site TLD instead of .com or .co.uk for a recruitment brand is a distinctive (if low-signal) signal that the business is very early-stage or bootstrapped \u2014 it's an observable, concrete detail that most established staffing agencies avoid, and it opens a natural, non-pushy conversation about where the business is headed.",
+      "level": "company",
+      "source_url": "https://redcentric.site/",
+      "as_of_date_if_known": null,
+      "recency_note": "Observed during step-1 research; no date stamp available.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Email local-part is 'admamjames' \u2014 appears to be a typo or concatenation, possibly intended as 'adamjames'.",
+      "why_interesting": "A name-mangled email handle on a sparse, early-stage site is a human, relatable quirk \u2014 the kind of small-team detail that signals a founder doing everything themselves. Referencing it (gently) shows genuine attention rather than a mail-merge blast.",
+      "level": "individual",
+      "source_url": "https://redcentric.site/",
+      "as_of_date_if_known": null,
+      "recency_note": "Observed during step-1 research; no date stamp available.",
+      "sensitivity": "Could feel intrusive if the recipient is sensitive about the typo \u2014 use with care and lightness, not as a correction."
+    }
+  ],
+  "note": "\u26a0\ufe0f Genuine 'cool/surprising/distinctive' candidates are extremely thin here. The site is sparse with no case studies, named team, services detail, founding story, or press coverage. Only two concrete observables clear the specificity bar above generic filler \u2014 the non-standard TLD and the email handle quirk. Everything else ('Professional Recruitment & Staffing Solutions Worldwide', 'Strategic hiring for long-term business growth') is a generic tagline that cannot be reacted to, only parroted. If richer content about redcentric.site becomes available, re-run extraction."
 }

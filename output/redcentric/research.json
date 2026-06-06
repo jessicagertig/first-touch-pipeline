@@ -1,39 +1,40 @@
 {
   "company": {
     "website": "https://redcentric.site/",
-    "what_they_do": "RedCentric (redcentric.site) is a recruitment and staffing agency offering professional recruitment and staffing solutions on a worldwide basis, with a focus on strategic hiring for long-term business growth. This is a distinct, separate entity from the unrelated UK managed IT services firm Redcentric PLC (redcentricplc.com), which is a publicly listed managed service provider.",
+    "what_they_do": "RedCentric (redcentric.site) presents itself as a recruitment and staffing agency, describing itself as offering 'Professional Recruitment & Staffing Solutions Worldwide' with a focus on 'Strategic hiring for long-term business growth.' The site appears to be a small, possibly early-stage or thin-content website. It is a DISTINCT entity from the well-known UK managed IT services company 'Redcentric PLC' (redcentricplc.com), which is a publicly listed UK managed service provider specialising in cloud, network, cybersecurity, and digital infrastructure services \u2014 a completely different business.",
     "raw_notes": [
-      "Homepage title: 'RedCentric | Recruitment Agency'",
-      "Tagline: 'Professional Recruitment & Staffing Solutions Worldwide' and 'Strategic hiring for long-term business growth'",
-      "Website is minimal \u2014 only the homepage returned substantive content; no 'About', 'Team', or 'Services' sub-pages were indexed in search results",
-      "The domain is redcentric.site (a .site TLD), clearly separate from redcentricplc.com",
-      "No founding date, headcount, geographic focus beyond 'Worldwide', or named leadership found on the site",
-      "No press coverage, news, or third-party references to redcentric.site specifically were found \u2014 it appears to be a small or newly established agency with minimal web footprint",
-      "IMPORTANT: redcentric.com is an unrelated personal art/portfolio site (\u00a9 2007-2026 REDCENTRIC.COM). redcentricplc.com is the large UK IT managed services firm. Neither is the signup entity."
+      "redcentric.site homepage title: 'RedCentric | Recruitment Agency'",
+      "Homepage tagline: 'Professional Recruitment & Staffing Solutions Worldwide \u00b7 Strategic hiring for long-term business growth'",
+      "The site content is very sparse \u2014 no detailed 'about' page, team, case studies, or named individuals found via search.",
+      "The email handle 'admamjames' is unusual/appears to be a typo or concatenation of 'adam' and 'james' \u2014 may be a name-based email (Adam James? or a typo of 'adamjames').",
+      "NOT the same as Redcentric PLC (redcentricplc.com), which is a UK-listed, Harrogate-headquartered IT managed services provider founded in 1997, operating 8 UK data centres, serving public and private sector, listed on London Stock Exchange (LON:RCN).",
+      "No press coverage, funding history, or company registration details found for redcentric.site specifically.",
+      "Domain 'redcentric.site' uses a non-standard TLD (.site) which is sometimes associated with newer or lower-profile web presences.",
+      "No services pages, pricing, client testimonials, or team pages accessible via search for redcentric.site."
     ],
     "source_urls": [
       "https://redcentric.site/"
     ]
   },
   "individual": {
-    "name": "James",
+    "name": "James (possibly 'Adam James' or a combined handle)",
     "role_if_found": null,
     "notes": [
-      "First name 'james' provided at signup; last name unknown.",
-      "Email username 'admamjames' is unusual \u2014 likely a typo or non-standard alias (possibly 'adam james' transposed, or 'admin + james'); no confirmation either way.",
-      "No person named 'James' (or any individual) is publicly listed or findable on redcentric.site \u2014 the site has no team/about page indexed.",
-      "Searched for 'admamjames' and 'james redcentric.site' \u2014 no results tied this individual to the company.",
-      "James Purcell (Operations Manager / Head of Engineering) and James Hughes (Network & Voice Team Leader) are Jameses found at redcentricplc.com (the unrelated UK IT firm) \u2014 these are NOT the signup individual.",
-      "No LinkedIn, social media, or press profiles found for any 'James' at redcentric.site."
+      "First name provided: 'james'. Email local-part is 'admamjames' \u2014 this appears to be a typo or concatenation, possibly intended as 'adamjames' (i.e., first name Adam, last name James, or vice versa).",
+      "No individual named 'James' or 'Adam James' found associated with redcentric.site specifically.",
+      "Searches for 'admamjames' and 'james redcentric.site' returned no identifying results.",
+      "Several 'James' individuals exist at the unrelated Redcentric PLC (e.g., James Hughes \u2013 Network & Voice Team Leader; James Purcell \u2013 Head of Engineering; James Crawshaw \u2013 Collaboration Solutions Architect), but these are employees of a completely different company (redcentricplc.com) and are NOT associated with redcentric.site.",
+      "No LinkedIn profile, personal website, or public professional presence found for anyone clearly tied to redcentric.site."
     ],
     "source_urls": []
   },
   "could_not_find": [
-    "James's last name, job title, or role at redcentric.site",
-    "Any team, leadership, or about page on redcentric.site",
-    "Company founding date, size, or specific geographic/sector focus",
-    "Any third-party coverage or reviews of redcentric.site as a recruitment agency",
-    "Clarification of the unusual email username 'admamjames' (possible typo \u2014 may be 'adam james' or 'admin james')",
-    "Whether this is a newly registered or shell domain \u2014 minimal web footprint warrants caution"
+    "Any substantive content on redcentric.site beyond the homepage tagline \u2014 no about page, services detail, team, or founding story.",
+    "Identity or role of 'james' (the recipient) at redcentric.site \u2014 no public profile found.",
+    "Clarification on the email typo: 'admamjames' likely intended as 'adamjames' but cannot be confirmed.",
+    "Company founding date, size, location, or registration details for redcentric.site.",
+    "Whether redcentric.site has any clients, case studies, or operational history.",
+    "Any news coverage or third-party mentions of the redcentric.site entity.",
+    "\u26a0\ufe0f IMPORTANT FLAG: The org_name 'redcentric' strongly overlaps with a well-known UK public company (Redcentric PLC, redcentricplc.com). The email domain 'redcentric.site' is a separate, distinct, and much smaller/newer entity. Do NOT conflate the two \u2014 any outreach should reference only what is verifiable about redcentric.site (recruitment/staffing agency), not the PLC."
   ]
 }
