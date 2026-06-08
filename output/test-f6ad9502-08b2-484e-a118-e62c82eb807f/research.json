@@ -1,0 +1,62 @@
+{
+  "company": {
+    "website": "https://gojilabs.com",
+    "what_they_do": "Goji Labs is a Los Angeles-based digital product agency (founded 2014) that designs, builds, and scales custom software: mobile apps (iOS & Android), web applications, and UX/UI design. They lead with product strategy, UX research, and engineering to take clients from idea to launched product. They serve startups, scaleups, enterprises, Fortune 500s, and nonprofits across verticals including EdTech, FinTech, HealthTech, SaaS, PropTech, SportsTech, and more. They are also increasingly positioning around AI product development and AI prototyping.",
+    "raw_notes": [
+      "Founded 2014; legal name Goji Labs LLC; privately held; 11\u201350 employees.",
+      "Headquarters: 800 Wilshire Blvd, Ste 200, Los Angeles, CA 90017. Also has a New York address (12 E 49th St, Floor 11).",
+      "Founders: David Barlev (CEO) and Adam Sumner (CTO), per Crunchbase.",
+      "Shipped 500+ digital products per Clutch profile; 400+ per Crunchbase/ZoomInfo.",
+      "Notable clients include WWF, Mitsubishi, and KCRW.",
+      "Client partners have raised over $1B in funding in aggregate.",
+      "Recent AI push: builds functional AI prototypes, AI-powered products and platforms.",
+      "Service lines: Product Strategy Consulting, Mobile App Development (iOS/Android), Web Development, UX/UI Design, UX Research, UX Auditing, IoT development.",
+      "Industry verticals: EdTech, FinTech, HealthTech, Nonprofit, SaaS, Social Media, SportsTech, Gaming, Marketplaces, E-commerce, PropTech.",
+      "Pricing: min project size $25K+; avg hourly rate $100\u2013$149/hr; project costs range $10K\u2013$600K+.",
+      "Awards: Best of CES 2023 (DroneRush), Best Mobile App Developers in LA 2022 (Expertise), Forbes Business Award 2021, Top Creative & Design Agencies in CA 2020 (Clutch), Top B2B Companies in CA 2023 (Clutch), Top Mobile App Dev Companies Jan 2024 (DesignRush).",
+      "Celebrated 10-year milestone May 5, 2025 (PRNewswire).",
+      "Tech stack noted publicly: WordPress, PHP, Cloudflare; engineering roles use Node.js, React, React Native, TypeScript, Ruby on Rails, Swift, Go.",
+      "Currently hiring: Senior Go Engineer, Full Stack TypeScript Developer, Engineering Manager.",
+      "Sample portfolio projects: Huupe (smart basketball hoop), Prediction Strike (athlete stock market), Schoolhouse Moolah (classroom economy app), Fitness Pact (fitness accountability app).",
+      "Global/distributed team model; remote-friendly culture.",
+      "org_name typed at signup was 'test' \u2014 almost certainly a placeholder, not a real org name."
+    ],
+    "source_urls": [
+      "https://gojilabs.com/",
+      "https://gojilabs.com/about/",
+      "https://gojilabs.com/services/",
+      "https://gojilabs.com/software-development/",
+      "https://gojilabs.com/product-agency/",
+      "https://gojilabs.com/careers/",
+      "https://careers.gojilabs.com/34031",
+      "https://careers.gojilabs.com/32205",
+      "https://clutch.co/profile/goji-labs",
+      "https://www.crunchbase.com/organization/goji-labs",
+      "https://www.linkedin.com/company/goji-labs",
+      "https://www.zoominfo.com/c/goji-labs-llc/371585180",
+      "https://www.designrush.com/agency/profile/goji-labs"
+    ]
+  },
+  "individual": {
+    "name": "Vladyslav H.",
+    "role_if_found": "Likely a software engineer (frontend or full-stack) at Goji Labs, based on a partially visible LinkedIn result ('Vladyslav G. \u2013 Senior Frontend Engineer, Vue / React') that may correspond to this person, and the email handle 'vladyslav.h' consistent with an engineering staff member. Role is NOT confirmed with certainty from first-party sources.",
+    "notes": [
+      "Email: vladyslav.h@gojilabs.com \u2014 the 'h' initial suggests last name starts with H.",
+      "First name 'Vladyslav' is Ukrainian in origin; consistent with Goji Labs' noted globally distributed team.",
+      "A LinkedIn profile at ca.linkedin.com/in/vladyslav-g-62b05810b surfaced in search results with the title 'Senior Frontend Engineer (Vue / React...)' but the last initial is 'G', not 'H' \u2014 may or may not be the same person; cannot confirm.",
+      "No confirmed public profile, bio, or published work directly tied to 'Vladyslav H.' at Goji Labs found.",
+      "Not listed as a founder or executive in any source.",
+      "The org_name 'test' entered at signup is almost certainly a test/dummy entry, not a real organization name \u2014 recipient is likely signing up personally or testing the product on behalf of Goji Labs."
+    ],
+    "source_urls": [
+      "https://ca.linkedin.com/in/vladyslav-g-62b05810b"
+    ]
+  },
+  "could_not_find": [
+    "Vladyslav H.'s confirmed job title or role at Goji Labs \u2014 no first-party source names him specifically.",
+    "Vladyslav H.'s LinkedIn profile URL with certainty (partial match found but last initial differs).",
+    "Any published work, articles, talks, or contributions attributable to Vladyslav H. personally.",
+    "Whether the 'test' org_name reflects an internal team/project name or is simply a signup placeholder \u2014 treat as placeholder.",
+    "Goji Labs' specific internal team structure (who leads engineering, design, etc.) beyond founders David Barlev and Adam Sumner."
+  ]
+}

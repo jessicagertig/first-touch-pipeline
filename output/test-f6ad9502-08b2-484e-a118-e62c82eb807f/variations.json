@@ -1,0 +1,80 @@
+{
+  "lead_id": "test-f6ad9502-08b2-484e-a118-e62c82eb807f",
+  "company_name": "test",
+  "recipient_name": "Vladyslav Honchar",
+  "email": "vladyslav.h@gojilabs.com",
+  "variations": [
+    {
+      "variant_n": 1,
+      "compliment": "Goji Labs looks like an incredible company - launching over 500 products used by more than 25 million people is a seriously impressive track record!",
+      "email": "Hello Vladyslav,\n\nThanks for checking out Polymer! Goji Labs looks like an incredible company - launching over 500 products used by more than 25 million people is a seriously impressive track record!\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.prnewswire.com/news-releases/goji-labs-named-among-clutchs-100-fastest-growing-companies-for-2026-302748454.html"
+      ],
+      "score": 9,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1780920853.042809",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 2,
+      "compliment": "Goji Labs looks great - the huupe smart basketball system is such a cool blend of hardware and software, definitely not something I expected!",
+      "email": "Hello Vladyslav,\n\nThanks for checking out Polymer! Goji Labs looks great - the huupe smart basketball system is such a cool blend of hardware and software, definitely not something I expected!\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://gojilabs.com/case-studies/huupe-smart-basketball-system/"
+      ],
+      "score": 9,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1780920853.166999",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 3,
+      "compliment": "Goji Labs looks like a fascinating company - I was really intrigued by the PredictionStrike project, the idea of buying and selling virtual shares of athletes based on their real performance is such a clever concept.",
+      "email": "Hello Vladyslav,\n\nThanks for checking out Polymer! Goji Labs looks like a fascinating company - I was really intrigued by the PredictionStrike project, the idea of buying and selling virtual shares of athletes based on their real performance is such a clever concept.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://gojilabs.com/case-studies/predictionstrike/"
+      ],
+      "score": 9,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1780920853.308059",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 4,
+      "compliment": "Goji Labs looks like a thoughtful company - I love that it started back in 2014 specifically to help non-technical founders nail strategy before diving into development.",
+      "email": "Hello Vladyslav,\n\nThanks for checking out Polymer! Goji Labs looks like a thoughtful company - I love that it started back in 2014 specifically to help non-technical founders nail strategy before diving into development.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://news.designrush.com/goji-labs-just-celebrated-its-10th-anniversary-here-are-8-principles-they-live-by"
+      ],
+      "score": 8,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1780920853.433349",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 5,
+      "compliment": "Goji Labs looks like a company that delivers real results - a 30% rise in site-generated purchases on the WWF donation platform is seriously impressive.",
+      "email": "Hello Vladyslav,\n\nThanks for checking out Polymer! Goji Labs looks like a company that delivers real results - a 30% rise in site-generated purchases on the WWF donation platform is seriously impressive.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://gojilabs.com/case-studies/wwf-nonprofit-donation-platform/"
+      ],
+      "score": 8,
+      "tells": [
+        "looks like a company that delivers real results — generic verdict-padding that complements the mundane core function"
+      ],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1780920853.570709",
+      "slack_channel": "C0B87Q5UEL9"
+    }
+  ]
+}

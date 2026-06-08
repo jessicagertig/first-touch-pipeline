@@ -1,0 +1,67 @@
+{
+  "candidates": [
+    {
+      "item": "Huupe launched as one of the first smart basketball systems to combine hardware and software into a holistic experience.",
+      "why_interesting": "Goji Labs built the app and supporting systems for Huupe \u2014 billed as the world's first smart basketball hoop, featuring a digital screen on the backboard, a lidar camera for shot tracking, and the ability to stream content and compete globally in real time. It's a wildly specific, highly tangible product (a basketball hoop as a connected game console) that illustrates Goji Labs can handle complex hardware-software integration, not just typical mobile apps.",
+      "level": "company",
+      "source_url": "https://gojilabs.com/case-studies/huupe-smart-basketball-system/",
+      "as_of_date_if_known": "March 2026 (case study page last updated)",
+      "recency_note": "Case study is current; Huupe product is live and sold at Best Buy.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Prediction Strike - The worlds first stock market for professional athletes.",
+      "why_interesting": "Goji Labs designed and built PredictionStrike \u2014 a platform where fans buy and sell virtual shares of professional athletes whose price moves with real-world on-field performance. The concept (treating athletes like publicly traded stocks) is a genuinely novel idea, and PredictionStrike later raised $10M in a Series A. It's a concrete example of Goji Labs building category-defining, legally novel fintech-meets-sports products.",
+      "level": "company",
+      "source_url": "https://gojilabs.com/case-studies/predictionstrike/",
+      "as_of_date_if_known": "March 2026 (case study page last updated)",
+      "recency_note": "PredictionStrike raised $10M Series A (reported September 2023); platform is live.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Goji Labs partnered with k-ID to develop the first cross-platform, tokenized child safety verification platform... The system was engineered to handle up to 50,000 verifications per minute, targeting scalability for up to 100 million monthly users. Within a year of launch, k-ID secured $51 million in funding and established partnerships with major companies like Google, Roblox, and Netflix.",
+      "why_interesting": "An 11\u201350 person LA agency quietly built the technical backbone of a child-safety compliance platform that went on to partner with Google, Roblox, and Netflix and raised $51M. The infrastructure spec (50k verifications/minute, 100M monthly users target) is unusually demanding for a boutique agency engagement \u2014 it signals serious enterprise-grade engineering, not typical startup MVP work.",
+      "level": "company",
+      "source_url": "https://www.designrush.com/agency/profile/goji-labs/portfolio/app-development-k-id",
+      "as_of_date_if_known": "2024 (k-ID post-launch outcomes)",
+      "recency_note": "k-ID is actively operating; partnerships with Google/Roblox/Netflix are confirmed from third-party sources.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Notable projects include developing an AI-powered dumbbell that sold out its presale in 45 minutes.",
+      "why_interesting": "The product in question is Kabata \u2014 AI-powered dumbbells (world's first) with embedded sensors that auto-adjust weight and coach in real time. The presale sold out in 45 minutes. For a hardware-adjacent IoT + mobile project, this is a striking launch result that shows Goji Labs isn't just doing SaaS dashboards \u2014 they ship products people rush to buy.",
+      "level": "company",
+      "source_url": "https://moonfruit.com/goji-labs",
+      "as_of_date_if_known": "Unknown exact date; Kabata product is live as of 2024\u20132025",
+      "recency_note": "Kabata website confirms sold-out status multiple times; TechRadar covered in October 2024.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "And, in the end, we saw fantastic tangible results: a notable increase in new mobile users by 26%, a rise in site-generated purchases by 30%, and an improved average time spent on the page by 18%.",
+      "why_interesting": "Goji Labs rebuilt the WWF donation platform \u2014 consolidating four separate sites into one \u2014 and produced measurable nonprofit impact: +30% site-generated purchases (donations), +26% new mobile users. This is concrete, verified outcome data from one of the world's most recognized nonprofits, not a vague 'we improved UX' claim. It's useful proof that strategy-led design work moves real revenue/donation numbers.",
+      "level": "company",
+      "source_url": "https://gojilabs.com/case-studies/wwf-nonprofit-donation-platform/",
+      "as_of_date_if_known": "Case study page last updated May 2025",
+      "recency_note": "Published case study; WWF is a long-standing client reference.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "The company has launched over 500 products used by more than 25 million people worldwide, supporting clients that have collectively raised over $1 billion in funding.",
+      "why_interesting": "The '25 million people' end-user number is a more grounded and striking figure than the $1B funding stat \u2014 it makes the portfolio's real-world scale tangible. Combined with Clutch naming them a 2026 Top 100 Fastest-Growing company (April 2026, most recent recognition), it corroborates that Goji Labs is actively growing, not coasting on past reputation.",
+      "level": "company",
+      "source_url": "https://www.prnewswire.com/news-releases/goji-labs-named-among-clutchs-100-fastest-growing-companies-for-2026-302748454.html",
+      "as_of_date_if_known": "April 21, 2026",
+      "recency_note": "Very recent \u2014 published April 2026, six weeks ago from today.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Too many non-technical founders were skipping strategy and jumping straight into development. This was the clear gap that Goji Labs sought to resolve when it was founded in 2014 as a two-person team of software engineers.",
+      "why_interesting": "The founding story \u2014 two engineers who noticed non-technical founders wasting money by skipping strategy and going straight to code \u2014 is a blunt, self-aware origin narrative. It explains why they lead every engagement with strategy before writing a line of code. That's a specific, opinionated stance, not just an agency positioning line, and it's told in plain first-person language rather than polished marketing copy.",
+      "level": "company",
+      "source_url": "https://news.designrush.com/goji-labs-just-celebrated-its-10th-anniversary-here-are-8-principles-they-live-by",
+      "as_of_date_if_known": "May 5, 2025 (10th anniversary article)",
+      "recency_note": "Published May 2025; tied to 10-year milestone event.",
+      "sensitivity": "none"
+    }
+  ]
+}
