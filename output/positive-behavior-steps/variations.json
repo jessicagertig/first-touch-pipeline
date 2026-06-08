@@ -1,0 +1,82 @@
+{
+  "lead_id": "positive-behavior-steps",
+  "company_name": "Positive Behavior Steps",
+  "recipient_name": "Karina Achutegui",
+  "email": "pbxadmin@pbxsteps.org",
+  "variations": [
+    {
+      "variant_n": 1,
+      "compliment": "Positive Behavior Steps looks like a great company - I really like that you help families get past insurance roadblocks so they can actually access the services they need.",
+      "email": "Hello Karina,\n\nThanks for checking out Polymer! Positive Behavior Steps looks like a great company - I really like that you help families get past insurance roadblocks so they can actually access the services they need.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://pbxsteps.org/"
+      ],
+      "score": 9,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1780935932.150919",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 2,
+      "compliment": "Positive Behavior Steps is doing really meaningful work - I love that you center the right of individuals with developmental disabilities to make their own informed choices, right down to where and with whom they live.",
+      "email": "Hello Karina,\n\nThanks for checking out Polymer! Positive Behavior Steps is doing really meaningful work - I love that you center the right of individuals with developmental disabilities to make their own informed choices, right down to where and with whom they live.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://developmentaldisabilities.networkofcare.org/lanterman-ca/services/agency?pid=positivebehaviorsteps_581_6_0"
+      ],
+      "score": 9,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1780935932.365439",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 3,
+      "compliment": "Positive Behavior Steps looks great - having a dedicated insurance intake process to help families get past insurance roadblocks is such a practical and caring touch.",
+      "email": "Hello Karina,\n\nThanks for checking out Polymer! Positive Behavior Steps looks great - having a dedicated insurance intake process to help families get past insurance roadblocks is such a practical and caring touch.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://pbxsteps.org/"
+      ],
+      "score": 8,
+      "tells": [
+        "practical and caring touch"
+      ],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1780935932.584099",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 4,
+      "compliment": "Positive Behavior Steps looks like a thoughtful company - I love that you're built around helping individuals with developmental disabilities make informed choices about their own lives, like where they live and who they live with.",
+      "email": "Hello Karina,\n\nThanks for checking out Polymer! Positive Behavior Steps looks like a thoughtful company - I love that you're built around helping individuals with developmental disabilities make informed choices about their own lives, like where they live and who they live with.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://developmentaldisabilities.networkofcare.org/lanterman-ca/services/agency?pid=positivebehaviorsteps_581_6_0"
+      ],
+      "score": 8,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1780935932.810239",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 5,
+      "compliment": "Positive Behavior Steps seems like a genuinely supportive company - I really appreciate that you don't let insurance barriers stand between people and the services they need.",
+      "email": "Hello Karina,\n\nThanks for checking out Polymer! Positive Behavior Steps seems like a genuinely supportive company - I really appreciate that you don't let insurance barriers stand between people and the services they need.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://pbxsteps.org/"
+      ],
+      "score": 8,
+      "tells": [
+        "genuinely supportive company"
+      ],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1780935933.054159",
+      "slack_channel": "C0B87Q5UEL9"
+    }
+  ]
+}

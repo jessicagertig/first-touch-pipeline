@@ -1,0 +1,58 @@
+{
+  "candidates": [
+    {
+      "item": "\"With over 15 years of providing behavior management supports within community, school, and clinical settings, the history of Positive Behavior Steps evolved over time. Through ongoing research, program development, networking, contracting, credentialing, and vendorization processes, the company opened its doors in 20[17]\"",
+      "why_interesting": "PBS was formally incorporated in 2017, but the founding team had 15+ years of prior hands-on experience before launching \u2014 meaning this isn't a startup that invented itself overnight. The institutional knowledge predates the brand, which is distinctive and substantive for a small (~33-person) regional provider.",
+      "level": "company",
+      "source_url": "https://www.yelp.com/biz/positive-behavior-steps-san-dimas",
+      "as_of_date_if_known": "2021-05-15",
+      "recency_note": "Yelp listing, last updated April 2026; founding history language appears stable.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "\"PBS provides structured and well-planned services, which includes staff matching to ensure that the individual is supported by someone of their choosing.\"",
+      "why_interesting": "Staff matching \u2014 letting clients choose who supports them \u2014 is a concrete, operationally unusual feature for an ABA/SLS provider. Most providers assign staff by availability; explicitly building client-directed staff selection into the model is a real differentiator worth noting.",
+      "level": "company",
+      "source_url": "https://lanterman.ca.networkofcare.org/dd/services/agency.aspx?pid=positivebehaviorsteps_581_6_0",
+      "as_of_date_if_known": null,
+      "recency_note": "Frank D. Lanterman Regional Center service directory listing; no date stamp but directory is actively maintained.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "\"Positive Behaviour Steps (PBS) believes that Individuals with developmental disabilities have the right to make informed choices. The ability to choose from an array of options that influences their everyday lives. Choices, such as where they want to live and who they live with.\"",
+      "why_interesting": "Framing Supported Living Services explicitly around the client's *right* to choose where and with whom they live \u2014 rather than around clinical outcomes or compliance \u2014 is a philosophically bold stance for an ABA shop. It signals a rights-based model on top of a behavior-science foundation, which is not the default posture in the field.",
+      "level": "company",
+      "source_url": "https://developmentaldisabilities.networkofcare.org/lanterman-ca/services/agency?pid=positivebehaviorsteps_581_6_0",
+      "as_of_date_if_known": null,
+      "recency_note": "Network of Care / Lanterman directory; actively maintained.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "\"Don't let insurance roadblocks stand in the way of the services they need.\"",
+      "why_interesting": "This is blunt, adversarial-toward-insurance language on a provider's own homepage \u2014 unusual for a clinic that presumably relies on insurance reimbursement. It signals a stance families would find refreshing and differentiates them from providers who hedge. NOTE: per extraction rules this is a slogan-adjacent line, so the concrete fact BEHIND it is more useful: PBS has a dedicated insurance intake email (insuranceintakes@pbxsteps.org) and apparently takes an active advocacy role in navigating payer barriers for families.",
+      "level": "company",
+      "source_url": "https://pbxsteps.org/",
+      "as_of_date_if_known": null,
+      "recency_note": "Live homepage copy.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "\"Programs typically occur 25-40 hours per week and include 1:1 parent education with a clinical specialist.\"",
+      "why_interesting": "The 1:1 parent education component \u2014 not just parent 'involvement' but dedicated one-on-one coaching with a clinical specialist built into every program \u2014 is specific and quantifiable. Most ABA providers mention parent training generically; building it structurally into every program at this intensity level is a concrete differentiator.",
+      "level": "company",
+      "source_url": "http://sandimaschamber.chambermaster.com/list/member/positive-behavior-steps-1090",
+      "as_of_date_if_known": null,
+      "recency_note": "San Dimas Chamber of Commerce listing; no date stamp.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "\"Children and adolescents are encouraged to socialize and build lasting relationships within community settings by being provided with opportunities to live, function, and blend seamlessly in their communities.\" (Community Integration service line)",
+      "why_interesting": "The explicit goal of helping clients 'blend seamlessly' in community \u2014 not just participate but integrate without standing out \u2014 reflects a pragmatic, dignity-focused outcome orientation that goes beyond clinical skill-building. It's specific enough to be meaningful and not standard ABA boilerplate.",
+      "level": "company",
+      "source_url": "http://sandimaschamber.chambermaster.com/list/member/positive-behavior-steps-1090",
+      "as_of_date_if_known": null,
+      "recency_note": "San Dimas Chamber of Commerce listing.",
+      "sensitivity": "none"
+    }
+  ]
+}
