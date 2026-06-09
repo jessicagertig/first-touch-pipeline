@@ -1,23 +1,22 @@
 {
   "company": {
     "website": "https://projectdomesday.com",
-    "what_they_do": "Unknown. The domain projectdomesday.com does not appear in any indexed web results, search engine caches, or third-party directories. It cannot be confirmed whether the site is live, pre-launch, private, or behind authentication. No product, service, or mission description could be found.",
-    "raw_notes": "All searches for 'projectdomesday.com' and 'Project Domesday' return results about the historical 1986 BBC Domesday Project (a multimedia survey of the UK stored on LaserDiscs, led by Peter Armstrong) and related preservation/hobbyist communities (e.g., domesday86.com). None of these are connected to the signup domain projectdomesday.com. The org name 'Project Domesday' could be inspired by the original BBC initiative \u2014 a large-scale survey/documentation effort \u2014 but this is speculative. No company registration, Crunchbase entry, news coverage, LinkedIn company page, or any other third-party reference to an entity called 'Project Domesday' operating at projectdomesday.com was found.",
+    "what_they_do": "Unknown. The domain projectdomesday.com returned no indexed pages or discoverable content in any web search. It is not possible to determine what this organization does from available sources.",
+    "raw_notes": "All searches for 'projectdomesday.com' and 'Project Domesday' as a modern organization returned only results about the historical 1986 BBC Domesday Project (a multimedia survey of the UK stored on LaserDiscs) and related preservation efforts (domesday86.com, opendomesday.org, domesdaybook.net). None of these are affiliated with projectdomesday.com. One tangentially related result was domesday.digital, which describes itself as 'Your environmental journal - record observations about your surroundings with location and date tracking,' but its domain is different and there is no confirmed link to projectdomesday.com. The projectdomesday.com domain does not appear to be indexed by any major search engine as of the research date (June 9, 2026). It may be a very new site, a private/stealth-mode venture, or a domain registered but not yet publicly launched.",
     "source_urls": []
   },
   "individual": {
     "name": "Joe",
     "role_if_found": null,
-    "notes": "Only a first name ('Joe') and email address (joe@projectdomesday.com) are available. No surname was provided. No LinkedIn profile, news mention, company bio, or any other public record linking a person named Joe to 'Project Domesday' or projectdomesday.com could be found. Role, background, and personal details are entirely unknown.",
+    "notes": "No information found about any individual named Joe associated with projectdomesday.com. No LinkedIn profile, company bio, press mention, or any other public record was surfaced. Last name is unknown.",
     "source_urls": []
   },
   "could_not_find": [
-    "projectdomesday.com website content \u2014 domain not appearing in any search index or cache",
-    "What the company/project actually does \u2014 no product, service, or mission description found",
-    "Joe's last name \u2014 not provided in signup inputs and not discoverable",
-    "Joe's role at the organization \u2014 unknown",
-    "Whether 'Project Domesday' is a for-profit company, nonprofit, research project, or personal project",
-    "Any press coverage, funding announcements, or third-party mentions of Project Domesday as a current entity",
-    "Company founding date, team size, or location"
+    "projectdomesday.com website content \u2014 domain is not indexed or publicly accessible",
+    "What 'Project Domesday' (the organization) actually does \u2014 product, service, or mission unknown",
+    "Joe's last name, role/title, or any biographical information",
+    "Whether the org name is inspired by the historical BBC Domesday Project or is coincidental",
+    "Company size, funding status, founding date, or industry vertical",
+    "Any news, press, or social media presence for projectdomesday.com"
   ]
 }
