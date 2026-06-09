@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "fact": "Project Domesday's product is named 'Domesday' and centers on a 'graph of corporate structure and beneficial ownership' with compliance/eligibility tracking \u2014 directly paralleling the 1086 Domesday Book's function as the definitive record of who owns and controls what. The homepage (projectdomesday.com, live) uses 'Domesday's graph' and leads with ownership, structural control, and compliance as its core capabilities.",
+    "source_url": "https://projectdomesday.com"
+  },
+  {
+    "fact": "Project Domesday's homepage (projectdomesday.com) describes a graph of corporate structure and beneficial ownership fed by registries, filings, and curated sources, where 'when control shifts through intermediaries, updates propagate'; analyst workflows operate over 'Domesday's graph and provenance, with audit logs, escalation paths.' The product is explicitly graph-native with propagation, provenance, and audit trail as named capabilities \u2014 not a registry lookup.",
+    "source_url": "https://projectdomesday.com"
+  },
+  {
+    "fact": "Project Domesday's ownership graph propagates updates when control shifts through intermediaries, so primes, subcontractors, and partners can act on current structure; it tracks structural drift and downstream exposure across suppliers, investors, and adjacent firms so teams can escalate before a relationship becomes a finding or an eligibility problem. (Source: https://projectdomesday.com, live homepage, fetched June 2026.)",
+    "source_url": "https://projectdomesday.com"
+  },
+  {
+    "fact": "CMMC, ITAR, Section 847, Section 889, and related regimes map to reviewable evidence bundles and screening outputs, aligned with how auditors and partners evaluate posture, with counsel retained where required.",
+    "source_url": "https://projectdomesday.com"
+  },
+  {
+    "fact": "Analysts and operators get triage, investigation, and contract-adjacent workflows over Domesday's graph and provenance, with audit logs, escalation paths, and constraints set to your boundary. (Source: https://projectdomesday.com, REVIEW WORKFLOWS section, live homepage content fetched current)",
+    "source_url": "https://projectdomesday.com"
+  }
+]

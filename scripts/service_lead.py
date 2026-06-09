@@ -23,7 +23,7 @@ from scripts.utils import (
     post_error_to_slack,
     update_lead,
 )
-from scripts.research import research_lead
+from scripts.research import _fetch_homepage, research_lead
 from scripts.extract import extract_candidates
 from scripts.verify import verify_with_loop
 from scripts.draft import draft_variations
@@ -66,11 +66,19 @@ def _output_path(lead_id: str, name: str) -> Path:
     return d / name
 
 
-def _collect_verified_facts(company_name: str, candidates: list[dict]) -> list[dict]:
+def _collect_verified_facts(
+    company_name: str,
+    candidates: list[dict],
+    homepage_url: str = "",
+    homepage_text: str = "",
+) -> list[dict]:
     """Verify each candidate with its loop; return the verified-current facts."""
     facts: list[dict] = []
     for candidate in candidates:
-        verdict = verify_with_loop(company_name, candidate)
+        verdict = verify_with_loop(
+            company_name, candidate,
+            homepage_url=homepage_url, homepage_text=homepage_text,
+        )
         if verdict.get("verdict") == "verified_current":
             fact = verdict.get("verified_fact") or candidate.get("item", "")
             source = ""
@@ -135,7 +143,10 @@ def service_lead(lead_id: str) -> None:
         candidates_doc = extract_candidates(lead, research)
         candidates = candidates_doc.get("candidates", [])
 
-        verified_facts = _collect_verified_facts(lead.get("company_name", ""), candidates)
+        homepage_url, homepage_text = _fetch_homepage(lead.get("email_domain", ""))
+        verified_facts = _collect_verified_facts(
+            lead.get("company_name", ""), candidates, homepage_url, homepage_text,
+        )
         _output_path(lead_id, "verified.json").write_text(
             json.dumps(verified_facts, indent=2), encoding="utf-8"
         )

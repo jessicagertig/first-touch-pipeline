@@ -26,17 +26,34 @@ from scripts.utils import (
 _STALE_VERDICTS = {"true_but_stale", "unverifiable"}
 
 
-def verify_candidate(company_name: str, candidate: dict) -> dict:
+def verify_candidate(
+    company_name: str,
+    candidate: dict,
+    homepage_url: str = "",
+    homepage_text: str = "",
+) -> dict:
     """Run ONE verify pass on a single candidate; return the verdict JSON.
 
     Uses the 03-verify prompt as the system prompt; web search is enabled so
     Claude can attempt to read the live company site for current confirmation.
+    When the live homepage was fetched directly, its content is supplied so a
+    first-party fact can be confirmed even if the site is too new to be indexed.
     """
     system = load_prompt("03-verify")
+    homepage_block = ""
+    if homepage_text:
+        homepage_block = (
+            f"\nLive homepage content, fetched directly from {homepage_url} just "
+            "now (first-party, current — trust it; the site may be too new for "
+            "web search to index). If this content supports the candidate, that "
+            "is verified_current first-party confirmation:\n"
+            f"\"\"\"\n{homepage_text}\n\"\"\"\n"
+        )
     user = (
         f"Company: {company_name}\n\n"
         "Candidate to verify:\n"
-        f"{json.dumps(candidate, indent=2)}\n\n"
+        f"{json.dumps(candidate, indent=2)}\n"
+        f"{homepage_block}\n"
         "Return the verify JSON exactly as specified."
     )
     raw = call_json(
@@ -55,6 +72,8 @@ def verify_with_loop(
     company_name: str,
     candidate: dict,
     max_loops: int | None = None,
+    homepage_url: str = "",
+    homepage_text: str = "",
 ) -> dict:
     """Verify a candidate, looping while stale/unverifiable up to VERIFY_MAX_LOOPS.
 
@@ -68,7 +87,7 @@ def verify_with_loop(
 
     verdict: dict[str, Any] = {}
     for _ in range(max(1, max_loops)):
-        verdict = verify_candidate(company_name, candidate)
+        verdict = verify_candidate(company_name, candidate, homepage_url, homepage_text)
         if verdict.get("verdict") not in _STALE_VERDICTS:
             break
         # Targeted re-research for current state before the next verify pass.

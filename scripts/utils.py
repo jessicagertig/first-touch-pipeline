@@ -9,6 +9,7 @@ from __future__ import annotations
 import csv
 import json
 import os
+import re
 import time
 from pathlib import Path
 from typing import Any, Iterable
@@ -106,25 +107,64 @@ def extract_text(response: Any) -> str:
     return "".join(parts).strip()
 
 
+def _balanced_span(s: str, start: int) -> str | None:
+    """Return s[start:] up to the matching close of the opener at s[start].
+
+    String-aware (ignores braces inside JSON strings) and depth-tracked, so a
+    nested array/object never ends the scan early.
+    """
+    opener = s[start]
+    closer = {"{": "}", "[": "]"}[opener]
+    depth = 0
+    in_str = False
+    esc = False
+    for k in range(start, len(s)):
+        c = s[k]
+        if in_str:
+            if esc:
+                esc = False
+            elif c == "\\":
+                esc = True
+            elif c == '"':
+                in_str = False
+        elif c == '"':
+            in_str = True
+        elif c == opener:
+            depth += 1
+        elif c == closer:
+            depth -= 1
+            if depth == 0:
+                return s[start:k + 1]
+    return None
+
+
 def parse_json(text: str) -> Any:
-    """Best-effort JSON parse: strip code fences, find the first {...} or [...]."""
+    """Best-effort JSON parse, tolerant of prose + a ```json``` fence + nesting.
+
+    Tries, in order: a fenced code block anywhere in the text, the whole text,
+    then a depth-aware scan from the first top-level opener (so a nested
+    `evidence` array is never mistaken for the whole value).
+    """
     t = text.strip()
-    if t.startswith("```"):
-        t = t.split("```", 2)[1]
-        if t.startswith("json"):
-            t = t[4:]
-        t = t.strip()
-    try:
-        return json.loads(t)
-    except Exception:
-        for opener, closer in (("[", "]"), ("{", "}")):
-            i, j = t.find(opener), t.rfind(closer)
-            if i != -1 and j != -1 and j > i:
-                try:
-                    return json.loads(t[i:j + 1])
-                except Exception:
-                    continue
-        return None  # unparseable; callers default gracefully
+    attempts: list[str] = []
+    fence = re.search(r"```(?:json)?\s*(.*?)```", t, re.DOTALL)
+    if fence:
+        attempts.append(fence.group(1).strip())
+    attempts.append(t)
+    for frag in attempts:
+        try:
+            return json.loads(frag)
+        except Exception:
+            continue
+    starts = [i for i in (t.find("{"), t.find("[")) if i != -1]
+    for start in sorted(starts):
+        span = _balanced_span(t, start)
+        if span:
+            try:
+                return json.loads(span)
+            except Exception:
+                continue
+    return None  # unparseable; callers default gracefully
 
 
 def call_json(

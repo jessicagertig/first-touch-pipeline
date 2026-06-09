@@ -1,3 +1,49 @@
 {
-  "candidates": []
+  "candidates": [
+    {
+      "item": "The product name 'Domesday' deliberately evokes the original 1086 Domesday Book \u2014 a comprehensive survey/record of ownership and control \u2014 as a brand metaphor for their ownership/compliance data graph.",
+      "why_interesting": "Naming a defense-sector compliance product after an 11th-century Norman census of land ownership is a genuinely clever and specific brand choice \u2014 it signals domain seriousness and has an implicit thesis ('who owns what, verifiably, on record') baked into the name itself. Most compliance tools pick sterile acronyms or vague trust-words; this one made a historical argument. Worth reacting to on its own terms.",
+      "level": "company",
+      "source_url": "https://projectdomesday.com",
+      "as_of_date_if_known": null,
+      "recency_note": "Noted in first-party homepage content; site appears newly launched with no search engine indexing found.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Positioned as graph-native data intelligence, not a simple registry lookup \u2014 emphasis on provenance, propagation, and audit trail.",
+      "why_interesting": "Most FOCI/beneficial-ownership screening tools are glorified watchlist lookups \u2014 you paste in a name and get a hit/no-hit. Building a live, propagating ownership *graph* that pushes updates when control shifts through intermediaries is architecturally distinct and solves the actual hard problem (layered shell structures, mid-contract ownership changes). That's a meaningful technical stance, not just a feature claim.",
+      "level": "company",
+      "source_url": "https://projectdomesday.com",
+      "as_of_date_if_known": null,
+      "recency_note": "Noted in first-party homepage content; site appears newly launched with no search engine indexing found.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Ownership graph propagates updates when control shifts through intermediaries \u2014 covering suppliers, investors, and adjacent firms \u2014 surfacing structural drift and downstream risk so primes, subcontractors, and partners can escalate early.",
+      "why_interesting": "The specific phrase 'structural drift' is unusually precise \u2014 it names the real adversarial pattern in FOCI risk (incremental, intermediate-layer ownership changes that individually look innocent but cumulatively cross a threshold). Treating it as a first-class trackable event, rather than a one-time point-in-time screen, is a genuinely different product posture.",
+      "level": "company",
+      "source_url": "https://projectdomesday.com",
+      "as_of_date_if_known": null,
+      "recency_note": "Noted in first-party homepage content; site appears newly launched with no search engine indexing found.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Compliance & Sanctions product area maps CMMC, ITAR, Section 847, Section 889 and related regimes to evidence bundles and screening outputs, 'with counsel retained where required.'",
+      "why_interesting": "The 'counsel retained where required' line is a striking architectural detail \u2014 it implies the product doesn't just flag risk but also routes certain review types to legal review as part of the workflow. That's either in-house legal or legal-as-a-service wired into the product, which is genuinely unusual for a data/software platform and suggests they've identified that compliance outputs need defensible legal sign-off, not just software output.",
+      "level": "company",
+      "source_url": "https://projectdomesday.com",
+      "as_of_date_if_known": null,
+      "recency_note": "Noted in first-party homepage content; site appears newly launched with no search engine indexing found.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Review Workflows product area supports analyst/operator triage, investigation, and contract-adjacent workflows over 'Domesday's graph and provenance,' with audit logs, escalation paths, and configurable constraints.",
+      "why_interesting": "Describing workflows as 'contract-adjacent' is an unusually blunt framing \u2014 it openly positions the tool as part of the contracting decision process, not just a background research aid. That's a notable product scope claim: they're saying the output is actionable enough to sit next to a contract, not just inform a risk memo.",
+      "level": "company",
+      "source_url": "https://projectdomesday.com",
+      "as_of_date_if_known": null,
+      "recency_note": "Noted in first-party homepage content; site appears newly launched with no search engine indexing found.",
+      "sensitivity": "none"
+    }
+  ]
 }

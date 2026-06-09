@@ -1,0 +1,80 @@
+{
+  "lead_id": "project-domesday",
+  "company_name": "Project Domesday",
+  "recipient_name": "Joe Gilliard",
+  "email": "joe@projectdomesday.com",
+  "variations": [
+    {
+      "variant_n": 1,
+      "compliment": "Project Domesday looks like a great company - naming it after the 1086 Domesday Book is a clever touch given you're building the definitive record of who owns and controls what.",
+      "email": "Hello Joe,\n\nThanks for checking out Polymer! Project Domesday looks like a great company - naming it after the 1086 Domesday Book is a clever touch given you're building the definitive record of who owns and controls what.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://projectdomesday.com"
+      ],
+      "score": 8,
+      "tells": [
+        "naming it after the 1086 Domesday Book is a clever touch given you're building the definitive record of who owns and controls what — the trailing clause over-explains the connection that's already implied"
+      ],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1781023966.769859",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 2,
+      "compliment": "Project Domesday looks like a really clever idea - naming it after the Domesday Book fits perfectly for a tool that aims to be the definitive record of who owns and controls what!",
+      "email": "Hello Joe,\n\nThanks for checking out Polymer! Project Domesday looks like a really clever idea - naming it after the Domesday Book fits perfectly for a tool that aims to be the definitive record of who owns and controls what!\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://projectdomesday.com"
+      ],
+      "score": 8,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1781023966.939319",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 3,
+      "compliment": "Project Domesday looks like a clever idea - I love the play on the 1086 Domesday Book as the definitive record of who owns and controls what.",
+      "email": "Hello Joe,\n\nThanks for checking out Polymer! Project Domesday looks like a clever idea - I love the play on the 1086 Domesday Book as the definitive record of who owns and controls what.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://projectdomesday.com"
+      ],
+      "score": 8,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1781023967.113109",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 4,
+      "compliment": "Project Domesday looks really interesting - naming it after the Domesday Book is clever, and I love that when control shifts through intermediaries the updates just propagate so teams can catch issues before they become a finding.",
+      "email": "Hello Joe,\n\nThanks for checking out Polymer! Project Domesday looks really interesting - naming it after the Domesday Book is clever, and I love that when control shifts through intermediaries the updates just propagate so teams can catch issues before they become a finding.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://projectdomesday.com"
+      ],
+      "score": 5,
+      "tells": [
+        "when control shifts through intermediaries the updates just propagate so teams can catch issues before they become a finding"
+      ],
+      "verdict": "revise",
+      "ship": false
+    },
+    {
+      "variant_n": 5,
+      "compliment": "Project Domesday looks like a really clever idea - I love that the name nods to the Domesday Book, and the way the graph propagates updates when control shifts through intermediaries seems like a smart way to catch problems before they become findings.",
+      "email": "Hello Joe,\n\nThanks for checking out Polymer! Project Domesday looks like a really clever idea - I love that the name nods to the Domesday Book, and the way the graph propagates updates when control shifts through intermediaries seems like a smart way to catch problems before they become findings.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://projectdomesday.com"
+      ],
+      "score": 7,
+      "tells": [
+        "the way the graph propagates updates when control shifts through intermediaries seems like a smart way to catch problems before they become findings"
+      ],
+      "verdict": "revise",
+      "ship": false
+    }
+  ]
+}

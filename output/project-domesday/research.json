@@ -1,24 +1,34 @@
 {
   "company": {
     "website": "https://projectdomesday.com",
-    "what_they_do": "Unknown. The domain projectdomesday.com returned no publicly indexed pages, no cached content, and no third-party references in web search results. It is either a very new site, a pre-launch project, a private/internal tool, or has no public web presence at all. The name 'Project Domesday' evokes the 1086 Domesday Book (William the Conqueror's survey of England) or the 1986 BBC Domesday multimedia project, suggesting a possible orientation toward historical data, mapping, community surveying, or digital preservation \u2014 but this is purely speculative based on the name alone.",
-    "raw_notes": "No homepage, about page, product page, press mentions, or any indexed content found for projectdomesday.com. Multiple search strategies attempted: direct domain query, org name + descriptors (genealogy, history, data, software, mapping, community, UK, survey), whois meta-search, name + founder query. All returned unrelated results about the BBC Domesday Project (1986), the Hull Domesday Project, opendomesday.org, or domesday86.com \u2014 none of which are projectdomesday.com. Could be a stealth startup, a hobbyist/community project in early stages, or a private venture that has not yet published publicly.",
-    "source_urls": []
+    "what_they_do": "Project Domesday is a B2B software/data intelligence platform focused on corporate ownership transparency and compliance screening for the defense contracting ecosystem. It ingests registries, filings, and curated sources to build and maintain a graph of corporate structure and beneficial ownership, propagating updates when control shifts through intermediaries. It tracks counterparty and supply chain exposure across programs \u2014 covering suppliers, investors, and adjacent firms \u2014 surfacing structural drift and downstream risk so primes, subcontractors, and partners can escalate early. It maps specific compliance regimes (CMMC, ITAR, Section 847, Section 889, and related) to reviewable evidence bundles and screening outputs aligned to how auditors and partners evaluate posture, retaining counsel where required. It also provides policy-bound review workflows \u2014 triage, investigation, and contract-adjacent \u2014 over its graph and provenance data, with audit logs, escalation paths, and configurable constraints.",
+    "raw_notes": [
+      "Four product areas surfaced on homepage: (1) Ownership & Structure \u2014 registry/filing-fed ownership graph, beneficial ownership tracking, propagation of control shifts through intermediaries; (2) Counterparty & Supply \u2014 tiered risk tracking across programs for suppliers/investors/adjacent firms, structural drift and downstream exposure monitoring; (3) Compliance & Sanctions \u2014 CMMC, ITAR, Section 847, Section 889 and related regimes mapped to evidence bundles and screening outputs, counsel retained where required; (4) Review Workflows \u2014 analyst/operator triage, investigation, contract-adjacent workflows over 'Domesday's graph and provenance,' with audit logs, escalation paths, configurable constraints.",
+      "Language is clearly aimed at defense contracting market: references to 'primes, subcontractors, and partners,' 'eligibility,' 'contract-adjacent workflows,' and specific defense compliance regimes (CMMC, ITAR, Sec. 847/889).",
+      "Positioned as graph-native data intelligence, not a simple registry lookup \u2014 emphasis on provenance, propagation, and audit trail.",
+      "The product name 'Domesday' deliberately evokes the original 1086 Domesday Book \u2014 a comprehensive survey/record of ownership and control \u2014 as a brand metaphor for their ownership/compliance data graph.",
+      "Counsel retention language ('with counsel retained where required') suggests either in-house legal or legal-as-a-service component for compliance review.",
+      "No pricing, team page, about page, or blog visible from provided homepage content.",
+      "Site appears newly launched \u2014 no search engine indexing found.",
+      "Source: first-party homepage content provided directly from https://projectdomesday.com"
+    ],
+    "source_urls": [
+      "https://projectdomesday.com"
+    ]
   },
   "individual": {
     "name": "Joe",
     "role_if_found": null,
-    "notes": "No information found. Searching 'Joe projectdomesday' and 'Joe project domesday' returned no results linking a named individual to this domain or organization. Last name unknown. Role unknown.",
+    "notes": "No publicly findable information about a 'Joe' at Project Domesday. The site is too new to be indexed; no LinkedIn, news, or other external references to a named founder or employee surfaced in web searches. Role, background, and seniority are unknown. Could be founder, early employee, or evaluator \u2014 cannot assert.",
     "source_urls": []
   },
   "could_not_find": [
-    "Any publicly accessible content at projectdomesday.com",
-    "What the organization does (product, service, mission)",
-    "Joe's last name",
-    "Joe's role or title at Project Domesday",
-    "Whether this is a company, nonprofit, hobby project, or solo venture",
-    "Any news, press, social media, or third-party mentions of Project Domesday (projectdomesday.com)",
-    "Founding date or team size",
-    "Geographic location or target market"
+    "Joe's last name, role/title, and background \u2014 not findable from any indexed source.",
+    "Whether Joe is a founder, employee, investor, or external evaluator.",
+    "Company founding date, funding status, team size, or stage.",
+    "About/team page content \u2014 none visible in provided homepage excerpt.",
+    "Any press coverage, launch announcements, or third-party mentions of Project Domesday.",
+    "Target customer segment specifics (e.g., primes only vs. full DIB, government buyers, compliance consultants).",
+    "Whether the counsel-retention component is in-house legal or a partner arrangement."
   ]
 }
