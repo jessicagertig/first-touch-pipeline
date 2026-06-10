@@ -1,0 +1,30 @@
+[
+  {
+    "fact": "Send automatic messages to a selected Discord channel whenever a new job application comes in. (Polymer homepage, polymer.co, June 2026; also confirmed by Polymer Help Center article and dedicated setup documentation at help.polymer.co)",
+    "source_url": "https://www.polymer.co/"
+  },
+  {
+    "fact": "With one click, publish your job to We Work Remotely's audience of 6M remote job seekers. (Live on polymer.co homepage, June 2026; corroborated by WWR's own live site and a Polymer blog post dated September 2025.)",
+    "source_url": "https://www.polymer.co/"
+  },
+  {
+    "fact": "Polymer launched its Customer API in beta (early 2026), with documentation live at developer.polymer.co. The official LinkedIn announcement states: 'If you've ever wanted to pull your hiring data out of Polymer programmatically \u2014 to build custom reports, sync with other tools, or feed data into AI agents \u2014 now you can. Access your jobs, candidates, job applications, and more, with bulk resume exports and incremental sync built in.'",
+    "source_url": "https://www.linkedin.com/company/withpolymer"
+  },
+  {
+    "fact": "Polymer has built a customer API with a deliberate UX principle of 'no in-app surprises': actions taken via the API are clearly indicated in the UI so your team isn't left wondering where something came from. This was shared in a LinkedIn 'building in public' post by the Polymer team (dated March 11, 2026) and is corroborated by the live developer documentation at developer.polymer.co, which shows API responses carrying a 'created_via: created_via_customer_api' field \u2014 confirming the attribution design is implemented in the product.",
+    "source_url": "https://www.linkedin.com/company/withpolymer"
+  },
+  {
+    "fact": "Curious Holdings states in their acquisition announcement (dated ~1 month ago, May 2026): 'We've been using it at Curious for over a year and rely on it for all of our hiring, which you can see in practice at careers.curious.vc.' The live careers.curious.vc page is confirmed active and explicitly identifies itself as powered by Polymer ('Polymer is the leading hiring platform and applicant tracking system for growing businesses.').",
+    "source_url": "https://www.curiousholdings.com/post/introducing-polymer-the-leading-applicant-tracking-system-for-small-business"
+  },
+  {
+    "fact": "Curious is a long-term holding company that buys and grows software companies with empathy. We close within 60 days and pay cash. Founders decide whether to stay with the business or hand it off. No golden handcuffs. (Source: https://www.curiousholdings.com/, live homepage, June 2026)",
+    "source_url": "https://www.curiousholdings.com/"
+  },
+  {
+    "fact": "You can either use our ready-made job board or build your own front-end using our developer API.",
+    "source_url": "https://www.polymer.co/"
+  }
+]

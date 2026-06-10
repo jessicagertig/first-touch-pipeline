@@ -1,0 +1,67 @@
+{
+  "candidates": [
+    {
+      "item": "Send automatic messages to a selected Discord channel whenever a new job application comes in.",
+      "why_interesting": "Routing job application alerts into Discord (a gamer/community-first platform, not a traditional HR tool) is a quirky and specific integration choice that signals Polymer's target customer \u2014 tech-native startups whose teams actually live in Discord, not email. Most ATS tools integrate with Slack; Discord is the differentiator worth noting.",
+      "level": "company",
+      "source_url": "https://www.polymer.co/",
+      "as_of_date_if_known": "2026",
+      "recency_note": "Live on the Polymer homepage as of June 2026.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "With one click, publish your job to We Work Remotely's audience of 6M remote job seekers.",
+      "why_interesting": "Surfacing the specific audience size (6 million) of one distribution partner \u2014 rather than just listing the integration \u2014 gives a concrete, reaction-worthy number. It's a specific, verifiable claim rather than a generic 'we distribute your jobs' boast.",
+      "level": "company",
+      "source_url": "https://www.polymer.co/",
+      "as_of_date_if_known": "2026",
+      "recency_note": "Live on the Polymer homepage as of June 2026.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "If you've ever wanted to pull your hiring data out of Polymer programmatically \u2014 to build custom reports, sync with other tools, or feed data into AI agents \u2014 now you can. Access your jobs, candidates, job applications, and more, with bulk resume exports and incremental sync built in.",
+      "why_interesting": "Explicitly calling out 'feed data into AI agents' as a first-class use case for their new Customer API is a bold, specific, and forward-leaning positioning move \u2014 most ATS tools of this size don't frame their API around AI agent workflows at all. This is a concrete mechanism, not a slogan.",
+      "level": "company",
+      "source_url": "https://www.linkedin.com/company/withpolymer",
+      "as_of_date_if_known": "2026",
+      "recency_note": "Posted on Polymer's LinkedIn; API described as recently launched in beta as of early 2026.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Been building a customer API at Polymer and thought I'd go for the building in public vibe a bit... Actions taken via the API are clearly indicated in the UI so your team isn't left wondering where something came from.",
+      "why_interesting": "The team building in public and soliciting feedback on API design decisions (e.g. 'should there be a param to skip automations?') on LinkedIn is an unusually candid, developer-first posture for an SMB hiring tool \u2014 and the specific UX principle (no in-app surprises from API actions) is a smart, concrete design choice worth highlighting.",
+      "level": "company",
+      "source_url": "https://www.linkedin.com/company/withpolymer",
+      "as_of_date_if_known": "2026",
+      "recency_note": "Active LinkedIn post from Polymer, circa early 2026.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "We've been using it at Curious for over a year and rely on it for all of our hiring, which you can see in practice at careers.curious.vc.",
+      "why_interesting": "The acquirer (Curious Holdings) publicly eats their own cooking \u2014 they hired using Polymer before acquiring it, and their live careers page still runs on it. That's a strikingly honest acquisition story: they were a customer first. It's a specific, verifiable detail, not a boast.",
+      "level": "company",
+      "source_url": "https://www.curiousholdings.com/post/introducing-polymer-the-leading-applicant-tracking-system-for-small-business",
+      "as_of_date_if_known": "2025\u20132026",
+      "recency_note": "Cited in Curious Holdings' acquisition announcement post, indexed as ~1 month old as of June 2026.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Curious is a long-term holding company that buys and grows software companies with empathy. We close within 60 days and pay cash. Founders decide whether to stay with the business or hand it off. No golden handcuffs.",
+      "why_interesting": "The new parent company's explicit 'no golden handcuffs' and 'decades' holding frame is a counternarrative to typical VC-backed SaaS acqui-hires. For a Polymer user, it signals unusual product continuity and stability \u2014 the company isn't being flipped. The phrase 'no golden handcuffs' is blunt and distinctive.",
+      "level": "company",
+      "source_url": "https://www.curiousholdings.com/",
+      "as_of_date_if_known": "2026",
+      "recency_note": "Live on the Curious Holdings homepage as of June 2026.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "You can either use our ready-made job board or build your own front-end using our developer API.",
+      "why_interesting": "Offering a fully headless/API-first path alongside the no-code option is genuinely uncommon at the SMB/startup ATS price point \u2014 it means a developer-heavy team can own their candidate experience entirely, while non-technical teams still get a working product out of the box. The optionality is the interesting thing.",
+      "level": "company",
+      "source_url": "https://www.polymer.co/",
+      "as_of_date_if_known": "2026",
+      "recency_note": "Live on the Polymer homepage as of June 2026.",
+      "sensitivity": "none"
+    }
+  ]
+}

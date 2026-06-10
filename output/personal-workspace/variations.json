@@ -1,0 +1,80 @@
+{
+  "lead_id": "personal-workspace",
+  "company_name": "Personal Workspace",
+  "recipient_name": "Sam Park",
+  "email": "productboard+polymer-co-7ihqcx2@westonhenry.org",
+  "variations": [
+    {
+      "variant_n": 1,
+      "compliment": "Polymer's new Customer API beta looks like a great addition - being able to pull jobs, candidates, and applications out programmatically, with bulk resume exports and incremental sync, seems really useful for building custom reports or feeding data into other tools.",
+      "email": "Hello Sam,\n\nThanks for checking out Polymer! Polymer's new Customer API beta looks like a great addition - being able to pull jobs, candidates, and applications out programmatically, with bulk resume exports and incremental sync, seems really useful for building custom reports or feeding data into other tools.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.linkedin.com/company/withpolymer"
+      ],
+      "score": 5,
+      "tells": [
+        "being able to pull jobs, candidates, and applications out programmatically, with bulk resume exports and incremental sync, seems really useful for building custom reports or feeding data into other tools"
+      ],
+      "verdict": "revise",
+      "ship": false
+    },
+    {
+      "variant_n": 2,
+      "compliment": "Polymer looks like a great product - I love the 'no in-app surprises' principle behind the Customer API!",
+      "email": "Hello Sam,\n\nThanks for checking out Polymer! Polymer looks like a great product - I love the 'no in-app surprises' principle behind the Customer API!\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.linkedin.com/company/withpolymer"
+      ],
+      "score": 9,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1781081685.996759",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 3,
+      "compliment": "Polymer looks like a great platform - I love that you can publish a job to We Work Remotely's 6M remote job seekers with a single click.",
+      "email": "Hello Sam,\n\nThanks for checking out Polymer! Polymer looks like a great platform - I love that you can publish a job to We Work Remotely's 6M remote job seekers with a single click.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.polymer.co/"
+      ],
+      "score": 8,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1781081686.322299",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 4,
+      "compliment": "Curious Holdings looks like a great company - I love that you let founders decide whether to stay or hand things off, with no golden handcuffs.",
+      "email": "Hello Sam,\n\nThanks for checking out Polymer! Curious Holdings looks like a great company - I love that you let founders decide whether to stay or hand things off, with no golden handcuffs.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.curiousholdings.com/"
+      ],
+      "score": 9,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1781081686.630559",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 5,
+      "compliment": "Polymer looks like a great platform - I love that you can publish a job to We Work Remotely's 6M remote job seekers with a single click.",
+      "email": "Hello Sam,\n\nThanks for checking out Polymer! Polymer looks like a great platform - I love that you can publish a job to We Work Remotely's 6M remote job seekers with a single click.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.polymer.co/"
+      ],
+      "score": 8,
+      "tells": [
+        "I love that you can publish a job to We Work Remotely's 6M remote job seekers with a single click"
+      ],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1781081686.874539",
+      "slack_channel": "C0B87Q5UEL9"
+    }
+  ]
+}

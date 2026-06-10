@@ -1,0 +1,36 @@
+{
+  "company": {
+    "website": "https://www.polymer.co",
+    "what_they_do": "Polymer is an applicant tracking system (ATS) and job board platform built for startups, small businesses, and growing teams. It lets companies create a branded careers/job board page, post jobs (with distribution to LinkedIn, Google Jobs, X/Twitter, We Work Remotely, and others), manage and track applicants through customizable hiring pipelines, collaborate with hiring teams via roles and permissions, and communicate with candidates\u2014all from one platform. It positions itself as a lightweight, affordable alternative to enterprise ATS tools, with no-code setup, unlimited users, and a developer API for custom integrations. Polymer was originally built by founders Andrew and Corey, later acquired by Curious Holdings (a software holding company), and is currently led by CEO Jessica Gertig. It is headquartered in Charlotte, NC.",
+    "raw_notes": "- Product: ATS + branded job board for startups and small businesses. Core tagline: 'Hiring made simple.' - Key features: branded/custom-domain job board, visual hiring pipeline/dashboard, candidate messaging, team collaboration (user roles, notifications), job distribution integrations (LinkedIn, Google Jobs, X, We Work Remotely, WhatJobs, Discord), Slack/Zapier/Webflow integrations, developer API (developer.polymer.co), CSV import, bulk messaging, automated stage emails. - Positioning: lightweight vs enterprise ATS (Greenhouse, Lever etc.); flat-rate pricing with full functionality on every plan; no coding required; unlimited users. - Target customers: startups, small businesses, growing teams across tech, marketing, eCommerce, healthcare, professional services. Thousands of startups use it per their site. - Headquarters: Charlotte, NC (founded and headquartered there). - Ownership: Acquired by Curious Holdings (a long-term software holding company led by Andrew); CEO is Jessica Gertig (full-stack web developer background, previously at AirGarage). - The Curious acquisition announcement describes Polymer as 'the best hiring platform that exists today' and was built by 'Andrew and Corey.' - Curious portfolio also includes Avenue (real estate) and Uservoice (product feedback). Curious has crossed $10M ARR across portfolio. - Polymer has a blog, a developer API, and a 14-day free trial. - The 'Personal Workspace' org_name and the tagged email alias suggest Sam may be an individual contributor or early employee evaluating Productboard independently (not a formal company-wide rollout).",
+    "source_urls": [
+      "https://www.polymer.co/",
+      "https://www.polymer.co/about",
+      "https://www.polymer.co/features",
+      "https://www.polymer.co/applicant-tracking-for-startups",
+      "https://www.curiousholdings.com/post/introducing-polymer-the-leading-applicant-tracking-system-for-small-business",
+      "https://www.curiousholdings.com/companies",
+      "https://www.privsource.com/acquisitions/deal/curious-acquires-polymer-N7SRve",
+      "https://www.linkedin.com/company/withpolymer",
+      "https://pitchbook.com/profiles/company/523369-72"
+    ]
+  },
+  "individual": {
+    "name": "Sam (last name unknown)",
+    "role_if_found": null,
+    "notes": "First name only ('Sam') provided. The email domain westonhenry.org appears to be a personal domain used for email aliasing/routing \u2014 no public company or personal website was found at westonhenry.org. The tagged email alias 'polymer-co-7ihqcx2' strongly indicates Sam is affiliated with Polymer (polymer.co). The org_name 'Personal Workspace' suggests Sam signed up individually rather than provisioning a full company account. Sam is not publicly named as a member of the Polymer team in any source found. Polymer's publicly named leadership includes CEO Jessica Gertig. The original founders (pre-acquisition) were referred to only as 'Andrew and Corey' in the Curious acquisition announcement. No 'Sam' appears in any public Polymer team page, LinkedIn company page, or press coverage found.",
+    "source_urls": [
+      "https://www.linkedin.com/in/jessica-gertig/",
+      "https://www.privsource.com/acquisitions/deal/curious-acquires-polymer-N7SRve",
+      "https://www.curiousholdings.com/post/introducing-polymer-the-leading-applicant-tracking-system-for-small-business"
+    ]
+  },
+  "could_not_find": [
+    "No public website or business presence found at westonhenry.org \u2014 it appears to be a personal email domain used for alias routing only.",
+    "Sam's last name is unknown; could not be identified from public sources.",
+    "Sam's specific role at Polymer (or whether they are a customer/user vs. employee) could not be confirmed.",
+    "No 'Sam' is publicly listed on the Polymer team, about page, or in press coverage.",
+    "Polymer's full team roster is not publicly available; the company appears to be small (small team, early-stage post-acquisition).",
+    "The org_name 'Personal Workspace' provides no additional company signal \u2014 it is likely a Productboard default for individual signups."
+  ]
+}
