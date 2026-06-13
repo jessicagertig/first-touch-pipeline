@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://natanitsolutions.com",
-    "what_they_do": "Cannot be determined. The website contains only default WordPress placeholder content ('Hello world!', 'This is your first post.') and Lorem Ipsum-style filler text. No real product, service, or business description is present.",
-    "raw_notes": "Site is a freshly installed WordPress instance with zero real content published. No homepage copy, no about page, no services listed, no team page, no case studies, no branding beyond the domain name. The org name 'Natan IT Solutions' suggests an IT services or consulting firm, but this is inferred from the name alone \u2014 nothing on the site confirms it.",
+    "what_they_do": "Unknown. The website is a brand-new, unconfigured WordPress installation displaying only the default 'Hello world!' placeholder post and generic Lorem Ipsum filler text. No actual product, service, or business description has been published.",
+    "raw_notes": "The homepage content provided directly from natanitsolutions.com is entirely default WordPress boilerplate: 'Hello world! Welcome to WordPress. This is your first post. Edit or delete it, then start writing!' plus Lorem Ipsum-style placeholder text. There is no homepage copy, about page, product/services description, team info, or any substantive content whatsoever. Web searches for 'Natan IT Solutions' and 'natanitsolutions.com' return no matching results for this specific entity \u2014 only unrelated companies with similar names (NAT IT Solutions at natitsolution.com, NAT IT & Digital Marketing Solutions at natitsolutions.com, Nahum Natan Technology Solutions in Israel, etc.). None of these can be attributed to the signup org 'Natan IT Solutions' at natanitsolutions.com.",
     "source_urls": [
       "https://natanitsolutions.com"
     ]
@@ -10,15 +10,14 @@
   "individual": {
     "name": "Natan",
     "role_if_found": null,
-    "notes": "First name only is known. The email prefix is 'hr@', which suggests this person may work in a Human Resources capacity, or that 'hr@' is simply a generic departmental inbox rather than a personal address. No individual profile, LinkedIn presence, or biographical detail was findable from the site, which has no team or about content.",
+    "notes": "The signup email is hr@natanitsolutions.com, suggesting the recipient may work in an HR capacity (or the HR inbox is used as a general contact). Only a first name ('Natan') was provided. No individual matching this name at this company was found via web search, LinkedIn, or any other public source. It is also possible 'Natan' is the founder/owner \u2014 the company name appears to be named after the individual \u2014 but this cannot be confirmed from available sources.",
     "source_urls": []
   },
   "could_not_find": [
-    "What the company actually does \u2014 site has no real content whatsoever.",
-    "Recipient's last name, title, or role.",
-    "Whether 'hr@' is a personal address or a shared HR department inbox.",
-    "Company size, founding date, target market, or geography.",
-    "Any press coverage, social profiles, or third-party mentions (site may be too new to be indexed).",
-    "Any differentiators, products, clients, or value propositions."
+    "Any substantive description of what Natan IT Solutions actually does \u2014 the website is an unconfigured WordPress placeholder with zero real content.",
+    "Any web search results confirming the existence or details of 'Natan IT Solutions' at natanitsolutions.com as a distinct business entity.",
+    "The individual recipient's full name, title, or role \u2014 only a first name ('Natan') and an HR-prefix email are available.",
+    "Company size, industry vertical, founding date, location, or any other firmographic data.",
+    "Any social media profiles, news mentions, or third-party listings for this specific company."
   ]
 }
