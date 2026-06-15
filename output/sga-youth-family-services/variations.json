@@ -1,0 +1,80 @@
+{
+  "lead_id": "sga-youth-family-services",
+  "company_name": "SGA Youth &amp; Family Services",
+  "recipient_name": "Joshua Reyes",
+  "email": "jreyes2@sga-youth.org",
+  "variations": [
+    {
+      "variant_n": 1,
+      "compliment": "SGA Youth & Family Services is doing important work - paying youth $16.50 an hour while providing career coaching and academic support is such a practical way to help kids facing real challenges.",
+      "email": "Hello Joshua,\n\nThanks for checking out Polymer! SGA Youth & Family Services is doing important work - paying youth $16.50 an hour while providing career coaching and academic support is such a practical way to help kids facing real challenges.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://211lakecounty.org/index.php?option=com_cpx&task=resource.view&id=4757392&search_history_id=172043732"
+      ],
+      "score": 8,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1781541552.424669",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 2,
+      "compliment": "SGA Youth & Family Services is clearly doing meaningful work - founded back in 1911, it's amazing to see you still helping children and families realize their potential more than a century later.",
+      "email": "Hello Joshua,\n\nThanks for checking out Polymer! SGA Youth & Family Services is clearly doing meaningful work - founded back in 1911, it's amazing to see you still helping children and families realize their potential more than a century later.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://sga-youth.org/about/"
+      ],
+      "score": 8,
+      "tells": [
+        "realize their potential more than a century later — mild parroting of mission-statement language plus a redundant restatement of the 1911 longevity point already made"
+      ],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1781541552.519099",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 3,
+      "compliment": "SGA Youth & Family Services looks like a wonderful organization - I love that your youth employment program pays young people while also giving them career coaching and academic support.",
+      "email": "Hello Joshua,\n\nThanks for checking out Polymer! SGA Youth & Family Services looks like a wonderful organization - I love that your youth employment program pays young people while also giving them career coaching and academic support.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://211lakecounty.org/index.php?option=com_cpx&task=resource.view&id=4757392&search_history_id=172043732"
+      ],
+      "score": 9,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1781541552.620839",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 4,
+      "compliment": "SGA Youth & Family Services is doing really important work - it's amazing to think the organization has been helping children and families realize their potential since 1911.",
+      "email": "Hello Joshua,\n\nThanks for checking out Polymer! SGA Youth & Family Services is doing really important work - it's amazing to think the organization has been helping children and families realize their potential since 1911.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://sga-youth.org/about/"
+      ],
+      "score": 9,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1781541552.715089",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 5,
+      "compliment": "SGA Youth & Family Services looks like a great organization - it's impressive how the mission has grown over the decades to take on the emotional and social challenges kids and families face.",
+      "email": "Hello Joshua,\n\nThanks for checking out Polymer! SGA Youth & Family Services looks like a great organization - it's impressive how the mission has grown over the decades to take on the emotional and social challenges kids and families face.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://sga-youth.org/about/"
+      ],
+      "score": 8,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1781541552.807419",
+      "slack_channel": "C0B87Q5UEL9"
+    }
+  ]
+}
