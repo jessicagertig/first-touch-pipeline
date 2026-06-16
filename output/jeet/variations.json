@@ -1,0 +1,84 @@
+{
+  "lead_id": "jeet",
+  "company_name": "jeet",
+  "recipient_name": "Tech (Aghori Media House)",
+  "email": "tech@aghorimediahouse.com",
+  "variations": [
+    {
+      "variant_n": 1,
+      "compliment": "Aghori Media House looks like a great company - serving as Creative Director for IIFA 2024 is seriously impressive!",
+      "email": "Hello Tech,\n\nThanks for checking out Polymer! Aghori Media House looks like a great company - serving as Creative Director for IIFA 2024 is seriously impressive!\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.linkedin.com/in/aghori-media-house/"
+      ],
+      "score": 9,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1781609991.731679",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 2,
+      "compliment": "Aghori Media House looks like a great company - growing from over half a decade of social media marketing into complete IT solutions is an impressive leap.",
+      "email": "Hello Tech,\n\nThanks for checking out Polymer! Aghori Media House looks like a great company - growing from over half a decade of social media marketing into complete IT solutions is an impressive leap.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://in.linkedin.com/company/weaghori"
+      ],
+      "score": 8,
+      "tells": [
+        "growing from over half a decade of social media marketing into complete IT solutions is an impressive leap"
+      ],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1781609992.008099",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 3,
+      "compliment": "Aghori Media House looks like a great company - 4.7 stars across 60 customer reviews says a lot about the quality of your work.",
+      "email": "Hello Tech,\n\nThanks for checking out Polymer! Aghori Media House looks like a great company - 4.7 stars across 60 customer reviews says a lot about the quality of your work.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.justdial.com/Mumbai/Aghor-Media-House-Pvt-Ltd-Next-to-Natraj-Market-Malad-West/022PXX22-XX22-190116231043-F8J9_BZDET"
+      ],
+      "score": 8,
+      "tells": [
+        "says a lot about the quality of your work"
+      ],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1781609992.280449",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 4,
+      "compliment": "Aghori Media House looks like a great company - it's exciting to see you grow from over half a decade of social media marketing into offering complete IT solutions!",
+      "email": "Hello Tech,\n\nThanks for checking out Polymer! Aghori Media House looks like a great company - it's exciting to see you grow from over half a decade of social media marketing into offering complete IT solutions!\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://in.linkedin.com/company/weaghori"
+      ],
+      "score": 8,
+      "tells": [
+        "from over half a decade of social media marketing into offering complete IT solutions"
+      ],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1781609992.546379",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 5,
+      "compliment": "Aghori Media House looks like a great company - after more than half a decade in social media marketing, expanding into complete IT solutions is an impressive leap to take.",
+      "email": "Hello Tech,\n\nThanks for checking out Polymer! Aghori Media House looks like a great company - after more than half a decade in social media marketing, expanding into complete IT solutions is an impressive leap to take.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://in.linkedin.com/company/weaghori"
+      ],
+      "score": 8,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1781609992.817899",
+      "slack_channel": "C0B87Q5UEL9"
+    }
+  ]
+}
