@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://natanitsolutions.com",
-    "what_they_do": "Unknown. The website is a default, unconfigured WordPress installation with no real content \u2014 only placeholder/dummy text and the standard 'Hello world!' first post. No products, services, or company description have been published.",
-    "raw_notes": "Site shows default WordPress placeholder content: 'Hello world!' post, Lorem Ipsum-style dummy text ('There are many variations of passages...'), and the default WordPress onboarding message. No homepage copy, no about page, no services listed, no team information, no branding beyond the domain name. The domain name 'natanitsolutions.com' suggests an IT solutions/services company, but this is inference from the name only \u2014 nothing on the site confirms it.",
+    "what_they_do": "Unknown / cannot be determined. The domain resolves to a default, unconfigured WordPress installation with no real content \u2014 only placeholder text ('Hello world! Welcome to WordPress. This is your first post.'). No products, services, or business description have been published to the site.",
+    "raw_notes": "The homepage served from natanitsolutions.com is an out-of-the-box WordPress install with zero business content. All visible text is WordPress boilerplate and Lorem Ipsum filler. There is no 'About', 'Services', or 'Products' page content available. The site appears to have been registered/set up but not yet built out. Web search returns no results for 'natanitsolutions.com' specifically, and no third-party sources (Crunchbase, LinkedIn, news, directories) corroborate what this company actually does. Note: there are several unrelated companies with similar names (NAT IT Solutions at natitsolutions.com, NAT IT Solutions at natitsolution.com, Nahum Natan Technology Solutions in Israel), but none share the exact domain 'natanitsolutions.com' and none can be reliably associated with this signup.",
     "source_urls": [
       "https://natanitsolutions.com"
     ]
@@ -10,16 +10,15 @@
   "individual": {
     "name": "Natan",
     "role_if_found": null,
-    "notes": "First name only provided. Email is hr@natanitsolutions.com, which suggests an HR function (either an HR professional, HR manager, or someone handling HR responsibilities at the company). No individual profile, LinkedIn, or other identifying information was findable. The org name mirrors the first name ('Natan IT Solutions'), which may suggest Natan is a founder or the principal, but this cannot be confirmed from available sources.",
+    "notes": "The email address is hr@natanitsolutions.com, strongly suggesting the recipient works in an HR or human resources function at the company. The first name 'Natan' is provided but no last name. No LinkedIn profile, personal bio, or any other public record was found for an individual named 'Natan' at 'Natan IT Solutions' or at natanitsolutions.com. The HR email prefix may indicate this person handles recruiting, people operations, or HR administration \u2014 but this cannot be confirmed from any source.",
     "source_urls": []
   },
   "could_not_find": [
-    "What the company actually does \u2014 no real website content exists yet",
-    "Any description of services, products, or target market",
-    "Natan's last name",
-    "Natan's specific role or title",
-    "Company size, location, or founding date",
-    "Any news, press, or third-party references to the company",
-    "Why someone in an HR role signed up (use case is unknown)"
+    "Company's actual business, industry, services, or products \u2014 website is a blank WordPress install with no content",
+    "Any third-party mention, directory listing, or news coverage of 'Natan IT Solutions' at natanitsolutions.com",
+    "Individual's last name, full title, or any biographical detail",
+    "Whether 'Natan' (first name) is a founder, employee, or contractor \u2014 role inferred only from 'hr@' email prefix",
+    "Company size, location, founding date, or any firmographic data",
+    "Social media presence (LinkedIn company page, Twitter/X, etc.) for natanitsolutions.com"
   ]
 }
