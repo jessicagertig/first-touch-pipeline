@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://natanitsolutions.com",
-    "what_they_do": "Unknown. The website is a brand-new, unconfigured WordPress installation with only the default placeholder content ('Hello world! Welcome to WordPress. This is your first post.'). No real business description, services, or any meaningful content is present.",
-    "raw_notes": "The homepage content provided is entirely auto-generated WordPress boilerplate \u2014 default 'Hello world!' post, lorem ipsum filler text, and no custom content whatsoever. The site has not been set up yet. The domain 'natanitsolutions.com' returned no relevant results in web search; no indexed pages, news, LinkedIn presence, or third-party mentions were found for this exact company. Several similarly-named but unrelated IT companies were found (natitsolutions.com, natitsolution.com, natecoitsolutions.com, etc.) \u2014 none are the same company. The org name 'Natan IT Solutions' and the email 'hr@natanitsolutions.com' suggest this is an IT services/solutions company, but that is inferred from the name alone, not from any verifiable content.",
+    "what_they_do": "Cannot be determined. The website contains only default WordPress placeholder content ('Hello world!', 'This is your first post.') and Lorem Ipsum-style filler text. No real product, service, or business description is present.",
+    "raw_notes": "Site is a fresh/unconfigured WordPress install. No homepage copy, no about page, no services listed, no team info, no branding beyond the domain name. The name 'Natan IT Solutions' suggests an IT services or technology solutions company, but this is inference from the name only \u2014 not supported by any published content. Lorem Ipsum filler text is present, indicating the site is under construction or has not yet been built out.",
     "source_urls": [
       "https://natanitsolutions.com"
     ]
@@ -10,15 +10,15 @@
   "individual": {
     "name": "Natan",
     "role_if_found": null,
-    "notes": "The first name 'Natan' was provided at signup. The email address is 'hr@natanitsolutions.com', which is a role-based HR inbox rather than a personal address, suggesting the recipient may work in HR, recruitment, or people operations \u2014 but this cannot be confirmed. No individual named 'Natan' was found associated with 'Natan IT Solutions' via web search. The name 'Natan' could also be the company's namesake (i.e., founder/owner), but this is speculative and unsupported by any source.",
+    "notes": "No individual profile found. The email prefix 'hr@' suggests this person works in or manages HR/people operations, or that this is a general HR department inbox rather than a named individual's address. The first name 'Natan' matches the company name ('Natan IT Solutions'), which may suggest a founder or owner named Natan, but this is speculative and not source-supported.",
     "source_urls": []
   },
   "could_not_find": [
-    "No real company content at natanitsolutions.com \u2014 site is an unconfigured WordPress install with only default placeholder text.",
-    "No web search results for natanitsolutions.com or 'Natan IT Solutions' as a distinct company.",
-    "No confirmed role, LinkedIn profile, or background for the individual recipient 'Natan'.",
-    "No information on company industry, services, founding date, location, team size, or customers.",
-    "The HR email address (hr@) indicates a role-based inbox; the actual recipient's identity and role within the company are unknown.",
-    "Cannot determine whether 'Natan' is the founder, an HR staff member, or another employee."
+    "What the company actually does \u2014 website is a default WordPress placeholder with no real content",
+    "Natan's last name, title, or role \u2014 no about page, team page, or LinkedIn profile found",
+    "Whether 'hr@' is a personal inbox or a shared department inbox",
+    "Company size, founding date, location, or any other firmographic data",
+    "Any external mentions, news, or third-party references to Natan IT Solutions",
+    "No usable hook or compliment basis exists at this time \u2014 insufficient real content from any source"
   ]
 }
