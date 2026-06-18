@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://natanitsolutions.com",
-    "what_they_do": "Unknown. The website is a default, unconfigured WordPress installation with no real content \u2014 only the auto-generated 'Hello world!' placeholder post and Lorem Ipsum filler text. No products, services, or business description are present.",
-    "raw_notes": "Site shows default WordPress placeholder content ('Welcome to WordPress. This is your first post. Edit or delete it, then start writing!'). Lorem Ipsum-style filler text is present. No About page, no services page, no real copy of any kind. The site has not been set up yet. Company name 'Natan IT Solutions' suggests an IT services or solutions firm, but this cannot be confirmed from any first-party source.",
+    "what_they_do": "Unknown. The website is a brand-new, unconfigured WordPress installation with only the default placeholder content ('Hello world! Welcome to WordPress. This is your first post.'). No real business description, services, or any meaningful content is present.",
+    "raw_notes": "The homepage content provided is entirely auto-generated WordPress boilerplate \u2014 default 'Hello world!' post, lorem ipsum filler text, and no custom content whatsoever. The site has not been set up yet. The domain 'natanitsolutions.com' returned no relevant results in web search; no indexed pages, news, LinkedIn presence, or third-party mentions were found for this exact company. Several similarly-named but unrelated IT companies were found (natitsolutions.com, natitsolution.com, natecoitsolutions.com, etc.) \u2014 none are the same company. The org name 'Natan IT Solutions' and the email 'hr@natanitsolutions.com' suggest this is an IT services/solutions company, but that is inferred from the name alone, not from any verifiable content.",
     "source_urls": [
       "https://natanitsolutions.com"
     ]
@@ -10,15 +10,15 @@
   "individual": {
     "name": "Natan",
     "role_if_found": null,
-    "notes": "First name only provided. Email address is hr@natanitsolutions.com, which suggests this person may work in Human Resources at the company, or the HR inbox is a shared/generic address. No further identifying information is available \u2014 no last name, no LinkedIn profile, no bio found. Role cannot be confirmed beyond the HR inbox inference.",
+    "notes": "The first name 'Natan' was provided at signup. The email address is 'hr@natanitsolutions.com', which is a role-based HR inbox rather than a personal address, suggesting the recipient may work in HR, recruitment, or people operations \u2014 but this cannot be confirmed. No individual named 'Natan' was found associated with 'Natan IT Solutions' via web search. The name 'Natan' could also be the company's namesake (i.e., founder/owner), but this is speculative and unsupported by any source.",
     "source_urls": []
   },
   "could_not_find": [
-    "No last name for the individual.",
-    "No confirmed role or title for Natan \u2014 'hr@' may indicate an HR function but could also be a catch-all or personal inbox.",
-    "No company description, services, or business model \u2014 website is an unconfigured WordPress default.",
-    "No web search results or third-party sources confirming what Natan IT Solutions actually does.",
-    "No founding story, team page, product offering, or any differentiating detail.",
-    "Company may be brand-new or pre-launch, given the unbuilt website state."
+    "No real company content at natanitsolutions.com \u2014 site is an unconfigured WordPress install with only default placeholder text.",
+    "No web search results for natanitsolutions.com or 'Natan IT Solutions' as a distinct company.",
+    "No confirmed role, LinkedIn profile, or background for the individual recipient 'Natan'.",
+    "No information on company industry, services, founding date, location, team size, or customers.",
+    "The HR email address (hr@) indicates a role-based inbox; the actual recipient's identity and role within the company are unknown.",
+    "Cannot determine whether 'Natan' is the founder, an HR staff member, or another employee."
   ]
 }

@@ -1,0 +1,76 @@
+{
+  "candidates": [
+    {
+      "item": "Persona was one of 13 cloud service providers selected for the pilot and was the only identity verification provider to achieve FedRAMP 20x Moderate Authorization.",
+      "why_interesting": "Being singled out as the ONLY identity verification vendor selected for the FedRAMP 20x pilot \u2014 out of 13 total \u2014 is a concrete, verifiable distinction, not a generic compliance checkbox. It signals Persona is operating at the frontier of both government security standards and a brand-new authorization pathway simultaneously. Specific, surprising, and hard-won.",
+      "level": "company",
+      "source_url": "https://withpersona.com/blog/persona-attains-fedramp-r-moderate-authorization-status",
+      "as_of_date_if_known": "May 19\u201321, 2026",
+      "recency_note": "Announced ~1 month ago; very fresh.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Rather than picking one [FedRAMP authorization] track, the company decided to run both in parallel \u2014 an unusual and demanding choice that few cloud service providers have attempted.",
+      "why_interesting": "Persona ran the brand-new FedRAMP 20x pilot AND the traditional Rev5 pathway simultaneously \u2014 something described as unusual even among cloud security vendors. This reveals an unusually aggressive and operationally demanding compliance posture, not just a checkbox achievement.",
+      "level": "company",
+      "source_url": "https://fedtechmagazine.com/article/2026/06/how-one-company-went-tech-startup-fedramp-20x",
+      "as_of_date_if_known": "June 2026",
+      "recency_note": "Published 2 days ago; extremely fresh.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Persona says its detection of deepfakes as a threat vector has increased 75 times over between 2021 and 2026.",
+      "why_interesting": "A concrete, striking, proprietary data point (75x deepfake detection growth in 5 years) that comes from Persona's own platform telemetry \u2014 not a third-party report. It makes the AI-fraud problem viscerally real in a way that generic 'AI-driven fraud is growing' claims do not.",
+      "level": "company",
+      "source_url": "https://fedtechmagazine.com/article/2026/06/how-one-company-went-tech-startup-fedramp-20x",
+      "as_of_date_if_known": "June 2026",
+      "recency_note": "Published 2 days ago; extremely fresh.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Persona is now a trusted credential issuer for Chainlink's Cross-Chain Identity (CCID) framework. Financial institutions who use Chainlink's Automated Compliance Engine (ACE) can accept Persona-verified credentials as proof of KYC, sanctions screening, and accreditation status.",
+      "why_interesting": "This is an architecturally unusual move: Persona is embedding its KYC credentials directly into blockchain-native compliance infrastructure. Instead of identity verification being a walled-garden step, Persona-issued credentials travel on-chain with the user's wallet \u2014 verified once, accepted everywhere across protocols. It's a genuinely novel product direction for an identity company.",
+      "level": "company",
+      "source_url": "https://withpersona.com/blog/persona-partners-with-chainlink",
+      "as_of_date_if_known": "May 5, 2026",
+      "recency_note": "About 6 weeks old; recent.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Persona Wallet allow users to seamlessly store and reuse their verified personally identifiable information (PII) across devices and the ever-growing Persona network. End users can create a Persona Wallet to securely save their PII and speed up future verification flows on other businesses that use Persona to verify identities.",
+      "why_interesting": "Persona Wallet turns the typical one-time, per-business identity check into a portable, passkey-secured credential that follows users across any Persona-powered business. The user verifies once and reuses everywhere in the network \u2014 this 'network effect of trust' model is architecturally distinct from competitors who reverify every time.",
+      "level": "company",
+      "source_url": "https://help.withpersona.com/articles/4Yl6a7VEH2ScPfAHDif0Ts/",
+      "as_of_date_if_known": "unknown",
+      "recency_note": "Undated help doc; feature existence confirmed via multiple sources.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Persona Marketplace lets customers integrate third-party apps \u2014 including OpenAI, Anthropic, Chainalysis, LexisNexis, Mastercard Identity, Coinbase, TRM Labs, Nova Credit, Okta, Workday, ServiceNow, GitHub, Salesforce, Slack, Zendesk, HubSpot, SentiLink, Clearbit, and MX \u2014 directly into Persona workflows. Third-party developers can also LIST their own integrations and receive partner-preferred pricing and revenue share.",
+      "why_interesting": "Persona has built a two-sided app marketplace \u2014 not just a library of pre-built connectors, but an open platform where third-party developers can publish integrations and earn revenue share. The breadth (from Anthropic/OpenAI to Chainalysis to Mastercard Identity to Workday) and the revenue-share model flip Persona from a point-solution into an identity ecosystem platform. That's a structural bet most identity vendors haven't made.",
+      "level": "company",
+      "source_url": "https://withpersona.com/solutions/persona-marketplace",
+      "as_of_date_if_known": "unknown",
+      "recency_note": "Feature page; exact launch date not confirmed publicly.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Persona raised $200 million Series D at a $2 billion valuation, co-led by Founders Fund and Ribbit Capital, with participation from BOND, Coatue, First Round Capital, and Index Ventures.",
+      "why_interesting": "A $2B valuation for a pure-play identity verification infrastructure company is notable scale. The co-lead of Founders Fund (known for big, long-duration bets) alongside Ribbit (fintech specialists) signals the market sees Persona as foundational infrastructure \u2014 not a niche compliance tool.",
+      "level": "company",
+      "source_url": "https://www.prnewswire.com/news-releases/persona-raises-200m-at-2b-valuation-to-build-the-verified-identity-layer-for-an-agentic-ai-world-302442649.html",
+      "as_of_date_if_known": "April 30, 2025",
+      "recency_note": "~14 months old; still relevant as a signal of company scale.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Gartner positioned Persona as a Leader in the 2025 Gartner\u00ae Magic Quadrant\u2122 for Identity Verification, positioned highest for Ability to Execute for the second consecutive year. In the accompanying Critical Capabilities report, Persona is ranked #1 across five use cases: Risk Mitigation, Consumer, Accessibility, Data Control, and Automation.",
+      "why_interesting": "#1 across five out of six evaluated use cases in the Gartner Critical Capabilities report is an unusually strong showing \u2014 most Magic Quadrant Leaders are strong in 1\u20132 dimensions. Ranking #1 on Accessibility alongside Risk Mitigation is also counterintuitive and distinctive.",
+      "level": "company",
+      "source_url": "https://withpersona.com/blog/personas-fedramp-status",
+      "as_of_date_if_known": "August 2025 (Gartner reports); noted on Persona blog April 2026",
+      "recency_note": "Gartner reports published August 2025; ~10 months old but still the current edition.",
+      "sensitivity": "none"
+    }
+  ]
+}

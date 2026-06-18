@@ -1,0 +1,34 @@
+[
+  {
+    "fact": "Persona was one of 13 cloud service providers selected for the FedRAMP 20x Phase 2 pilot and was the only identity verification provider to achieve FedRAMP 20x Moderate Authorization.",
+    "source_url": "https://withpersona.com/blog/persona-attains-fedramp-r-moderate-authorization-status"
+  },
+  {
+    "fact": "Rather than picking one FedRAMP authorization track, Persona ran both the FedRAMP 20x pilot AND the traditional Rev5 pathway simultaneously. As of April 10, 2026, Persona holds FedRAMP Moderate Authorization through the 20x process and has achieved a 'Moderate Ready' designation under the traditional Rev5 pathway \u2014 confirmed on the FedRAMP Marketplace listing, Persona's own live blog (withpersona.com/blog/personas-fedramp-status), the BusinessWire press release (May 21, 2026), and a FedTech Magazine article (June 2026) which explicitly describes this as 'an unusual and demanding choice that few cloud service providers have attempted.'",
+    "source_url": "https://www.fedramp.gov/marketplace/products/FR2504154395XL/"
+  },
+  {
+    "fact": "Persona says its detection of deepfakes as a threat vector has increased 75 times over between 2021 and 2026. (FedTech Magazine, June 2026: 'Persona says its detection of deepfakes as a threat vector has increased 75 times over between 2021 and 2026.')",
+    "source_url": "https://fedtechmagazine.com/article/2026/06/how-one-company-went-tech-startup-fedramp-20x"
+  },
+  {
+    "fact": "Persona is now a trusted credential issuer for Chainlink's Cross-Chain Identity (CCID) framework. Financial institutions who use Chainlink's Automated Compliance Engine (ACE) can accept Persona-verified credentials as proof of KYC, sanctions screening, and accreditation status. (Source: https://withpersona.com/blog/persona-partners-with-chainlink, May 5, 2026; corroborated by BusinessWire press release https://www.businesswire.com/news/home/20260505843839/en/Persona-Partners-With-Chainlink-To-Power-Compliant-Identity-Credentials-Across-On-Chain-Markets, May 5, 2026)",
+    "source_url": "https://withpersona.com/blog/persona-partners-with-chainlink"
+  },
+  {
+    "fact": "Persona Wallet allows users to seamlessly store and reuse their verified personally identifiable information (PII) across devices and the ever-growing Persona network. End users can create a Persona Wallet to securely save their PII and speed up future verification flows on other businesses that use Persona to verify identities. The wallet is secured by passkeys cryptographically tied to the user's device, and is also known as 'Reusable Personas.'",
+    "source_url": "https://help.withpersona.com/articles/4Yl6a7VEH2ScPfAHDif0Ts/"
+  },
+  {
+    "fact": "Persona Marketplace lets customers integrate third-party apps \u2014 including OpenAI, Anthropic, Chainalysis, LexisNexis, Mastercard Identity, Coinbase, TRM Labs, Nova Credit, Okta, Workday, ServiceNow, GitHub, Salesforce, Slack, Zendesk, HubSpot, SentiLink, Clearbit, and MX \u2014 directly into Persona workflows. Third-party partners can receive partner-preferred pricing, revenue share, and other benefits as a channel partner (per withpersona.com/solutions/persona-marketplace). Note: the 'listing' mechanism is a curated channel-partner model (contact-based), not a fully open self-serve developer marketplace.",
+    "source_url": "https://help.withpersona.com/marketplace-and-3rd-party-integrations/"
+  },
+  {
+    "fact": "Persona raised a $200 million Series D funding round at a $2 billion valuation, co-led by Founders Fund and Ribbit Capital, with participation from existing investors including BOND, Coatue, First Round Capital, and Index Ventures (and Chemistry). Announced April 30, 2025. Confirmed by Persona's own blog post (withpersona.com/blog/series-d), the original PRNewswire press release, and multiple independent outlets.",
+    "source_url": "https://www.prnewswire.com/news-releases/persona-raises-200m-at-2b-valuation-to-build-the-verified-identity-layer-for-an-agentic-ai-world-302442649.html"
+  },
+  {
+    "fact": "Persona was named a Leader in the 2025 Gartner\u00ae Magic Quadrant\u2122 for Identity Verification, positioned highest for Ability to Execute for the second consecutive year (among 11 vendors evaluated). In the accompanying 2025 Gartner\u00ae Critical Capabilities for Identity Verification report, Persona is ranked #1 across five of six evaluated Use Cases: Risk Mitigation, Consumer, Accessibility, Data Control, and Automation (and #2 in the sixth Use Case, Workforce). Gartner reports dated August 25\u201326, 2025; confirmed on the live Persona website (withpersona.com/platform and withpersona.com/blog/2025-gartner-magic-quadrant-identity-verification) as of 2026.",
+    "source_url": "https://www.prnewswire.com/news-releases/persona-named-a-leader-in-the-2025-gartner-magic-quadrant-for-identity-verification-302539928.html"
+  }
+]

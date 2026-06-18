@@ -1,0 +1,82 @@
+{
+  "lead_id": "persona-marketplace",
+  "company_name": "Persona Marketplace",
+  "recipient_name": "Integration  Developers",
+  "email": "integration-developers@withpersona.com",
+  "variations": [
+    {
+      "variant_n": 1,
+      "compliment": "Persona Marketplace looks like a great way to bring tools like OpenAI, Mastercard Identity, and Okta right into your verification workflows – connecting so many trusted partners in one place is really impressive.",
+      "email": "Hello Integration,\n\nThanks for checking out Polymer! Persona Marketplace looks like a great way to bring tools like OpenAI, Mastercard Identity, and Okta right into your verification workflows – connecting so many trusted partners in one place is really impressive.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://help.withpersona.com/marketplace-and-3rd-party-integrations/"
+      ],
+      "score": 8,
+      "tells": [
+        "connecting so many trusted partners in one place is really impressive"
+      ],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1781742542.284019",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 2,
+      "compliment": "Persona looks like a great company - being the only identity verification provider to achieve FedRAMP 20x Moderate Authorization is really impressive!",
+      "email": "Hello Integration,\n\nThanks for checking out Polymer! Persona looks like a great company - being the only identity verification provider to achieve FedRAMP 20x Moderate Authorization is really impressive!\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://withpersona.com/blog/persona-attains-fedramp-r-moderate-authorization-status"
+      ],
+      "score": 7,
+      "tells": [
+        "being the only identity verification provider to achieve FedRAMP 20x Moderate Authorization is really impressive — parrots a marketing-style superlative claim verbatim"
+      ],
+      "verdict": "ship",
+      "ship": false
+    },
+    {
+      "variant_n": 3,
+      "compliment": "Persona looks like an impressive company - being named a Leader in the 2025 Gartner Magic Quadrant for Identity Verification, and positioned highest for Ability to Execute two years running, really says a lot about what you've built.",
+      "email": "Hello Integration,\n\nThanks for checking out Polymer! Persona looks like an impressive company - being named a Leader in the 2025 Gartner Magic Quadrant for Identity Verification, and positioned highest for Ability to Execute two years running, really says a lot about what you've built.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.prnewswire.com/news-releases/persona-named-a-leader-in-the-2025-gartner-magic-quadrant-for-identity-verification-302539928.html"
+      ],
+      "score": 4,
+      "tells": [
+        "really says a lot about what you've built",
+        "Parroting the Gartner Magic Quadrant marketing language back at them ('named a Leader,' 'positioned highest for Ability to Execute')"
+      ],
+      "verdict": "revise",
+      "ship": false
+    },
+    {
+      "variant_n": 4,
+      "compliment": "Persona looks like a really impressive company - running both the FedRAMP 20x pilot and the traditional Rev5 pathway at the same time is an unusual choice, and being the only identity verification provider to reach FedRAMP 20x Moderate Authorization really stands out!",
+      "email": "Hello Integration,\n\nThanks for checking out Polymer! Persona looks like a really impressive company - running both the FedRAMP 20x pilot and the traditional Rev5 pathway at the same time is an unusual choice, and being the only identity verification provider to reach FedRAMP 20x Moderate Authorization really stands out!\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.fedramp.gov/marketplace/products/FR2504154395XL/",
+        "https://withpersona.com/blog/persona-attains-fedramp-r-moderate-authorization-status"
+      ],
+      "score": 7,
+      "tells": [
+        "really stands out!"
+      ],
+      "verdict": "revise",
+      "ship": false
+    },
+    {
+      "variant_n": 5,
+      "compliment": "Persona looks like a great company - the Persona Wallet is such a smart idea, letting people securely save their verified info and reuse it to speed up future verification flows on any business that uses Persona.",
+      "email": "Hello Integration,\n\nThanks for checking out Polymer! Persona looks like a great company - the Persona Wallet is such a smart idea, letting people securely save their verified info and reuse it to speed up future verification flows on any business that uses Persona.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://help.withpersona.com/articles/4Yl6a7VEH2ScPfAHDif0Ts/"
+      ],
+      "score": 6,
+      "tells": [
+        "letting people securely save their verified info and reuse it to speed up future verification flows on any business that uses Persona — this trailing clause over-explains and reads like product marketing copy fed back to them"
+      ],
+      "verdict": "revise",
+      "ship": false
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "company": {
+    "website": "https://withpersona.com",
+    "what_they_do": "Persona is a configurable identity verification and fraud prevention platform. It helps businesses collect, verify, and manage user identities throughout the customer lifecycle \u2014 covering use cases like KYC, KYB, AML, age verification, workforce verification, and fraud detection. It operates in 200+ countries and territories, serves industries including fintech, AI companies, marketplaces, delivery services, education, and government agencies, and is trusted by companies like OpenAI, Etsy, LinkedIn, Reddit, DoorDash, Instacart, and others. The platform is offered via hosted flows, embedded web SDK, and mobile SDKs, and is highly configurable without requiring heavy engineering investment.",
+    "raw_notes": [
+      "Persona Marketplace is a specific product/feature within Persona \u2014 it lets customers integrate third-party apps (Salesforce, Slack, Zendesk, HubSpot, SentiLink, Clearbit, MX, Chainalysis, LexisNexis, Mastercard Identity, Coinbase, TRM Labs, Nova Credit, OpenAI, Okta, Workday, ServiceNow, GitHub, Anthropic, and more) directly into Persona workflows for data enrichment, CRM updates, team communication, and automated actions.",
+      "Persona also has a partner/channel program: third-party developers can LIST their own integrations on the Persona Marketplace, receive partner-preferred pricing and revenue share.",
+      "The email address 'integration-developers@withpersona.com' is a team/role-based address, not a named individual \u2014 likely an internal integrations engineering or developer partnerships team at Persona itself.",
+      "The org_name 'Persona Marketplace' maps directly to Persona's Marketplace product page at withpersona.com/solutions/persona-marketplace.",
+      "This signup appears to be INTERNAL \u2014 i.e., Persona's own integration developers team signing up, likely for testing, sandbox evaluation, or partner listing purposes.",
+      "Persona was founded in 2018 by Rick Song (CEO) and Charles Yeh, headquartered in San Francisco (981 Mission Street #95, SF, CA 94103).",
+      "Persona has raised $418M total: Series D of $200M in April 2025 at a $2B valuation, backed by Founders Fund, First Round Capital, Index Ventures, Coatue.",
+      "~685 employees as of April 2026.",
+      "Integration methods offered: Hosted Flow (no-code, verify by link), Embedded Flow (Web SDK), Mobile SDKs (iOS/Android).",
+      "Marketplace integrations use API tokens or OAuth for authentication and are self-serve or contact-us for setup.",
+      "Persona also has its own developer docs at docs.withpersona.com, a Help Center, Community, Academy, and system status page.",
+      "Persona achieved FedRAMP Moderate Authorization (announced ~May 2026), enabling U.S. federal agency deployments.",
+      "Notable customers (from Wellfound listing): OpenAI, AngelList, Etsy, LinkedIn, Twilio, Reddit, DoorDash, Coursera, Gusto, Square, Instacart.",
+      "Privacy-first positioning: GDPR and CCPA compliant, does not sell user data, offers Persona Wallet for reusable identity credentials."
+    ],
+    "source_urls": [
+      "https://withpersona.com/",
+      "https://withpersona.com/platform",
+      "https://withpersona.com/solutions/persona-marketplace",
+      "https://withpersona.com/about",
+      "https://support.withpersona.com/hc/en-us/articles/16685951200403-Using-Marketplace-integrations",
+      "https://help.withpersona.com/integrations/",
+      "https://help.withpersona.com/marketplace-and-3rd-party-integrations/",
+      "https://docs.withpersona.com/",
+      "https://tracxn.com/d/companies/persona/__t1FJBkRZQsH6YTCPdh8R44ib5y1AasDnLJ8BnP10rQg",
+      "https://withpersona.com/industry/marketplace"
+    ]
+  },
+  "individual": {
+    "name": "Integration (no real individual name \u2014 role/team alias)",
+    "role_if_found": "integration-developers@withpersona.com is a team-based or role-based email address belonging to Persona's own integrations developer team, not a named individual. No specific person identifiable from this address.",
+    "notes": "The first_name 'Integration' and email 'integration-developers@withpersona.com' strongly indicate this is an internal Persona team account (likely their Marketplace/integrations engineering or developer partnerships group) rather than a genuine external individual signup. The org_name 'Persona Marketplace' further confirms alignment with Persona's own internal Marketplace product team. No named individual is discoverable from this signup. Rick Song is Persona's CEO/co-founder and Charles Yeh is co-founder, but neither can be attributed to this specific address.",
+    "source_urls": [
+      "https://withpersona.com/about",
+      "https://tracxn.com/d/companies/persona/__t1FJBkRZQsH6YTCPdh8R44ib5y1AasDnLJ8BnP10rQg",
+      "https://withpersona.com/solutions/persona-marketplace"
+    ]
+  },
+  "could_not_find": [
+    "No named individual behind 'integration-developers@withpersona.com' \u2014 this is a team/role alias, not a personal email.",
+    "Cannot determine the specific person on Persona's team who triggered this signup or their exact title.",
+    "No public information on the specific size or composition of Persona's internal integrations developer team.",
+    "This appears to be an INTERNAL / test signup from Persona themselves, which limits the usefulness of personalized outreach \u2014 flagged for review before any campaign send."
+  ]
+}
