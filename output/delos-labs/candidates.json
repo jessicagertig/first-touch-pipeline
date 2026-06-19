@@ -1,0 +1,49 @@
+{
+  "candidates": [
+    {
+      "item": "Built a VIX-equivalent volatility index for Brazil's B3 market from scratch, adapting CBOE VIX methodology to messy/incomplete Brazilian options data. Used PostgreSQL, options chain API, daily calculations, compared against Ibovespa actual volatility. Key insight: pragmatic approximations beat strict textbook adherence when data is inconsistent.",
+      "why_interesting": "Building a VIX clone is non-trivial even with clean US data \u2014 doing it for Brazil, where options data is sparse and inconsistent, and consciously departing from the CBOE textbook methodology to make it actually work, shows real engineering judgment. It's a specific, hard thing most quant hobbyists wouldn't finish.",
+      "level": "company",
+      "source_url": "https://deloslabs.xyz",
+      "as_of_date_if_known": "unknown",
+      "recency_note": "Site appears new/unindexed; project date unknown",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Proof-of-concept smart contract version of the traditional Brazilian cons\u00f3rcio savings product. Deployed and verified on LACHAIN Testnet (contract visible on explorer). Key insight: surfaces gap between protocol design and production-ready deployment \u2014 highlights need for test coverage and threat modeling.",
+      "why_interesting": "The cons\u00f3rcio is a deeply Brazilian financial institution (group savings/lottery product with no direct equivalent in most markets) \u2014 putting it on-chain is a clever cultural-meets-crypto idea that almost no one outside Brazil would even think to attempt. The honesty about the gap between proof-of-concept and production is also unusually candid for a portfolio.",
+      "level": "company",
+      "source_url": "https://deloslabs.xyz",
+      "as_of_date_if_known": "unknown",
+      "recency_note": "Deployed on LACHAIN Testnet; date unknown",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Replicates methodology from academic paper 'Financial Statement Analysis with Large Language Models' adapted to Brazilian public companies. Uses OpenAI GPT-4 via API, SQL database of income statements/balance sheets, custom prompt templates, multi-year trend analysis. Key insight: prompt structure and data preparation materially affect LLM financial reasoning quality.",
+      "why_interesting": "Rather than building a generic 'AI stock picker,' Pedro took a specific peer-reviewed paper and stress-tested its methodology against a non-US, emerging-market context (Brazil) where the paper was never designed to apply. That replication-and-stress-test framing is academically sharp and rare in portfolio projects.",
+      "level": "company",
+      "source_url": "https://deloslabs.xyz",
+      "as_of_date_if_known": "unknown",
+      "recency_note": "Site appears new/unindexed; project date unknown",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Multi-agent AI system for Brazilian stock analysis, adapted from virattt's hedge-fund-agent-team, using BRAPI API. Each agent specializes in a different aspect of financial analysis. Key insight: agent specialization improves modularity but system is sensitive to prompt design; best used as analytical copilot.",
+      "why_interesting": "He explicitly names the open-source repo he forked (virattt's hedge-fund-agent-team) rather than obscuring it \u2014 and then documents what broke and what the system is actually good for ('analytical copilot,' not autonomous fund). That level of intellectual honesty in a portfolio is distinctive and rare.",
+      "level": "company",
+      "source_url": "https://deloslabs.xyz",
+      "as_of_date_if_known": "unknown",
+      "recency_note": "Site appears new/unindexed; project date unknown",
+      "sensitivity": "none"
+    },
+    {
+      "item": "The project named 'DELOS' shares its name with the organization, suggesting this may be the flagship or namesake project \u2014 a blockchain-based oracle and tokenized securities system for Brazilian market infrastructure.",
+      "why_interesting": "Naming your whole lab after a single project implies it's the one Pedro considers most serious or most ambitious. A tokenized-securities oracle aimed at Brazilian market infrastructure is a live regulatory and technical frontier (Brazil's CVM has been actively working on tokenization). The truncated description makes it the most intriguing unknown on the site.",
+      "level": "company",
+      "source_url": "https://deloslabs.xyz",
+      "as_of_date_if_known": "unknown",
+      "recency_note": "Description truncated on site; full scope unknown",
+      "sensitivity": "none"
+    }
+  ]
+}

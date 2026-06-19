@@ -1,0 +1,22 @@
+[
+  {
+    "fact": "Built a VIX-equivalent volatility index for Brazil's B3 market, adapting the VIX methodology to messy and incomplete Brazilian options data. Used an API to pull options chain data stored in PostgreSQL, performed daily VIX calculations, and compared estimated future volatility against actual Ibovespa volatility. Key finding: pragmatic approximations and validation heuristics proved more valuable than strict adherence to textbook formulas.",
+    "source_url": "https://deloslabs.xyz"
+  },
+  {
+    "fact": "Decentralized Cons\u00f3rcio: a proof-of-concept smart contract replicating the traditional Brazilian cons\u00f3rcio group savings product, deployed and verified on LACHAIN Testnet (contract visible on the LACHAIN Testnet explorer at scan-test.lachain.io). The project surfaced practical gaps between theoretical protocol design and production-ready deployment, specifically around testing rigor, user incentives, and contract safety \u2014 reinforcing the importance of test coverage and threat modeling.",
+    "source_url": "https://deloslabs.xyz"
+  },
+  {
+    "fact": "LLM_FinancialAnalysis is a project aimed at replicating the methodology used in the paper 'Financial Statement Analysis with Large Language Models', applied specifically to Brazilian public companies, using the OpenAI API (GPT-4) to analyze financial statements stored in an SQL database (income statements and balance sheets), with custom prompt templates and multi-year trend analysis (at least five years of historical data). The main insight: 'prompt structure and data preparation materially influence financial reasoning quality in LLMs.'",
+    "source_url": "https://deloslabs.xyz"
+  },
+  {
+    "fact": "Project 4 ('Agents Orchestrated Fund') on deloslabs.xyz is described as 'An adaptation of virattt's hedge-fund-agent-team, modified to analyze Brazilian market stocks using BRAPI API. The project implements a multi-agent system where each agent specializes in different aspects of financial analysis.' Key findings state: 'agent specialization improved modular reasoning and interpretability, the system remained sensitive to prompt design, data freshness, and coordination overhead' and that 'agent-based architectures are most effective when used as analytical copilots rather than fully autonomous decision-makers.'",
+    "source_url": "https://deloslabs.xyz"
+  },
+  {
+    "fact": "DELOS is a blockchain-based oracle and tokenized securities system exploring infrastructure for Brazilian macroeconomic data on-chain. Specifically, it implements a BrazilianMacroOracle contract that brings six BCB (Banco Central do Brasil) rates \u2014 IPCA, CDI, SELIC, PTAX, IGP-M, and TR \u2014 onto the Arbitrum Sepolia testnet with Chainlink AggregatorV3 compatibility, alongside a BrazilianDebentureCloneable contract and a DebentureCloneFactory using EIP-1167 minimal proxies to reduce deployment costs by ~98%.",
+    "source_url": "https://deloslabs.xyz"
+  }
+]

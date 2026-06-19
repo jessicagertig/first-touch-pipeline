@@ -1,0 +1,78 @@
+{
+  "lead_id": "delos-labs",
+  "company_name": "Delos Labs",
+  "recipient_name": "Pedro Todescan",
+  "email": "pedro@deloslabs.xyz",
+  "variations": [
+    {
+      "variant_n": 1,
+      "compliment": "Delos Labs looks like fascinating work - I love that the Brazilian VIX project adapted the VIX methodology to such messy and incomplete options data.",
+      "email": "Hello Pedro,\n\nThanks for checking out Polymer! Delos Labs looks like fascinating work - I love that the Brazilian VIX project adapted the VIX methodology to such messy and incomplete options data.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://deloslabs.xyz"
+      ],
+      "score": 8,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1781870307.791639",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 2,
+      "compliment": "Delos Labs looks like fascinating work - I love the VIX-equivalent volatility index you built for Brazil's B3 market, especially adapting the methodology to messy and incomplete Brazilian options data.",
+      "email": "Hello Pedro,\n\nThanks for checking out Polymer! Delos Labs looks like fascinating work - I love the VIX-equivalent volatility index you built for Brazil's B3 market, especially adapting the methodology to messy and incomplete Brazilian options data.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://deloslabs.xyz"
+      ],
+      "score": 7,
+      "tells": [
+        "especially adapting the methodology to messy and incomplete Brazilian options data"
+      ],
+      "verdict": "revise",
+      "ship": false
+    },
+    {
+      "variant_n": 3,
+      "compliment": "Delos Labs looks like a thoughtful company - I love the Decentralized Consórcio proof-of-concept, taking such a traditional Brazilian savings product and rebuilding it as a smart contract!",
+      "email": "Hello Pedro,\n\nThanks for checking out Polymer! Delos Labs looks like a thoughtful company - I love the Decentralized Consórcio proof-of-concept, taking such a traditional Brazilian savings product and rebuilding it as a smart contract!\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://deloslabs.xyz"
+      ],
+      "score": 9,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1781870307.903649",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 4,
+      "compliment": "Delos Labs looks like really interesting work - I love how focused you are on the Brazilian market across all your projects.",
+      "email": "Hello Pedro,\n\nThanks for checking out Polymer! Delos Labs looks like really interesting work - I love how focused you are on the Brazilian market across all your projects.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://deloslabs.xyz"
+      ],
+      "score": 8,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1781870308.008639",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 5,
+      "compliment": "Delos Labs looks fascinating - I love that you built a VIX-equivalent volatility index for Brazil's B3 market.",
+      "email": "Hello Pedro,\n\nThanks for checking out Polymer! Delos Labs looks fascinating - I love that you built a VIX-equivalent volatility index for Brazil's B3 market.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://deloslabs.xyz"
+      ],
+      "score": 9,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1781870308.143419",
+      "slack_channel": "C0B87Q5UEL9"
+    }
+  ]
+}

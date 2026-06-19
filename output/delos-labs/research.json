@@ -1,0 +1,45 @@
+{
+  "company": {
+    "website": "https://deloslabs.xyz",
+    "what_they_do": "Delos Labs is a personal portfolio of applied finance and technology projects by Pedro. The work spans quantitative finance, LLM-driven financial analysis, blockchain/DeFi, and multi-agent AI systems \u2014 all with a strong focus on the Brazilian market. Projects include: (1) applying LLMs (GPT-4) to analyze Brazilian public companies' financial statements and predict earnings; (2) a decentralized on-chain cons\u00f3rcio (Brazilian group-savings product) built with smart contracts and deployed on LACHAIN Testnet; (3) a VIX-equivalent volatility index for Brazil's B3 market, built from options chain data; (4) a multi-agent AI hedge-fund system for Brazilian equities using the BRAPI API; and (5) 'DELOS' \u2014 a blockchain-based oracle and tokenized securities system for Brazilian market infrastructure (content truncated on the site).",
+    "raw_notes": [
+      "Portfolio site, not a funded startup \u2014 appears to be a solo practitioner/builder showcasing project work.",
+      "All five listed projects are Brazil-focused financial engineering or fintech experiments.",
+      "Project 1 (LLM_FinancialAnalysis): Replicates methodology from academic paper 'Financial Statement Analysis with Large Language Models' adapted to Brazilian public companies. Uses OpenAI GPT-4 via API, SQL database of income statements/balance sheets, custom prompt templates, multi-year trend analysis. Key insight: prompt structure and data preparation materially affect LLM financial reasoning quality.",
+      "Project 2 (Decentralized Cons\u00f3rcio): Proof-of-concept smart contract version of the traditional Brazilian cons\u00f3rcio savings product. Deployed and verified on LACHAIN Testnet (contract visible on explorer). Key insight: surfaces gap between protocol design and production-ready deployment \u2014 highlights need for test coverage and threat modeling.",
+      "Project 3 (Brazilian VIX): Built a VIX-equivalent volatility index for Brazil's B3 market from scratch, adapting CBOE VIX methodology to messy/incomplete Brazilian options data. Used PostgreSQL, options chain API, daily calculations, compared against Ibovespa actual volatility. Key insight: pragmatic approximations beat strict textbook adherence when data is inconsistent.",
+      "Project 4 (Agents Orchestrated Fund): Multi-agent AI system for Brazilian stock analysis, adapted from virattt's hedge-fund-agent-team, using BRAPI API. Each agent specializes in a different aspect of financial analysis. Key insight: agent specialization improves modularity but system is sensitive to prompt design; best used as analytical copilot.",
+      "Project 5 (DELOS): Blockchain-based oracle and tokenized securities system for Brazilian market infrastructure. Description truncated in provided content.",
+      "The site's framing emphasizes 'real-world constraints, technical trade-offs, and applied system design' \u2014 pragmatic, engineering-minded tone throughout.",
+      "The project named 'DELOS' shares its name with the organization, suggesting this may be the flagship or namesake project."
+    ],
+    "source_urls": [
+      "https://deloslabs.xyz"
+    ]
+  },
+  "individual": {
+    "name": "Pedro",
+    "role_if_found": "Founder / sole builder \u2014 Delos Labs appears to be a personal portfolio operated by Pedro individually. No formal title stated, but all projects are first-person ('I built', 'I worked on', 'I calculated').",
+    "notes": [
+      "Last name not provided in the signup data or homepage content.",
+      "All project descriptions are written in first-person, confirming Pedro is the sole creator of all listed work.",
+      "Deep technical skills evident: SQL/PostgreSQL, OpenAI API (GPT-4), smart contract development and deployment, options pricing methodology, multi-agent AI orchestration.",
+      "Clear Brazil focus: all projects target Brazilian financial markets, Brazilian companies (B3, Ibovespa, cons\u00f3rcio product), or Brazilian blockchain events (Blockchain Rio).",
+      "Intellectual curiosity and academic orientation: cites academic paper as basis for one project, engages with textbook methodology before pragmatically departing from it.",
+      "No LinkedIn profile, Twitter, or other social presence was findable via web search for this specific individual.",
+      "Web search returned no results for 'Pedro Delos Labs deloslabs.xyz' \u2014 site appears too new or too low-profile to be indexed."
+    ],
+    "source_urls": [
+      "https://deloslabs.xyz"
+    ]
+  },
+  "could_not_find": [
+    "Pedro's last name \u2014 not present in signup data or on the homepage.",
+    "Pedro's specific professional background (education, prior employers, seniority level).",
+    "Whether Delos Labs is a registered company or strictly a personal portfolio/side project.",
+    "Full description of Project 5 (DELOS oracle/tokenized securities) \u2014 content was truncated in the provided homepage extract.",
+    "Any social media profiles, LinkedIn, GitHub identity, or other public presence linkable to this Pedro.",
+    "Company founding date, team size, or any funding/revenue information.",
+    "The site does not appear in web search results, consistent with it being very new or not yet indexed."
+  ]
+}
