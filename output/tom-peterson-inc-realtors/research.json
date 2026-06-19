@@ -1,0 +1,67 @@
+{
+  "company": {
+    "website": "https://www.tompetersonrealtors.com",
+    "what_they_do": "Tom Peterson, Inc. Realtors is a full-service residential and commercial real estate brokerage and appraisal firm headquartered at 110 Jackson Street in Vidalia, Georgia. They help clients buy, sell, and rent homes, farms, timberland, and investment properties in Vidalia and the surrounding South Georgia region. The firm was founded in 1979 by Tom Peterson III and has been serving the area for over 45 years. Services span real estate sales, real estate appraisal, property listings, and land sales. The team includes licensed agents, associate brokers, and certified appraisers.",
+    "raw_notes": [
+      "Official website: tompetersonrealtors.com (confirmed via multiple sources); email domain tprealtors.com is their operational email domain used by all agents.",
+      "Founded 1979 by Tom Peterson III (per The Advance News profile, Aug 2024, and Nancy Peterson Facebook page). Note: Twitter/X bio says 'since 1971' \u2014 this may refer to Tom Peterson's personal career start, not the firm's founding. The Advance article and Nancy Peterson's Facebook page both cite 1979 as when the firm was established.",
+      "Address: 110 Jackson Street, Vidalia, GA 30474. Phone: (912) 537-8945.",
+      "Tom Peterson is Broker and Certified Appraiser (tom@tprealtors.com).",
+      "Nancy Peterson is GRI, Associate Broker (nancyblp@gmail.com / nancyblp).",
+      "Services: real estate sales (residential, commercial, land), real estate appraisal, property management, land surveying listed on Yelp.",
+      "Property types handled: homes, farms, timberland, investment properties, commercial properties, lots/land (per Alignable, LandSearch, Homes & Land listings).",
+      "Approximately 14 employees as of May 2025 (LeadIQ).",
+      "Active on MLS; listings appear on tompetersonrealtors.com, Homes & Land, Realty.com, LandSearch, and other aggregators.",
+      "Tom Peterson III is deeply community-involved: served on Vidalia City Council and Toombs County Chamber of Commerce (now Greater Vidalia Chamber). Team participates in local fundraisers and events.",
+      "The Advance News (Aug 2024 feature) noted Tom pioneered realtor-assisted real estate in rural South Georgia, where the concept was new at the time he started.",
+      "Facebook page: 88% recommend, 9 reviews. Active on Facebook with property listings.",
+      "Crunchbase lists the firm as active, for-profit, with projected IT spend of ~$384.8K/year. Listed in 'Online Portals Companies With More Than $1M in Revenue.'",
+      "Website tech stack: jQuery, Bootstrap, Microsoft IIS, Windows Server, Open Graph, Modernizr (LeadIQ/BuiltWith)."
+    ],
+    "source_urls": [
+      "https://www.tompetersonrealtors.com",
+      "https://www.theadvancenews.com/2024/08/28/chatwith-tom-peterson-iii/",
+      "https://www.facebook.com/nancylistandsells/",
+      "https://www.facebook.com/tompetersonrealtors/",
+      "https://leadiq.com/c/tom-peterson-realtors/5a1da9962300005e009dda5f",
+      "https://www.crunchbase.com/organization/tom-peterson-e4c4",
+      "https://www.homesandland.com/office/1437/tom-peterson-inc-realtors",
+      "https://www.landsearch.com/agents/tom-peterson-inc-realtors/179049",
+      "https://www.alignable.com/vidalia-ga/tom-peterson-realtors",
+      "https://www.yelp.com/biz/tom-peterson-realtors-vidalia-2",
+      "https://gahistoricnewspapers.galileo.usg.edu/lccn/2008233466/2020-08-12/ed-1/seq-24/ocr/",
+      "https://gahistoricnewspapers.galileo.usg.edu/lccn/2008233466/2023-07-19/ed-1/seq-22/ocr/",
+      "https://gahistoricnewspapers.galileo.usg.edu/lccn/2008233466/2026-02-11/ed-1/seq-24/ocr/"
+    ]
+  },
+  "individual": {
+    "name": "Carolyn Robinson",
+    "role_if_found": "GRI-designated Appraiser / Agent at Tom Peterson, Inc. Realtors",
+    "notes": [
+      "The email carolyn@tprealtors.com is consistently listed in multiple dated newspaper advertisements (The Advance, Aug 2020; Jul 2023; Feb 2026; Dec 2025) as belonging to 'Carolyn Robinson, G.R.I, Appraiser' at Tom Peterson, Inc. Realtors.",
+      "Her direct phone number is listed as 912-537-2363 across all sources.",
+      "She holds the GRI (Graduate, REALTOR\u00ae Institute) designation and is a certified appraiser.",
+      "She appears in a community event photo caption in The Advance (Aug 2024): listed as a team member attending the Meadows Hospital Health Fair 3 Mile Fun Walk alongside Tom Peterson, Nancy Peterson, Ann Todd, and others.",
+      "She appears in the company's agent directory page on tompetersonrealtors.com (carolyn@tprealtors.com confirmed as an active agent profile link).",
+      "As of the most recent newspaper ad found (February 2026), she remains listed as an active team member.",
+      "No LinkedIn profile, personal website, or further biographical detail found via public search.",
+      "First name 'Carolyn' at signup matches; last name Robinson inferred from consistently matched email address across multiple dated primary sources."
+    ],
+    "source_urls": [
+      "https://gahistoricnewspapers.galileo.usg.edu/lccn/2008233466/2020-08-12/ed-1/seq-24/ocr/",
+      "https://gahistoricnewspapers.galileo.usg.edu/lccn/2008233466/2023-07-19/ed-1/seq-22/ocr/",
+      "https://gahistoricnewspapers.galileo.usg.edu/lccn/2008233466/2026-02-11/ed-1/seq-24/ocr/",
+      "https://www.theadvancenews.com/tnad/theadvance_20251224_b_12-24-25_vid_12_w-or9_art_2-xml",
+      "https://www.theadvancenews.com/2024/08/28/chatwith-tom-peterson-iii/",
+      "https://www.tompetersonrealtors.com/default.asp?content=agents&menu_id=273092"
+    ]
+  },
+  "could_not_find": [
+    "No personal LinkedIn, personal bio page, or social media profile found for Carolyn Robinson specifically.",
+    "No information on how long Carolyn Robinson has been with the firm (start date unknown).",
+    "Slight ambiguity on founding year: Twitter/X bio says 'since 1971'; Nancy Peterson Facebook and The Advance article cite 1979 as when Tom Peterson went independent and created the firm. The 1971 date may reflect Tom Peterson's personal career start rather than the firm's founding.",
+    "No information on Carolyn's specific specialties within appraisal or sales beyond her GRI and appraiser credentials.",
+    "No revenue, transaction volume, or market-share data confirmed from first-party sources.",
+    "tprealtors.com domain itself does not host a public-facing website; the actual company website is tompetersonrealtors.com."
+  ]
+}

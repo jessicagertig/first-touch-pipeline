@@ -1,0 +1,82 @@
+{
+  "lead_id": "tom-peterson-inc-realtors",
+  "company_name": "Tom Peterson Inc Realtors",
+  "recipient_name": "Carolyn  Flook",
+  "email": "carolyn@tprealtors.com",
+  "variations": [
+    {
+      "variant_n": 1,
+      "compliment": "Tom Peterson Inc Realtors looks like a great firm - it's impressive that Tom Peterson III helped bring the whole concept of a realtor to rural South Georgia back in 1979, when folks here just stuck a sign in the yard and called a lawyer!",
+      "email": "Hello Carolyn,\n\nThanks for checking out Polymer! Tom Peterson Inc Realtors looks like a great firm - it's impressive that Tom Peterson III helped bring the whole concept of a realtor to rural South Georgia back in 1979, when folks here just stuck a sign in the yard and called a lawyer!\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.theadvancenews.com/2024/08/28/chatwith-tom-peterson-iii/"
+      ],
+      "score": 8,
+      "tells": [
+        "it's impressive that Tom Peterson III helped bring the whole concept of a realtor to rural South Georgia back in 1979, when folks here just stuck a sign in the yard and called a lawyer"
+      ],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1781882594.462669",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 2,
+      "compliment": "Tom Peterson Inc Realtors looks like a great company - I love that the team never misses community events and fundraisers like the Meadows Hospital Health Fair fun walk.",
+      "email": "Hello Carolyn,\n\nThanks for checking out Polymer! Tom Peterson Inc Realtors looks like a great company - I love that the team never misses community events and fundraisers like the Meadows Hospital Health Fair fun walk.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.theadvancenews.com/2024/08/28/chatwith-tom-peterson-iii/"
+      ],
+      "score": 8,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1781882594.722479",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 3,
+      "compliment": "Tom Peterson Inc Realtors looks great - I love that the team never misses community events and fundraisers like the Meadows Hospital Health Fair 3 Mile Fun Walk.",
+      "email": "Hello Carolyn,\n\nThanks for checking out Polymer! Tom Peterson Inc Realtors looks great - I love that the team never misses community events and fundraisers like the Meadows Hospital Health Fair 3 Mile Fun Walk.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.theadvancenews.com/2024/08/28/chatwith-tom-peterson-iii/"
+      ],
+      "score": 8,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1781882594.981639",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 4,
+      "compliment": "Tom Peterson Inc Realtors looks like a real cornerstone of the community - I read that Tom helped introduce the whole concept of using a realtor to rural South Georgia back in 1979, which is pretty remarkable!",
+      "email": "Hello Carolyn,\n\nThanks for checking out Polymer! Tom Peterson Inc Realtors looks like a real cornerstone of the community - I read that Tom helped introduce the whole concept of using a realtor to rural South Georgia back in 1979, which is pretty remarkable!\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.theadvancenews.com/2024/08/28/chatwith-tom-peterson-iii/"
+      ],
+      "score": 8,
+      "tells": [
+        "which is pretty remarkable!"
+      ],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1781882595.246109",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 5,
+      "compliment": "Tom Peterson Inc Realtors looks like a great firm - I love that the team is so involved in the community, from the Vidalia City Council to fundraisers like the Meadows Hospital Health Fair Fun Walk.",
+      "email": "Hello Carolyn,\n\nThanks for checking out Polymer! Tom Peterson Inc Realtors looks like a great firm - I love that the team is so involved in the community, from the Vidalia City Council to fundraisers like the Meadows Hospital Health Fair Fun Walk.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.theadvancenews.com/2024/08/28/chatwith-tom-peterson-iii/"
+      ],
+      "score": 9,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1781882595.505889",
+      "slack_channel": "C0B87Q5UEL9"
+    }
+  ]
+}

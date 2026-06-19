@@ -1,0 +1,80 @@
+{
+  "lead_id": "tempxzy",
+  "company_name": "TempXZY",
+  "recipient_name": "Jack Garcia",
+  "email": "ccnpd.71938@tempxzy.net",
+  "variations": [
+    {
+      "variant_n": 1,
+      "compliment": "TempXZY looks like a great service - the disposable, encrypted email addresses with no signup required make it super easy to protect your privacy on the fly.",
+      "email": "Hello Jack,\n\nThanks for checking out Polymer! TempXZY looks like a great service - the disposable, encrypted email addresses with no signup required make it super easy to protect your privacy on the fly.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://tempxzy.net/"
+      ],
+      "score": 9,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1781882238.576989",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 2,
+      "compliment": "TempXZY looks like a really handy tool - I love that the addresses self-destruct after 6 hours with zero registration needed.",
+      "email": "Hello Jack,\n\nThanks for checking out Polymer! TempXZY looks like a really handy tool - I love that the addresses self-destruct after 6 hours with zero registration needed.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://tempxzy.net/"
+      ],
+      "score": 9,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1781882238.839509",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 3,
+      "compliment": "TempXZY looks like a great service - the disposable encrypted addresses that self-destruct after 6 hours with no registration needed seem like a really handy idea.",
+      "email": "Hello Jack,\n\nThanks for checking out Polymer! TempXZY looks like a great service - the disposable encrypted addresses that self-destruct after 6 hours with no registration needed seem like a really handy idea.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://tempxzy.net/"
+      ],
+      "score": 9,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1781882239.103499",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 4,
+      "compliment": "TempXZY looks like a thoughtful product - the upcoming option to use your own domain and extend email life to 72 hours seems like a really useful step up.",
+      "email": "Hello Jack,\n\nThanks for checking out Polymer! TempXZY looks like a thoughtful product - the upcoming option to use your own domain and extend email life to 72 hours seems like a really useful step up.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://tempxzy.net/"
+      ],
+      "score": 8,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1781882239.368399",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 5,
+      "compliment": "TempXZY looks like an exciting company - the planned API integration to drop disposable email right into your own apps sounds like a smart move.",
+      "email": "Hello Jack,\n\nThanks for checking out Polymer! TempXZY looks like an exciting company - the planned API integration to drop disposable email right into your own apps sounds like a smart move.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://tempxzy.net/"
+      ],
+      "score": 8,
+      "tells": [
+        "smart move"
+      ],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1781882239.637249",
+      "slack_channel": "C0B87Q5UEL9"
+    }
+  ]
+}

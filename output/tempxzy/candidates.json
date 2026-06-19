@@ -1,0 +1,36 @@
+{
+  "candidates": [
+    {
+      "item": "Future roadmap features advertised on site: file sending/receiving with virus scanning, email life extension up to 72 hours, custom domain selection, and API integration.",
+      "why_interesting": "The virus-scanning on received files is a quirky, specific feature for a throwaway email service \u2014 most disposable email providers offer zero attachment handling, so bundling antivirus scanning into a burner inbox is a genuinely unexpected pairing worth reacting to.",
+      "level": "company",
+      "source_url": "https://tempxzy.net/",
+      "as_of_date_if_known": null,
+      "recency_note": "Roadmap items \u2014 not yet shipped; timing unknown.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "It generates free, anonymous, encrypted email addresses that automatically self-destruct after 6 hours. No registration is required.",
+      "why_interesting": "The 6-hour hard-expiry window is a concrete, specific design choice \u2014 it is a tighter TTL than many competitors (some allow 10 minutes, others indefinite), and pairing it with encryption (not just anonymity) is a slightly more distinctive positioning than a plain throwaway inbox.",
+      "level": "company",
+      "source_url": "https://tempxzy.net/",
+      "as_of_date_if_known": null,
+      "recency_note": "Described as current product behaviour at time of research.",
+      "sensitivity": "none"
+    }
+  ],
+  "excluded_and_why": [
+    {
+      "item": "Tempxzy was hiring a TikTok UGC Content Creator (remote, US) as recently as March 2026.",
+      "reason": "Mildly interesting as a signal the company is real and growing, but a UGC creator hire is not distinctive or surprising \u2014 many small SaaS/consumer-privacy tools run TikTok growth plays. Does not clear the 'huh, that's neat' bar."
+    },
+    {
+      "item": "CRITICAL FLAG: This signup exhibits all hallmarks of a throwaway/bot registration.",
+      "reason": "This is an internal data-quality / trust signal about the signee, not a fact about the company worth complimenting. Not a candidate."
+    },
+    {
+      "item": "Tempxzy is listed alongside other disposable email providers in verifymail.io domain analysis pages.",
+      "reason": "Pure classification metadata; says nothing interesting or distinctive about the product."
+    }
+  ]
+}

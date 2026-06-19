@@ -1,0 +1,31 @@
+{
+  "candidates": [
+    {
+      "item": "The concept of a realtor being involved was a new idea in rural South Georgia, even though it was rather common in bigger areas like Savannah and Atlanta. Around here, people just stuck up a for sale sign and when someone that needed a house noticed it, they then contacted a lawyer to prepare a sales contract and proceeded to closing.",
+      "why_interesting": "Tom Peterson III didn't just open a brokerage \u2014 he introduced the very concept of realtor-assisted real estate to rural South Georgia in 1979, in a market where DIY-plus-a-lawyer was the norm. That's a genuine market-creation story, not just 'we've been around a long time.' It's specific, historically grounded, and stated in his own blunt words.",
+      "level": "company",
+      "source_url": "https://www.theadvancenews.com/2024/08/28/chatwith-tom-peterson-iii/",
+      "as_of_date_if_known": "August 28, 2024",
+      "recency_note": "Primary source is a 2024 feature interview; the historical claim itself dates to the firm's 1979 founding.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Carolyn Robinson, G.R.I, Appraiser \u2014 listed consistently across dated newspaper advertisements from 2020 through February 2026 at Tom Peterson, Inc. Realtors.",
+      "why_interesting": "Carolyn holds both the GRI sales designation and a certified appraiser credential simultaneously \u2014 a genuinely uncommon dual role. Most agents sell; most appraisers appraise. Doing both under one license means she can list a property AND independently value it, giving clients an unusually complete picture from one person. The 6+ year documented continuity (2020\u20132026) in primary print sources also signals deep institutional tenure at a small ~14-person firm.",
+      "level": "individual",
+      "source_url": "https://gahistoricnewspapers.galileo.usg.edu/lccn/2008233466/2026-02-11/ed-1/seq-24/ocr/",
+      "as_of_date_if_known": "February 2026",
+      "recency_note": "Most recent confirmation is February 2026 print ad; also confirmed in Dec 2025, Jul 2023, and Aug 2020 ads.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Tom Peterson III served on the Vidalia City Council and Toombs County Chamber of Commerce (now Greater Vidalia Chamber). His team of realtors never failed to attend community events and fundraisers, such as the Meadows Hospital Health Fair 3 Mile Fun Walk.",
+      "why_interesting": "A broker who sat on city council \u2014 the body that makes zoning, permitting, and land-use decisions \u2014 has a structurally different kind of local knowledge than a typical agent. Combined with 45+ years in one market, this is a specific, verifiable civic depth, not a generic 'community-focused' boast.",
+      "level": "company",
+      "source_url": "https://www.theadvancenews.com/2024/08/28/chatwith-tom-peterson-iii/",
+      "as_of_date_if_known": "August 28, 2024",
+      "recency_note": "Reported in a 2024 feature; council service was historical, specific tenure dates not confirmed.",
+      "sensitivity": "none"
+    }
+  ]
+}
