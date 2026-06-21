@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://natanitsolutions.com",
-    "what_they_do": "Cannot be determined. The website contains only default WordPress placeholder content ('Hello world!', 'This is your first post.') and lorem ipsum filler text. No real product, service, or industry description is present.",
-    "raw_notes": "Site is a brand-new, unconfigured WordPress installation. No homepage copy, no about page, no services listed, no team information, no branding beyond the domain name. The name 'Natan IT Solutions' suggests an IT services or technology solutions company, but this is inference from the name only \u2014 not supported by any first-party content. Lorem ipsum blocks are present but are purely placeholder filler with no informational value.",
+    "what_they_do": "Unknown. The website is a default, unconfigured WordPress installation with no real content \u2014 only placeholder/Lorem Ipsum text and the default 'Hello world!' post. No products, services, or business description are present.",
+    "raw_notes": "Site appears to be brand new and not yet built out. No homepage copy, no about page, no services listed, no team info, no value proposition. All visible text is WordPress boilerplate ('Hello world!', 'Welcome to WordPress. This is your first post.') and Lorem Ipsum filler. Cannot infer what 'IT Solutions' means in practice \u2014 could be anything from managed IT services to software development to consulting.",
     "source_urls": [
       "https://natanitsolutions.com"
     ]
@@ -10,17 +10,16 @@
   "individual": {
     "name": "Natan",
     "role_if_found": null,
-    "notes": "Email address is hr@natanitsolutions.com, indicating this person works in or manages HR functions at the company \u2014 or used 'hr@' as a general contact/admin address. First name 'Natan' is provided at signup but no surname, LinkedIn, or other individual details are available. No individual profile, bio, or leadership page exists on the website (site is a blank WordPress install). Role cannot be confirmed beyond the HR email prefix.",
+    "notes": "First name is Natan. Email address is hr@natanitsolutions.com \u2014 the 'hr' prefix suggests this person may work in a Human Resources function (e.g., HR Manager, HR Director, or HR generalist) rather than being a founder or technical lead, though this is an inference from the email prefix only and cannot be confirmed. No further information found about this individual from the website (which has no team/about page) or other sources.",
     "source_urls": []
   },
   "could_not_find": [
-    "What the company actually does \u2014 no real website content exists yet",
-    "Company founding date, size, industry vertical, or geography",
-    "Any products, services, or clients",
-    "Recipient's last name or full identity",
-    "Recipient's confirmed role/title (HR email prefix is suggestive only)",
-    "Any news, press, or third-party references to the company",
-    "LinkedIn or other social profiles for the individual or company",
-    "Whether 'hr@' is a shared inbox or the individual's personal address"
+    "What the company actually does \u2014 website has no real content",
+    "Company founding date, size, or location",
+    "Any products or services offered",
+    "Natan's last name",
+    "Natan's confirmed job title or role",
+    "Any team, leadership, or about-page information",
+    "No third-party news, LinkedIn, or other web presence found to supplement"
   ]
 }
