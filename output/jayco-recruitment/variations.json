@@ -1,0 +1,80 @@
+{
+  "lead_id": "jayco-recruitment",
+  "company_name": "Jayco Recruitment",
+  "recipient_name": "Jamie Grogan",
+  "email": "jamie.grogan@jaycorec.co.uk",
+  "variations": [
+    {
+      "variant_n": 1,
+      "compliment": "Jayco Recruitment looks like a great company - the 12 week after-care package where you check in with both sides over three months is such a thoughtful way to make sure the match really sticks.",
+      "email": "Hello Jamie,\n\nThanks for checking out Polymer! Jayco Recruitment looks like a great company - the 12 week after-care package where you check in with both sides over three months is such a thoughtful way to make sure the match really sticks.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.jaycorec.co.uk/sectors/professional-search-and-selection"
+      ],
+      "score": 8,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1782155146.337179",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 2,
+      "compliment": "Jayco Recruitment looks great - providing over 5,000 Health and Social Care staffing hours weekly across the North East is seriously impressive.",
+      "email": "Hello Jamie,\n\nThanks for checking out Polymer! Jayco Recruitment looks great - providing over 5,000 Health and Social Care staffing hours weekly across the North East is seriously impressive.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.jaycorec.co.uk/sectors/health-and-social"
+      ],
+      "score": 8,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1782155146.547889",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 3,
+      "compliment": "Jayco Recruitment looks like a great company - I love that your office-based team has a combined 34 years of experience in care and recruitment.",
+      "email": "Hello Jamie,\n\nThanks for checking out Polymer! Jayco Recruitment looks like a great company - I love that your office-based team has a combined 34 years of experience in care and recruitment.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.jaycorec.co.uk/sectors/health-and-social"
+      ],
+      "score": 8,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1782155146.764789",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 4,
+      "compliment": "Jayco Recruitment looks like a great team - having consultants who actually come from the industries they recruit for must make such a difference in really understanding what clients need.",
+      "email": "Hello Jamie,\n\nThanks for checking out Polymer! Jayco Recruitment looks like a great team - having consultants who actually come from the industries they recruit for must make such a difference in really understanding what clients need.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://jaycorec.co.uk/"
+      ],
+      "score": 8,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1782155146.991569",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 5,
+      "compliment": "Jayco Recruitment looks great - it's lovely that your whole office team has hands-on care experience, with 34 combined years between you in care and recruitment.",
+      "email": "Hello Jamie,\n\nThanks for checking out Polymer! Jayco Recruitment looks great - it's lovely that your whole office team has hands-on care experience, with 34 combined years between you in care and recruitment.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.jaycorec.co.uk/sectors/health-and-social"
+      ],
+      "score": 8,
+      "tells": [
+        "it's lovely that"
+      ],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1782155147.214599",
+      "slack_channel": "C0B87Q5UEL9"
+    }
+  ]
+}

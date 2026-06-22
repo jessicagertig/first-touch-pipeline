@@ -1,0 +1,80 @@
+{
+  "lead_id": "deloitte",
+  "company_name": "Deloitte",
+  "recipient_name": "Dimitris Ps",
+  "email": "dipsaras@deloitte.com",
+  "variations": [
+    {
+      "variant_n": 1,
+      "compliment": "Deloitte looks like a remarkable company - I read that you've added AI agents to the Omnia platform that can perform specific tasks and coordinate with each other, which is fascinating to see.",
+      "email": "Hello Dimitris,\n\nThanks for checking out Polymer! Deloitte looks like a remarkable company - I read that you've added AI agents to the Omnia platform that can perform specific tasks and coordinate with each other, which is fascinating to see.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.deloitte.com/global/en/about/press-room/deloitte-expands-ai-capabilities-in-omnia.html"
+      ],
+      "score": 8,
+      "tells": [
+        "which is fascinating to see"
+      ],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1782155415.451579",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 2,
+      "compliment": "Deloitte looks like a great company - training more than 120,000 professionals through the Deloitte AI Academy and investing over $2 billion in technology learning is seriously impressive.",
+      "email": "Hello Dimitris,\n\nThanks for checking out Polymer! Deloitte looks like a great company - training more than 120,000 professionals through the Deloitte AI Academy and investing over $2 billion in technology learning is seriously impressive.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.deloitte.com/us/en/about/press-room/deloitte-and-anthropic-launch-certification-program.html"
+      ],
+      "score": 8,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1782155415.667729",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 3,
+      "compliment": "Deloitte Greece's growth under your leadership is seriously impressive - quadrupling the workforce to over 2,900 people in just six years is no small feat!",
+      "email": "Hello Dimitris,\n\nThanks for checking out Polymer! Deloitte Greece's growth under your leadership is seriously impressive - quadrupling the workforce to over 2,900 people in just six years is no small feat!\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.deloitte.com/gr/en/about/people/profiles.dkoutsopoulos+8e3efab5.html"
+      ],
+      "score": 8,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1782155415.877179",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 4,
+      "compliment": "Deloitte looks like a great company - I loved seeing the collaboration on the USGA's Rules AI tool that draws on 130 years of rules knowledge to actually help golfers on the course.",
+      "email": "Hello Dimitris,\n\nThanks for checking out Polymer! Deloitte looks like a great company - I loved seeing the collaboration on the USGA's Rules AI tool that draws on 130 years of rules knowledge to actually help golfers on the course.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://mediacenter.usga.org/press-releases?item=123200"
+      ],
+      "score": 9,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1782155416.202609",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 5,
+      "compliment": "Deloitte looks like it's doing amazing work in AI - training over 120,000 professionals through the Deloitte AI Academy alongside a $2 billion investment in technology learning is really impressive!",
+      "email": "Hello Dimitris,\n\nThanks for checking out Polymer! Deloitte looks like it's doing amazing work in AI - training over 120,000 professionals through the Deloitte AI Academy alongside a $2 billion investment in technology learning is really impressive!\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.deloitte.com/us/en/about/press-room/deloitte-and-anthropic-launch-certification-program.html"
+      ],
+      "score": 8,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1782155416.420319",
+      "slack_channel": "C0B87Q5UEL9"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "candidates": [
+    {
+      "item": "Jayco was founded in 2016 with a laptop, a phone, and a belief: that the right relationships are more valuable than the biggest databases.",
+      "why_interesting": "Unusually candid and concrete origin story \u2014 a solo founder, minimal kit, an explicit philosophical bet against database-volume recruiting. It's a real differentiator stance, not a generic 'we care about people' line, and it's written in their own blunt voice. Makes for a natural conversation hook without parroting marketing fluff.",
+      "level": "company",
+      "source_url": "https://jaycorec.co.uk/",
+      "as_of_date_if_known": "2024\u20132025 (live homepage)",
+      "recency_note": "Live on homepage at time of research; confirmed via direct site and Webflow staging mirror.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Since then, we've grown from a one-person operation to a multi-million-pound recruitment agency delivering temporary and permanent staffing across the UK.",
+      "why_interesting": "Pinpoints the growth arc in concrete terms \u2014 solo founder to multi-million-pound turnover \u2014 without citing a specific revenue figure that could become outdated. It gives a vivid sense of scale without being vague.",
+      "level": "company",
+      "source_url": "https://jayco-v1.webflow.io/",
+      "as_of_date_if_known": "2024\u20132025 (Webflow staging site, mirrors live copy)",
+      "recency_note": "Found on Webflow staging mirror of the live site; treat as current but unconfirmed on the production domain.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "We really get health and social care, across the North East we provide in excess of 5000 Health and Social Care staffing hours weekly.",
+      "why_interesting": "A specific, verifiable operational number \u2014 not a vague claim of 'market-leading' coverage. 5,000+ hours per week is a tangible proof point of scale in a sector (care staffing) where consistency and volume genuinely matter to commissioners and care providers.",
+      "level": "company",
+      "source_url": "https://www.jaycorec.co.uk/sectors/health-and-social",
+      "as_of_date_if_known": "Live on sector page at time of research",
+      "recency_note": "Confirmed directly on the live Health & Social sector page.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Even after the candidate is placed our service doesn't stop, we offer a 12 week after-care package, after one week we touch base with both the client and candidates to iron out any differences/issues there may be.",
+      "why_interesting": "Most recruiters' service ends at placement; a structured 12-week post-placement check-in programme is genuinely unusual and is a concrete mechanism, not a vague promise. Signals accountability for quality of fit, not just speed of fill.",
+      "level": "company",
+      "source_url": "https://www.jaycorec.co.uk/sectors/professional-search-and-selection",
+      "as_of_date_if_known": "Live on permanent recruitment sector page at time of research",
+      "recency_note": "Confirmed directly on the live Professional Search & Selection sector page.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "All of our office-based team have at some time in their careers had exposure to a care or nursing led environment. We are an established team that have a combined experience in care and recruitment of some 34 years.",
+      "why_interesting": "Recruiters who've personally worked in care settings is a rare and specific claim \u2014 it's not just 'we understand your sector,' it's 'our consultants have been in your shoes.' The 34-year combined figure for the Health & Social team alone (distinct from the broader '50 years combined' company-wide figure) gives it texture.",
+      "level": "company",
+      "source_url": "https://www.jaycorec.co.uk/sectors/health-and-social",
+      "as_of_date_if_known": "Live on sector page at time of research",
+      "recency_note": "Confirmed directly on the live Health & Social sector page.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Our consultants come from the industries they recruit for \u2014 from healthcare and hospitality to logistics and executive placements.",
+      "why_interesting": "Backs up the 'industry insider' positioning across all divisions, not just care. This is the concrete mechanism behind the relationship-first philosophy \u2014 consultants with lived sector experience rather than generalist recruiters.",
+      "level": "company",
+      "source_url": "https://jaycorec.co.uk/",
+      "as_of_date_if_known": "2024\u20132025 (live homepage)",
+      "recency_note": "Live on homepage at time of research.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "We have client relationships that span timeframes of over ten years and they to this day return repeatedly to utilise the quality service that we deliver day in day out week after week.",
+      "why_interesting": "A founded-in-2016 agency claiming 10+ year client relationships is internally contradictory and therefore oddly endearing \u2014 it suggests some clients followed the founder from a prior role, or the claim is aspirational/erroneous. Either interpretation is interesting and worth a gentle, curious ask.",
+      "level": "company",
+      "source_url": "https://www.jaycorec.co.uk/sectors/health-and-social",
+      "as_of_date_if_known": "Live on sector page at time of research",
+      "recency_note": "Confirmed on live Health & Social sector page. Note the logical tension with the 2016 founding date.",
+      "sensitivity": "none"
+    }
+  ]
+}

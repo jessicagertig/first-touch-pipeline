@@ -1,0 +1,47 @@
+{
+  "company": {
+    "website": "https://jaycorec.co.uk",
+    "what_they_do": "Jayco Recruitment is an independent, multi-sector UK recruitment agency founded in 2016 and headquartered in the North East (Newcastle upon Tyne / Hebburn). They place temporary, contract, and permanent workers across four main sectors: Health & Social Care (nurses, carers, support workers), Hospitality & Events (chefs, FOH, bar staff), Industrial & Logistics (warehouse, drivers, production), and Permanent Recruitment (national coverage). Key differentiators include 24/7 availability, rigorous compliance/vetting, dedicated consultant per client and candidate, industry-specialist consultants, and a relationship-first philosophy over database-driven volume filling. They operate nationally but emphasise local depth from their North East base.",
+    "raw_notes": [
+      "Founded 2016 by Jonathan Coates (Director) \u2014 started with 'a laptop, a phone, and a belief'",
+      "Team listed on homepage: Jonathan Coates (Director), Christine Winter (Finance Manager), Kurt Box (Business Manager), Suzanne Young (Recruitment Consultant)",
+      "Head office described in internal-roles page as 'newly purchased and refurbished Head Office in Hebburn'; Facebook lists address as 7-8 Blue Sky Way, Newcastle upon Tyne",
+      "Sectors: Health & Social Care, Hospitality & Events, Industrial & Logistics, Permanent Recruitment (national)",
+      "Also references IT/software/robotics permanent recruitment on /service/recruitment page \u2014 slightly broader than homepage implies",
+      "JAYCO Collective sub-brand for temp/flexible workforce solutions",
+      "Supplies over 5,000 hours per week to Health & Social Care sector (from blog post)",
+      "Clients range from local SMEs to multinational PLCs to charities and public sector",
+      "Permanent placement includes a 12-week after-care package with regular check-ins",
+      "Previously expanded into Yorkshire (Halifax branch) \u2014 blog post dated ~2020/2021; current homepage does not mention Yorkshire branch so status unclear",
+      "Management team cited as having 'over 50 years combined recruitment experience'",
+      "Core brand values: trust, integrity, long-term relationships, compliance, personal service",
+      "Internal teams include recruitment, compliance, finance, and marketing"
+    ],
+    "source_urls": [
+      "https://jaycorec.co.uk",
+      "https://www.jaycorec.co.uk/sectors/internal-roles",
+      "https://www.jaycorec.co.uk/post/top-5-reasons-we-are-opening-jayco-yorkshire",
+      "https://www.jaycorec.co.uk/service/recruitment",
+      "https://www.jaycorec.co.uk/service/collective",
+      "https://www.jaycorec.co.uk/sectors/professional-search-and-selection",
+      "https://www.facebook.com/JAYCOHS/"
+    ]
+  },
+  "individual": {
+    "name": "Jamie Grogan",
+    "role_if_found": "Marketing Manager",
+    "notes": "Third-party data source (Wiza) identifies Jamie Grogan as Marketing Manager at Jayco Recruitment, based in Newcastle upon Tyne, England. This is consistent with the company's internal-roles page, which explicitly lists a marketing team as part of Jayco's internal structure. No LinkedIn profile or first-party bio was directly accessible. Jamie is not listed among the named team members on the current homepage (Jonathan Coates, Christine Winter, Kurt Box, Suzanne Young), but the homepage team section may not be exhaustive. No founder relationship \u2014 Jamie appears to be a staff-level marketing hire, not a founder.",
+    "source_urls": [
+      "https://wiza.co/d/jayco-recruitment/7d60/jamie-grogan",
+      "https://www.jaycorec.co.uk/sectors/internal-roles"
+    ]
+  },
+  "could_not_find": [
+    "Jamie Grogan's LinkedIn profile was not directly accessible \u2014 role sourced from third-party aggregator (Wiza) only; should be treated as probable but unconfirmed",
+    "No first-party bio or quote from Jamie Grogan found",
+    "Yorkshire branch current status unclear \u2014 blog post announced Halifax opening but homepage no longer references it",
+    "Exact founding date of the website / whether site is newly relaunched is not confirmed beyond the homepage content provided",
+    "Company revenue, headcount, or growth metrics not publicly available",
+    "No recent news articles or press coverage found for Jayco Recruitment"
+  ]
+}

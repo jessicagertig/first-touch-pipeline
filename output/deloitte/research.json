@@ -1,0 +1,39 @@
+{
+  "company": {
+    "website": "https://www.deloitte.com",
+    "what_they_do": "Deloitte is one of the world's largest professional services networks. It provides audit & assurance, consulting, tax, risk advisory, financial advisory, and legal services to clients ranging from startups to Fortune 500 companies. Key service pillars include: external and internal audit, strategy and management consulting (via Monitor Deloitte), digital transformation and customer experience (via Deloitte Digital), technology implementation (ERP, cloud, AI/data), tax compliance and advisory, and risk & financial advisory. Deloitte serves clients across all major industries in 150+ countries with ~470,000 employees and reported ~$70.5B in FY2025 global revenue. It is one of the 'Big Four' professional services firms.",
+    "raw_notes": [
+      "Provides audit, consulting, tax, and advisory services \u2014 described on homepage as 'industry-leading'",
+      "Serves nearly 90% of Fortune 500 and 9,000+ US-based private companies",
+      "180+ years in operation; network spans 150+ countries",
+      "~470,000 people globally; FY2025 revenue ~$70.5B",
+      "Key consulting sub-brands: Monitor Deloitte (strategy), Deloitte Digital (customer/digital), Deloitte Engineering (product/technology build)",
+      "Strong AI/data push: homepage highlights AI adoption work (e.g., USGA AI strategy project), AI-enabled systems, and Deloitte's Omnia AI-powered audit platform",
+      "Homepage messaging: 'progress starts when people connect... building something greater than the sum of its parts... One challenge at a time' \u2014 emphasizes collaboration and cross-functional problem solving",
+      "Deloitte Greece is a notable regional office with 2,900+ people, having quadrupled in 6 years under CEO Dimitris Koutsopoulos (since 2015)",
+      "Named a Top Ranked Consulting Firm by Management Consulted in 2026",
+      "Operates as a global network of legally independent member firms under Deloitte Touche Tohmatsu Limited (DTTL)"
+    ],
+    "source_urls": [
+      "https://www.deloitte.com",
+      "https://www.deloitte.com/global/en/what-we-do.html",
+      "https://www.deloitte.com/global/en/services.html",
+      "https://www.deloitte.com/us/en/about.html",
+      "https://en.wikipedia.org/wiki/Deloitte",
+      "https://managementconsulted.com/deloitte-consulting/"
+    ]
+  },
+  "individual": {
+    "name": "Dimitris Ipsaras",
+    "role_if_found": null,
+    "notes": "No public profile, biography, or indexed web page found for 'Dimitris Ipsaras' at Deloitte. The name surname 'Ipsaras' returned zero relevant results across Deloitte's own site, LinkedIn (public), and general web search. Multiple other 'Dimitris' profiles at Deloitte exist (e.g., Koutsopoulos, Katsibokis, Dimitriou) but none match this individual. The email handle 'dipsaras' confirms the surname Ipsaras. Given the Greek surname and the prominence of Deloitte Greece, it is plausible (but unconfirmed) that Dimitris may be based in or associated with the Deloitte Greece office, though this cannot be asserted from available sources.",
+    "source_urls": []
+  },
+  "could_not_find": [
+    "No public profile or role information found for Dimitris Ipsaras at Deloitte \u2014 not on deloitte.com, not in indexed sources",
+    "Cannot confirm geography/office (Greece vs. other region) from available data",
+    "Cannot confirm seniority level (analyst, manager, partner, etc.)",
+    "No personal background, area of expertise, or professional bio available",
+    "LinkedIn profile (if any) was not publicly surfaced in search results"
+  ]
+}

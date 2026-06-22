@@ -1,0 +1,49 @@
+{
+  "candidates": [
+    {
+      "item": "Developed in collaboration with Deloitte, the new Rules AI tool harnesses over 130 years of rules stewardship to provide high-confidence answers to golfers.",
+      "why_interesting": "Genuinely specific and concrete: Deloitte built a bespoke, production-grade AI tool for the USGA (launched May 2026) that fields ~17,000 annual rules inquiries and is being rolled out to all GHIN app users by spring 2027. It is not generic consulting \u2014 Deloitte's team built the backend, trained it on USGA's proprietary 130-year rules database, and the USGA publicly credited them by name. A Big Four firm shipping a live consumer-facing AI product inside a beloved sports organisation's app is a genuinely surprising use-case.",
+      "level": "company",
+      "source_url": "https://mediacenter.usga.org/press-releases?item=123200",
+      "as_of_date_if_known": "May 27, 2026",
+      "recency_note": "Announced and launched ~4 weeks ago; very fresh.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Under his leadership, Deloitte Greece has reached a headcount of more than 2,900 people, having quadrupled its workforce in just 6 years.",
+      "why_interesting": "4\u00d7 headcount growth in 6 years inside a country that was, by Deloitte's own research, ranked last among EU countries on digital maturity \u2014 that's a counterintuitive, striking number. It signals that Deloitte Greece is not a sleepy regional outpost but one of the fastest-scaling offices in the global network, and it is the most plausible organisational home for Dimitris Ipsaras given his Greek surname.",
+      "level": "company",
+      "source_url": "https://www.deloitte.com/gr/en/about/people/profiles.dkoutsopoulos+8e3efab5.html",
+      "as_of_date_if_known": "2024 (most recent figure on profile page)",
+      "recency_note": "Stable stat, referenced consistently across multiple Deloitte Greece pages as of 2024-2026.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Deloitte has rolled out purpose-specific large language models and chatbots that can be leveraged by Deloitte's nearly 85,000 Audit & Assurance professionals globally... running over three million AI prompts in the first year of use.",
+      "why_interesting": "Three million internal AI prompts in year one is a concrete, verifiable usage number \u2014 not a vague 'we use AI' claim. It is specific to Deloitte's own workforce transformation and distinguishes scale of internal adoption from competitors who talk about AI without disclosing usage metrics. Also note: Deloitte won the inaugural 'AI Innovation Initiative of the Year' award at the International Accounting Forum for this Omnia GenAI work.",
+      "level": "company",
+      "source_url": "https://www.deloitte.com/us/en/about/press-room/deloitte-expands-AI-capabilities-in-omnia-global-audit-platform.html",
+      "as_of_date_if_known": "July 15, 2025",
+      "recency_note": "Press release dated July 2025; award and usage figure confirmed across multiple independent sources.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Deloitte's Omnia platform now includes agentic AI capabilities \u2014 AI agents that 'function as digital specialists capable of performing specific tasks, remembering relevant information, and coordinating with other agents as an interconnected system' \u2014 deployed to 85,000 audit professionals across 150+ countries.",
+      "why_interesting": "Agentic AI inside a regulated audit workflow \u2014 where a mistake has legal and reputational consequences \u2014 is a bolder bet than using AI in, say, marketing copy. Deploying autonomous agents that coordinate with each other across a global audit platform at this scale has no obvious Big Four equivalent that is publicly confirmed at this level of specificity. It is the concrete mechanism behind the 'AI-enabled audit' headline.",
+      "level": "company",
+      "source_url": "https://www.deloitte.com/global/en/about/press-room/deloitte-expands-ai-capabilities-in-omnia.html",
+      "as_of_date_if_known": "July 15, 2025",
+      "recency_note": "Announced July 2025; still current as of June 2026.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Deloitte is also increasing AI fluency, training more than 120,000 professionals via the Deloitte AI Academy\u2122 and investing in global technology learning and development initiatives, including the recent launch of a GenAI and advanced AI applications certification program.",
+      "why_interesting": "120,000 professionals certified through a proprietary AI Academy \u2014 with a formal credentialing program layered on top \u2014 is a specific, verifiable workforce investment number that goes well beyond 'we train our people in AI.' It is more than a quarter of Deloitte's entire 470,000-person global workforce.",
+      "level": "company",
+      "source_url": "https://www.deloitte.com/us/en/about/press-room/deloitte-expands-AI-capabilities-in-omnia-global-audit-platform.html",
+      "as_of_date_if_known": "July 15, 2025",
+      "recency_note": "From July 2025 press release; confirmed by independent coverage.",
+      "sensitivity": "none"
+    }
+  ]
+}
