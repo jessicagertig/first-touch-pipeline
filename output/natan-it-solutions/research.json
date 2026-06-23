@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://natanitsolutions.com",
-    "what_they_do": "Unknown. The website is a brand-new, unconfigured WordPress installation showing only default placeholder content ('Hello world! Welcome to WordPress. This is your first post.'). No real business description, services, products, or any substantive content is present.",
-    "raw_notes": "The homepage served from natanitsolutions.com contains only WordPress default boilerplate text and Lorem Ipsum-style filler copy. There is no real 'About', no services listed, no team page, no industry signal, and no branding beyond the domain name 'Natan IT Solutions'. The org_name ('Natan IT Solutions') suggests an IT services or solutions company, but this cannot be confirmed from the site itself. Web searches returned no results for 'natanitsolutions.com' specifically. Results for similar names (NAT IT Solutions, NATS Solutions, Nahum Natan Technology Solutions, etc.) are clearly different companies and cannot be attributed to this signup.",
+    "what_they_do": "Unknown. The website is a default/unconfigured WordPress installation with no real content \u2014 only the auto-generated 'Hello world!' placeholder post and Lorem Ipsum-style filler text. No products, services, or business description are present.",
+    "raw_notes": "Site appears brand new and not yet built out. No homepage copy, no about page, no services listed, no team bios, no case studies, no social links. The only text present is the default WordPress placeholder post ('Hello world! Welcome to WordPress. This is your first post.') and generic Lorem Ipsum filler. Cannot determine industry, offering, target market, or company stage from this source.",
     "source_urls": [
       "https://natanitsolutions.com"
     ]
@@ -10,15 +10,18 @@
   "individual": {
     "name": "Natan",
     "role_if_found": null,
-    "notes": "The email address is hr@natanitsolutions.com, indicating the recipient works in an HR (Human Resources) function at the company. No further information about this individual (last name, title, LinkedIn profile, or background) could be found via web search. The first name 'Natan' may simply match the company name rather than being the personal name of the HR contact, but is taken at face value as provided.",
+    "notes": "First name is Natan. The email address is hr@natanitsolutions.com, which suggests an HR-related function (e.g., HR manager, HR director, or HR generalist) rather than a founder or technical role \u2014 though this is inferred from the email prefix only and not confirmed by any source. No LinkedIn profile, bio, or other individual-level information was found on the company website (which has no content). No independent web presence found for this individual tied to this company.",
     "source_urls": []
   },
   "could_not_find": [
-    "No real business description or services on natanitsolutions.com \u2014 site is an unconfigured WordPress default install.",
-    "No web search results exist for natanitsolutions.com as a known business entity.",
-    "Individual's last name, full title, and any professional background are unknown.",
-    "Cannot confirm industry, company size, founding date, geography, or product/service offering.",
-    "The HR email function suggests the recipient may not be a founder or executive \u2014 personal founder story hooks are not applicable.",
-    "No first-party 'About', 'Team', or 'Services' pages are available to draw from."
+    "What the company actually does \u2014 website is an unconfigured WordPress default with zero real content.",
+    "Industry or sector.",
+    "Company size, location, or founding date.",
+    "Any products or services offered.",
+    "Natan's last name.",
+    "Natan's confirmed role/title \u2014 'HR' is inferred from email prefix only, not a verified source.",
+    "Any news, press mentions, or third-party references to the company.",
+    "Any social media profiles (LinkedIn, Twitter/X, etc.) for the company or individual.",
+    "Whether 'Natan IT Solutions' is the company's real trading name or a placeholder used at signup."
   ]
 }
