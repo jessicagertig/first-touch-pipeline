@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://natanitsolutions.com",
-    "what_they_do": "Unknown. The website is a default, unconfigured WordPress installation with no real content \u2014 only placeholder 'Hello World' text and Lorem Ipsum-style filler. No products, services, or business description are present.",
-    "raw_notes": "Site appears to be brand new and not yet built out. Homepage contains only the default WordPress first post ('Hello world! Welcome to WordPress. This is your first post.') and generic Lorem Ipsum filler text. No about page, no services page, no team information, no company description, no branding beyond the domain name. The org name 'Natan IT Solutions' suggests an IT services or solutions business, but this is inferred from the name alone \u2014 not supported by any site content.",
+    "what_they_do": "Unknown. The website at natanitsolutions.com is a brand-new, unconfigured WordPress installation with no real content \u2014 it only contains the default WordPress placeholder post ('Hello world! Welcome to WordPress. This is your first post.'). No actual products, services, or business description are present.",
+    "raw_notes": "The homepage content provided is entirely default WordPress boilerplate ('Hello world!', 'Welcome to WordPress. This is your first post. Edit or delete it, then start writing!'). The remaining text on the page is Lorem Ipsum-style filler ('There are many variations of passages...' / 'Amet consectur adipiscing elit...'). There is zero first-party content describing what the business does, who it serves, or what industry it operates in. The domain natanitsolutions.com is distinct from: natitsolutions.com (NAT IT & Digital Marketing Solutions), natitsolution.com (NAT IT Solutions \u2014 custom web development), nat-solutions.com, nats-solutions.com, and other 'NAT'-adjacent IT companies found in web search. None of those match the exact domain or org name 'Natan IT Solutions.' The org name suggests an IT services or solutions company, but this cannot be confirmed from any source.",
     "source_urls": [
       "https://natanitsolutions.com"
     ]
@@ -10,17 +10,14 @@
   "individual": {
     "name": "Natan",
     "role_if_found": null,
-    "notes": "First name is Natan. Email prefix is 'hr@', suggesting this person may work in Human Resources or is accessing the product via an HR-designated inbox \u2014 but this is not confirmed. No individual profile, bio, LinkedIn presence, or role information was findable from site content. Last name unknown.",
+    "notes": "The email address is hr@natanitsolutions.com, meaning the signup came through the HR inbox (or an HR-role address), not a named personal email. 'Natan' may be a personal first name or may reflect the company brand name ('Natan IT Solutions'). No individual named 'Natan' at this company could be found in web search results or any public profile. Role is unconfirmed \u2014 could be HR manager, founder, or an admin using the HR alias. No LinkedIn profile, news mention, or any other public trace of a specific individual at this domain was found.",
     "source_urls": []
   },
   "could_not_find": [
-    "No description of what the company actually does \u2014 site is an unconfigured WordPress default.",
-    "No products or services listed anywhere on the site.",
-    "No About page or team page.",
-    "No confirmation of Natan's last name, title, or role.",
-    "No founding story, company size, industry vertical, or target market.",
-    "The 'hr@' email prefix may indicate an HR role but is unconfirmed.",
-    "No social media profiles or external mentions found to supplement the empty site.",
-    "Company may be too new or pre-launch to have any public footprint."
+    "Any real business description or services offered by natanitsolutions.com \u2014 the site is an unconfigured WordPress install with only default placeholder content.",
+    "The individual recipient's full name, title, or role. The email prefix 'hr' suggests an HR function, but this is unverified.",
+    "Company size, industry vertical, founding date, location, or target customers.",
+    "Any news, press, or third-party mentions of 'Natan IT Solutions' at natanitsolutions.com specifically.",
+    "No LinkedIn or other social profile found for this specific company or individual."
   ]
 }
