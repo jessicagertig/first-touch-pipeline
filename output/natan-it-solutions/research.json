@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://natanitsolutions.com",
-    "what_they_do": "Unknown. The website contains only default WordPress placeholder content ('Hello world!', 'This is your first post.') and lorem ipsum filler text. No actual products, services, or company description have been published yet.",
-    "raw_notes": "Site is a freshly installed WordPress instance with zero real content. Homepage shows the default 'Hello world!' post, lorem ipsum text, and no branding, navigation, or service descriptions beyond the company name 'Natan IT Solutions'. The name suggests an IT services or solutions business, but this is inference from the name only \u2014 not supported by any published content.",
+    "what_they_do": "Cannot be determined. The website contains only WordPress default placeholder content ('Hello world!', 'This is your first post.') and Lorem Ipsum-style filler text. No real product, service, or business description is present.",
+    "raw_notes": "Site is a freshly installed WordPress instance with zero real content. No homepage copy, no about page, no services listed, no product description, no team page, no location, no industry signals. Filler text present: Lorem Ipsum variant. The org name 'Natan IT Solutions' suggests an IT services or technology solutions company, but this is inferred from the name alone \u2014 not from any site content.",
     "source_urls": [
       "https://natanitsolutions.com"
     ]
@@ -10,15 +10,15 @@
   "individual": {
     "name": "Natan",
     "role_if_found": null,
-    "notes": "First name only provided. Email prefix is 'hr@', suggesting this person may work in a Human Resources capacity, or that 'hr' is simply an email alias convention used by the company. No individual profile, role, or background information could be confirmed from the website (which has no team/about page) or from the inputs provided.",
+    "notes": "First name is Natan. Email address is hr@natanitsolutions.com \u2014 the 'hr' prefix suggests this person may work in a Human Resources function, or the HR inbox is used as a general contact/signup address. No personal profile, title, LinkedIn, or other individual information was findable from the provided content. Last name unknown.",
     "source_urls": []
   },
   "could_not_find": [
-    "Company's actual products or services \u2014 website has no real content.",
-    "Company founding story, size, industry vertical, or target market.",
-    "Natan's last name, title, or role \u2014 'hr@' email prefix is ambiguous.",
-    "Any team, about, or contact page on the website.",
-    "No third-party coverage, news, or LinkedIn presence confirmed.",
-    "Whether 'Natan IT Solutions' is the trading name or a placeholder org name entered at signup."
+    "Any real description of what Natan IT Solutions does \u2014 website is an unconfigured WordPress default install with no business content",
+    "Individual's last name, title, or role beyond the 'hr@' email prefix inference",
+    "Company size, founding date, location, industry vertical, or target market",
+    "Any team, about, or services pages",
+    "Any third-party coverage, news, or external mentions of the company",
+    "Whether 'Natan' is the founder, an HR employee, or simply the person who signed up using the HR email alias"
   ]
 }
