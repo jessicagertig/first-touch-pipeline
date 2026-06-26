@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://natanitsolutions.com",
-    "what_they_do": "Unknown. The website contains only default WordPress placeholder content ('Hello world!', 'This is your first post.') and lorem ipsum filler text. No real product, service, or company description has been published yet.",
-    "raw_notes": "Site appears to be a brand-new, unconfigured WordPress installation. No homepage copy, no about page, no services listed, no team bios, no case studies, no pricing \u2014 nothing first-party and substantive to work with. Lorem ipsum blocks and a default WordPress post are the entirety of the visible content.",
+    "what_they_do": "Cannot be determined. The website at natanitsolutions.com is a brand-new, unconfigured WordPress installation showing only the default 'Hello world!' placeholder post and Lorem Ipsum filler text. No real business description, services, products, or about page content exists yet.",
+    "raw_notes": "The homepage content provided directly from natanitsolutions.com is entirely default WordPress boilerplate: 'Hello world! Welcome to WordPress. This is your first post. Edit or delete it, then start writing!' accompanied by Lorem Ipsum-style dummy text. There is zero first-party content describing the company's actual offerings, industry, team, or mission. The org name 'Natan IT Solutions' suggests an IT services or technology solutions business (consistent with the name pattern), but this is an inference from the name only \u2014 not supported by any published content. Web searches for 'natanitsolutions.com' returned no matching results for this specific domain. Superficially similar companies found in search (natitsolutions.com, natitsolution.com, etc.) are entirely different entities and cannot be attributed to this signup. The email prefix 'hr@' suggests the sender may be in a Human Resources or hiring function, but this is not confirmed.",
     "source_urls": [
       "https://natanitsolutions.com"
     ]
@@ -10,15 +10,15 @@
   "individual": {
     "name": "Natan",
     "role_if_found": null,
-    "notes": "Email address is hr@natanitsolutions.com, suggesting an HR or human-resources function \u2014 but this could simply be the mailbox the founder chose rather than a distinct HR person. No LinkedIn profile, bio, or any other individual-level information was findable. First name 'Natan' matches the company name ('Natan IT Solutions'), which weakly suggests the recipient may be the founder/owner, but this is inference only.",
+    "notes": "Only a first name ('Natan') is available. The email address is hr@natanitsolutions.com, which may indicate an HR or recruiting role, but this is speculative \u2014 'hr@' could also be a generic company inbox rather than an individual's role indicator. No LinkedIn profile, personal bio, or any other individual-level information was found for this person. No role, title, or background can be confirmed from any source.",
     "source_urls": []
   },
   "could_not_find": [
-    "Any real description of what Natan IT Solutions actually does \u2014 the website is an unconfigured WordPress default.",
-    "Company industry, target market, or service/product lines.",
-    "Individual's last name, title, or LinkedIn profile.",
-    "Company size, location, founding date, or any other firmographic data.",
-    "Any news, press mentions, or third-party references to the company.",
-    "Whether 'Natan' is the founder/owner or an HR employee of a larger entity."
+    "No usable company content on natanitsolutions.com \u2014 site is an unconfigured WordPress default install with no real business information.",
+    "No web search results matched natanitsolutions.com specifically \u2014 domain appears too new to be indexed.",
+    "Individual's last name is unknown; only first name 'Natan' provided.",
+    "Individual's role/title is unconfirmed \u2014 'hr@' email prefix is suggestive but not conclusive.",
+    "No information on company size, industry vertical, founding date, location, or team.",
+    "Cannot determine whether 'Natan' is the founder, an employee, or an admin who set up the account."
   ]
 }
