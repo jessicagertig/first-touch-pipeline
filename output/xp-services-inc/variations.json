@@ -1,0 +1,82 @@
+{
+  "lead_id": "xp-services-inc",
+  "company_name": "XP Services, Inc.",
+  "recipient_name": "Bradley Eckles",
+  "email": "brad.eckles@xpservices.us",
+  "variations": [
+    {
+      "variant_n": 1,
+      "compliment": "XP Services looks like a remarkable company - it's impressive that nearly all your professionals are veterans of the armed forces with well over 100 years of combined military and special operations experience.",
+      "email": "Hello Bradley,\n\nThanks for checking out Polymer! XP Services looks like a remarkable company - it's impressive that nearly all your professionals are veterans of the armed forces with well over 100 years of combined military and special operations experience.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://xpservices.us/about/"
+      ],
+      "score": 8,
+      "tells": [
+        "it's impressive that nearly all your professionals are veterans of the armed forces with well over 100 years of combined military and special operations experience"
+      ],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1782501889.581959",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 2,
+      "compliment": "XP Services looks like a great company - congrats on becoming a distributor for Recoil's aerial firefighting tank systems for the UH-60 Black Hawk, that seems like a really valuable addition to your work!",
+      "email": "Hello Bradley,\n\nThanks for checking out Polymer! XP Services looks like a great company - congrats on becoming a distributor for Recoil's aerial firefighting tank systems for the UH-60 Black Hawk, that seems like a really valuable addition to your work!\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://recoil-usa.com/news/recoil-aerospace-announces-xp-services-as-new-distributor-for-aerial-firefighting-tank-systems/"
+      ],
+      "score": 8,
+      "tells": [
+        "that seems like a really valuable addition to your work — empty verdict-padding tag-on"
+      ],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1782501889.682329",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 3,
+      "compliment": "XP Services looks like a great company - it's impressive that nearly all your professionals are veterans with well over 100 years of combined military and special operations experience.",
+      "email": "Hello Bradley,\n\nThanks for checking out Polymer! XP Services looks like a great company - it's impressive that nearly all your professionals are veterans with well over 100 years of combined military and special operations experience.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://xpservices.us/about/"
+      ],
+      "score": 8,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1782501889.787299",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 4,
+      "compliment": "XP Services looks like a great company - replacing those failure-prone legacy gyros on the Black Hawk with a solid-state digital system sounds like such a smart upgrade.",
+      "email": "Hello Bradley,\n\nThanks for checking out Polymer! XP Services looks like a great company - replacing those failure-prone legacy gyros on the Black Hawk with a solid-state digital system sounds like such a smart upgrade.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://genesys-aerosystems.com/newsarticle/genesys-aerosystems-modernized-avionics-suite-on-black-hawks-now-certified/"
+      ],
+      "score": 9,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1782501889.926519",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 5,
+      "compliment": "XP Services looks like a great company - congrats on becoming a distributor for Recoil's aerial fire suppression tank systems for the UH-60 Black Hawk!",
+      "email": "Hello Bradley,\n\nThanks for checking out Polymer! XP Services looks like a great company - congrats on becoming a distributor for Recoil's aerial fire suppression tank systems for the UH-60 Black Hawk!\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://recoil-usa.com/news/recoil-aerospace-announces-xp-services-as-new-distributor-for-aerial-firefighting-tank-systems/"
+      ],
+      "score": 9,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1782501890.028509",
+      "slack_channel": "C0B87Q5UEL9"
+    }
+  ]
+}

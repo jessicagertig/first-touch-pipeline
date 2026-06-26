@@ -1,0 +1,53 @@
+{
+  "company": {
+    "website": "https://xpservices.us",
+    "what_they_do": "XP Services, Inc. is a specialized aviation services company based at Tullahoma Airport (KTHA) in Tullahoma, Tennessee. They serve military and commercial clients worldwide, providing: aviation procurement (aircraft and parts, domestic and international), avionics modernization (replacing legacy systems with advanced FAA-certified avionics for helicopters and fixed-wing aircraft), aircraft maintenance and upgrades (FAA Part 145 certified repair station, 50,000+ sq ft facility, covering UH-60 Black Hawks, C-130s, and 150+ other aircraft models), flight testing and certification (experimental test pilots and engineers capable of rapid prototyping through full airworthiness qualification), cockpit refurbishment and prototyping, and pilot/mechanic training (FAA and U.S. Military certified instructors). They operate under a proprietary 'FLIGHT' process for agile, replicable project delivery. A notable achievement includes an STC approval for a Genesys modernized avionics suite for the UH-60A and EH-60A Black Hawk. The company was founded around 2005 (LinkedIn) or 2008 (About page; slight discrepancy), has 11\u201350 employees, and is privately held.",
+    "raw_notes": [
+      "Founded: ~2005 per LinkedIn; About page says 'Since 2008' \u2014 minor discrepancy, likely founded 2005, operations/contracts began 2008",
+      "Headquarters: 105 NW Taxiway Lane, Tullahoma Airport (KTHA), Tullahoma, TN 37388",
+      "Phone: (931) 392-4444",
+      "FAA Part 145 Repair Station certified (station code 8TAR202C)",
+      "Authorized dealer for major avionic OEMs; FAA Part 23, 25, 27, 29 capabilities",
+      "Team has 'over 100 years of combined flight testing experience' with extensive military backgrounds",
+      "Serve both US and foreign government clients, plus commercial clients",
+      "Proprietary 'FLIGHT' process for agile project delivery",
+      "Notable STC: Genesys modernized avionics suite approved for UH-60A and EH-60A Black Hawk (with Genesys Aerosystems) \u2014 IFR HeliSAS autopilot, four IDU-680 displays, replaces legacy gyros",
+      "Maintenance facility: 50,000+ sq ft",
+      "Covers UH-60 Black Hawks, C-130s, and 150+ aircraft models from 20 manufacturers",
+      "Committed to 'development of next generation aviators and advanced aviation technologies'",
+      "Logo designed by late Rucie Moore (passed 2019), symbolizing passion for aviation and growth",
+      "ZoomInfo estimated revenue: ~$5.8M",
+      "Appeared at Army Aviation Association of America (Quad A) show in Nashville with their MD530F",
+      "Competitors listed: Cascade Aircraft Management, Gurgew Aeronautics, Aircraft Support Group, MCA Aviation",
+      "Government contractor (listed on govcb.com)"
+    ],
+    "source_urls": [
+      "https://xpservices.us/",
+      "https://xpservices.us/about/",
+      "https://xpservices.us/capabilities/",
+      "https://xpservices.us/avionics-modernization/",
+      "https://xpservices.us/aviation-procurement/",
+      "https://xpservices.us/aircraft-maintenance-and-upgrades/",
+      "https://xpservices.us/flight-training/",
+      "https://xpservices.us/partners/",
+      "https://www.linkedin.com/company/xp-services-inc-",
+      "https://www.zoominfo.com/c/xp-services/407277138"
+    ]
+  },
+  "individual": {
+    "name": "Bradley Eckles",
+    "role_if_found": null,
+    "notes": "No confirmed role or title at XP Services found in any source. Two LinkedIn profiles exist for people named 'Bradley Eckles': (1) A profile listing 'Airlines/Aviation Professional' based in Estill Springs, TN (near Tullahoma) with prior experience at USAF \u2014 this geographic proximity and aviation background makes it a plausible match; (2) A second profile listing 'Superintendent, Field Training Detachment (Aircraft Maintenance Formal Training) \u2014 United States Air Force' also in Estill Springs, TN, with noted expertise in avionics, A&P, and experience on KC-135, UH-1N Huey, and HH-60G helicopters, and management of large aircraft maintenance teams. These two profiles may be the same person at different career stages, or two different individuals with the same name in the same area. The US Air Force background and maintenance/avionics expertise aligns well with XP Services' military-focused, maintenance-heavy service profile. No explicit mention of 'Bradley Eckles' or 'Brad Eckles' on XP Services' own website or in press releases. Specific title (e.g., founder, employee, executive) cannot be confirmed from available sources.",
+    "source_urls": [
+      "https://www.linkedin.com/in/bradley-eckles-61279555/",
+      "https://www.linkedin.com/in/bradley-eckles-512b7a45/"
+    ]
+  },
+  "could_not_find": [
+    "Bradley Eckles' specific title or role at XP Services \u2014 not listed on company website or in any confirmed public source",
+    "Whether Bradley Eckles is a founder, executive, employee, or other stakeholder",
+    "Confirmation that either LinkedIn 'Bradley Eckles' profile is definitively the same person as the signee (email domain match is the only direct link)",
+    "Named leadership team on XP Services website (no 'Team' or 'Leadership' page found)",
+    "Founding story or named founders of XP Services in any source"
+  ]
+}

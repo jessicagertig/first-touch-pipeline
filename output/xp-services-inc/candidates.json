@@ -1,0 +1,76 @@
+{
+  "candidates": [
+    {
+      "item": "Genesys Aerosystems and XP Services announce FAA Supplemental Type Certification (STC) approval of the Genesys modernized avionics suite for the UH-60A and EH-60A Black Hawk.",
+      "why_interesting": "This is a concrete, named deliverable \u2014 a certified STC on one of the most iconic military helicopters in the world. A small (~11\u201350 person) shop in Tullahoma, TN earned an FAA STC for the Black Hawk, putting them in a select club. The specific aircraft (UH-60A and EH-60A) and the partner (Genesys Aerosystems) are verifiable and distinctive, not generic. The STC also has a modular 'building block' design so operators on constrained budgets can upgrade incrementally \u2014 an unusual commercial wrinkle for a military platform.",
+      "level": "company",
+      "source_url": "https://genesys-aerosystems.com/newsarticle/genesys-aerosystems-modernized-avionics-suite-on-black-hawks-now-certified/",
+      "as_of_date_if_known": "October 21, 2020",
+      "recency_note": "STC was granted in 2020; program has since expanded (UH-60L STC in progress as of Feb 2024, per Genesys/Moog announcement).",
+      "sensitivity": "none"
+    },
+    {
+      "item": "The suite upgrade replaces legacy gyros, which are prone to failure and costly to repair, with solid-state, light-weight, digital Attitude/Heading Reference System.",
+      "why_interesting": "The specific problem being solved is vivid and tactile: gyros that break, are expensive to fix, and are increasingly hard to source. Framing an avionics upgrade as a supply-chain and reliability fix \u2014 not just a capability uplift \u2014 is a sharp and uncommon angle that makes the value proposition immediately concrete.",
+      "level": "company",
+      "source_url": "https://genesys-aerosystems.com/newsarticle/genesys-aerosystems-modernized-avionics-suite-on-black-hawks-now-certified/",
+      "as_of_date_if_known": "October 21, 2020",
+      "recency_note": "Part of the same 2020 STC announcement; problem framing remains evergreen.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Rodney Allison, President & CEO \u2014 a graduate of the U.S. Naval Test Pilot School with 20+ years of U.S. Army Special Operations aviation experience, Mr. Allison maintains over 20 FAA type certificates in both rotary and fixed wing aircraft, has 14,000+ flight hours, and is qualified in over 140 different aircraft.",
+      "why_interesting": "The founder/CEO bio is genuinely striking: Naval Test Pilot School, Army Special Ops, 14,000+ hours, 140+ aircraft types, 20+ FAA type certificates. This is not a generic executive backstory \u2014 it's the kind of credential stack that explains why a tiny Tennessee company can credibly take on a Black Hawk STC. It also reveals who the company is: essentially an elite test-pilot shop that built around one very unusual person.",
+      "level": "company",
+      "source_url": "https://xpservices.us/about/",
+      "as_of_date_if_known": "2024 (page last cached November 2024)",
+      "recency_note": "Listed on current About page; no reason to believe credentials have changed.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "He also holds current Airline Transport Pilot, Flight Engineer, and Certified Flight Instructor Certification and is a FAA Designated Engineering Representative as well as an associate fellow of The Society of Experimental Test Pilots.",
+      "why_interesting": "On top of the stats above, Allison is an FAA Designated Engineering Representative (DER) \u2014 meaning he personally has legal authority to approve engineering data for FAA certification on behalf of the agency. For a company that sells certification and flight-test services, having the DER in the CEO seat is structurally unusual and operationally significant.",
+      "level": "company",
+      "source_url": "https://xpservices.us/about/",
+      "as_of_date_if_known": "2024 (page last cached November 2024)",
+      "recency_note": "Listed on current About page.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "When we lost Rucie Moore all too soon in 2019, his legacy of love for aviation was preserved within his design for our original company logo. It symbolizes his passion for flight and to never stop growing both professionally and personally.",
+      "why_interesting": "The company logo was designed by a late colleague and U.S. Army Apache pilot \u2014 Rucie Moore \u2014 who died in 2019 and was also an XP Services test pilot. The logo is explicitly a memorial. This is a distinctly human, non-generic detail: the brand identity is literally a tribute to a fallen teammate.",
+      "level": "company",
+      "source_url": "https://xpservices.us/about/",
+      "as_of_date_if_known": "2024 (page last cached November 2024)",
+      "recency_note": "Permanently on the About page; Rucie Moore died 2019.",
+      "sensitivity": "Mildly sensitive \u2014 involves a deceased team member; use with warmth, not as a casual talking point."
+    },
+    {
+      "item": "The XPS Tullahoma Airport (KTHA) facility provides Avionics, FAA Part 145 Repair Station, and a DCMA compliant hangar facility with machining capability to fabricate components for rapid-prototyping.",
+      "why_interesting": "Having in-house machining for rapid prototyping inside a DCMA-compliant hangar is a notable operational detail \u2014 it means they can go from concept to flight-tested metal part without leaving the airport, a capability rare for a company of this size and a meaningful differentiator when pursuing defense contracts.",
+      "level": "company",
+      "source_url": "https://genesys-aerosystems.com/newsarticle/genesys-aerosystems-idu-680-selected-by-xp-services-for-uh-60-black-hawk-avionics-modernization/",
+      "as_of_date_if_known": "2024 (page last archived August 2024)",
+      "recency_note": "Mentioned consistently across multiple Genesys press releases from 2019\u20132024.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Recoil Aerospace Inc. (Recoil), designer of the world's most advanced aerial fire suppression systems (AFSS), has announced Tennessee-based XP Services (XP) as a new distributor for the Recoil line of AFSS tank systems for the UH-60 Black Hawk.",
+      "why_interesting": "As recently as May 2025, XP Services was named the distributor for an aerial firefighting tank system for the Black Hawk \u2014 a very different end-use than military special ops. It shows the company is actively expanding into the civilian wildfire-suppression market, pivoting the same UH-60 platform expertise into a hot (literally) commercial vertical.",
+      "level": "company",
+      "source_url": "https://www.cbinsights.com/company/xpservices",
+      "as_of_date_if_known": "May 8, 2025",
+      "recency_note": "Very recent \u2014 May 2025 announcement.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Nearly all of our professionals are veterans of the armed forces with well over 100 years of military and special operations experience.",
+      "why_interesting": "The phrase 'special operations experience' (not just 'military experience') is specific and load-bearing \u2014 it signals the team isn't drawn from conventional maintenance units but from the tip-of-the-spear end of military aviation, which directly supports their credibility with foreign government and classified clients.",
+      "level": "company",
+      "source_url": "https://xpservices.us/about/",
+      "as_of_date_if_known": "2024 (page last cached November 2024)",
+      "recency_note": "Current About page.",
+      "sensitivity": "none"
+    }
+  ]
+}
