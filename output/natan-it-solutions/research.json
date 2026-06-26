@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://natanitsolutions.com",
-    "what_they_do": "Unknown. The website is a default, unconfigured WordPress installation with no real content \u2014 only placeholder/Lorem Ipsum text and the default 'Hello world!' post. No actual product, service, or industry information is available from this source.",
-    "raw_notes": "Homepage contains only the WordPress default first post ('Hello world! Welcome to WordPress. This is your first post. Edit or delete it, then start writing!') and Lorem Ipsum filler text. No 'About', 'Services', 'Team', or any real pages were present. The site has not been set up by the owner yet. Org name 'Natan IT Solutions' suggests an IT services/solutions company, but this is inference from the name only \u2014 not supported by any published content.",
+    "what_they_do": "Unknown. The website contains only default WordPress placeholder content ('Hello world!', 'This is your first post.') and lorem ipsum filler text. No real product, service, or company description has been published yet.",
+    "raw_notes": "Site appears to be a brand-new, unconfigured WordPress installation. No homepage copy, no about page, no services listed, no team bios, no case studies, no pricing \u2014 nothing first-party and substantive to work with. Lorem ipsum blocks and a default WordPress post are the entirety of the visible content.",
     "source_urls": [
       "https://natanitsolutions.com"
     ]
@@ -10,15 +10,15 @@
   "individual": {
     "name": "Natan",
     "role_if_found": null,
-    "notes": "Only the first name 'Natan' is available. Email address is hr@natanitsolutions.com, which suggests this person works in an HR capacity (or manages HR-related functions) at the company \u2014 though at a small/early-stage firm the HR address may simply be an admin or founder contact. No individual profile, LinkedIn, or biography was findable from the provided domain or company name.",
+    "notes": "Email address is hr@natanitsolutions.com, suggesting an HR or human-resources function \u2014 but this could simply be the mailbox the founder chose rather than a distinct HR person. No LinkedIn profile, bio, or any other individual-level information was findable. First name 'Natan' matches the company name ('Natan IT Solutions'), which weakly suggests the recipient may be the founder/owner, but this is inference only.",
     "source_urls": []
   },
   "could_not_find": [
-    "What the company actually does \u2014 no real website content exists yet",
-    "Any company description, services, team, or industry vertical",
-    "Natan's last name, title, or role beyond the 'hr@' email prefix inference",
-    "Any third-party mentions, news, or public profiles for the company or individual",
-    "Company founding date, size, or location",
-    "Whether 'Natan' is the founder, an employee, or an HR administrator"
+    "Any real description of what Natan IT Solutions actually does \u2014 the website is an unconfigured WordPress default.",
+    "Company industry, target market, or service/product lines.",
+    "Individual's last name, title, or LinkedIn profile.",
+    "Company size, location, founding date, or any other firmographic data.",
+    "Any news, press mentions, or third-party references to the company.",
+    "Whether 'Natan' is the founder/owner or an HR employee of a larger entity."
   ]
 }
