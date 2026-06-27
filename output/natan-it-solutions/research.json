@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://natanitsolutions.com",
-    "what_they_do": "Unknown. The website is a brand-new, unconfigured WordPress installation showing only default placeholder content ('Hello world! Welcome to WordPress. This is your first post.'). No real business description, services, or any substantive content is present.",
-    "raw_notes": "The homepage at natanitsolutions.com contains exclusively WordPress default placeholder text and Lorem Ipsum-style filler copy. There is no description of services, no 'About' section, no team page, no product or service listing, and no branding beyond the domain name itself. The name 'Natan IT Solutions' suggests an IT services or technology solutions company, but this is inference from the name only \u2014 nothing on the site confirms it. Web searches for 'natanitsolutions.com' returned zero matching results; all results were for unrelated similarly-named companies (natitsolutions.com, natitsolution.com, nat-solutions.com, etc.). None of these are the same company.",
+    "what_they_do": "Unknown. The website is a brand-new, unconfigured WordPress installation showing only the default 'Hello world!' placeholder post and Lorem Ipsum filler text. No real product, service, or business description has been published yet.",
+    "raw_notes": "The homepage content provided directly from natanitsolutions.com is entirely default WordPress boilerplate: 'Hello world! Welcome to WordPress. This is your first post. Edit or delete it, then start writing!' \u2014 plus Lorem Ipsum placeholder text. There is zero substantive content about what the company does, who its customers are, or what services it offers. Web searches for 'Natan IT Solutions' and 'natanitsolutions.com' returned no matching results for this specific entity; all results are unrelated companies with similar-sounding names (NAT IT Solutions, NAN IT Solutions, Nahum Natan Technology Solutions, etc.). None of those can be attributed to this signup.",
     "source_urls": [
       "https://natanitsolutions.com"
     ]
@@ -10,15 +10,14 @@
   "individual": {
     "name": "Natan",
     "role_if_found": null,
-    "notes": "Only a first name ('Natan') is available from the signup data. The email address is hr@natanitsolutions.com, which places this person in an HR function (or they set up the HR inbox), but no further identity, title, LinkedIn profile, or public record was found for this individual. No web search results returned any person matching 'Natan' at natanitsolutions.com.",
+    "notes": "Only a first name ('Natan') is available. The signup email is hr@natanitsolutions.com, which suggests an HR-related role or function at the company \u2014 but this is only an inference from the email prefix, not a confirmed title. No individual named 'Natan' at this company was findable via web search. Could be the founder (given the company appears to be named after the individual), but this is speculative and unconfirmed.",
     "source_urls": []
   },
   "could_not_find": [
-    "Company's actual business description, services, or industry \u2014 site is an unbuilt WordPress default.",
-    "Any company founding story, team, clients, or differentiators.",
-    "Individual's full name, job title, or any public profile.",
-    "Whether 'hr@' denotes the recipient is an HR professional, founder, or simply the inbox owner.",
-    "No third-party mentions, news, or directory listings found for natanitsolutions.com specifically.",
-    "Company age, size, location, or market segment \u2014 all unknown."
+    "Any real business description, services, or industry vertical for Natan IT Solutions \u2014 the website is a blank WordPress install with no published content.",
+    "The individual recipient's last name, confirmed job title, or any professional profile (LinkedIn, etc.).",
+    "Any third-party mention, press coverage, or directory listing for natanitsolutions.com specifically.",
+    "Company size, location, founding date, or target market.",
+    "Whether the 'hr@' email prefix means the recipient works in HR or simply manages that inbox \u2014 role is unconfirmed."
   ]
 }
