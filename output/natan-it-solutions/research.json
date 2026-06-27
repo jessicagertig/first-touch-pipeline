@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://natanitsolutions.com",
-    "what_they_do": "Unknown. The website is a default, unconfigured WordPress installation with no real content \u2014 only placeholder/Lorem Ipsum text and the default 'Hello world!' post. No products, services, or business description are present.",
-    "raw_notes": "Site is a freshly installed WordPress instance. All visible text is either the WordPress default 'Hello world!' post, Lorem Ipsum filler text, or generic template copy. No About page, no Services page, no team info, no branding beyond the domain name. The org name 'Natan IT Solutions' suggests an IT services or solutions company, but this is inferred from the name only \u2014 nothing on the site confirms it.",
+    "what_they_do": "Unknown. The website is a brand-new, unconfigured WordPress installation with only auto-generated placeholder content ('Hello world! Welcome to WordPress. This is your first post.'). No real business description, services, or products are published.",
+    "raw_notes": "The homepage content provided directly from natanitsolutions.com is entirely default WordPress placeholder text \u2014 no actual company information, services, team, about page, or any other content exists yet. Web searches for 'Natan IT Solutions' and 'natanitsolutions.com' returned no matching results for this specific company. Several superficially similar company names exist (NAT IT Solutions, Nahum Natan Technology Solutions, NAN IT Solutions, etc.) but none match the domain natanitsolutions.com or the org name 'Natan IT Solutions' as registered. The email used is hr@natanitsolutions.com, suggesting an HR function, but this could simply reflect who set up the account rather than a defined company structure. The company name 'Natan IT Solutions' implies IT services, but this cannot be confirmed from any available source.",
     "source_urls": [
       "https://natanitsolutions.com"
     ]
@@ -10,16 +10,15 @@
   "individual": {
     "name": "Natan",
     "role_if_found": null,
-    "notes": "First name is Natan. Email prefix is 'hr@', suggesting this person works in Human Resources at the company \u2014 or the HR inbox is used as a general contact. No individual profile, LinkedIn, or biographical information found. Cannot confirm last name, title, or specific responsibilities.",
+    "notes": "Only first name 'Natan' is available. The email address hr@natanitsolutions.com suggests this person may be in an HR role, or may simply have used an HR-prefixed inbox (possibly a sole founder/operator using a role-based address). No public profile, LinkedIn page, or any other individual information was found for a person named 'Natan' at natanitsolutions.com. No surname provided.",
     "source_urls": []
   },
   "could_not_find": [
-    "No real company description or services listed \u2014 website is a blank WordPress default install.",
-    "No About or Team page to identify individuals or company background.",
-    "No confirmation of what 'IT Solutions' specifically covers (MSP, software dev, staffing, consulting, etc.).",
-    "No last name or specific role/title for Natan.",
-    "'hr@' email prefix may indicate an HR contact, but could also be a general inbox \u2014 recipient's actual role is unconfirmed.",
-    "No web search results, news, or third-party sources found to supplement the empty website.",
-    "Company may be brand new or in pre-launch \u2014 not enough data to personalise meaningfully."
+    "No real company content on natanitsolutions.com \u2014 site is a fresh, unconfigured WordPress install with only placeholder text.",
+    "No web search results match natanitsolutions.com or 'Natan IT Solutions' as a distinct company.",
+    "No information on what the company actually does or plans to do.",
+    "No individual profile found for 'Natan' \u2014 surname unknown, role unconfirmed.",
+    "Cannot determine company size, industry focus, geography, or stage.",
+    "The hr@ email prefix is ambiguous \u2014 could indicate an HR employee or simply a role-based inbox used by a founder."
   ]
 }
