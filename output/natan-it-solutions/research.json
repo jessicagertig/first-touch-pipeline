@@ -1,24 +1,24 @@
 {
   "company": {
     "website": "https://natanitsolutions.com",
-    "what_they_do": "Cannot be determined. The website at natanitsolutions.com is a brand-new, unconfigured WordPress installation showing only default placeholder content ('Hello world! Welcome to WordPress. This is your first post.'). No actual business information, services, products, or company description are present on the site.",
-    "raw_notes": "The homepage content provided is entirely WordPress boilerplate/placeholder text \u2014 lorem ipsum-style filler and the default 'Hello world' post. There is zero first-party content describing what Natan IT Solutions does, who it serves, its team, its products, or its history. No secondary web search results returned any match for 'natanitsolutions.com' specifically. Several similarly named but unrelated companies appeared (NAT IT Solutions at natitsolutions.com, NAT IT Solution at natitsolution.com, Nahum Natan Technology Solutions in Israel, NAN IT Solutions in Ontario, etc.) \u2014 none of these can be attributed to this registrant and should not be used as proxies.",
+    "what_they_do": "Unknown. The website is a brand-new, unconfigured WordPress installation showing only default placeholder content ('Hello world! Welcome to WordPress. This is your first post.'). No actual product, service, or business description is present on the site.",
+    "raw_notes": "The homepage at natanitsolutions.com contains only WordPress default boilerplate text and Lorem Ipsum-style filler copy. There is no About page, no services listing, no team page, no location, no branding beyond the domain name, and no indication of what the company does. The domain name 'Natan IT Solutions' suggests an intent to operate in the IT services space, but this cannot be confirmed from the site itself. Web searches for 'natanitsolutions.com' and 'Natan IT Solutions' returned no matching results \u2014 all results were unrelated companies (NAT IT Solutions at natitsolutions.com, NAT IT Solution at natitsolution.com, Nahum Natan Technology Solutions in Israel, NAN IT Solutions in Ontario, etc.). None of these are the same entity as natanitsolutions.com.",
     "source_urls": [
       "https://natanitsolutions.com"
-    ],
-    "confidence": "very low \u2014 site has no usable content"
+    ]
   },
   "individual": {
     "name": "Natan",
     "role_if_found": null,
-    "notes": "Only a first name ('Natan') is known. The contact email is hr@natanitsolutions.com, which suggests this person may work in an HR or human resources function, or the domain was simply set up with 'hr' as the first mailbox. No individual with this name and company affiliation was found in any web search results. No LinkedIn profile, biography, or any other public record linking 'Natan' to 'Natan IT Solutions' at natanitsolutions.com was located.",
+    "notes": "Only a first name ('Natan') is available. The signup email is hr@natanitsolutions.com, which suggests this person may work in an HR or people-operations function, or the 'hr' prefix could simply be a chosen email alias. No last name, LinkedIn profile, title, or biographical information was found for this individual. No public record links this specific person to the domain natanitsolutions.com.",
     "source_urls": []
   },
   "could_not_find": [
-    "Any real business description, services, or industry for Natan IT Solutions \u2014 the website is an unconfigured WordPress default install with no content.",
-    "The individual recipient's full name, title, or role \u2014 only first name 'Natan' and an 'hr@' email prefix are known.",
-    "Any founding story, team information, client base, geography, or differentiators.",
-    "Any press mentions, LinkedIn presence, or third-party references for natanitsolutions.com.",
-    "Whether the company is newly founded, in stealth, or the site was just never built out \u2014 the WordPress default state gives no signal either way."
+    "No business description, services, or company information on natanitsolutions.com \u2014 site is an unconfigured WordPress install.",
+    "No web search results matching natanitsolutions.com specifically \u2014 the domain appears too new or unlisted to have any indexed presence.",
+    "No last name or role for the individual recipient 'Natan'.",
+    "Cannot confirm industry, company size, location, founding date, or any other firmographic data.",
+    "The 'hr@' email prefix is ambiguous \u2014 could indicate an HR role or simply be an email alias; cannot confirm.",
+    "No founder story, team page, or press/news coverage found."
   ]
 }
