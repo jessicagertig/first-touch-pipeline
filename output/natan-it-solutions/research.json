@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://natanitsolutions.com",
-    "what_they_do": "Unknown. The website is a brand-new, unconfigured WordPress installation showing only default placeholder content ('Hello world! Welcome to WordPress. This is your first post.'). No actual product, service, or business description is present on the site.",
-    "raw_notes": "The homepage at natanitsolutions.com contains only WordPress default boilerplate text and Lorem Ipsum-style filler copy. There is no About page, no services listing, no team page, no location, no branding beyond the domain name, and no indication of what the company does. The domain name 'Natan IT Solutions' suggests an intent to operate in the IT services space, but this cannot be confirmed from the site itself. Web searches for 'natanitsolutions.com' and 'Natan IT Solutions' returned no matching results \u2014 all results were unrelated companies (NAT IT Solutions at natitsolutions.com, NAT IT Solution at natitsolution.com, Nahum Natan Technology Solutions in Israel, NAN IT Solutions in Ontario, etc.). None of these are the same entity as natanitsolutions.com.",
+    "what_they_do": "Unknown. The website is a default, unconfigured WordPress installation with no real content \u2014 only placeholder/Lorem Ipsum text and the default 'Hello world!' post. No products, services, or business description are present.",
+    "raw_notes": "Site is a freshly installed WordPress instance. All visible text is either the WordPress default 'Hello world!' post, Lorem Ipsum filler text, or generic template copy. No About page, no Services page, no team info, no branding beyond the domain name. The org name 'Natan IT Solutions' suggests an IT services or solutions company, but this is inferred from the name only \u2014 nothing on the site confirms it.",
     "source_urls": [
       "https://natanitsolutions.com"
     ]
@@ -10,15 +10,16 @@
   "individual": {
     "name": "Natan",
     "role_if_found": null,
-    "notes": "Only a first name ('Natan') is available. The signup email is hr@natanitsolutions.com, which suggests this person may work in an HR or people-operations function, or the 'hr' prefix could simply be a chosen email alias. No last name, LinkedIn profile, title, or biographical information was found for this individual. No public record links this specific person to the domain natanitsolutions.com.",
+    "notes": "First name is Natan. Email prefix is 'hr@', suggesting this person works in Human Resources at the company \u2014 or the HR inbox is used as a general contact. No individual profile, LinkedIn, or biographical information found. Cannot confirm last name, title, or specific responsibilities.",
     "source_urls": []
   },
   "could_not_find": [
-    "No business description, services, or company information on natanitsolutions.com \u2014 site is an unconfigured WordPress install.",
-    "No web search results matching natanitsolutions.com specifically \u2014 the domain appears too new or unlisted to have any indexed presence.",
-    "No last name or role for the individual recipient 'Natan'.",
-    "Cannot confirm industry, company size, location, founding date, or any other firmographic data.",
-    "The 'hr@' email prefix is ambiguous \u2014 could indicate an HR role or simply be an email alias; cannot confirm.",
-    "No founder story, team page, or press/news coverage found."
+    "No real company description or services listed \u2014 website is a blank WordPress default install.",
+    "No About or Team page to identify individuals or company background.",
+    "No confirmation of what 'IT Solutions' specifically covers (MSP, software dev, staffing, consulting, etc.).",
+    "No last name or specific role/title for Natan.",
+    "'hr@' email prefix may indicate an HR contact, but could also be a general inbox \u2014 recipient's actual role is unconfirmed.",
+    "No web search results, news, or third-party sources found to supplement the empty website.",
+    "Company may be brand new or in pre-launch \u2014 not enough data to personalise meaningfully."
   ]
 }
