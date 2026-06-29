@@ -1,0 +1,94 @@
+{
+  "candidates": [
+    {
+      "item": "Every connector is a declarative YAML file in Git \u2014 reviewable in PRs, testable locally, reproducible across environments.",
+      "why_interesting": "Most iPaaS and integration platforms hide connector logic in a proprietary GUI or black-box runtime. StackOne externalises every connector as a plain YAML file you can diff, review in a PR, and test locally \u2014 treating integrations like software code. That's a genuinely distinctive engineering stance, not a generic feature.",
+      "level": "company",
+      "source_url": "https://www.stackone.com/",
+      "as_of_date_if_known": "2025\u20132026 (live on homepage)",
+      "recency_note": "Confirmed on current homepage and Falcon engine page as of search results dated April 2026.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Falcon can reduce tool definitions from hundreds to single digits, cutting token usage by 40\u201360%.",
+      "why_interesting": "This is a concrete, quantified mechanism \u2014 not a vague 'optimises context' claim. When 20 MCP servers worth of tool definitions can consume ~138 k tokens before an agent reasons at all, a 40\u201360% reduction is a meaningful engineering result worth reacting to.",
+      "level": "company",
+      "source_url": "https://www.stackone.com/platform/agent-execution-engine/",
+      "as_of_date_if_known": "April 2026",
+      "recency_note": "Sourced directly from the Falcon engine page, dated April 14 2026 in search results.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "With Falcon, you flag any action for approval in a single YAML config line. Classify actions by risk level \u2014 auto-approve reads, require human approval for writes, deletes, or anything your policy flags.",
+      "why_interesting": "Human-in-the-loop approval for AI agents is a hot but rarely-implemented feature. The fact that it's configured in one YAML line \u2014 not a separate workflow tool or a code change \u2014 is a specific, surprising design choice.",
+      "level": "company",
+      "source_url": "https://www.stackone.com/platform/agent-execution-engine/",
+      "as_of_date_if_known": "April 2026",
+      "recency_note": "Sourced from the Falcon engine FAQ page, dated April 14 2026.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Open source prompt injection protection for Agents calling tools (via MCP, CLI or direct function calling). Detect and defend against prompt injection attacks. 22MB, CPU-only, < 10ms latency.",
+      "why_interesting": "StackOne shipped Defender as a standalone open-source npm/Python package \u2014 a 22 MB int8-quantised ONNX model that runs fully offline with no external API calls. The comparison point they publish is striking: 22 MB vs 1,064 MB for Meta Prompt Guard v1, at ~4 ms vs 43 ms, with a 5.8% false positive rate vs 49.9%. That's a real, independently-verifiable engineering result, not a marketing claim.",
+      "level": "company",
+      "source_url": "https://github.com/StackOneHQ/defender",
+      "as_of_date_if_known": "May 2026 (GitHub repo last updated)",
+      "recency_note": "GitHub repo confirmed active as of May 15 2026; benchmark comparison page at stackone.com/platform/prompt-injection-guard/ updated March 2026.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "We ran this exact attack against Claude 4.5 Sonnet with real Gmail MCP tools. Without the defense layer, Claude 4.5 Sonnet happily forwarded the email summary to the external address. With @stackone/defender enabled, the exfiltration was blocked before the agent saw the content.",
+      "why_interesting": "This is a concrete live demonstration \u2014 not a theoretical security claim. Running an actual data-exfiltration prompt injection against Claude 4.5 Sonnet via Gmail MCP and publishing the before/after result is unusually blunt and specific; it makes the risk real and the product proof tangible.",
+      "level": "company",
+      "source_url": "https://www.stackone.com/blog/indirect-prompt-injection-mcp-tools-defense/",
+      "as_of_date_if_known": "March 12 2026",
+      "recency_note": "Blog post dated March 12 2026 per search metadata.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "The StackOne Agent is an AI assistant that creates complete StackOne Connector configurations. It can run inside a coding agent (Claude Code preferred, Cursor or others supported) and is also available as a standalone agent (no separate coding agent subscription required when used standalone). It leverages 20+ specialised MCP tools to research APIs, generate and validate YAML, and exhaustively test actions using the Falcon execution engine.",
+      "why_interesting": "The builder is itself an MCP-native AI agent \u2014 it uses 20+ specialised MCP tools internally to do its job. Most 'AI-assisted integration' tools generate code snippets you still have to wire up; this one auto-discovers docs, generates structured YAML, and validates against the live API in a single conversation, then produces PR-ready files with secrets auto-scrubbed.",
+      "level": "company",
+      "source_url": "https://docs.stackone.com/guides/connector-engine/stackone-agent",
+      "as_of_date_if_known": "Early access as of 2025\u20132026",
+      "recency_note": "Docs page confirmed in search results; builder page at stackone.com/platform/ai-integration-builder/ dated April 14 2026.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Compliance leader Drata recently used the platform to rapidly launch 100 integrations, while management development leader Mindtools delivered a Workday integration in record time, securing a major contract.",
+      "why_interesting": "Two real, named customer outcomes with concrete stakes: 100 integrations launched fast (Drata), and a Workday integration that won a 'major contract' (Mindtools). These are specific business results, not generic 'our customers love us' claims.",
+      "level": "company",
+      "source_url": "https://www.stackone.com/press-releases/stackone-raises-20m-series-a-led-by-gv-google-ventures-to-reinvent-saas-and-ai-agent-integrations",
+      "as_of_date_if_known": "May 2025",
+      "recency_note": "From the May 6 2025 Series A press release, confirmed across multiple outlets.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "The company's investors include Google Ventures, Workday Ventures, XTX Ventures, Episode 1, Playfair, as well as the founders of GitHub, Onfido, and Hofy.",
+      "why_interesting": "The GitHub founder as an angel investor is a genuinely surprising and signal-rich detail \u2014 GitHub is the canonical example of developer infrastructure becoming a category-defining platform. That its founder bet on StackOne is a striking endorsement for a dev-infrastructure play. Workday Ventures also investing (a direct enterprise SaaS incumbent) adds a different dimension.",
+      "level": "company",
+      "source_url": "https://www.stackone.com/press-releases/stackone-raises-20m-series-a-led-by-gv-google-ventures-to-reinvent-saas-and-ai-agent-integrations",
+      "as_of_date_if_known": "May 2025",
+      "recency_note": "Confirmed in Series A press release, May 6 2025, and in multiple independent outlets.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Having recently surpassed 1 billion API calls, and with customers including Drata, Attensi, Localyze and more across three continents.",
+      "why_interesting": "1 billion API calls is a hard scale signal for a company founded in 2023 \u2014 it's the kind of number that makes the 'this is infrastructure not just a product' claim credible. Most 2-year-old integration startups don't have a billion-call proof point.",
+      "level": "company",
+      "source_url": "https://www.stackone.com/press-releases/stackone-raises-20m-series-a-led-by-gv-google-ventures-to-reinvent-saas-and-ai-agent-integrations",
+      "as_of_date_if_known": "May 2025",
+      "recency_note": "Cited in Series A announcement, May 2025. May be higher by now but no later figure found.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "When you connect 20 MCP servers to an agent, tool definitions alone consume roughly 138,000 tokens.",
+      "why_interesting": "This is a concrete, non-obvious problem statement StackOne publishes as original research \u2014 quantifying exactly why naive MCP deployment breaks at scale. It makes the token-optimization work feel necessary rather than nice-to-have, and positions StackOne as a company that has done the maths others haven't published.",
+      "level": "company",
+      "source_url": "https://www.stackone.com/blog/mcp-tool-search-bm25-tfidf-hybrid/",
+      "as_of_date_if_known": "February 17 2026",
+      "recency_note": "Blog post dated February 17 2026 per search metadata.",
+      "sensitivity": "none"
+    }
+  ]
+}

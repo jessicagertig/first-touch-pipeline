@@ -1,0 +1,52 @@
+{
+  "company": {
+    "website": "https://stackone.com",
+    "what_they_do": "StackOne is an AI agent integration infrastructure platform. It connects AI agents to enterprise SaaS systems \u2014 providing 410+ pre-built connectors, 20,000+ actions \u2014 handling authentication, rate limiting, retries, data shaping, and security so that AI agents can reliably take actions across any external system. Key pillars: (1) Connectivity \u2014 supports MCP, A2A, REST, SOAP, OData, proprietary APIs; (2) Execution \u2014 'Falcon' engine handles auth, throttling, retries, declarative YAML connectors in Git; (3) Security \u2014 Permissions API normalizing RBAC/scopes, 'Defender' prompt-injection detection (0.88 F1), SOC 2 Type II, GDPR, HIPAA compliant, no-storage-by-default architecture. Also offers an AI Integration Builder (build connectors from a coding assistant prompt). Positioned as purpose-built for AI agents, contrasted with legacy iPaaS tools.",
+    "raw_notes": [
+      "Homepage headline: 'Your agent thinks, StackOne takes action' \u2014 framing as agent infrastructure, not just a unified API",
+      "Claims #1 agentic semantic tool search with 91.6% first-try accuracy on 'S1 Search Bench' (self-published benchmark)",
+      "410+ connectors cited on homepage; other pages cite 310\u2013330+ (homepage appears most current)",
+      "Falcon: proprietary next-gen execution engine \u2014 declarative YAML connectors in Git, isolated execution contexts, per-provider throttling/queuing/retries, automatic OAuth/token refresh, real-time data shaping and caching, one connector definition exposed via REST, MCP, A2A, and AI SDKs",
+      "Permissions API: normalizes RBAC, scopes, ACLs into single model; sub-millisecond permission checks with local caching",
+      "Defender: prompt injection detection (OWASP LLM #1 risk), two-tier \u2014 pattern matching ~1ms, fine-tuned ML ONNX classifier ~10ms, F1 0.87\u20130.88; runs in-process, no external API calls, three lines to integrate",
+      "Privacy: no customer data stored by default; choose processing region; full audit trail",
+      "Compliance: SOC 2 Type II certified, GDPR, HIPAA, CCPA",
+      "Use cases highlighted: invoice processing automation, time-off request automation, employee onboarding automation, SLA breach prediction/escalation, month-end accruals/journal entries",
+      "Protocols supported: MCP, A2A, REST API, native SDKs for Python and TypeScript; works with OpenAI Agents SDK, LangChain, CrewAI, Pydantic AI, Google ADK, Vercel AI SDK, Anthropic SDK",
+      "AI Integration Builder: plugs into coding assistant (Claude Code, Cursor, Windsurf, GitHub Copilot); researches provider APIs, generates YAML, tests against real API; currently in early access",
+      "Series A: $20M (USD) / \u20ac17.6M led by GV (Google Ventures), March/April 2025; total funding ~$24M across 3 rounds",
+      "Investors: GV (Google Ventures), Workday Ventures, XTX Ventures, Episode 1, Playfair; angel investors include founders of GitHub, Onfido, Hofy",
+      "Founded 2023; incorporated in England and Wales (company 14684360); registered office: 2 Communications Road, Newbury, Berkshire, RG19 6AB",
+      "Team operates globally across Europe and United States",
+      "Notable customers mentioned: Drata (compliance automation), Kinfolk (AI Agents for People Ops), Attensi, Localyze",
+      "Building AI developer community including AI Demo Days and open-source contributions",
+      "Surpassed 1 billion API calls (as of ~May 2025), 10M+ API calls cited on about page",
+      "The 'sandbox@stackone.com' email with org 's1-sandbox' is almost certainly an internal StackOne test/sandbox signup, not a real external prospect"
+    ],
+    "source_urls": [
+      "https://stackone.com (homepage \u2014 provided directly)",
+      "https://www.stackone.com/company/",
+      "https://www.stackone.com/platform/ai-integration-builder/",
+      "https://www.stackone.com/connectors/",
+      "https://www.stackone.com/partners/",
+      "https://www.stackone.com/press-releases/stackone-raises-20m-series-a-led-by-gv-google-ventures-to-reinvent-saas-and-ai-agent-integrations",
+      "https://www.gv.com/news/stackone-the-next-generation-integration-layer",
+      "https://www.eu-startups.com/2025/05/british-ai-startup-stackone-raises-e17-6-million-to-reinvent-saas-and-ai-agent-integrations/",
+      "https://docs.stackone.com/",
+      "https://pulse2.com/stackone-romain-sestier-profile/"
+    ]
+  },
+  "individual": {
+    "name": "Sandbox",
+    "role_if_found": null,
+    "notes": "The first name 'Sandbox', email 'sandbox@stackone.com', and org name 's1-sandbox' are clear signals that this is an internal StackOne test/sandbox account \u2014 not a real individual prospect. 'Sandbox' is not a real person's name; this is almost certainly an automated or manually triggered test signup from within StackOne itself. No individual person is identifiable from these inputs. No public profile, role, or personal information is findable or applicable.",
+    "source_urls": []
+  },
+  "could_not_find": [
+    "No real individual associated with this signup \u2014 'Sandbox' / 'sandbox@stackone.com' / 's1-sandbox' are unambiguous markers of an internal StackOne test account, not an external prospect",
+    "Cannot identify a specific human recipient's name, role, or background",
+    "Connector count varies across pages (310\u2013410+) \u2014 homepage (provided as primary source) says 410+, other pages say 310\u2013330+; likely the homepage reflects the most current figure but discrepancy is noted",
+    "S1 Search Bench (the 91.6% accuracy benchmark) appears to be self-published; no third-party validation found",
+    "Exact ARR, headcount, or valuation figures not publicly available"
+  ]
+}

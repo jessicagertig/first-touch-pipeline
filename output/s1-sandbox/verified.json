@@ -1,0 +1,42 @@
+[
+  {
+    "fact": "Every connector is a declarative YAML file in Git \u2014 reviewable in PRs, testable locally, reproducible across environments.",
+    "source_url": "https://www.stackone.com/"
+  },
+  {
+    "fact": "Falcon can reduce tool definitions from hundreds to single digits, cutting token usage by 40\u201360%. Source: https://www.stackone.com/platform/agent-execution-engine/ (page dated April 14, 2026; claim also confirmed verbatim in live web search results as of June 29, 2026).",
+    "source_url": "https://www.stackone.com/platform/agent-execution-engine/"
+  },
+  {
+    "fact": "With Falcon, you flag any action for approval in a single YAML config line. Classify actions by risk level \u2014 auto-approve reads, require human approval for writes, deletes, or anything your policy flags. Approvals are per-action, per-tenant, and enforced before execution.",
+    "source_url": "https://www.stackone.com/platform/agent-execution-engine/"
+  },
+  {
+    "fact": "StackOne Defender is an open-source prompt injection protection library for AI agents calling tools (via MCP, CLI, or direct function calling). It ships as an npm package (@stackone/defender) and a Python package (stackone_defender), bundling a fine-tuned MiniLM-L6-v2 int8-quantized ONNX model (~22 MB) that runs entirely CPU-only with no external API calls. It uses a two-tier pipeline: Tier 1 regex/pattern matching (~1 ms) and Tier 2 ML classifier (~4\u201310 ms). Benchmark comparison (updated March 2026, evaluated on Qualifire, xxz224, and Jayavibhav datasets): 22 MB vs 1,064 MB for Meta Prompt Guard v1; ~4 ms vs 43 ms; 5.8% false positive rate vs 49.9%; F1 score 0.87\u20130.88.",
+    "source_url": "https://github.com/StackOneHQ/defender"
+  },
+  {
+    "fact": "We ran this exact attack against Claude 4.5 Sonnet with real Gmail MCP tools. Without the defense layer, Claude 4.5 Sonnet happily forwarded the email summary to the external address. With @stackone/defender enabled, the exfiltration was blocked before the agent saw the content.",
+    "source_url": "https://www.stackone.com/blog/indirect-prompt-injection-mcp-tools-defense/"
+  },
+  {
+    "fact": "The StackOne Agent is an AI assistant that creates complete StackOne Connector configurations. It can run inside a coding agent (Claude Code preferred, Cursor or others supported) and is also available as a standalone agent (no separate coding agent subscription required when used standalone). It leverages 20+ specialised MCP tools to research APIs, generate and validate YAML, and exhaustively test actions using the Falcon execution engine. It is currently in early access.",
+    "source_url": "https://docs.stackone.com/guides/connector-engine/ai-builder"
+  },
+  {
+    "fact": "Compliance leader Drata recently used the platform to rapidly launch 100 integrations, while management development leader Mindtools delivered a Workday integration in record time, securing a major contract.",
+    "source_url": "https://www.stackone.com/press-releases/stackone-raises-20m-series-a-led-by-gv-google-ventures-to-reinvent-saas-and-ai-agent-integrations"
+  },
+  {
+    "fact": "The company's investors include Google Ventures, Workday Ventures, XTX Ventures, Episode 1, Playfair, as well as the founders of GitHub, Onfido, and Hofy.",
+    "source_url": "https://www.stackone.com/press-releases/stackone-raises-20m-series-a-led-by-gv-google-ventures-to-reinvent-saas-and-ai-agent-integrations"
+  },
+  {
+    "fact": "Having recently surpassed 1 billion API calls, and with customers including Drata, Attensi, Localyze and more across three continents.",
+    "source_url": "https://www.stackone.com/press-releases/stackone-raises-20m-series-a-led-by-gv-google-ventures-to-reinvent-saas-and-ai-agent-integrations"
+  },
+  {
+    "fact": "When you connect 20 MCP servers to an agent, tool definitions alone consume roughly 138,000 tokens. Each tool definition averages 150 tokens (name, description, JSON schema for inputs and outputs), and 916 tools across providers like Jira, GitHub, Salesforce, Gmail, and Slack add up to two-thirds of a 200K context window, before the agent has processed a single user query.",
+    "source_url": "https://www.stackone.com/blog/mcp-tool-search-bm25-tfidf-hybrid/"
+  }
+]

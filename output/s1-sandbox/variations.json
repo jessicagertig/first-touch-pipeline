@@ -1,0 +1,82 @@
+{
+  "lead_id": "s1-sandbox",
+  "company_name": "s1-sandbox",
+  "recipient_name": "Sandbox Stackone",
+  "email": "sandbox@stackone.com",
+  "variations": [
+    {
+      "variant_n": 1,
+      "compliment": "StackOne looks like a great company - surpassing 1 billion API calls with customers across three continents is seriously impressive.",
+      "email": "Hello Sandbox,\n\nThanks for checking out Polymer! StackOne looks like a great company - surpassing 1 billion API calls with customers across three continents is seriously impressive.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.stackone.com/press-releases/stackone-raises-20m-series-a-led-by-gv-google-ventures-to-reinvent-saas-and-ai-agent-integrations"
+      ],
+      "score": 9,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1782749953.548389",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 2,
+      "compliment": "StackOne looks like an impressive company - surpassing 1 billion API calls with customers across three continents is no small feat!",
+      "email": "Hello Sandbox,\n\nThanks for checking out Polymer! StackOne looks like an impressive company - surpassing 1 billion API calls with customers across three continents is no small feat!\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.stackone.com/press-releases/stackone-raises-20m-series-a-led-by-gv-google-ventures-to-reinvent-saas-and-ai-agent-integrations"
+      ],
+      "score": 8,
+      "tells": [
+        "is no small feat"
+      ],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1782749953.811159",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 3,
+      "compliment": "StackOne Defender looks like a great tool - I love that it runs a 22 MB model entirely CPU-only with no external API calls, especially impressive given how much smaller and lighter it is than Meta Prompt Guard.",
+      "email": "Hello Sandbox,\n\nThanks for checking out Polymer! StackOne Defender looks like a great tool - I love that it runs a 22 MB model entirely CPU-only with no external API calls, especially impressive given how much smaller and lighter it is than Meta Prompt Guard.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://github.com/StackOneHQ/defender"
+      ],
+      "score": 6,
+      "tells": [
+        "especially impressive given how much smaller and lighter it is than Meta Prompt Guard"
+      ],
+      "verdict": "revise",
+      "ship": false
+    },
+    {
+      "variant_n": 4,
+      "compliment": "Falcon looks like a smart solution - cutting token usage by 40-60% by shrinking tool definitions from hundreds to single digits seems like it makes a real difference for agents.",
+      "email": "Hello Sandbox,\n\nThanks for checking out Polymer! Falcon looks like a smart solution - cutting token usage by 40-60% by shrinking tool definitions from hundreds to single digits seems like it makes a real difference for agents.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.stackone.com/platform/agent-execution-engine/"
+      ],
+      "score": 8,
+      "tells": [
+        "seems like it makes a real difference"
+      ],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1782749954.071109",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 5,
+      "compliment": "StackOne looks like a great company - surpassing 1 billion API calls with customers across three continents is hugely impressive.",
+      "email": "Hello Sandbox,\n\nThanks for checking out Polymer! StackOne looks like a great company - surpassing 1 billion API calls with customers across three continents is hugely impressive.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.stackone.com/press-releases/stackone-raises-20m-series-a-led-by-gv-google-ventures-to-reinvent-saas-and-ai-agent-integrations"
+      ],
+      "score": 8,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1782749954.354589",
+      "slack_channel": "C0B87Q5UEL9"
+    }
+  ]
+}
