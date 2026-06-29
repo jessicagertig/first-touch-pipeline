@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://natanitsolutions.com",
-    "what_they_do": "Cannot be determined. The website contains only WordPress default placeholder content ('Hello world!', 'This is your first post.') and Lorem Ipsum-style filler text. No actual product, service, or business description is present.",
-    "raw_notes": "Site appears to be a brand-new, unconfigured WordPress installation. No homepage copy, no about page, no services listed, no product description, no team page, no social links, no case studies \u2014 nothing substantive. The only text present is WordPress's auto-generated default post and generic Lorem Ipsum filler. The site is effectively a blank slate.",
+    "what_they_do": "Unknown. The website is a default, unconfigured WordPress installation with no real content \u2014 only placeholder/Lorem Ipsum text and the default 'Hello World' post. No products, services, or business description are present.",
+    "raw_notes": "Site shows a freshly installed WordPress instance with zero actual content. Homepage contains only the WordPress default first post ('Hello world! Welcome to WordPress. This is your first post. Edit or delete it, then start writing!') and generic Lorem Ipsum filler text. No company description, no service pages, no team page, no About section, no branding beyond the domain name. The org name 'Natan IT Solutions' suggests an IT services or technology solutions firm, but this is an inference from the name only \u2014 not supported by any published content.",
     "source_urls": [
       "https://natanitsolutions.com"
     ]
@@ -10,20 +10,16 @@
   "individual": {
     "name": "Natan",
     "role_if_found": null,
-    "notes": "First name is 'Natan'. The email address is hr@natanitsolutions.com, which suggests this person may be in an HR or human resources function at the company, or is simply using a generic HR-labelled inbox. No individual profile, bio, or role information is findable from the website, as the site has no team or about content. No further identifying information could be confirmed from first-party sources.",
+    "notes": "Email address is hr@natanitsolutions.com, which places this person in an HR function (Human Resources) rather than a founding or technical role \u2014 though at a small/new company the HR contact may also be an owner or founder. No individual profile, bio, or team page is findable on the company website. No additional context available from the site.",
     "source_urls": [
       "https://natanitsolutions.com"
     ]
   },
   "could_not_find": [
-    "What the company actually does \u2014 no products, services, or industry mentioned anywhere on the site.",
-    "Company founding story, mission, or values.",
-    "Natan's last name, title, or confirmed role.",
-    "Whether 'Natan' is the founder, an employee, or an HR contact using a shared inbox.",
-    "Any team members, leadership, or org structure.",
-    "Company size, location, or target market.",
-    "Any news, press mentions, or third-party references to the company.",
-    "Social media profiles or LinkedIn presence linked from the site.",
-    "The site is too new/empty to return meaningful results from web search or any secondary sources."
+    "What the company actually does \u2014 no services, products, or business description published anywhere on the website.",
+    "Natan's last name, title, or role beyond the HR email prefix.",
+    "Whether the company is newly founded or simply has a placeholder site for an existing business.",
+    "Any team, about, or contact pages with useful information.",
+    "Any third-party mentions, news, or web presence beyond the domain itself \u2014 site appears too new or low-profile to appear in search results."
   ]
 }
