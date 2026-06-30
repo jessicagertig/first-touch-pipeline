@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://natanitsolutions.com",
-    "what_they_do": "Unknown. The website is a default, unconfigured WordPress installation showing placeholder/lorem ipsum content only. No real product, service, or business description is present.",
-    "raw_notes": "Homepage contains only the default WordPress 'Hello world!' post, generic lorem ipsum filler text, and no company-specific content whatsoever. No about page, no services page, no product description, no team info, no logo, no branding beyond the domain name. The site has not been set up yet.",
+    "what_they_do": "Unknown. The website is a default, unconfigured WordPress installation with no real content \u2014 only placeholder/Lorem Ipsum text and the default 'Hello World' first post. No products, services, or business description are present.",
+    "raw_notes": "Site is running WordPress but has not been set up beyond the default install. All visible text is either the WordPress default 'Hello world!' post, Lorem Ipsum filler copy, or generic placeholder sentences. There is zero first-party content describing what 'Natan IT Solutions' actually does. The name suggests an IT services or solutions company, but that is an inference from the org name alone \u2014 not supported by any source.",
     "source_urls": [
       "https://natanitsolutions.com"
     ]
@@ -10,17 +10,16 @@
   "individual": {
     "name": "Natan",
     "role_if_found": null,
-    "notes": "Email address is hr@natanitsolutions.com, suggesting this person works in an HR capacity at the company. No further information about the individual could be determined from the website, which contains no team or staff information. First name 'Natan' may suggest the company is named after its founder, but this is speculative.",
+    "notes": "Email address is hr@natanitsolutions.com, suggesting this person works in or leads an HR function at the company. No further information about the individual is available from the website (which has no team, about, or contact page content). Last name unknown.",
     "source_urls": []
   },
   "could_not_find": [
-    "What the company actually does \u2014 no real business description exists on the website",
-    "Individual's last name or full identity",
-    "Natan's confirmed role/title (HR function inferred from email prefix only)",
-    "Company size, industry vertical, target market, or geography",
-    "Any products or services offered",
-    "Founding story or company history",
-    "No findable web search presence or news coverage \u2014 site appears too new and unindexed",
-    "No social media profiles or third-party mentions discovered"
+    "What the company actually does \u2014 no services, products, or business description exist on the website yet.",
+    "Company founding story, mission, values, or differentiators.",
+    "Individual's last name, title, or bio.",
+    "Whether 'Natan' is the founder/owner or an HR employee \u2014 org name includes 'Natan' suggesting possible founder, but unconfirmed.",
+    "Any social media profiles, LinkedIn presence, news coverage, or third-party mentions to supplement the blank website.",
+    "Company size, location, industry vertical, or target customers.",
+    "How long the company has been operating \u2014 site may be brand new."
   ]
 }
