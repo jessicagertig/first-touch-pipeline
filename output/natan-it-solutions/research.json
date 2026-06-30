@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://natanitsolutions.com",
-    "what_they_do": "Cannot be determined. The website is a default, unconfigured WordPress installation showing only placeholder/lorem ipsum content. No real product, service, or business description is present.",
-    "raw_notes": "Homepage contains only the default WordPress 'Hello world!' first post, generic lorem ipsum filler text ('There are many variations of passages...'), and a repeated WordPress onboarding prompt. No company description, no services listed, no team page, no about section, no branding beyond the domain name. The site has not been set up yet.",
+    "what_they_do": "Unknown. The website is a default, unconfigured WordPress installation showing placeholder/lorem ipsum content only. No real product, service, or business description is present.",
+    "raw_notes": "Homepage contains only the default WordPress 'Hello world!' post, generic lorem ipsum filler text, and no company-specific content whatsoever. No about page, no services page, no product description, no team info, no logo, no branding beyond the domain name. The site has not been set up yet.",
     "source_urls": [
       "https://natanitsolutions.com"
     ]
@@ -10,17 +10,17 @@
   "individual": {
     "name": "Natan",
     "role_if_found": null,
-    "notes": "First name is Natan. Email is hr@natanitsolutions.com \u2014 the 'hr' prefix suggests this person may work in a Human Resources capacity at the company, or it may simply be a functional/departmental inbox rather than a personal address. No individual profile, bio, or role information is findable from the company website, which is unbuilt. No further data sourced.",
+    "notes": "Email address is hr@natanitsolutions.com, suggesting this person works in an HR capacity at the company. No further information about the individual could be determined from the website, which contains no team or staff information. First name 'Natan' may suggest the company is named after its founder, but this is speculative.",
     "source_urls": []
   },
   "could_not_find": [
-    "What the company actually does \u2014 website is a default WordPress placeholder with no real content",
-    "Any description of products or services",
-    "Company founding story, size, industry, or geography",
-    "Natan's last name",
-    "Natan's specific role or title (hr@ prefix is suggestive but not conclusive \u2014 could be a shared inbox)",
-    "Any third-party mentions, news, or web search results confirming the company's existence or activity",
-    "LinkedIn or other social profiles for the individual or company",
-    "Whether 'Natan IT Solutions' is an IT services/consulting firm (inferred from name only \u2014 not confirmed by any source)"
+    "What the company actually does \u2014 no real business description exists on the website",
+    "Individual's last name or full identity",
+    "Natan's confirmed role/title (HR function inferred from email prefix only)",
+    "Company size, industry vertical, target market, or geography",
+    "Any products or services offered",
+    "Founding story or company history",
+    "No findable web search presence or news coverage \u2014 site appears too new and unindexed",
+    "No social media profiles or third-party mentions discovered"
   ]
 }
