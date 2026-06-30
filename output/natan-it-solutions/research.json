@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://natanitsolutions.com",
-    "what_they_do": null,
-    "raw_notes": "The homepage contains only default WordPress placeholder content ('Hello world!', 'Welcome to WordPress. This is your first post.') and generic Lorem Ipsum-style filler text. There is no real company description, product listing, service offering, team page, or any first-party content about the business. The site appears to have been set up but not yet built out.",
+    "what_they_do": "Cannot be determined. The website is a default, unconfigured WordPress installation showing only placeholder/lorem ipsum content. No real product, service, or business description is present.",
+    "raw_notes": "Homepage contains only the default WordPress 'Hello world!' first post, generic lorem ipsum filler text ('There are many variations of passages...'), and a repeated WordPress onboarding prompt. No company description, no services listed, no team page, no about section, no branding beyond the domain name. The site has not been set up yet.",
     "source_urls": [
       "https://natanitsolutions.com"
     ]
@@ -10,15 +10,17 @@
   "individual": {
     "name": "Natan",
     "role_if_found": null,
-    "notes": "No individual profile found. The email address used is hr@natanitsolutions.com, suggesting the recipient may work in an HR or administrative capacity at the company, but this is an inference from the email prefix only \u2014 no direct confirmation from any source. No LinkedIn profile, bio, or other first-party information was located.",
+    "notes": "First name is Natan. Email is hr@natanitsolutions.com \u2014 the 'hr' prefix suggests this person may work in a Human Resources capacity at the company, or it may simply be a functional/departmental inbox rather than a personal address. No individual profile, bio, or role information is findable from the company website, which is unbuilt. No further data sourced.",
     "source_urls": []
   },
   "could_not_find": [
-    "What 'Natan IT Solutions' actually does \u2014 no real website content exists yet; site is a default WordPress install.",
-    "Industry, target market, or service/product offering.",
-    "Natan's last name, specific job title, or role beyond the 'hr@' email prefix inference.",
-    "Company size, location, founding date, or any other firmographic data.",
-    "Any news, press mentions, or third-party references to the company.",
-    "Any social media profiles or public presence for the individual or the company."
+    "What the company actually does \u2014 website is a default WordPress placeholder with no real content",
+    "Any description of products or services",
+    "Company founding story, size, industry, or geography",
+    "Natan's last name",
+    "Natan's specific role or title (hr@ prefix is suggestive but not conclusive \u2014 could be a shared inbox)",
+    "Any third-party mentions, news, or web search results confirming the company's existence or activity",
+    "LinkedIn or other social profiles for the individual or company",
+    "Whether 'Natan IT Solutions' is an IT services/consulting firm (inferred from name only \u2014 not confirmed by any source)"
   ]
 }
