@@ -1,0 +1,49 @@
+{
+  "company": {
+    "website": "https://evolvedtalent.com",
+    "what_they_do": "Evolved Talent Agency is an independent talent agency and creator management firm that represents digital content creators and esports professionals. They connect personality-driven creators (who have built loyal, highly-engaged niche audiences) with brands seeking impactful partnerships. On the brand side, they develop influencer/creator marketing campaigns \u2014 handling strategy, content production guidance, audience targeting, and performance measurement beyond surface-level metrics. They also help launch new ventures for talent. The homepage positions them as a 'next-generation creator engine' serving both talent (via agents) and brands (via campaign strategy and analytics). Historical roots are in esports player representation (founded 2016), but the current homepage leans into broader creator economy / brand partnership language.",
+    "raw_notes": [
+      "Homepage tagline: 'The next-generation creator engine uniting breakthrough talent with cutting-edge brands.'",
+      "Three service pillars on homepage: (1) Agents \u2014 hand-selecting personality-driven creators for brands; (2) Organizations \u2014 creative campaign storytelling for higher engagement and measurable impact; (3) Support \u2014 measuring meaningful outcomes beyond surface-level metrics using audience engagement and sentiment insights.",
+      "Claims to be 'Trusted by the world's largest brands.'",
+      "Positioning: 'We turn ideas into meaningful moments.'",
+      "Older/external sources describe roots as esports-focused: 'leading independent new media agency supporting the digital creator and esports ecosystems,' founded 2016 to transform esports player rights globally.",
+      "Notable roster/deals (from PR Newswire Jan 2024): exclusive rep for Amouranth (most-viewed female creator on Kick/Twitch), xQc's $100M Kick deal, Botez sisters, Pinkydoll, Anna Cramling, k3soju, Kitboga.",
+      "Described as 'award-winning agency' in press materials.",
+      "Legal name: Evolved Group, Inc. (also known as Evolved Talent Agency LLC).",
+      "HQ: Los Angeles, CA (10900 Wilshire Blvd Ste 930).",
+      "Team size: 11\u201350 employees.",
+      "Founders per Crunchbase: Ryan Morrison (Co-Founder & CEO) and Sebastien Delvaux (Co-Founder & COO); Barry Lee also listed as Agent/Co-Founder.",
+      "Services include: talent management, representation, contract negotiations, brand building, digital marketing, influencer marketing.",
+      "Private company; estimated revenue <$5M.",
+      "The current homepage (provided as first-party source) notably does NOT mention esports explicitly \u2014 it speaks broadly about 'creators,' 'brands,' 'partnerships,' and 'new ventures,' suggesting a broadening beyond esports roots."
+    ],
+    "source_urls": [
+      "https://evolvedtalent.com",
+      "https://www.prnewswire.com/news-releases/evolved-talent-agency-announces-exclusive-representation-for-kaitlyn-amouranth-siragusa-302034154.html",
+      "https://www.linkedin.com/company/evolved-talent-agency",
+      "https://www.crunchbase.com/organization/evolved-talent-agency",
+      "https://www.zoominfo.com/c/evolved-talent-agency-llc/442647738",
+      "https://www.signalhire.com/companies/evolved-talent-agency/employees"
+    ]
+  },
+  "individual": {
+    "name": "Christina",
+    "role_if_found": "Chief Operating Officer",
+    "notes": "ZoomInfo lists 'Christina Housenick' as Chief Operating Officer at Evolved Talent Agency, with her email masked but matching the @evolvedtalent.com domain pattern. SignalHire lists a 'Christina Call' as COO based in Utah, USA, with a masked email at evolvedtalent.com (c****l@evolvedtalent.com \u2014 last initial 'l' could match 'Call'). The email signed up with is christina@evolvedtalent.com, which is consistent with a senior/executive-level vanity address. Both sources point to the COO role for a 'Christina' at Evolved. No further public profile (LinkedIn bio, press quotes, etc.) was found for either name. It is unclear whether the last name is Housenick or Call \u2014 these may be the same person under different data-source records, or two different individuals; the COO designation is consistent across both sources.",
+    "source_urls": [
+      "https://www.zoominfo.com/c/evolved-talent-agency-llc/442647738",
+      "https://www.zoominfo.com/pic/evolved-talent-agency-llc/442647738",
+      "https://www.signalhire.com/companies/evolved-talent-agency/employees",
+      "https://contactout.com/company/Evolved-1323"
+    ]
+  },
+  "could_not_find": [
+    "Christina's last name is uncertain \u2014 ZoomInfo says 'Housenick,' SignalHire says 'Call'; could be same person with a data discrepancy or two different people.",
+    "No public LinkedIn profile, bio page, or press quotes found for the Christina in question.",
+    "No detail on Christina's background, tenure, or personal career story beyond the COO title.",
+    "The homepage does not list team members or individual bios, so no first-party confirmation of Christina's role.",
+    "No public information on what specific tools/workflows Evolved currently uses for their talent or brand management operations (relevant for product fit context).",
+    "Funding history is sparse \u2014 one data source mentions $145K raised, but this is unverified and likely outdated."
+  ]
+}

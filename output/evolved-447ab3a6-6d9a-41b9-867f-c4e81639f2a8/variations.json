@@ -1,0 +1,78 @@
+{
+  "lead_id": "evolved-447ab3a6-6d9a-41b9-867f-c4e81639f2a8",
+  "company_name": "Evolved",
+  "recipient_name": "Christina Call",
+  "email": "christina@evolvedtalent.com",
+  "variations": [
+    {
+      "variant_n": 1,
+      "compliment": "Evolved looks like a great agency — brokering xQc's ~$100M Kick deal is seriously impressive.",
+      "email": "Hello Christina,\n\nThanks for checking out Polymer! Evolved looks like a great agency — brokering xQc's ~$100M Kick deal is seriously impressive.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.pcgamer.com/xqc-scores-unbelievable-dollar100-million-deal-to-start-streaming-on-kick/"
+      ],
+      "score": 9,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1782934283.424839",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 2,
+      "compliment": "Evolved looks like an impressive agency — I love that it was founded to push for fairer treatment of esports players and set a higher standard for talent representation.",
+      "email": "Hello Christina,\n\nThanks for checking out Polymer! Evolved looks like an impressive agency — I love that it was founded to push for fairer treatment of esports players and set a higher standard for talent representation.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://en.everybodywiki.com/Evolved_Talent_Agency"
+      ],
+      "score": 8,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1782934283.516079",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 3,
+      "compliment": "Evolved looks like a great agency — brokering xQc's Kick deal that Ryan Morrison called 'one of the top 25 talent deals of all time period, including sports' is seriously impressive.",
+      "email": "Hello Christina,\n\nThanks for checking out Polymer! Evolved looks like a great agency — brokering xQc's Kick deal that Ryan Morrison called 'one of the top 25 talent deals of all time period, including sports' is seriously impressive.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.pcgamer.com/xqc-scores-unbelievable-dollar100-million-deal-to-start-streaming-on-kick/"
+      ],
+      "score": 7,
+      "tells": [
+        "the long embedded quote 'one of the top 25 talent deals of all time period, including sports' is a mouthful that clogs the single sentence and reads like copied source material"
+      ],
+      "verdict": "revise",
+      "ship": false
+    },
+    {
+      "variant_n": 4,
+      "compliment": "Evolved looks like a great agency - I love that it was founded to push for fairer treatment of esports players and setting a high standard for talent representation.",
+      "email": "Hello Christina,\n\nThanks for checking out Polymer! Evolved looks like a great agency - I love that it was founded to push for fairer treatment of esports players and setting a high standard for talent representation.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://en.everybodywiki.com/Evolved_Talent_Agency"
+      ],
+      "score": 8,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1782934283.612939",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 5,
+      "compliment": "Evolved looks like a fascinating company — I really like that it was founded to push for fairer treatment of esports players and set a higher standard for talent representation.",
+      "email": "Hello Christina,\n\nThanks for checking out Polymer! Evolved looks like a fascinating company — I really like that it was founded to push for fairer treatment of esports players and set a higher standard for talent representation.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://en.everybodywiki.com/Evolved_Talent_Agency"
+      ],
+      "score": 8,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1782934283.722989",
+      "slack_channel": "C0B87Q5UEL9"
+    }
+  ]
+}

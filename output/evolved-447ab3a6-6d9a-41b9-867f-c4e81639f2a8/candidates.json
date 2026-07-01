@@ -1,0 +1,67 @@
+{
+  "candidates": [
+    {
+      "item": "Ryan Morrison, xQc's agent, and CEO of the Evolved Talent Agency, isn't shy in heralding this agreement as 'one of the top 25 talent deals of all time period, including sports.'",
+      "why_interesting": "A small (~11\u201350 person) indie creator agency negotiated what its own CEO publicly called a top-25 talent deal of all time \u2014 compared not just to streaming but to sports and entertainment broadly. That's a genuinely audacious claim and a striking concrete outcome that telegraphs how seriously Evolved punches above its weight-class. It's specific to them, not a generic agency boast.",
+      "level": "company",
+      "source_url": "https://www.xfire.com/xqc-100m-deal-stream-kick-7d3c",
+      "as_of_date_if_known": "June 2023",
+      "recency_note": "Deal was signed June 2023; still widely referenced as the largest streaming deal ever signed.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "When xQc first announced his move to Kick, the platform saw significant growth as a result. The number of active streamers quadrupled and the number of hours watched increased by 44%.",
+      "why_interesting": "Concrete, third-party-verified downstream impact of a single Evolved-brokered deal \u2014 the creator they moved single-handedly quadrupled a platform's streamer count. Illustrates that Evolved represents talent with genuine market-moving leverage, not just follower counts.",
+      "level": "company",
+      "source_url": "https://www.jaxon.gg/was-xqc-kick-streaming-deal-worth-it-metrics/",
+      "as_of_date_if_known": "2023\u20132025 retrospective",
+      "recency_note": "Article published October 2025, analyzing results from 2023 deal.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "'I repped the largest male and female on Twitch for five years. Not once did they reach out to ask what they think or get feedback on something. Kick, that happens daily.' \u2014 Ryan Morrison, CEO, Evolved Talent Agency",
+      "why_interesting": "Morrison is bluntly calling out Twitch \u2014 the dominant platform \u2014 by name for ignoring its own top creators, and using it as a strategic rationale for moving his entire roster toward Kick. It's a candid, opinionated stance that reveals how Evolved thinks about platform relationships as a negotiating lever, not just a distribution channel. Very specific to them and quotably blunt.",
+      "level": "company",
+      "source_url": "https://www.campaignlive.com/article/xqc-amouranth-kitbogas-talent-agent-kick-vs-twitch-brand-deals/1845857",
+      "as_of_date_if_known": "October 2023",
+      "recency_note": "Stated at TwitchCon, October 2023.",
+      "sensitivity": "Mildly polarizing \u2014 openly critical of Twitch, a major platform partner. Unlikely to cause issues internally at Evolved, but worth noting if the outreach involves Twitch-aligned brands."
+    },
+    {
+      "item": "'What I personally look for in a brand partner is, they don't necessarily have to understand the space, but they have to understand that they don't understand the space. That means allowing the creator to promote the product in a way that will genuinely allow the audience to absorb what the product is.' \u2014 Ryan Morrison",
+      "why_interesting": "This is Evolved's actual filtering philosophy for brand deals \u2014 they routinely say no to brands and require creative control to stay with the creator. It's a specific, principled stance that distinguishes them from agencies that simply maximize deal volume. The Kitboga/Kraken CTO-on-stream example makes it concrete.",
+      "level": "company",
+      "source_url": "https://www.campaignlive.com/article/xqc-amouranth-kitbogas-talent-agent-kick-vs-twitch-brand-deals/1845857",
+      "as_of_date_if_known": "October 2023",
+      "recency_note": "Stated at TwitchCon, October 2023.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "'That happened in DMs, and he got a scolding, so no more of that,' Morrison said \u2014 referring to a gambling deal xQc made directly without his agent.",
+      "why_interesting": "Genuinely funny, unguarded quote from the CEO about keeping talent in line. Shows the agency's hands-on, zero-exceptions approach to deal control in a very human, non-corporate way. The kind of candid line that makes a person actually smile \u2014 and remember the agency.",
+      "level": "company",
+      "source_url": "https://www.campaignlive.com/article/xqc-amouranth-kitbogas-talent-agent-kick-vs-twitch-brand-deals/1845857",
+      "as_of_date_if_known": "October 2023",
+      "recency_note": "Stated at TwitchCon, October 2023.",
+      "sensitivity": "Mild \u2014 references gambling content adjacency. Not sensitive for Evolved internally."
+    },
+    {
+      "item": "Evolved was formed in December 2016 by a group of high-profile industry members who came together seeking fairer treatment of esports players by forming agency.",
+      "why_interesting": "The founding motivation was explicitly advocacy/rights reform \u2014 not just commercial representation. That's an unusual and principled origin for a talent agency, and explains why Evolved's CEO publicly fights platform battles and compares creator deals to LeBron James contracts. It's a mission-driven agency origin story, not a typical business one.",
+      "level": "company",
+      "source_url": "https://en.everybodywiki.com/Evolved_Talent_Agency",
+      "as_of_date_if_known": "December 2016",
+      "recency_note": "Founding context; confirmed by LinkedIn company page.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Evolved CEO Ryan Morrison also goes by 'the Video Game Attorney' and is a founding partner of Morrison Cooper LLP, a law firm specializing in esports, video games, and digital entertainment law.",
+      "why_interesting": "The CEO of the talent agency is simultaneously a practicing entertainment attorney who co-founded a specialist law firm in the same space. This dual identity is uncommon \u2014 most agencies are either legal or commercial, not both \u2014 and gives Evolved a structural advantage in contract negotiations that a pure-play talent shop doesn't have.",
+      "level": "company",
+      "source_url": "https://en.wikipedia.org/wiki/Ryan_Morrison",
+      "as_of_date_if_known": "Ongoing",
+      "recency_note": "Wikipedia page last updated May 2026.",
+      "sensitivity": "none"
+    }
+  ]
+}
