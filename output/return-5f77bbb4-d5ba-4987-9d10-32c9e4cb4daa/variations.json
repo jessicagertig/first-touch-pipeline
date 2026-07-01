@@ -1,0 +1,78 @@
+{
+  "lead_id": "return-5f77bbb4-d5ba-4987-9d10-32c9e4cb4daa",
+  "company_name": "Return",
+  "recipient_name": "Jac Spangenberg",
+  "email": "j.spangenberg@return.energy",
+  "variations": [
+    {
+      "variant_n": 1,
+      "compliment": "Return looks like a really smart company - the 'virtual battery' idea of giving energy companies access to a whole network of battery projects instead of a single site is a clever way to think about scale.",
+      "email": "Hello Jac,\n\nThanks for checking out Polymer! Return looks like a really smart company - the 'virtual battery' idea of giving energy companies access to a whole network of battery projects instead of a single site is a clever way to think about scale.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.esgtoday.com/apg-invests-350-million-in-return-to-scale-energy-storage-platform-across-europe/"
+      ],
+      "score": 8,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1782910577.147209",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 2,
+      "compliment": "Return looks like a fascinating company - I love the 'virtual battery' idea, giving energy companies access to a whole network of battery projects rather than a single site.",
+      "email": "Hello Jac,\n\nThanks for checking out Polymer! Return looks like a fascinating company - I love the 'virtual battery' idea, giving energy companies access to a whole network of battery projects rather than a single site.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.esgtoday.com/apg-invests-350-million-in-return-to-scale-energy-storage-platform-across-europe/"
+      ],
+      "score": 9,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1782910577.291569",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 3,
+      "compliment": "Return looks like it's growing fast - congrats on securing €300 million from APG to scale your battery storage capacity across Europe!",
+      "email": "Hello Jac,\n\nThanks for checking out Polymer! Return looks like it's growing fast - congrats on securing €300 million from APG to scale your battery storage capacity across Europe!\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://return.energy/news/return-raises-eur-300-million-in-growth-capital-from-apg-to-scale-battery-storage-capacity"
+      ],
+      "score": 9,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1782910577.404259",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 4,
+      "compliment": "Return looks like a really smart company - I love the virtual battery concept, giving energy companies access to a whole network of battery projects rather than a single site.",
+      "email": "Hello Jac,\n\nThanks for checking out Polymer! Return looks like a really smart company - I love the virtual battery concept, giving energy companies access to a whole network of battery projects rather than a single site.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.esgtoday.com/apg-invests-350-million-in-return-to-scale-energy-storage-platform-across-europe/"
+      ],
+      "score": 9,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1782910577.542989",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 5,
+      "compliment": "Return looks like a really interesting company - I love the 'virtual battery' concept, letting energy companies tap into a whole network of battery projects rather than being tied to a single site.",
+      "email": "Hello Jac,\n\nThanks for checking out Polymer! Return looks like a really interesting company - I love the 'virtual battery' concept, letting energy companies tap into a whole network of battery projects rather than being tied to a single site.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.esgtoday.com/apg-invests-350-million-in-return-to-scale-energy-storage-platform-across-europe/"
+      ],
+      "score": 9,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1782910577.664079",
+      "slack_channel": "C0B87Q5UEL9"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "candidates": [
+    {
+      "item": "Return is now rolling out a 'virtual battery' concept. Instead of contracting capacity in a single battery, clients\u2014such as energy companies\u2014can access a network of battery projects.",
+      "why_interesting": "Most storage operators sell capacity tied to a specific physical site. Return's virtual battery lets customers contract against a pan-European network of projects rather than one location \u2014 more like a cloud compute pool than a power plant. That's a genuinely different product structure, not just a feature name.",
+      "level": "company",
+      "source_url": "https://assetmanagement.apg.nl/publications/apg-invests-300-million-in-return-s-battery-energy-storage-platform/",
+      "as_of_date_if_known": "October 2025",
+      "recency_note": "Described as actively rolling out as of October 2025 APG investment announcement.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Return is unique in operating independently at scale, without trading energy itself.",
+      "why_interesting": "The concrete mechanism behind the 'independence' claim: their investor APG's own Senior Investment Director singled it out as the distinguishing structural fact \u2014 Return never touches the energy commodity. Every competitor either trades or is owned by a trader. This strict firewall is what makes the 'neutral infrastructure' positioning real rather than marketing.",
+      "level": "company",
+      "source_url": "https://assetmanagement.apg.nl/publications/apg-invests-300-million-in-return-s-battery-energy-storage-platform/",
+      "as_of_date_if_known": "October 2025",
+      "recency_note": "Stated by APG's investment director in the October 2025 deal announcement \u2014 externally validated, not self-reported.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Prior to this transaction, Return had already invested a similar amount in its core operations.",
+      "why_interesting": "APG put in \u20ac300 million \u2014 and the press release quietly notes Return had already self-funded roughly the same amount before taking outside capital. For a company founded in 2021, that implies ~\u20ac600 million total deployed capital before year four, which is striking scale for a bootstrapped-then-institutional-round trajectory.",
+      "level": "company",
+      "source_url": "https://return.energy/news/return-raises-eur-300-million-in-growth-capital-from-apg-to-scale-battery-storage-capacity",
+      "as_of_date_if_known": "October 2025",
+      "recency_note": "Confirmed in October 2025 press release and corroborated by ESS-News and iREI coverage.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Return's growth equity investment from APG places it among the largest European storage and flexibility financings of 2025. The deal surpasses most peer rounds, with only Terra One (\u20ac150 million) showing a comparable scale in grid-scale battery deployment.",
+      "why_interesting": "Puts the funding in competitive context \u2014 not just a big number in isolation, but the largest equity round in European grid-scale BESS in 2025 by a wide margin (2\u00d7 the nearest comparable). That's a verifiable market-position fact, not a self-claim.",
+      "level": "company",
+      "source_url": "https://www.eu-startups.com/2025/10/dutch-energy-innovator-return-raises-e300-million-in-growth-capital-to-scale-battery-storage-capacity/",
+      "as_of_date_if_known": "October 2025",
+      "recency_note": "Published October 17 2025 by EU-Startups.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Dutch market leader SemperPower will now operate under the Return brand.",
+      "why_interesting": "Return operated under an entirely different name (SemperPower) until early 2025 \u2014 the company the recipient may have known or researched before is now Return. The rebrand is recent enough (February\u2013April 2025) that many prospects may still know them only as SemperPower, making this a useful orientation point and a story hook (the brand is new, the operations are not).",
+      "level": "company",
+      "source_url": "https://return.energy/news/2025-02-04-semperpower-rebrands-into-return",
+      "as_of_date_if_known": "February\u2013April 2025",
+      "recency_note": "Announced February 4 2025; full integration completed by April 2025 per return.energy own news page.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Return has acquired a majority stake in Hamburg-based J&P Batterie Projekte GmbH with a \u20ac50 mln investment and commitment.",
+      "why_interesting": "Rather than building greenfield in Germany, Return bought an established Hamburg developer \u2014 a specific, named M&A move that shows how fast they are assembling cross-border scale. The \u20ac50M commitment figure is concrete and checkable.",
+      "level": "company",
+      "source_url": "https://return.energy/stories",
+      "as_of_date_if_known": "2024",
+      "recency_note": "Listed on Return's own stories/news page; corroborated by energy-storage.news roundup from September 2024.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Project Mufasa, a groundbreaking Dutch utility-scale Battery Energy Storage System (BESS), has reached a major milestone as its building permit has been granted irrevocably.",
+      "why_interesting": "The 1,457 MWh Mufasa site (Vlissingen) would be by far the largest battery in the Netherlands when built. The irrevocable permit milestone is a concrete, de-risked development fact \u2014 not a pipeline aspiration \u2014 and the 'Mufasa' project name is memorably specific.",
+      "level": "company",
+      "source_url": "https://return.energy/stories",
+      "as_of_date_if_known": "2024\u20132025",
+      "recency_note": "Permit milestone noted on Return's stories page; capacity figure corroborated by ESS-News October 2025.",
+      "sensitivity": "none"
+    }
+  ]
+}

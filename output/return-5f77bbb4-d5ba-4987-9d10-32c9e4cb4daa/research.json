@@ -1,0 +1,54 @@
+{
+  "company": {
+    "website": "https://return.energy",
+    "what_they_do": "Return is an Amsterdam-based, independent large-scale battery energy storage provider founded in 2021. It builds, owns, and operates grid-scale battery energy storage systems (BESS) and offers them as a service ('storage-as-a-service') to a range of customers: utilities/grid operators, large industrial energy consumers (factories, data centers, logistics companies), and energy traders/financials. Its model is strictly infrastructure \u2014 it does not trade energy itself. Instead, it leases battery capacity to customers who decide how to use it. A 'virtual battery' concept lets clients access a network of battery projects rather than a single site. Return operates a smart technology platform providing real-time insight into where energy is available and needed across its pan-European network. It also has a sub-brand, Return Industrial Solutions (RIS), focused on 'behind-the-grid connection' storage for large industrial clients with existing grid infrastructure. Current markets: Netherlands, Belgium, Germany, Spain, with active expansion into new markets.",
+    "raw_notes": [
+      "Founded 2021; founders cited as Arno Hendriks, Willem-Jan Schutte, and Daniel Witvoet (Seedtable). Willem-Jan Schutte is Founder & CEO (confirmed in APG/EU-Startups press). Sjoerd Bazen is Managing Director.",
+      "Headquartered in Amsterdam (HNK Amsterdam Schinkel, Anthony Fokkerweg 1, 1059 CM).",
+      "Self-described as 'Europe's leading independent large-scale energy storage provider'; 100+ professionals.",
+      "Operates 70 MW of storage capacity; 450 MW under construction (as of Oct 2025). Goal: 5 GW total power output by 2030.",
+      "Over \u20ac2 billion in long-term customer contracts secured.",
+      "Major funding: \u20ac300 million investment from APG (on behalf of pension fund ABP) closed Oct 2025 for a minority stake \u2014 one of the largest European BESS financings of 2025.",
+      "Key projects: Antares (100 MW/200 MWh, Waddinxveen, NL, connected to TenneT, expected mid-2026); Sirius (220 kV extra high voltage, Meeden, NL); Spica (220 kV, Meeden, NL); Brietlingen (Germany, via J&P Batterieprojekte acquisition 2024); Orion portfolio (three projects, Vizcaya, Spain); Star (Terneuzen, NL, operational since Nov 2021).",
+      "Also investor in Lion Storage / Mufasa (1.4 GWh BESS, Vlissingen, NL; Tesla as EPC/BESS provider).",
+      "Partnered with Bessmart (Berlin) for 670 MWh of German BESS by 2027.",
+      "Key commercial partnerships: Vattenfall (8-year capacity offtake agreement for Antares/Waddinxveen); project financing via ING, Meewind, Nationaal Groenfonds.",
+      "Previously operated under 'SemperPower' brand; rebranded to Return in early 2025.",
+      "Return Industrial Solutions (RIS): behind-the-meter/behind-grid-connection storage for energy-intensive industry; supports decarbonization and cost competitiveness.",
+      "Neutral/independent positioning is a core differentiator: does not trade energy itself; serves all sides of the energy chain (grid operators, producers, consumers, traders).",
+      "Core value proposition per homepage: anticipates customer needs, unites stakeholders, enables net-zero energy system, storage-as-a-service without capex or operational risk for customers.",
+      "Founded by minds behind Sunrock and Stecc Capital (FoundersToday, Feb 2024)."
+    ],
+    "source_urls": [
+      "https://return.energy/",
+      "https://return.energy/about-us",
+      "https://return.energy/locations",
+      "https://return.energy/solutions/return-industrial-solutions",
+      "https://www.eu-startups.com/2025/10/dutch-energy-innovator-return-raises-e300-million-in-growth-capital-to-scale-battery-storage-capacity/",
+      "https://www.ess-news.com/2025/10/17/dutch-energy-storage-provider-return-raises-e300-million-to-expand-battery-storage-portfolio/",
+      "https://assetmanagement.apg.nl/publications/apg-invests-300-million-in-return-s-battery-energy-storage-platform/",
+      "https://group.vattenfall.com/press-and-media/pressreleases/2025/vattenfall-signs-agreement-to-optimise-large-scale-battery-park-in-the-netherlands/",
+      "https://stek.com/en/track-record/stek-advises-return-energy-on-the-development-of-netherlands-second-largest-energy-storage-project/",
+      "https://www.energystoragenl.nl/en/lid/return/",
+      "https://www.seedtable.com/best-energy-nuclear-startups-in-amsterdam",
+      "https://www.founderstoday.news/return-secures-again-100-million-funding/",
+      "https://www.energy-storage.news/return-alfen-and-vattenfall-partner-on-100mw-200mwh-netherlands-bess/"
+    ]
+  },
+  "individual": {
+    "name": "Jac Spangenberg",
+    "role_if_found": null,
+    "notes": "No public profile for 'Jac Spangenberg' at return.energy could be found via web search. The email format j.spangenberg@return.energy matches the company's standard first-initial.lastname pattern. A LinkedIn profile for a 'Jacques Spangenberg' appeared in search results (za.linkedin.com) but was inaccessible beyond the title and could not be confirmed as the same person or linked to Return. No role, title, or biographical detail for this individual is findable from open sources. Known leadership at Return includes: Willem-Jan Schutte (Founder & CEO), Sjoerd Bazen (Managing Director), Arno Hendriks and Daniel Witvoet (co-founders per Seedtable). Jac Spangenberg does not appear in any press releases, the about-us page, or news coverage of Return.",
+    "source_urls": [
+      "https://za.linkedin.com/in/jacques-spangenberg-86a191144",
+      "https://return.energy/about-us"
+    ]
+  },
+  "could_not_find": [
+    "Jac Spangenberg's specific role/title at Return \u2014 not findable from any public source.",
+    "Whether 'Jac' is short for Jacques or another name \u2014 unconfirmed.",
+    "Whether the LinkedIn profile for 'Jacques Spangenberg' is the same person \u2014 could not be verified; profile was gated.",
+    "Jac Spangenberg's tenure, background, or seniority at Return.",
+    "Return's about-us team page did not surface individual staff names beyond leadership (Schutte, Bazen) in accessible search snippets."
+  ]
+}
