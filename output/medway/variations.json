@@ -1,0 +1,85 @@
+{
+  "lead_id": "medway",
+  "company_name": "Medway",
+  "recipient_name": "Giovanna Gonela",
+  "email": "giovanna-22@outlook.com.br",
+  "variations": [
+    {
+      "variant_n": 1,
+      "compliment": "Medway looks like a fantastic company - I love that it was founded by three doctors who met during their own residency at HC-FMUSP and turned that experience into a way to help others get in.",
+      "email": "Hello Giovanna,\n\nThanks for checking out Polymer! Medway looks like a fantastic company - I love that it was founded by three doctors who met during their own residency at HC-FMUSP and turned that experience into a way to help others get in.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.medway.com.br/conteudos/a-historia-que-ninguem-contou-sobre-a-origem-da-medway/"
+      ],
+      "score": 8,
+      "tells": [
+        "turned that experience into a way to help others get in"
+      ],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1783032807.468479",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 2,
+      "compliment": "Medway looks amazing - MedBrain matching each institution's most-tested topics to a student's own performance is such a smart, personalized way to guide studying.",
+      "email": "Hello Giovanna,\n\nThanks for checking out Polymer! Medway looks amazing - MedBrain matching each institution's most-tested topics to a student's own performance is such a smart, personalized way to guide studying.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.medway.com.br/conteudos/medbrain-conheca-os-beneficios-da-inteligencia-artificial-da-medway/"
+      ],
+      "score": 9,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1783032807.560509",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 3,
+      "compliment": "Medway looks like a remarkable company - being recognized by TIME as one of the top 100 education technology companies in the world is a huge accomplishment.",
+      "email": "Hello Giovanna,\n\nThanks for checking out Polymer! Medway looks like a remarkable company - being recognized by TIME as one of the top 100 education technology companies in the world is a huge accomplishment.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.medway.com.br/"
+      ],
+      "score": 8,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1783032807.651039",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 4,
+      "compliment": "Medway looks incredibly impressive - it says a lot that around half of approved candidates at USP in 2022 were your students.",
+      "email": "Hello Giovanna,\n\nThanks for checking out Polymer! Medway looks incredibly impressive - it says a lot that around half of approved candidates at USP in 2022 were your students.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://grao.vc/en/conheca-a-medway-startup-de-educacao-medica/"
+      ],
+      "score": 8,
+      "tells": [
+        "it says a lot that"
+      ],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1783032807.740279",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 5,
+      "compliment": "Medway looks like a great company - having around half of the approved candidates at USP come through your program says so much when the acceptance rate is just 1 in 20!",
+      "email": "Hello Giovanna,\n\nThanks for checking out Polymer! Medway looks like a great company - having around half of the approved candidates at USP come through your program says so much when the acceptance rate is just 1 in 20!\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://grao.vc/en/conheca-a-medway-startup-de-educacao-medica/",
+        "https://braziljournal.com/medway-a-startup-de-educacao-medica-que-compete-com-a-afya/"
+      ],
+      "score": 8,
+      "tells": [
+        "says so much"
+      ],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1783032807.831009",
+      "slack_channel": "C0B87Q5UEL9"
+    }
+  ]
+}

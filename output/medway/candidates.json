@@ -1,0 +1,76 @@
+{
+  "candidates": [
+    {
+      "item": "A Medway foi fundada em 2017 por tr\u00eas especialistas em Cl\u00ednica M\u00e9dica pelo Hospital das Cl\u00ednicas da Universidade de S\u00e3o Paulo (HC-FMUSP), que se conheceram durante a resid\u00eancia.",
+      "why_interesting": "The founders are not entrepreneurs who spotted a market gap \u2014 they are practicing Internal Medicine specialists from the most competitive residency program in Latin America (HC-FMUSP, ~1 approval per 20 candidates). They built the product because they had personally survived the exact gauntlet their students are trying to pass. That origin story is unusually credible and specific \u2014 it is not 'doctors who care about education' but rather 'the people who beat the hardest exam in the country, together, and then turned around to teach others how.'",
+      "level": "company",
+      "source_url": "https://grao.vc/en/conheca-a-medway-startup-de-educacao-medica/",
+      "as_of_date_if_known": "2017 (founding); confirmed 2022",
+      "recency_note": "Founding story is stable and corroborated by multiple sources (Gr\u00e3o VC, Sa\u00fade Business, Brazil Journal).",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Depois de se formar em medicina, Alexandre Remor teve que passar mais de dois anos debru\u00e7ado sobre as apostilas para passar na resid\u00eancia de cl\u00ednica m\u00e9dica da USP \u2013 uma das mais concorridas da Am\u00e9rica Latina com uma taxa de aprova\u00e7\u00e3o de apenas 1 para cada 20 candidatos.",
+      "why_interesting": "A 1-in-20 acceptance rate at USP's Internal Medicine residency is a concrete, striking number that contextualizes exactly how hard the exam Medway prepares students for actually is. It also frames why the founders' own approval was remarkable enough that peers sought them out as mentors \u2014 the origin of the company.",
+      "level": "company",
+      "source_url": "https://braziljournal.com/medway-a-startup-de-educacao-medica-que-compete-com-a-afya/",
+      "as_of_date_if_known": "Reported circa 2022",
+      "recency_note": "The acceptance rate figure is attributed to Brazil Journal's reporting on Medway; may vary year to year but order-of-magnitude is stable.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Claims ~50% of approved candidates at top residency programs (USP, UNICAMP, Unifesp, IAMSPE) in 2022 were Medway students. More than 40% of approved candidates at the most competitive programs (USP, UNICAMP, EPM, Albert Einstein, etc.) are Medway alumni.",
+      "why_interesting": "Market-share-of-outcomes is a bolder and more specific claim than 'our students do well.' Claiming half the admitted class at Brazil's most prestigious hospitals are your alumni \u2014 while being a startup \u2014 is a genuinely surprising concentration of results. The company's own site scrolls '56% dos aprovados no Einstein s\u00e3o Medway' (56% of Einstein approvals are Medway students), making the stat even sharper.",
+      "level": "company",
+      "source_url": "https://dev-site.medway.com.br/aprovados/",
+      "as_of_date_if_known": "2022\u20132023 cohort data",
+      "recency_note": "Figures appear on the Medway approvals page and are cited in Series A press materials. The Einstein-specific '56%' figure comes from the live site ticker. Should be verified directly with Medway for exact year.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "MedBrain is the AI tool that personalizes study depth and direction based on each exam board's question patterns.",
+      "why_interesting": "The distinctive mechanism here is not 'AI personalization' (generic) but specifically that the AI is tuned to each individual exam board's historical question patterns \u2014 i.e., it knows how USP's test differs from UNICAMP's and steers the student accordingly. That is a genuinely narrow, exam-specific application of AI that a general-purpose edtech would not have, and it requires Medway's proprietary question bank and exam data to power it.",
+      "level": "company",
+      "source_url": "https://www.medway.com.br/",
+      "as_of_date_if_known": "Current product as of 2024",
+      "recency_note": "MedBrain is an active product feature; Facebook and Instagram reels from 2025 confirm it is still being promoted. Mechanism detail (exam-board-specific calibration) comes from the original research notes referencing the Medway site.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Nascido digitalmente nativo; cresceu inteiramente por meio de sua pr\u00f3pria gera\u00e7\u00e3o de caixa antes de captar funding institucional. [Born digitally native; grew entirely through its own cash generation before raising institutional funding.]",
+      "why_interesting": "A Brazilian edtech that bootstrapped to 16,000+ students and 150% year-over-year growth before taking a single outside reais is unusual in a VC-heavy market. It implies strong product-market fit validated purely by paying customers, not by investor subsidy \u2014 a credibility signal that differentiates Medway from competitors who scaled on venture cash.",
+      "level": "company",
+      "source_url": "https://grao.vc/en/conheca-a-medway-startup-de-educacao-medica/",
+      "as_of_date_if_known": "Pre-Series A (before April 2022)",
+      "recency_note": "Historical fact about the company's growth trajectory; stable.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Recognized by TIME Magazine as one of the TOP 100 best education technology companies in the world.",
+      "why_interesting": "Being a niche Brazilian medical-residency prep company on a global edtech list dominated by US, Indian, and Chinese companies is genuinely surprising given the market's narrow scope. It signals that scale-of-impact within a vertical can be recognized globally even when the addressable market is small by edtech standards. NOTE: This claim needs careful verification \u2014 the TIME/Statista World EdTech list for 2025 reviewed 7,000+ companies and named 350 winners; Medway's specific inclusion and the 'TOP 100' framing could not be independently confirmed from search results.",
+      "level": "company",
+      "source_url": "https://www.medway.com.br/",
+      "as_of_date_if_known": "Claimed in company's own notes; year unspecified",
+      "recency_note": "UNVERIFIED in search results. The TIME/Statista World list for 2026 is not yet published (expected July 2026). Use only if confirmed directly with Medway.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Egressos de faculdades de outros Estados, a aprova\u00e7\u00e3o em um dos processos de resid\u00eancia mais concorridos do pa\u00eds, transformou os tr\u00eas em refer\u00eancia para outros alunos. ['Graduates from universities in other states, their approval in one of the country's most competitive residency processes turned the three into a reference for other students.']",
+      "why_interesting": "The founders were not from S\u00e3o Paulo's elite medical schools \u2014 they came from the interior and other states, cracked the hardest exam in the country anyway, and became informal mentors before building a company. It is a genuine underdog-made-good story that is motivationally resonant for their core customer: a medical student outside the S\u00e3o Paulo bubble trying to break into top programs.",
+      "level": "company",
+      "source_url": "https://grao.vc/en/conheca-a-medway-startup-de-educacao-medica/",
+      "as_of_date_if_known": "2022",
+      "recency_note": "Stable founding narrative confirmed by multiple sources.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Team of 150+ physicians contributing to content creation across all products.",
+      "why_interesting": "EXCLUDED \u2014 fails uniqueness test. Having practicing clinicians create content is standard for any serious medical education company. Not surfaced as a candidate.",
+      "level": "company",
+      "source_url": "",
+      "as_of_date_if_known": "",
+      "recency_note": "EXCLUDED",
+      "sensitivity": "excluded \u2014 generic"
+    }
+  ]
+}

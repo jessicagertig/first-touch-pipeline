@@ -1,0 +1,48 @@
+{
+  "company": {
+    "website": "https://www.medway.com.br/",
+    "what_they_do": "Medway is a Brazilian edtech (education technology) company focused on medical education. It offers online and app-based preparatory courses for physicians seeking to enter medical residency programs (the highly competitive post-graduation specialization exams in Brazil). Its flagship products include an 'Extensivo' course and a 'Intensivo' course covering core medical areas (Internal Medicine, Surgery, Gynecology & Obstetrics, Pediatrics, Preventive Medicine). The platform features a proprietary AI-powered tool called MedBrain, a question bank of 17,000+ commented questions, simulated exams, personalized study maps, and flashcards. Medway also operates a physical study space in S\u00e3o Paulo. Beyond residency prep, the company is expanding into continuing medical education across multiple specializations throughout a physician's career.",
+    "raw_notes": [
+      "Founded in 2017 by three physicians \u2014 Alexandre Remor (CEO), Jo\u00e3o Vitor Fernando (CMO), and Micael Hamra (CPO) \u2014 who are specialists in Internal Medicine from Hospital das Cl\u00ednicas, University of S\u00e3o Paulo (HC-FMUSP).",
+      "Born digitally native; grew entirely through its own cash generation before raising institutional funding.",
+      "Raised a R$75 million (~$14.8M USD) Series A led by SoftBank Latin America Fund, with participation from GFC, EquitasVC, Aggir Ventures, Scale-Up Endeavor, Neuron Ventures, Allievo Capital, and Gr\u00e3o VC.",
+      "Mission: improve the quality of healthcare in Brazil by being the primary partner throughout physicians' professional journeys.",
+      "Claims ~50% of approved candidates at top residency programs (USP, UNICAMP, Unifesp, IAMSPE) in 2022 were Medway students.",
+      "More than 40% of approved candidates at the most competitive programs (USP, UNICAMP, EPM, Albert Einstein, etc.) are Medway alumni.",
+      "Student base grew to 16,000+ cumulative students; company grew 150% in 12 months preceding Series A.",
+      "Selected by Eretz.bio (Albert Einstein Hospital incubator) in 2019; selected by Endeavor Scale-Up program in 2021.",
+      "Recognized by TIME Magazine as one of the TOP 100 best education technology companies in the world.",
+      "Headquarters: Av. Eng. Luiz Carlos Berrini 1700, 15th floor, S\u00e3o Paulo, SP.",
+      "Products are delivered via proprietary platform and the Medway mobile app.",
+      "MedBrain is the AI tool that personalizes study depth and direction based on each exam board's question patterns.",
+      "Has a physical QG (headquarters/study space) in S\u00e3o Paulo for in-person study, networking, and events.",
+      "Company culture emphasizes 'Papo Reto' (straight talk/transparency), continuous improvement, high performance, and autonomy.",
+      "Team of 150+ physicians contributing to content creation across all products.",
+      "Expanding geographically across Brazil (beyond S\u00e3o Paulo focus), adding states like MG, BA, PR.",
+      "Company size listed at 51\u2013100 employees on some sources, but 200+ collaborators cited post-Series A (2021).",
+      "Competes in the same market as Afya but positions itself above on price/quality."
+    ],
+    "source_urls": [
+      "https://www.medway.com.br/",
+      "https://br.linkedin.com/company/medway-educacao-medica",
+      "https://www.saudebusiness.com/artigos/medway-edtech-que-melhora-qualidade-da-assistencia-medica-no-brasil-por-meio-da-educacao/",
+      "https://braziljournal.com/medway-a-startup-de-educacao-medica-que-compete-com-a-afya/",
+      "https://grao.vc/en/conheca-a-medway-startup-de-educacao-medica/",
+      "https://carreira.inhire.com.br/carreiras/medway/",
+      "https://www.zoominfo.com/c/medway/510664218"
+    ]
+  },
+  "individual": {
+    "name": "Giovanna",
+    "role_if_found": null,
+    "notes": "No individual named 'Giovanna' with a verifiable connection to Medway could be found. The email domain is outlook.com.br (Microsoft Outlook's Brazilian consumer email service), not a Medway corporate domain, which means this person is likely a student/customer of Medway rather than an employee or founder. No public profile (LinkedIn, company page, press mention) linking a 'Giovanna' specifically to Medway was surfaced. Given the context \u2014 a medical education platform targeting physicians and medical students \u2014 Giovanna is most plausibly a medical student or physician using Medway's residency prep courses. The '22' in the email handle (giovanna-22) may suggest a year (2022) or simply be a disambiguator; it is speculative and not confirmable.",
+    "source_urls": []
+  },
+  "could_not_find": [
+    "No corporate email domain for Giovanna \u2014 outlook.com.br is a personal Microsoft consumer email, not tied to Medway org.",
+    "No public profile or role found for a 'Giovanna' at Medway (employee, founder, or otherwise).",
+    "Cannot confirm whether Giovanna is a student/customer, employee, or other type of user.",
+    "No LinkedIn or company bio page found for this individual.",
+    "The '22' in the email address cannot be reliably interpreted (graduation year, birth year, or disambiguation)."
+  ]
+}
