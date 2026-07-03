@@ -1,23 +1,25 @@
 {
   "company": {
     "website": "https://natanitsolutions.com",
-    "what_they_do": "Unknown. The website is a brand-new, unconfigured WordPress installation showing only the default placeholder content ('Hello world! Welcome to WordPress. This is your first post.'). No real business description, services, team, or product information is present.",
-    "raw_notes": "The homepage at natanitsolutions.com contains only the WordPress default 'Hello world!' post and Lorem Ipsum-style filler text. There is no actual company content \u2014 no description of services, no team page, no product or pricing information, no client mentions, no branding beyond the domain name. The domain name 'Natan IT Solutions' suggests an intent to operate in the IT services space (consistent with the org_name), but nothing on the live site confirms scope, geography, or offering. Web searches for 'natanitsolutions.com' and 'Natan IT Solutions' returned no matching results for this specific entity \u2014 all results pointed to unrelated companies with similar names (e.g., natitsolutions.com, natitsolution.com, NAT IT & Digital Marketing Solutions, Nahum Natan Technology Solutions in Israel). None of these can be attributed to this signup.",
+    "what_they_do": "Unknown. The website is a default, unconfigured WordPress installation with no real content \u2014 only the WordPress 'Hello world!' placeholder post and Lorem Ipsum filler text. No products, services, or business description are present.",
+    "raw_notes": "Site is a fresh/default WordPress install. Homepage contains only: the default 'Hello world!' first post, generic Lorem Ipsum-style placeholder text, and no navigation, about page, services, or branding beyond the domain name. The org name 'Natan IT Solutions' suggests an IT services or technology solutions company, but this cannot be confirmed from the website. The name 'Natan' in the org name may indicate a founder-named business, and the HR email prefix ('hr@') suggests the company has at least some internal HR function or is setting up one.",
     "source_urls": [
-      "https://natanitsolutions.com (primary, fetched directly \u2014 default WordPress placeholder only)"
+      "https://natanitsolutions.com"
     ]
   },
   "individual": {
     "name": "Natan",
     "role_if_found": null,
-    "notes": "The email address is hr@natanitsolutions.com, which suggests the individual may work in an HR or people-operations capacity at the company \u2014 but this is inferred from the email prefix only, not from any confirmed source. No information about a specific person named 'Natan' at this company was found via web search. The first name 'Natan' may also be the company's namesake (the org is called 'Natan IT Solutions'), but no founder profile, LinkedIn presence, or biographical detail was found and confirmed for this individual.",
+    "notes": "First name is 'Natan'. Email prefix is 'hr@', which suggests this individual may work in an HR role or is managing HR responsibilities at the company. The org name 'Natan IT Solutions' may indicate Natan is a founder or principal, but this is inference only \u2014 not confirmed by any source. No individual profile, LinkedIn, or biographical information was found.",
     "source_urls": []
   },
   "could_not_find": [
-    "Any real business description or services for natanitsolutions.com \u2014 site is an unconfigured WordPress default install.",
-    "Company founding date, location, size, or industry focus.",
-    "Identity and role of the individual recipient beyond first name and HR-prefixed email.",
-    "Any news, press, or third-party mentions of 'Natan IT Solutions' at natanitsolutions.com.",
-    "No usable hook or compliment basis exists from first-party sources at this time."
+    "What the company actually does \u2014 no services, products, or business description on the website",
+    "Natan's last name or specific job title",
+    "Whether Natan is the founder/owner or an HR employee at a company named by someone else",
+    "Company size, location, industry, or clients",
+    "Any press, news, or third-party mentions of Natan IT Solutions",
+    "Any social media or LinkedIn presence for the company or individual",
+    "Why an HR email is the signup contact (HR tool evaluation? New company setup?)"
   ]
 }
