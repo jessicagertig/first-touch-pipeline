@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://natanitsolutions.com",
-    "what_they_do": "Unknown. The website is a brand-new, unconfigured WordPress installation showing only the default 'Hello world!' placeholder post and Lorem Ipsum filler text. No real business description, services, or content has been published yet.",
-    "raw_notes": "The homepage content provided is entirely default WordPress boilerplate: 'Hello world! Welcome to WordPress. This is your first post. Edit or delete it, then start writing!' along with Lorem Ipsum placeholder text. There is no indication of what products or services the company actually offers. Web searches for 'natanitsolutions.com' and 'Natan IT Solutions' returned no matching results for this specific domain \u2014 all results are for unrelated companies (natitsolutions.com, natitsolution.com, nat-solutions.com, etc.). The org name 'Natan IT Solutions' suggests an IT services orientation, but this cannot be confirmed from any source.",
+    "what_they_do": "Unknown. The website contains only a default WordPress placeholder ('Hello world! Welcome to WordPress. This is your first post.') with no real content, product descriptions, or services listed.",
+    "raw_notes": "The homepage is an out-of-the-box WordPress installation that has not been configured or populated with any real business content. All visible text is either the default WordPress sample post, Lorem Ipsum-style filler text, or a loading indicator. There is no 'About', 'Services', 'Products', or any other informative page content available. The site appears to be newly registered and not yet built out.",
     "source_urls": [
       "https://natanitsolutions.com"
     ]
@@ -10,15 +10,17 @@
   "individual": {
     "name": "Natan",
     "role_if_found": null,
-    "notes": "The signup email is hr@natanitsolutions.com. The 'hr' prefix strongly suggests this person works in a Human Resources function at the company, rather than being a founder or executive. First name 'Natan' is all that is known. No LinkedIn profile, personal bio, or any other public record for an individual named 'Natan' at natanitsolutions.com could be found. It is also possible 'Natan' is the company's namesake and may be a founder, but this is speculative and unsupported by any source.",
-    "source_urls": []
+    "notes": "First name is 'Natan'. The email address used is hr@natanitsolutions.com, which suggests an HR function or that this person handles HR responsibilities at the company \u2014 but this could also be a generic departmental inbox rather than a personal one. No further information about this individual could be confirmed from the website, as it contains no team, leadership, or contact page content.",
+    "source_urls": [
+      "https://natanitsolutions.com"
+    ]
   },
   "could_not_find": [
-    "Any real website content at natanitsolutions.com \u2014 site is an unconfigured WordPress default install with no published content.",
-    "Any web search results specifically for natanitsolutions.com or 'Natan IT Solutions' as a distinct entity.",
-    "The individual recipient's surname, role, or any biographical detail.",
-    "What industry or services the company actually operates in (IT is only inferred from the org name).",
-    "Company size, location, founding date, or any other firmographic data.",
-    "Whether 'Natan' in the company name refers to the individual recipient or is unrelated."
+    "What the company actually does \u2014 no services, products, or industry information is available anywhere on the website.",
+    "Company size, founding date, location, or any other firmographic details.",
+    "The individual recipient's last name, title, or role beyond the 'hr@' email prefix hint.",
+    "Whether 'Natan' is the founder, an employee, or simply the person who manages the hr@ inbox.",
+    "Any social media profiles, LinkedIn presence, press coverage, or third-party references to the company or individual.",
+    "Whether the company has any online presence beyond this placeholder WordPress site."
   ]
 }
