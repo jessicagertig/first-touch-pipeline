@@ -1,0 +1,58 @@
+{
+  "candidates": [
+    {
+      "item": "Your job search shouldn't be harder than your actual job. One platform for the entire loop.",
+      "why_interesting": "SKIP \u2014 this is the homepage OG/Twitter tagline. A polished marketing slogan: can only be parroted back, not reacted to. The concrete thing behind it is candidate #2 below.",
+      "level": "company",
+      "source_url": "https://mantriai.co",
+      "as_of_date_if_known": "2026",
+      "recency_note": "Pulled from live homepage HTML at time of step-1 research.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "I'm building MantriAI - an AI career advisor for job seekers who are tired of juggling 6\u2026",
+      "why_interesting": "The specific framing that today's job search requires stitching together 6+ separate tools (job boards, JD analyzers, ATS, LinkedIn content tools, networking tools, interview prep tools) and MantriAI collapses all of them into one workflow. This is a concrete, countable pain-point claim \u2014 not a vague 'all-in-one' boast \u2014 and it's distinctive because most competitors attack only one or two of these stages, not the full loop.",
+      "level": "company",
+      "source_url": "https://www.linkedin.com/in/abhinavjain89/",
+      "as_of_date_if_known": "2026",
+      "recency_note": "Live LinkedIn headline as of step-1 research (March\u2013July 2026 window).",
+      "sensitivity": "none"
+    },
+    {
+      "item": "From a LinkedIn Post to an AI Product - What 6 Years of Watching Job Searches Break Taught Me",
+      "why_interesting": "The product origin story is unusually specific and credible: the founder spent 6 years observing job-search failures before building MantriAI, and the spark was a LinkedIn post (not a VC pitch or a hackathon). That's a rare, concrete founding narrative \u2014 it signals genuine domain obsession rather than opportunistic AI pivoting.",
+      "level": "company",
+      "source_url": "https://www.linkedin.com/in/abhinavjain89/",
+      "as_of_date_if_known": "March 25, 2026",
+      "recency_note": "LinkedIn post title visible in search snippet, dated March 25, 2026.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "He ran user acquisition across Meta, Google, and TikTok, managing monthly spend above $7M. He built our TikTok channel from zero with no existing playbook.",
+      "why_interesting": "The founder (Abhinav Jain) comes from a hardcore paid-growth background at Pocket FM \u2014 $7M+/month in ad spend across three platforms \u2014 not a typical career-tech or HR-tech background. He also built Pocket FM's TikTok channel from scratch with no playbook. This is a non-obvious founder profile for a career-advice product: someone who actually ran massive user-acquisition machines, which makes the 'I watched job searches break' narrative more striking because he was simultaneously managing growth at scale.",
+      "level": "company",
+      "source_url": "https://www.linkedin.com/in/abhinavjain89/",
+      "as_of_date_if_known": "2026",
+      "recency_note": "LinkedIn recommendation snippet visible in search results.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "First hire at MantriAI. Looking for a Founder's Office Intern. 4 biggest perks: work directly with me, build things from scratch, use AI to fix real startup chaos, \u20b925,000/month + Claude Pro.",
+      "why_interesting": "The job post is candid and unpolished in a refreshing way \u2014 'fix real startup chaos' is an honest acknowledgment of early-stage messiness rather than the usual startup-gloss. Offering Claude Pro as a perk (not just a salary) signals that AI tooling is central to how the team actually works, not just what they're selling. Also: this was the very first hire, suggesting an extremely early-stage team at time of research.",
+      "level": "company",
+      "source_url": "https://www.linkedin.com/in/ravikumarmehta/ (repost of Abhinav Jain post)",
+      "as_of_date_if_known": "~June 2026 (LinkedIn '1mo' from retrieval date)",
+      "recency_note": "Visible as a repost in search snippet, approximately 1 month before step-1 research.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Only filter: you should have tinkered with AI - workflows, bots, automations, prompt stacks, Notion/Sheets jugaad, anything.",
+      "why_interesting": "The word 'jugaad' (Hindi for resourceful improvisation/hack) in a hiring post written in English is a small but telling signal: the founder is writing authentically for an India-native audience and values scrappiness over pedigree. 'Prompt stacks' alongside 'Notion/Sheets jugaad' is a blunt, specific skill bar \u2014 no euphemisms about 'AI-first mindset' \u2014 which is the opposite of how most startups write job posts.",
+      "level": "company",
+      "source_url": "https://www.linkedin.com/in/ravikumarmehta/ (repost of Abhinav Jain post)",
+      "as_of_date_if_known": "~June 2026",
+      "recency_note": "Same post as candidate #5; reposted ~1 month before step-1 research.",
+      "sensitivity": "none"
+    }
+  ]
+}

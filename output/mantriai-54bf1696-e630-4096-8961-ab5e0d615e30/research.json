@@ -1,0 +1,36 @@
+{
+  "company": {
+    "website": "https://mantriai.co",
+    "what_they_do": "MantriAI is an AI-powered career advisor platform for job seekers. It provides a single, unified platform covering the entire job search workflow: job discovery, job description (JD) analysis, application tracking, LinkedIn content creation, networking support, and interview preparation. The core positioning is that job searching should not be harder than actually working \u2014 consolidating what are typically six or more separate tools into one.",
+    "raw_notes": [
+      "Page title: 'MantriAI \u2014 Your career's sharpest advisor'",
+      "Meta description: 'Your career's sharpest advisor. One platform for job discovery, JD analysis, application tracking, LinkedIn content, networking, and interview prep.'",
+      "OG description: 'Your job search shouldn't be harder than your actual job. One platform for the entire loop.'",
+      "Twitter description: 'Your job search shouldn't be harder than your actual job.'",
+      "Theme color #D4962E (a warm amber/gold), suggesting a premium, confident brand aesthetic.",
+      "App is a React SPA (single-page application) with modular JS and CSS bundles \u2014 indicates a modern, actively developed web product.",
+      "A LinkedIn profile for 'Abhinav Jain (AJ)' describes him as building 'MantriAI \u2014 an AI career advisor for job seekers who are tired of juggling 6\u2026' (truncated), confirming the 'six tools' pain-point framing and the IIT Delhi / Bengaluru background of at least one founder.",
+      "Abhinav Jain has prior experience at Pocket FM managing large-scale user acquisition ($7M+/month spend across Meta, Google, TikTok) and at Shipra Engineering in a leadership role.",
+      "Site appears very new; does not surface independently in web search results \u2014 consistent with an early-stage / recently launched startup.",
+      "No pricing page, blog, or press coverage found for mantriai.co specifically."
+    ],
+    "source_urls": [
+      "https://mantriai.co (homepage HTML, provided directly)",
+      "https://www.linkedin.com/in/abhinavjain89/ (LinkedIn profile of Abhinav Jain, MantriAI)"
+    ]
+  },
+  "individual": {
+    "name": "Sana",
+    "role_if_found": null,
+    "notes": "No public profile for a person named 'Sana' at MantriAI was found via web search. The only publicly identified person building MantriAI is Abhinav Jain (AJ), based in Bengaluru, IIT Delhi alumnus. Sana may be a co-founder, early team member, or other stakeholder \u2014 role cannot be asserted from available sources. The email sana@mantriai.co on the company's own domain suggests she is internal to the company (not a customer), likely a founder or core team member.",
+    "source_urls": []
+  },
+  "could_not_find": [
+    "Sana's last name, role/title, or any public profile (LinkedIn, Twitter, etc.) could not be found.",
+    "Whether Sana is a co-founder, employee, or other team member at MantriAI \u2014 not determinable from public sources.",
+    "MantriAI founding date, funding status, or team size \u2014 not publicly available.",
+    "Product screenshots, feature details beyond the homepage tagline, or any customer/user information.",
+    "Any press coverage, blog posts, or third-party mentions of mantriai.co specifically.",
+    "Abhinav Jain's exact relationship to Sana (e.g., co-founder pairing) \u2014 not confirmed."
+  ]
+}

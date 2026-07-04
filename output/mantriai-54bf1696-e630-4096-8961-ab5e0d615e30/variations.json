@@ -1,0 +1,80 @@
+{
+  "lead_id": "mantriai-54bf1696-e630-4096-8961-ab5e0d615e30",
+  "company_name": "MantriAI",
+  "recipient_name": "Sana Khan",
+  "email": "sana@mantriai.co",
+  "variations": [
+    {
+      "variant_n": 1,
+      "compliment": "MantriAI looks like a great product - pulling job discovery, tracking, networking, and interview prep into one platform makes so much sense when most job seekers are juggling six different tools.",
+      "email": "Hello Sana,\n\nThanks for checking out Polymer! MantriAI looks like a great product - pulling job discovery, tracking, networking, and interview prep into one platform makes so much sense when most job seekers are juggling six different tools.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://mantriai.co"
+      ],
+      "score": 9,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1783149534.553419",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 2,
+      "compliment": "MantriAI looks like a great product - bringing job discovery, application tracking, networking, and interview prep into one platform makes so much sense when job seekers are usually stuck juggling 6+ separate tools.",
+      "email": "Hello Sana,\n\nThanks for checking out Polymer! MantriAI looks like a great product - bringing job discovery, application tracking, networking, and interview prep into one platform makes so much sense when job seekers are usually stuck juggling 6+ separate tools.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://mantriai.co"
+      ],
+      "score": 9,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1783149534.731189",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 3,
+      "compliment": "MantriAI looks like a really thoughtful product - pulling job discovery, application tracking, networking, and interview prep into one platform makes so much sense when job seekers are usually stuck juggling 6+ separate tools.",
+      "email": "Hello Sana,\n\nThanks for checking out Polymer! MantriAI looks like a really thoughtful product - pulling job discovery, application tracking, networking, and interview prep into one platform makes so much sense when job seekers are usually stuck juggling 6+ separate tools.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://mantriai.co"
+      ],
+      "score": 8,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1783149534.866069",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 4,
+      "compliment": "MantriAI looks like a great product - pulling job discovery, application tracking, networking, and interview prep into one platform is a smart fix for anyone tired of juggling six different tools during a job search.",
+      "email": "Hello Sana,\n\nThanks for checking out Polymer! MantriAI looks like a great product - pulling job discovery, application tracking, networking, and interview prep into one platform is a smart fix for anyone tired of juggling six different tools during a job search.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://mantriai.co"
+      ],
+      "score": 8,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1783149535.012369",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 5,
+      "compliment": "MantriAI looks like a great product - bringing job discovery, application tracking, networking, and interview prep into one platform is a smart way to spare job seekers from juggling 6+ separate tools.",
+      "email": "Hello Sana,\n\nThanks for checking out Polymer! MantriAI looks like a great product - bringing job discovery, application tracking, networking, and interview prep into one platform is a smart way to spare job seekers from juggling 6+ separate tools.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://mantriai.co"
+      ],
+      "score": 8,
+      "tells": [
+        "is a smart way to spare job seekers from juggling 6+ separate tools"
+      ],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1783149535.150219",
+      "slack_channel": "C0B87Q5UEL9"
+    }
+  ]
+}
