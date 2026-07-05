@@ -1,0 +1,49 @@
+{
+  "company": {
+    "website": "https://advhtech.com",
+    "what_they_do": "Advanced Hospitality Technologies (ADVH Tech) is a specialized IT managed services and technology consulting firm exclusively focused on the hospitality sector. They serve hotels, resorts, restaurants, and event venues \u2014 helping clients build, integrate, and maintain secure IT ecosystems. Services span: technology strategy/roadmapping (vendor-agnostic), system integration (PMS, POS, CRM, IoT, mobile room keys, contactless guest solutions), 24/7 managed IT support (proactive monitoring, remote resolution, onsite technicians), compliance management (PCI DSS, PII, GDPR, HIPAA, brand standards for Marriott/Hilton/etc.), vendor management and procurement, new-build IT infrastructure buildouts, and legacy system modernization. They also operate a hardware shop (shop.advhtech.com). Three stated core pillars: Risk & Compliance Management, Back Office Management, and Guest Technology Experience.",
+    "raw_notes": [
+      "Founded 1996 per About page (advhtech.com/about.php); LinkedIn lists founded 2011 \u2014 discrepancy to note.",
+      "Headquartered in Fremont, California (LinkedIn, Crunchbase, ZoomInfo all confirm).",
+      "Company size: LinkedIn lists 51\u2013200 employees; Crunchbase lists 501\u20131000; SignalHire lists 13 \u2014 figures are inconsistent across sources, treat with caution.",
+      "Phone: (510) 900-5990 (ZoomInfo/advhtech.com contact page).",
+      "Microsoft Gold Partner and certified PCI Compliant solution provider (advhtech.com/about.php).",
+      "Tagline/positioning: 'Secure, Simply & Standardize Technology' \u2014 three Ss used prominently on homepage.",
+      "Serves properties ranging from 30-room boutiques to 3,000+ room multi-property chains/management companies.",
+      "Maintains direct escalation channels with third-party providers (PMS, POS, credit card processors, GPNS, GRE, phones).",
+      "Offers brand standards compliance for major flags (Marriott, Hilton, and others).",
+      "Has a podcast: 'Reshape Hospitality with Tech' (LinkedIn posts).",
+      "Hardware shop at shop.advhtech.com sells Dell, Microsoft Surface, StarTech, and other hardware \u2014 suggests possible procurement/resale arm.",
+      "Blog exists at advhtech.com/blog/ covering hospitality technology topics.",
+      "Crunchbase describes them as having an 'award winning benchmark' for hospitality IT \u2014 no specific award named or sourced.",
+      "Technology consulting page (advhtech.com/technology-consulting-for-hospitality/) emphasizes vendor-agnostic recommendations and covers Select Service, Preferred Service, Full Service, and Resort property tiers.",
+      "Services include: cabling, WiFi, surveillance, mobile keys, in-room controls (lights/HVAC/entertainment), digital signage, guest internet/RADIUS network systems, managed business center."
+    ],
+    "source_urls": [
+      "https://advhtech.com/",
+      "https://advhtech.com/about.php",
+      "https://advhtech.com/technology-consulting-for-hospitality/",
+      "https://advhtech.com/contact-us/",
+      "https://shop.advhtech.com/",
+      "https://advhtech.com/blog/",
+      "https://www.linkedin.com/company/advanced-hospitality-technologies",
+      "https://www.crunchbase.com/organization/advh-tech",
+      "https://www.zoominfo.com/c/advanced-hospitality-technologies-inc/357750380"
+    ]
+  },
+  "individual": {
+    "name": "Steve Brown",
+    "role_if_found": null,
+    "notes": "Email prefix 'sbrown' at advhtech.com is consistent with a 'Steve Brown' name pattern and is a standard corporate email format, suggesting a likely employee or executive. No public-facing profile for a 'Steve Brown' at Advanced Hospitality Technologies was found via web search \u2014 no LinkedIn profile, no team/about page listing, no press mentions. The company's website does not appear to have a public team page naming individuals. Role, seniority, and tenure cannot be confirmed from available sources.",
+    "source_urls": []
+  },
+  "could_not_find": [
+    "Steve Brown's specific role/title at Advanced Hospitality Technologies \u2014 no public source found.",
+    "Steve Brown's LinkedIn or other professional profile \u2014 not surfaced in any search results.",
+    "Company team/about page with named staff \u2014 advhtech.com/about.php exists but did not list individual team members in scraped content.",
+    "Founded year is inconsistent: advhtech.com/about.php states 1996; LinkedIn lists 2011 \u2014 unclear which is accurate.",
+    "Company headcount is inconsistent across sources (LinkedIn: 51\u2013200; Crunchbase: 501\u20131000; SignalHire: 13) \u2014 true size unconfirmed.",
+    "No named founder or leadership team publicly identified from any source.",
+    "No specific awards cited by name despite Crunchbase's 'award winning' claim."
+  ]
+}

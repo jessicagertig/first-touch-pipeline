@@ -1,0 +1,78 @@
+{
+  "lead_id": "advanced-hospitality-technologies",
+  "company_name": "Advanced Hospitality Technologies",
+  "recipient_name": "Steve Brown",
+  "email": "sbrown@advhtech.com",
+  "variations": [
+    {
+      "variant_n": 1,
+      "compliment": "Advanced Hospitality Technologies looks like a great company - I love that you recommend solutions based purely on what's best for the business, rather than vendor partnerships or commissions.",
+      "email": "Hello Steve,\n\nThanks for checking out Polymer! Advanced Hospitality Technologies looks like a great company - I love that you recommend solutions based purely on what's best for the business, rather than vendor partnerships or commissions.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://advhtech.com/technology-consulting-for-hospitality/"
+      ],
+      "score": 9,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1783230220.415969",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 2,
+      "compliment": "Advanced Hospitality Technologies looks like a great company - I love that you recommend solutions based purely on what's best for the business, not on vendor partnerships or commissions.",
+      "email": "Hello Steve,\n\nThanks for checking out Polymer! Advanced Hospitality Technologies looks like a great company - I love that you recommend solutions based purely on what's best for the business, not on vendor partnerships or commissions.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://advhtech.com/technology-consulting-for-hospitality/"
+      ],
+      "score": 9,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1783230220.768809",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 3,
+      "compliment": "Advanced Hospitality Technologies looks great - having direct escalation channels with the third-party providers like PMS and POS systems seems like a huge help for resolving issues quickly.",
+      "email": "Hello Steve,\n\nThanks for checking out Polymer! Advanced Hospitality Technologies looks great - having direct escalation channels with the third-party providers like PMS and POS systems seems like a huge help for resolving issues quickly.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://advhtech.com/"
+      ],
+      "score": 8,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1783230221.031159",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 4,
+      "compliment": "Advanced Hospitality Technologies looks like a thoughtful company - it's great that you tailor your consulting to different property types, from Select Service all the way up to Resort properties.",
+      "email": "Hello Steve,\n\nThanks for checking out Polymer! Advanced Hospitality Technologies looks like a thoughtful company - it's great that you tailor your consulting to different property types, from Select Service all the way up to Resort properties.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://advhtech.com/technology-consulting-for-hospitality/"
+      ],
+      "score": 8,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1783230221.295279",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 5,
+      "compliment": "Advanced Hospitality Technologies looks like a great company - I love that you recommend solutions based purely on what's best for the business, with no vendor partnerships or commissions steering things.",
+      "email": "Hello Steve,\n\nThanks for checking out Polymer! Advanced Hospitality Technologies looks like a great company - I love that you recommend solutions based purely on what's best for the business, with no vendor partnerships or commissions steering things.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://advhtech.com/technology-consulting-for-hospitality/"
+      ],
+      "score": 9,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1783230221.544839",
+      "slack_channel": "C0B87Q5UEL9"
+    }
+  ]
+}

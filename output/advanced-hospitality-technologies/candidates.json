@@ -1,0 +1,76 @@
+{
+  "candidates": [
+    {
+      "item": "As certified general contractors of technology, we strategically plan & execute our innovative solutions to delivery world-class hospitality tech solutions.",
+      "why_interesting": "They frame themselves as the 'GC of technology' \u2014 a construction-industry analogy deliberately chosen to describe their role during hotel new-builds: coordinating all IT vendors, reviewing their plans against brand standards, and staying on as the managed IT partner after the doors open. It's a specific, concrete positioning metaphor that most IT MSPs don't use, and it signals a very particular go-to-market (new-construction projects) that competitors rarely lead with.",
+      "level": "company",
+      "source_url": "https://advhtech.com/about.php",
+      "as_of_date_if_known": "verified July 2026",
+      "recency_note": "Appears on about page and blog; consistent across multiple pages",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Established since 1996 with over 2 decades of experience, we are an innovation hub of hospitality technology offering hotels breakthrough solutions for their complex needs.",
+      "why_interesting": "Their own website states 1996 as founding year, but LinkedIn lists 2011 \u2014 a 15-year discrepancy that is verifiably unresolved across public sources. It's a curious internal inconsistency that could be a real conversation opener (e.g., which story is correct \u2014 did the company rebrand or restructure?). Unusual for a company to have such a large gap unexplained publicly.",
+      "level": "company",
+      "source_url": "https://advhtech.com/about.php",
+      "as_of_date_if_known": "verified July 2026",
+      "recency_note": "Discrepancy between advhtech.com (1996) and LinkedIn (2011) is current and unresolved",
+      "sensitivity": "mild \u2014 could be interpreted as a credibility flag; use carefully"
+    },
+    {
+      "item": "We adapt our solutions to fit your business model and brand requirements, whether you're operating a 30-room boutique or managing 3000+ rooms across locations.",
+      "why_interesting": "The specific range \u2014 30-room boutique to 3,000+ room multi-property chains \u2014 is an unusually wide stated scope for a niche hospitality IT firm. Most boutique IT MSPs pick a lane. Claiming both ends simultaneously is a bold positioning choice worth exploring: how does one team actually serve both without one suffering?",
+      "level": "company",
+      "source_url": "https://advhtech.com/",
+      "as_of_date_if_known": "verified July 2026",
+      "recency_note": "Live homepage copy as of July 2026",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Our esteemed clients include Hilton, Hyatt, Four Points, Choice Hotels International, Starwood, InterContinental Hotels Group, Independent Hotels, Best Western and Hotel Management Companies.",
+      "why_interesting": "They claim a client roster that spans multiple competing major flag families simultaneously (Hilton, Hyatt, IHG, Starwood/Marriott family). Serving rival brands' compliance requirements at the same time \u2014 each with their own brand S&C standards \u2014 is a genuinely specific operational challenge that most general MSPs wouldn't touch. It validates the 'brand standards' positioning as more than marketing.",
+      "level": "company",
+      "source_url": "http://blog.advhtech.com/keeping-pace-with-hotel-technology/",
+      "as_of_date_if_known": "April 2023 (blog post date)",
+      "recency_note": "From a 2023 blog post; client relationships may have changed",
+      "sensitivity": "none"
+    },
+    {
+      "item": "We have direct escalation channels with common third-party providers (e.g., PMS, POS, CCs, GPNS, GRE, phones, etc) to resolve issues swiftly and efficiently.",
+      "why_interesting": "Claiming pre-established direct escalation paths with third-party vendors \u2014 PMS, POS, credit card processors, GPNS, GRE \u2014 is a specific operational claim, not a generic one. For a hotel where a PMS outage during check-in peak hours is catastrophic, 'we have a direct line' vs. 'we open a ticket' is a meaningful and verifiable differentiator.",
+      "level": "company",
+      "source_url": "https://advhtech.com/",
+      "as_of_date_if_known": "verified July 2026",
+      "recency_note": "Live homepage copy as of July 2026",
+      "sensitivity": "none"
+    },
+    {
+      "item": "In this episode of 'Reshape Hospitality with Tech' we were joined by Mike Blake, Chief Technology Officer at the American Hotel & Lodging Association (AHLA).",
+      "why_interesting": "A small Fremont-based IT MSP producing a podcast that lands the CTO of AHLA (the industry's primary trade association) as a guest is a legitimately surprising reach for a company of their size and profile. It signals they have genuine industry access and credibility beyond what their marketing footprint might suggest.",
+      "level": "company",
+      "source_url": "https://www.youtube.com/watch?v=Aad58EztQL8",
+      "as_of_date_if_known": "September 2023",
+      "recency_note": "Episode published September 2023; podcast appears ongoing",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Modernize your property's operations, elevate guest experiences, and maximize ROI with customized technology consulting designed specifically for Select Service, Preferred Service, Full Service and Resort properties.",
+      "why_interesting": "Using the hotel industry's own internal property-tier taxonomy (Select Service, Preferred Service, Full Service, Resort) rather than generic SMB/enterprise language signals genuine sector fluency. Most IT consultants don't know \u2014 or use \u2014 these distinctions. It's a small but telling signal of deep vertical specialization.",
+      "level": "company",
+      "source_url": "https://advhtech.com/technology-consulting-for-hospitality/",
+      "as_of_date_if_known": "November 2025",
+      "recency_note": "Page last noted November 2025; confirmed live July 2026",
+      "sensitivity": "none"
+    },
+    {
+      "item": "We recommend solutions based purely on what's best for your business \u2014 not based on vendor partnerships or commissions.",
+      "why_interesting": "An explicit, public claim of commission-free, vendor-agnostic recommendations is notable because they also operate a hardware resale shop (shop.advhtech.com) selling Dell, Microsoft Surface, and other gear. The combination \u2014 'we don't take commissions' alongside a procurement/resale arm \u2014 creates a genuine tension worth asking about.",
+      "level": "company",
+      "source_url": "https://advhtech.com/technology-consulting-for-hospitality/",
+      "as_of_date_if_known": "November 2025",
+      "recency_note": "Live page copy",
+      "sensitivity": "mild \u2014 the hardware shop creates an apparent contradiction with the vendor-agnostic claim; raise gently"
+    }
+  ]
+}
