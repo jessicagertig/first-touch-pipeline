@@ -1,0 +1,61 @@
+{
+  "company": {
+    "website": "https://3rdspace.xyz",
+    "what_they_do": "3rd Space is a curated dinner and art exhibition series \u2014 and growing community \u2014 for young, creative leaders, primarily based in New York City. Each dinner (~30 guests) features a chef cooking the meal, a visual artist whose work decorates the space, a live musician, and an actor or speaker sharing their story. The brand also operates a careers page (careers.3rdspace.xyz) listing off-record roles from companies in its community, and a Substack newsletter (3rdspace3rdspace.substack.com) where Jake writes about notable people he meets and jobs worth pursuing. The long-term vision Jake has articulated is to build a next-generation membership club \u2014 a 'SoHo House for the next generation.'",
+    "raw_notes": [
+      "Homepage (3rdspace.xyz) shows a Careers section: curated roles from community companies, many off-record, with founder emails as application links. Signed '\u00a9 2026 3rd Space.'",
+      "Subdomain mail.3rdspace.xyz: 'We connect exceptional young people over dinner in NYC. Periodically sharing jobs, people, and events here.'",
+      "Subdomain careers.3rdspace.xyz: 'Roles from companies in the 3rd Space community.'",
+      "Substack (3rdspace3rdspace.substack.com): Jake writes about people worth watching, career-changing jobs, and dinner recaps. 'We host dinners and write about the people we meet.'",
+      "SponsorMyEvent listing: 3rd Space events described as dinner + art exhibition series; events held at notable NYC venues (Surrogate's Court mentioned). Combined 2M+ impressions per dinner claimed. Guests include Emmy and Oscar winners, emerging chefs, directors, photographers.",
+      "Third-party interview (caseyraeborella.com, ~2025): 'at just over a year old, 3rd Space has blossomed into something special.' Each dinner ~30 guests. Dozens of professional and personal connections have come out of events.",
+      "Gen-Zine article (January 2025): Conceptual inspiration drawn from 15th-century Florence / Medici family model of investing in artists. Name 'third space' refers to sociological concept of a communal gathering place beyond work and home.",
+      "Substack (May 2026 post): Jake is expanding into music management alongside 3rd Space dinners \u2014 in a 60-day trial as manager for a past 3rd Space music performer, partnering with Jon Schulder / Triptych.",
+      "Charges tickets for dinners; philosophy is that 'skin in the game' improves the ecosystem quality.",
+      "Instagram: @3rdspace.3rdspace"
+    ],
+    "source_urls": [
+      "https://3rdspace.xyz",
+      "https://mail.3rdspace.xyz",
+      "https://careers.3rdspace.xyz",
+      "https://3rdspace3rdspace.substack.com/about",
+      "https://3rdspace3rdspace.substack.com/p/may",
+      "https://www.sponsormyevent.com/3rd-space-new-york",
+      "https://www.caseyraeborella.com/interview",
+      "https://www.gen-zine.com/posts/beyond-boundaries-jake-sacks-visionary-impact-on-uscs-creative-landscape"
+    ]
+  },
+  "individual": {
+    "name": "Jake Sacks",
+    "role_if_found": "Founder",
+    "notes": [
+      "LinkedIn title: 'Founder @3rd Space' (linkedin.com/in/sacksjake).",
+      "USC alumnus (University of Southern California); started 3rd Space while still a student, initially hosting dinners for startup founders on campus with USC funding.",
+      "Founded USC's Founders Society \u2014 grew it into what he describes as the largest undergraduate founders society in the country, sponsored by the university and 5+ VC funds.",
+      "Was brought on as a partner at the largest student-run VC on the West Coast; quickly became Director of Events.",
+      "Past internships at Basic.Space, Ernst & Young, and a16z.",
+      "Hosted one of the most-cited LA Tech Week events in 2022.",
+      "Recently relocated from LA to New York City to scale 3rd Space in NYC.",
+      "Self-described as 'a host, a curator, and an enabler of visions'; obsessive about finding and connecting exceptional people before they become widely known.",
+      "Expanding into music management (May 2026 Substack post) as an adjacent venture alongside 3rd Space.",
+      "Long-term goal: build the 'next generational membership club' \u2014 essentially a reimagined SoHo House for young creatives.",
+      "Described by a peer Substack writer as being 'on another level.'"
+    ],
+    "source_urls": [
+      "https://www.linkedin.com/in/sacksjake",
+      "https://www.sponsormyevent.com/3rd-space-new-york",
+      "https://www.caseyraeborella.com/interview",
+      "https://www.gen-zine.com/posts/beyond-boundaries-jake-sacks-visionary-impact-on-uscs-creative-landscape",
+      "https://3rdspace3rdspace.substack.com/about",
+      "https://3rdspace3rdspace.substack.com/p/may"
+    ]
+  },
+  "could_not_find": [
+    "3rdspace.xyz homepage is sparse (careers widget only visible in provided content); full product/about pages not publicly crawlable or rendered yet \u2014 site may be early-stage.",
+    "No LinkedIn profile body text retrievable (gated); role confirmed only from LinkedIn title snippet in search results.",
+    "Exact current number of dinners hosted in NYC not found.",
+    "No information on team members beyond Jake.",
+    "Membership/pricing model (if any beyond per-event tickets) not publicly documented.",
+    "Music management venture details are nascent (60-day trial as of May 2026) \u2014 outcome unknown."
+  ]
+}

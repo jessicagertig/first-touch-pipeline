@@ -1,0 +1,85 @@
+{
+  "candidates": [
+    {
+      "item": "We do not pay our guests and instead make it a shared space where you just ate with these people and now they get to show off their work and vision or whatever it looks like. The floor is theirs. Because once you pay a performer there is a hierarchy.",
+      "why_interesting": "Deliberately refusing to pay performers is a principled structural choice \u2014 not a budget constraint \u2014 to flatten hierarchy between dinner guests and artists. Most salon-style events either pay talent or treat them as vendors; Jake bakes peer equality into the format by design. The reasoning ('once you pay a performer there is a hierarchy') is blunt and philosophically specific.",
+      "level": "company",
+      "source_url": "https://www.gen-zine.com/posts/beyond-boundaries-jake-sacks-visionary-impact-on-uscs-creative-landscape",
+      "as_of_date_if_known": "January 22, 2025",
+      "recency_note": "Stated at founding; model appears unchanged as of 2026 based on all subsequent coverage.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "I want my value proposition to be rebuilding a community, leaning into the Medici effect idea of bringing together the right people and seeing what magic can come of it.",
+      "why_interesting": "The explicit Medici/Florence intellectual frame \u2014 not just vague 'community building' \u2014 is a concrete and unusual conceptual anchor for a dinner series. It signals that the curation philosophy is historically grounded and intentional, not just aesthetic. Surprising for something that looks like an events brand on the surface.",
+      "level": "company",
+      "source_url": "https://www.gen-zine.com/posts/beyond-boundaries-jake-sacks-visionary-impact-on-uscs-creative-landscape",
+      "as_of_date_if_known": "January 22, 2025",
+      "recency_note": "Stated in founding-era interview; consistent with all other positioning.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Essentially, recreate SoHo House for the next generation, especially given the fact that SoHo House stopped accepting applications. There is a whole new market building up.",
+      "why_interesting": "Jake isn't just aping SoHo House \u2014 he's explicitly timing the play around SoHo House's closed waitlist as a market gap. That's a pointed competitive thesis stated plainly, not a vague aspiration. Rare for an early-stage founder to name the incumbent and the vacancy in the same breath.",
+      "level": "individual",
+      "source_url": "https://www.gen-zine.com/posts/beyond-boundaries-jake-sacks-visionary-impact-on-uscs-creative-landscape",
+      "as_of_date_if_known": "January 22, 2025",
+      "recency_note": "SoHo House's membership status may have changed since Jan 2025; the thesis itself is still what Jake has publicly staked.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "I was fortunate enough to get funding from USC to host dinners for startup founders on campus, and then that project kind of blossomed into a passion of mine where I was like, what if I put a brand on top of this?",
+      "why_interesting": "3rd Space didn't start as a clever brand concept \u2014 it started as a funded experiment Jake ran on his university's dime before he decided it was worth branding. That origin is genuinely scrappy and specific: a student who convinced a university to pay for his dinner series, then productized the proof of concept.",
+      "level": "individual",
+      "source_url": "https://www.caseyraeborella.com/interview",
+      "as_of_date_if_known": "~2025",
+      "recency_note": "Origin story, unlikely to change.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Sacks started this club and fully headed the work that went into making it the nation's largest undergraduate founder's society that is sponsored by the university and 5+ venture capitalist funds.",
+      "why_interesting": "Before 3rd Space, Jake built USC's Founders Society from zero into what he claims is the largest undergraduate founders society in the country \u2014 sponsored by both the university and 5+ VC funds. That's an unusually high bar for a student org and shows the dinner series is not his first proof of community-building at scale.",
+      "level": "individual",
+      "source_url": "https://www.gen-zine.com/posts/beyond-boundaries-jake-sacks-visionary-impact-on-uscs-creative-landscape",
+      "as_of_date_if_known": "January 22, 2025",
+      "recency_note": "Historical claim about USC tenure; independently corroborated on SponsorMyEvent profile.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Each dinner has a combined 2M+ impressions.",
+      "why_interesting": "For a ~30-person dinner, claiming 2M+ combined impressions per event is a striking ratio. It implies the guest list is deliberately stacked with high-reach creators, not just 'interesting' people \u2014 the social surface area is engineered, not incidental. Makes the intimacy/reach contrast concrete and surprising.",
+      "level": "company",
+      "source_url": "https://www.sponsormyevent.com/3rd-space-new-york",
+      "as_of_date_if_known": "unknown (SponsorMyEvent listing, likely 2024\u20132025)",
+      "recency_note": "Self-reported figure on a sponsor pitch page; not independently verified. Flag as claimed, not audited.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "I left the building and went door to door to apartments and restaurants asking we could take over their kitchen, and in 15 minutes, we were telling the chef to move all of her stuff to a new kitchen.",
+      "why_interesting": "This is a vivid, specific story \u2014 the kitchen broke mid-dinner and Jake literally knocked on strangers' doors to find a replacement. It's a natural, humanizing anecdote that reveals operational grit and the lengths he goes to for guests, more useful than any positioning statement.",
+      "level": "individual",
+      "source_url": "https://www.caseyraeborella.com/interview",
+      "as_of_date_if_known": "~2025",
+      "recency_note": "Anecdote about a specific past dinner event.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "My friend Jake Sacks is on another level and I don't say that often.",
+      "why_interesting": "Third-party peer endorsement from a fellow Substack writer, volunteered without prompting. Short, specific, and credible \u2014 the 'I don't say that often' qualifier makes it land differently than a generic compliment.",
+      "level": "individual",
+      "source_url": "https://substack.com/home/post/p-157985337",
+      "as_of_date_if_known": "unknown (Substack post, ~2025\u20132026)",
+      "recency_note": "Recent enough to be current; exact date not retrievable.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Careers subdomain (careers.3rdspace.xyz) listing 'Roles from companies in the 3rd Space community' \u2014 many off-record, with founder emails as application links.",
+      "why_interesting": "Embedding a curated, off-record job board into a dinner-series brand is genuinely unusual. Most event communities don't turn their guest network into a hidden talent marketplace. The 'off-record' framing means these roles aren't posted publicly elsewhere \u2014 access is a membership perk of being in the community.",
+      "level": "company",
+      "source_url": "https://careers.3rdspace.xyz",
+      "as_of_date_if_known": "2026 (live site)",
+      "recency_note": "Live subdomain as of research date.",
+      "sensitivity": "none"
+    }
+  ]
+}

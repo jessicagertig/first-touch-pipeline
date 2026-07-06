@@ -1,0 +1,82 @@
+{
+  "lead_id": "3rd-space",
+  "company_name": "3rd Space",
+  "recipient_name": "Jake Sacks",
+  "email": "jake@3rdspace.xyz",
+  "variations": [
+    {
+      "variant_n": 1,
+      "compliment": "3rd Space looks like a fascinating project — I love the philosophy of not paying your performing guests so there's no hierarchy and the floor is genuinely theirs.",
+      "email": "Hello Jake,\n\nThanks for checking out Polymer! 3rd Space looks like a fascinating project — I love the philosophy of not paying your performing guests so there's no hierarchy and the floor is genuinely theirs.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.gen-zine.com/posts/beyond-boundaries-jake-sacks-visionary-impact-on-uscs-creative-landscape"
+      ],
+      "score": 9,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1783372750.284789",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 2,
+      "compliment": "3rd Space seems like a really thoughtful venture — I love that you don't pay your performing guests, so the floor is truly theirs and no hierarchy creeps in.",
+      "email": "Hello Jake,\n\nThanks for checking out Polymer! 3rd Space seems like a really thoughtful venture — I love that you don't pay your performing guests, so the floor is truly theirs and no hierarchy creeps in.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.gen-zine.com/posts/beyond-boundaries-jake-sacks-visionary-impact-on-uscs-creative-landscape"
+      ],
+      "score": 8,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1783372750.383719",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 3,
+      "compliment": "3rd Space looks like a great company - I love the philosophy of not paying performing guests so the floor is truly theirs, letting the work speak for itself.",
+      "email": "Hello Jake,\n\nThanks for checking out Polymer! 3rd Space looks like a great company - I love the philosophy of not paying performing guests so the floor is truly theirs, letting the work speak for itself.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.gen-zine.com/posts/beyond-boundaries-jake-sacks-visionary-impact-on-uscs-creative-landscape"
+      ],
+      "score": 9,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1783372750.561629",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 4,
+      "compliment": "3rd Space looks like a fascinating concept - I love the idea of not paying performing guests so there's no hierarchy, letting people share a meal and then have the floor be theirs.",
+      "email": "Hello Jake,\n\nThanks for checking out Polymer! 3rd Space looks like a fascinating concept - I love the idea of not paying performing guests so there's no hierarchy, letting people share a meal and then have the floor be theirs.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.gen-zine.com/posts/beyond-boundaries-jake-sacks-visionary-impact-on-uscs-creative-landscape"
+      ],
+      "score": 8,
+      "tells": [
+        "letting people share a meal and then have the floor be theirs — this trailing clause over-explains what was already said about no hierarchy"
+      ],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1783372750.684829",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 5,
+      "compliment": "3rd Space looks like a fascinating community - I love the Medici-inspired idea of bringing the right people into the same room and seeing what magic comes of it.",
+      "email": "Hello Jake,\n\nThanks for checking out Polymer! 3rd Space looks like a fascinating community - I love the Medici-inspired idea of bringing the right people into the same room and seeing what magic comes of it.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.gen-zine.com/posts/beyond-boundaries-jake-sacks-visionary-impact-on-uscs-creative-landscape"
+      ],
+      "score": 8,
+      "tells": [
+        "seeing what magic comes of it"
+      ],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1783372750.802869",
+      "slack_channel": "C0B87Q5UEL9"
+    }
+  ]
+}
