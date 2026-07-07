@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://natanitsolutions.com",
-    "what_they_do": "Unknown. The website is a brand-new, unconfigured WordPress installation with no real content \u2014 it only contains the default WordPress placeholder post ('Hello world! Welcome to WordPress. This is your first post.'). No products, services, team, or mission have been published yet.",
-    "raw_notes": "The homepage at natanitsolutions.com contains exclusively WordPress default/placeholder content and Lorem Ipsum-style filler text. There is zero first-party content describing what the company does, who they serve, or what they offer. No 'About', 'Services', or 'Team' pages were accessible or referenced. The domain name 'Natan IT Solutions' suggests an IT services or solutions company, but this is only an inference from the name \u2014 not supported by any published content. Web searches returned no results specific to natanitsolutions.com or 'Natan IT Solutions' as a distinct entity; all results were unrelated similarly-named companies (NAT IT Solutions, NAN IT Solutions, etc.).",
+    "what_they_do": "Unknown. The website is a brand-new, unconfigured WordPress installation showing only default placeholder content ('Hello world! Welcome to WordPress. This is your first post.'). No real business description, services, products, or about page exist yet.",
+    "raw_notes": "The homepage at natanitsolutions.com contains exclusively WordPress default boilerplate text and Lorem Ipsum-style filler copy. There is no actual content describing what Natan IT Solutions does, who they serve, what services or products they offer, or where they operate. The site has not been set up beyond the initial WordPress installation. The org name 'Natan IT Solutions' suggests an IT services or solutions business by name alone, but this cannot be confirmed from the website. Web searches for 'natanitsolutions.com' and 'Natan IT Solutions' returned no matching results for this specific company \u2014 all results were unrelated similarly named companies (NAT IT Solutions, NAN IT Solutions, A-NAT Solutions, etc.). No third-party profiles, press coverage, LinkedIn company page, or any other external reference to this specific entity was found.",
     "source_urls": [
       "https://natanitsolutions.com"
     ]
@@ -10,15 +10,15 @@
   "individual": {
     "name": "Natan",
     "role_if_found": null,
-    "notes": "The signup email is hr@natanitsolutions.com, which suggests this person works in an HR or human resources function at the company \u2014 or the 'hr' prefix is simply a generic inbox alias. Only a first name ('Natan') was provided. No last name, LinkedIn profile, or other identifying information was found for this individual. The name 'Natan' may also be the eponymous founder (given the company name 'Natan IT Solutions'), but this is speculative and not supported by any source. No public profiles or mentions of a specific individual named Natan at this company were found.",
+    "notes": "The signup email is hr@natanitsolutions.com, which indicates the recipient works in an HR function at the company. The first name 'Natan' is provided, but no surname is available. No LinkedIn profile, personal bio, or any other findable information about this individual was discovered. The HR email prefix suggests this is likely an HR manager, HR director, or similar people-operations role \u2014 but this is inferred from the email address only, not from a confirmed source.",
     "source_urls": []
   },
   "could_not_find": [
-    "Any real company description, services, or offering \u2014 the website is an unconfigured WordPress default install with no published content.",
-    "Individual's last name, title, or any professional profile.",
-    "Whether 'Natan' is a founder, employee, or simply the company namesake.",
-    "Company location, size, founding date, or industry vertical.",
-    "Any press coverage, social media presence, or third-party mentions of natanitsolutions.com specifically.",
-    "Whether the 'hr@' email prefix indicates an HR role or is simply a general inbox."
+    "Any real business description or services from natanitsolutions.com \u2014 site is an unconfigured WordPress default.",
+    "No external web presence (LinkedIn company page, Crunchbase, news, directories) found for 'Natan IT Solutions' at natanitsolutions.com.",
+    "Recipient's last name and confirmed job title.",
+    "Company founding date, size, industry vertical, location, or target customers.",
+    "Whether the company is newly founded or simply has a new/unused website.",
+    "Any information usable as a credible, specific compliment or personalization hook."
   ]
 }
