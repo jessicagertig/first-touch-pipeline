@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://natanitsolutions.com",
-    "what_they_do": "Unknown. The website is a brand-new, unconfigured WordPress installation showing only default placeholder content ('Hello world! Welcome to WordPress. This is your first post.'). No real business description, services, products, or team information is present on the site.",
-    "raw_notes": "The homepage at natanitsolutions.com contains exclusively WordPress default/boilerplate content and Lorem Ipsum-style filler text. There is no indication of what the company actually does, what industry it operates in, what products or services it offers, or where it is located. The org name 'Natan IT Solutions' suggests an IT services orientation, but this cannot be confirmed from the website itself. Web searches for 'natanitsolutions.com' and 'Natan IT Solutions' returned no matching results \u2014 only unrelated companies with similar names (NAT IT Solutions, NAN IT Solutions, NAT solutions, etc.). None of these are the same entity as natanitsolutions.com and should not be conflated.",
+    "what_they_do": "Unknown. The website is a brand-new, unconfigured WordPress installation. All content on the page is default WordPress placeholder text ('Hello world!', 'Welcome to WordPress. This is your first post.') and generic Lorem Ipsum-style filler copy. There is no real description of services, products, or industry.",
+    "raw_notes": "The domain natanitsolutions.com resolves to a freshly installed WordPress site that has not been configured or populated with any real content. The homepage contains only the default WordPress 'Hello world!' post and boilerplate Lorem Ipsum text \u2014 no company description, no services listed, no team info, no location, no industry signals. Web searches for 'Natan IT Solutions' and 'natanitsolutions.com' returned no matching results. Several similarly named but unrelated companies appeared (NAT IT Solutions, NAN IT Solutions, Nahum Natan Technology Solutions, etc.) \u2014 none of these are verifiably the same entity as this signup. The email address is hr@natanitsolutions.com, suggesting the sender may be in an HR or administrative role, but this is speculative.",
     "source_urls": [
       "https://natanitsolutions.com"
     ]
@@ -10,14 +10,16 @@
   "individual": {
     "name": "Natan",
     "role_if_found": null,
-    "notes": "Only the first name 'Natan' is available from the signup data. The email address used is hr@natanitsolutions.com, which suggests this person may work in an HR or human resources capacity at the company \u2014 but this is an inference from the email prefix only, not confirmed by any external source. No LinkedIn profile, public bio, or any other findable information about this specific individual at natanitsolutions.com was found in web searches.",
+    "notes": "Only the first name 'Natan' is provided. The email prefix is 'hr', which may indicate this person works in Human Resources or is an HR contact, but this cannot be confirmed. No LinkedIn profile, biography, or any other individual-level information was found for a 'Natan' associated with natanitsolutions.com. The name 'Natan' could also be the company's namesake/founder given the org name is 'Natan IT Solutions', but this is purely speculative.",
     "source_urls": []
   },
   "could_not_find": [
-    "Company's actual business description, industry, or services \u2014 website is an unconfigured WordPress default install with no real content.",
-    "Company location, size, founding date, or any other firmographic data.",
-    "Individual's last name, confirmed job title, or any public professional profile.",
-    "Any news, press mentions, or third-party references to Natan IT Solutions (natanitsolutions.com specifically).",
-    "No usable hook or compliment basis exists from first-party or third-party sources at this time."
+    "Any real company description, services, or industry \u2014 site is a default WordPress install with no real content",
+    "Company location, size, founding date, or business model",
+    "Individual recipient's full name, last name, or confirmed role",
+    "Any web presence or third-party mentions of natanitsolutions.com specifically",
+    "LinkedIn or other social profiles for the company or individual",
+    "Whether 'hr@' prefix means this is an HR person or simply a contact alias",
+    "No usable hook or compliment basis exists from available sources"
   ]
 }
