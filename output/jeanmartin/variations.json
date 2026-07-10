@@ -1,0 +1,82 @@
+{
+  "lead_id": "jeanmartin",
+  "company_name": "Jeanmartin",
+  "recipient_name": "Marimanickam Mani",
+  "email": "mari.mani@solarnyx.com",
+  "variations": [
+    {
+      "variant_n": 1,
+      "compliment": "Jeanmartin looks like a great company - the Property Smart Grid solution seems like a smart, modular way to monitor everything from electricity to water and HVAC across a whole portfolio.",
+      "email": "Hello Marimanickam,\n\nThanks for checking out Polymer! Jeanmartin looks like a great company - the Property Smart Grid solution seems like a smart, modular way to monitor everything from electricity to water and HVAC across a whole portfolio.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.jeanmartin.com/travel-hospitality"
+      ],
+      "score": 8,
+      "tells": [
+        "Property Smart Grid solution seems like a smart, modular way to monitor everything from electricity to water and HVAC across a whole portfolio - reads a bit like restating the product spec, though the 'smart, modular' framing is her own"
+      ],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1783710384.132979",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 2,
+      "compliment": "Jeanmartin looks like a great company - I love that you've grown the Property Smart Grid into a SaaS solution serving over twenty five utility customers around the world.",
+      "email": "Hello Marimanickam,\n\nThanks for checking out Polymer! Jeanmartin looks like a great company - I love that you've grown the Property Smart Grid into a SaaS solution serving over twenty five utility customers around the world.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.jeanmartin.com/"
+      ],
+      "score": 8,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1783710384.297989",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 3,
+      "compliment": "Jeanmartin looks like a great company - I like that the Property Smart Grid system is modular and web-based, so you can monitor everything from electricity and gas to water and HVAC in one place.",
+      "email": "Hello Marimanickam,\n\nThanks for checking out Polymer! Jeanmartin looks like a great company - I like that the Property Smart Grid system is modular and web-based, so you can monitor everything from electricity and gas to water and HVAC in one place.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.jeanmartin.com/travel-hospitality"
+      ],
+      "score": 8,
+      "tells": [
+        "so you can monitor everything from electricity and gas to water and HVAC in one place — this trailing clause reads a bit like feature-listing/spec-sheet paraphrase"
+      ],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1783710384.466959",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 4,
+      "compliment": "JMI looks like a great company - serving over twenty-five active utility customers around the world with your energy management systems is really impressive.",
+      "email": "Hello Marimanickam,\n\nThanks for checking out Polymer! JMI looks like a great company - serving over twenty-five active utility customers around the world with your energy management systems is really impressive.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.jeanmartin.com/"
+      ],
+      "score": 8,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1783710384.979859",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 5,
+      "compliment": "Jeanmartin looks like a great company - I'm impressed you're already serving over twenty five utility customers around the world.",
+      "email": "Hello Marimanickam,\n\nThanks for checking out Polymer! Jeanmartin looks like a great company - I'm impressed you're already serving over twenty five utility customers around the world.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.jeanmartin.com/"
+      ],
+      "score": 8,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1783710385.237119",
+      "slack_channel": "C0B87Q5UEL9"
+    }
+  ]
+}

@@ -1,25 +1,49 @@
 {
   "company": {
-    "website": null,
-    "what_they_do": "Cannot be determined. 'solarnyx.com' is not a real company domain. It is a known disposable/temporary email provider operated by temporarymail.com. No legitimate business website exists at this domain.",
-    "raw_notes": "solarnyx.com is flagged across multiple email verification services (UserCheck, verifymail.io, deviceandbrowserinfo.com) as a disposable/throwaway email domain operated by temporarymail.com. It has no A records (no real web server), is registered via Namecheap, and is listed alongside 26+ other throwaway domains from the same provider. The org_name supplied at signup is 'Jeanmartin', which does not correspond to any findable company associated with this domain. The name 'SolarNyx' as a brand appears only in unrelated personal social media accounts (an artist from the Philippines on X/Instagram). There is no real business entity named Solarnyx or Jeanmartin discoverable via this domain.",
+    "website": "https://www.jeanmartin.com",
+    "what_they_do": "Jean Martin Inc. (JMI) is a global, minority-owned IT services and consulting firm founded in 1997 and headquartered in New York City (Manhattan). It provides end-to-end technology solutions including software engineering, AI/ML, data analytics, cloud computing, SAP/Dynamics ERP implementation, Salesforce consulting, cybersecurity, financial research and analysis, product development, and business process outsourcing. It serves clients across energy, financial services, government, insurance, telecommunications, pharmaceutical, manufacturing, and retail sectors. JMI operates a hybrid onshore/offshore delivery model with offices in the US, India, Colombia, Japan, and other locations, and has over 2,000\u20132,500 employees globally.",
+    "raw_notes": [
+      "Founded 1997, HQ: 260 Madison Ave, Floor 8, New York, NY 10016.",
+      "Minority-owned business; co-founders Shawn Kumar (CEO) and Ravi Kumar (President).",
+      "4 key practice areas: (1) Technology Solutions, (2) Financial Research & Analysis, (3) Data & Analytics, (4) Product Development.",
+      "Services include: digital transformation, cloud migration, AI & ML, CRM (Salesforce Partner), ERP (SAP, Microsoft Dynamics/D365), IoT, blockchain, QA automation, cybersecurity, offshore application development, BPO, corporate training.",
+      "Over 500 clients served (managed services, SaaS & bespoke projects).",
+      "Offshore delivery centers in India, Philippines, Czech Republic, Serbia.",
+      "Announced appointment of Kaushik Paul as Chief Revenue Officer in March 2024.",
+      "Revenue estimate ~$79.5M (ZoomInfo / RocketReach, 2026 figure cited).",
+      "LinkedIn lists 201\u2013500 employees; other sources cite 2,000\u20132,500 globally.",
+      "JMI has an energy management / smart lighting SaaS product offered to utility customers worldwide.",
+      "Has a dedicated Salesforce practice (salesforce.jeanmartin.com) and a D365 practice (d365.jeanmartin.com).",
+      "Specialties listed on LinkedIn: IT services, CRM, Digital Marketing, Microsoft Dynamics, Mobile app development, Managed services, IT Infrastructure Management, ERP, CPQ, AI, IoT, Cloud, Blockchain, Salesforce, Data Analytics, Data Visualization."
+    ],
     "source_urls": [
-      "https://www.usercheck.com/domain/solarnyx.com",
-      "https://verifymail.io/domain/solarnyx.com",
-      "https://deviceandbrowserinfo.com/data/emails/disposable/details/solarnyx.com"
+      "https://www.jeanmartin.com/",
+      "https://www.jeanmartin.com/about-us",
+      "https://www.linkedin.com/company/jean-martin",
+      "https://www.zoominfo.com/c/jean-martin-inc/64407458",
+      "https://www.crunchbase.com/organization/jean-martin",
+      "https://tracxn.com/d/companies/jean-martin/",
+      "https://theorg.com/org/jean-martin"
     ]
   },
   "individual": {
-    "name": "Marimanickam",
-    "role_if_found": null,
-    "notes": "No findable individual named 'Marimanickam' associated with solarnyx.com or the org 'Jeanmartin'. The email alias 'mari.mani' is consistent with the first name. No LinkedIn profile, company bio, or any first-party source found linking this person to a real organization.",
-    "source_urls": []
+    "name": "Marimanickam M",
+    "role_if_found": "Software Developer at Jean Martin Inc.",
+    "notes": [
+      "Per The Org (theorg.com), Marimanickam M joined Jean Martin as a Software Developer in 2019 and is listed as currently employed there.",
+      "Prior experience: Internship Trainee at Vamsoft Technology (December 2017 \u2013 May 2018).",
+      "Education: Thiagarajar College of Engineering, attended 2015\u20132018.",
+      "Email alias 'mari.mani' is consistent with the name Marimanickam.",
+      "No founder/leadership/executive role found; appears to be an individual contributor software developer."
+    ],
+    "source_urls": [
+      "https://theorg.com/org/jean-martin/org-chart/marimanickam-m"
+    ]
   },
   "could_not_find": [
-    "No real company website exists at solarnyx.com \u2014 the domain is a confirmed disposable/throwaway email provider (temporarymail.com network), not a business.",
-    "No A/DNS records for solarnyx.com resolving to a company website.",
-    "Org name 'Jeanmartin' returns no matching company linked to this domain or individual.",
-    "No information found on the individual 'Marimanickam' in any professional or public context.",
-    "HIGH FRAUD RISK FLAG: solarnyx.com is widely flagged as a disposable email domain used for fake account registrations and potential abuse. This signup should be treated with significant skepticism."
+    "solarnyx.com does NOT appear to be a legitimate company website for Jean Martin or any real business. Multiple authoritative email-verification sources (verifymail.io, usercheck.com, deviceandbrowserinfo.com, abstractapi.com) consistently flag solarnyx.com as a DISPOSABLE / THROWAWAY email domain operated by temporarymail.com, registered via Namecheap with no A records (no real website). This is a significant red flag: the email domain does not match the stated org name 'Jeanmartin' and is not Jean Martin Inc.'s real domain (jeanmartin.com).",
+    "No public LinkedIn profile found specifically for 'Marimanickam' at Jean Martin to independently verify current role or seniority beyond The Org listing.",
+    "No personal website, publications, or other first-party content found for Marimanickam M.",
+    "It is unclear why a Jean Martin employee would sign up using a disposable email domain (solarnyx.com) rather than a @jeanmartin.com address. This mismatch should be flagged for review before outreach."
   ]
 }

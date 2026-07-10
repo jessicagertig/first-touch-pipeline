@@ -1,3 +1,49 @@
 {
-  "candidates": []
+  "candidates": [
+    {
+      "item": "JMI product engineering team delivered Network Analysis and Operations, Energy Management & Lighting Control systems as a turn-key solution from their development centres in USA and India. These are hosted by JMI and offered as a SaaS solution to over twenty five active utility customers around the World.",
+      "why_interesting": "An IT services/consulting firm that also owns and operates its own SaaS product \u2014 a smart energy-management and lighting-control platform actively serving 25+ utility customers globally \u2014 is genuinely unusual. Most IT services companies are pure services businesses with no proprietary hosted product at all, let alone one running live with paying utility clients worldwide.",
+      "level": "company",
+      "source_url": "https://www.jeanmartin.com/",
+      "as_of_date_if_known": "unknown (page current as of mid-2026 crawl)",
+      "recency_note": "Live on homepage; no date stamp, but phrased in present tense with active customer count cited",
+      "sensitivity": "none"
+    },
+    {
+      "item": "JMI Property Smart Grid\u2122 solution provides a modular energy management system complete with smart devices and web-based software to monitor property and portfolio electricity, gas & oil, water, and HVAC systems.",
+      "why_interesting": "Beyond the utility SaaS, JMI has a trademarked physical+software product ('Property Smart Grid\u2122') targeting hotels and commercial real estate \u2014 a branded IoT hardware+cloud offering from a firm that presents itself primarily as an IT services/consulting company. The trademark and the hotel-sector targeting (monitoring RevPAR impact of energy costs) is a very specific, non-generic product identity most IT consulting shops don't have.",
+      "level": "company",
+      "source_url": "https://www.jeanmartin.com/travel-hospitality",
+      "as_of_date_if_known": "unknown (page current as of mid-2026 crawl)",
+      "recency_note": "Live on their industry page; no explicit date",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Prior to starting JMI, Shawn was instrumental in implementing various Banking and Investment Banking products and solutions for organizations like Citigroup and Goldman Sachs.",
+      "why_interesting": "The co-founder/CEO came out of Goldman Sachs and Citigroup as an enterprise architect before building a minority-owned IT firm in 1997 \u2014 an unusual origin story that explains JMI's Financial Research & Analysis practice area (a full practice line rarely seen at a general IT services firm of this size).",
+      "level": "company",
+      "source_url": "https://www.jeanmartin.com/leadership",
+      "as_of_date_if_known": "unknown (leadership page; no date stamp)",
+      "recency_note": "Stable biographical fact; unlikely to change",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Jean Martin is an unfunded company based in New York City (United States), founded in 1997 by Shawn Kumar\u2026 Jean Martin has not raised any funding yet.",
+      "why_interesting": "A ~2,500-person global IT firm across the US, India, Colombia, Japan, UAE, UK, Australia, Singapore \u2014 with 500+ clients and an estimated ~$79M revenue \u2014 that has taken zero outside funding in nearly 30 years is genuinely striking. Bootstrapped to this scale is a real differentiator worth noting.",
+      "level": "company",
+      "source_url": "https://tracxn.com/d/companies/jean-martin/__xPjAVch-UhN-G751vuUuV7Ei0tyfz7DJxDNnF_LjWgg",
+      "as_of_date_if_known": "October 15, 2025",
+      "recency_note": "Tracxn page dated Oct 2025; Crunchbase also shows no funding rounds",
+      "sensitivity": "none"
+    },
+    {
+      "item": "NEW YORK, March 12, 2024 /PRNewswire/ -- Jean Martin Inc. (JMI), a global technology, research and analytics firm, announced the appointment of Kaushik Paul as Chief Revenue Officer, further strengthening its core leadership team. With a career spanning over 30 years in the Financial\u2026",
+      "why_interesting": "Hiring a dedicated CRO with 30+ years in financial services as recently as March 2024 signals an active growth push \u2014 concrete, recent, and a natural conversation hook about what commercial expansion looks like for the firm.",
+      "level": "company",
+      "source_url": "https://www.zoominfo.com/c/jean-martin-inc/64407458",
+      "as_of_date_if_known": "March 12, 2024",
+      "recency_note": "PR Newswire press release dated March 12, 2024 \u2014 roughly 16 months ago",
+      "sensitivity": "none"
+    }
+  ]
 }
