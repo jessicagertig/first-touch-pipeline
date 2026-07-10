@@ -1,0 +1,65 @@
+{
+  "company": {
+    "website": "https://testnhire.com",
+    "what_they_do": "TestnHire is an AI-powered, skill-based pre-employment talent assessment platform. It allows employers to create and assign online skill assessments to candidates before interviews, replacing resume-based screening with objective, data-driven evaluations. The platform offers a library of 400+ expert-built tests spanning programming, cognitive ability, language proficiency, situational judgment, and role-specific skills. Key features include: AI candidate matching (behavioral + technical alignment), AI-driven video interview setup, automated proctoring, bulk candidate invitations, AI-generated performance reports, and intelligent scoring to surface top candidates. It serves startups, enterprises, and hiring agencies. The company claims 300+ companies as customers and positions itself as a faster, fairer alternative to traditional hiring.",
+    "raw_notes": [
+      "Trusted by 300+ companies per homepage",
+      "400+ tests created by 50+ subject matter experts",
+      "Core product pillars: Comprehensive Test Library, AI Candidate Matching, AI Interview Setup, Proctoring Settings, AI-Powered Insights, AI Screening",
+      "Value props for employers: faster hiring, reduced mis-hires, lower overhead/turnover costs, affordable/pay-as-you-go pricing",
+      "Value props for candidates: skills-first evaluation, constructive feedback, fair/bias-free assessment",
+      "3-step workflow: Invite Candidates \u2192 Analyze Results \u2192 Hire",
+      "Competes directly with TestGorilla, Testlify, Codility, eSkill, Mettl, Harver, HireVue (per their own comparison pages)",
+      "Test categories include: programming (20+ languages), cognitive ability, language/linguistics, and custom role-specific tests",
+      "Bulk invite capability; real-time dashboard tracking",
+      "Proctoring described as 'automated, non-intrusive'",
+      "Claims to reduce mis-hires and hiring time",
+      "Headquartered in Jaipur, Rajasthan, India (per Crunchbase)",
+      "Parent company appears to be Drift Point Technologies (per Stackforce and LinkedIn profile of Ashish Jain)",
+      "Drift Point Technologies also has a separate product: W3 Speedster (a WordPress speed optimization plugin)",
+      "Blog active as of March 2026; YouTube presence confirmed (video from August 2025)",
+      "Listed on Capterra and Crunchbase; described as 'active' operating status",
+      "Capterra listing dated June 2026, confirming recent activity"
+    ],
+    "source_urls": [
+      "https://testnhire.com/",
+      "https://testnhire.com/why-testnhire",
+      "https://testnhire.com/built-for",
+      "https://testnhire.com/product-tour",
+      "https://www.crunchbase.com/organization/testnhire",
+      "https://www.capterra.com/p/10033470/TestnHire/",
+      "https://www.stackforce.co/talent/ashish-jain-business-development-executive-6a20996f5d68ff3d9b6d2453",
+      "https://featured.com/p/test-nhire"
+    ]
+  },
+  "individual": {
+    "name": "Ashish Jain",
+    "role_if_found": "Founder of TestnHire / affiliated with DriftPoint Technologies (likely Founder or senior executive). Listed as 'Founder' on Crunchbase. LinkedIn title shows 'DriftPoint Technologies'. A separate Stackforce profile lists him as 'Business Development Executive' at DriftPoint Technologies, though this may be an AI-inferred label rather than his actual title.",
+    "notes": [
+      "Full name: Ashish Jain (confirmed via Crunchbase listing of TestnHire founders)",
+      "Located in Jaipur, Rajasthan, India (LinkedIn profile)",
+      "Educated at Springfield School, Jaipur",
+      "Active on LinkedIn (profile: linkedin.com/in/ashish-jain-a4a5377b) with 500+ connections",
+      "LinkedIn posts are branded around TestnHire and hiring topics (hashtags: #TestnHire, #HiringSimplified, #SmartRecruiting, #SmarterHiring, #SkillsOverResumes)",
+      "Parent entity is DriftPoint Technologies \u2014 which operates both TestnHire (recruitment SaaS) and W3 Speedster (WordPress performance plugin)",
+      "Stackforce AI profile describes him as 'a SaaS expert focused on recruitment and web performance optimization'",
+      "No verifiable information found about prior employment or educational background beyond Springfield School, Jaipur",
+      "No funding rounds or investors found for TestnHire/DriftPoint Technologies on Crunchbase",
+      "NOTE: LinkedIn posts were not accessible directly; only metadata/titles were visible. Not used as hook basis."
+    ],
+    "source_urls": [
+      "https://www.crunchbase.com/organization/testnhire",
+      "https://www.linkedin.com/in/ashish-jain-a4a5377b/",
+      "https://www.stackforce.co/talent/ashish-jain-business-development-executive-6a20996f5d68ff3d9b6d2453"
+    ]
+  },
+  "could_not_find": [
+    "Ashish Jain's exact official title at TestnHire/DriftPoint Technologies \u2014 Crunchbase lists him as 'Founder'; LinkedIn header says 'DriftPoint Technologies' without a specific title visible without login; Stackforce AI-inferred label 'Business Development Executive' is unreliable as a primary source",
+    "Company founding year \u2014 not surfaced on homepage, Crunchbase, or Capterra",
+    "Funding status \u2014 no funding rounds found; appears to be bootstrapped",
+    "Exact headcount or team size",
+    "Ashish Jain's background before TestnHire/DriftPoint (no prior employer or work history findable beyond Springfield School)",
+    "Specific customer names or case studies with named companies",
+    "Pricing details (mentioned as 'multiple subscription options including pay as you go' but no specifics)"
+  ]
+}

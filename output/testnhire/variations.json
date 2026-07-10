@@ -1,0 +1,83 @@
+{
+  "lead_id": "testnhire",
+  "company_name": "testnhire",
+  "recipient_name": "Ashish Jain",
+  "email": "ashish@testnhire.com",
+  "variations": [
+    {
+      "variant_n": 1,
+      "compliment": "testnhire looks like a great platform - having 400+ tests built by 50+ subject matter experts is seriously impressive depth!",
+      "email": "Hello Ashish,\n\nThanks for checking out Polymer! testnhire looks like a great platform - having 400+ tests built by 50+ subject matter experts is seriously impressive depth!\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://testnhire.com/"
+      ],
+      "score": 8,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1783679192.879199",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 2,
+      "compliment": "testnhire looks like a smart solution - I love that the AI looks at both behavioral patterns and technical alignment to find hires who'll actually stick around long-term.",
+      "email": "Hello Ashish,\n\nThanks for checking out Polymer! testnhire looks like a smart solution - I love that the AI looks at both behavioral patterns and technical alignment to find hires who'll actually stick around long-term.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://testnhire.com/"
+      ],
+      "score": 8,
+      "tells": [
+        "who'll actually stick around long-term — slightly over-explains the retention angle already implied by 'find hires'"
+      ],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1783679193.087589",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 3,
+      "compliment": "testnhire looks great - offering over 400 tests all built by subject matter experts is really impressive.",
+      "email": "Hello Ashish,\n\nThanks for checking out Polymer! testnhire looks great - offering over 400 tests all built by subject matter experts is really impressive.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://testnhire.com/"
+      ],
+      "score": 9,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1783679193.414639",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 4,
+      "compliment": "testnhire looks like a great company - a library of over 400 tests all built by 50+ subject matter experts is really impressive.",
+      "email": "Hello Ashish,\n\nThanks for checking out Polymer! testnhire looks like a great company - a library of over 400 tests all built by 50+ subject matter experts is really impressive.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://testnhire.com/"
+      ],
+      "score": 9,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1783679193.680559",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 5,
+      "compliment": "testnhire looks great - and I see you're also behind W3Speedster over at Driftpoint Technologies, which is impressively versatile across WordPress, Magento, Laravel and more!",
+      "email": "Hello Ashish,\n\nThanks for checking out Polymer! testnhire looks great - and I see you're also behind W3Speedster over at Driftpoint Technologies, which is impressively versatile across WordPress, Magento, Laravel and more!\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://testnhire.com/",
+        "https://www.linkedin.com/company/w-3-speedup"
+      ],
+      "score": 8,
+      "tells": [
+        "listing tech stacks 'across WordPress, Magento, Laravel and more' reads slightly like reciting the marketing copy, though the HNR Tech example shows she does name stacks"
+      ],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1783679193.898549",
+      "slack_channel": "C0B87Q5UEL9"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "candidates": [
+    {
+      "item": "We offer over 400 tests, all created by 50+ subject matter experts.",
+      "why_interesting": "The specific ratio of 400+ tests to 50+ named experts is a concrete, verifiable production claim \u2014 not just 'big library.' It signals a curation model rather than crowd-sourced or AI-generated tests, which is a pointed differentiation against competitors who lean on volume (Testlify claims 3,500+, eSkill 600+). Calling out the expert count gives the library a human provenance angle worth poking at.",
+      "level": "company",
+      "source_url": "https://testnhire.com/",
+      "as_of_date_if_known": "2026",
+      "recency_note": "Confirmed live on homepage as of July 2026 search.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Our AI evaluates behavioral patterns and technical alignment to ensure your next hire is a long-term success.",
+      "why_interesting": "Most assessment platforms stop at technical scoring; explicitly bundling behavioral pattern analysis into the candidate-matching engine \u2014 and framing it as a long-term retention play rather than a pass/fail screen \u2014 is a specific product stance worth asking about. The mechanism behind 'behavioral patterns' (how it actually works vs. just claims it does) is a natural conversation starter.",
+      "level": "company",
+      "source_url": "https://testnhire.com/",
+      "as_of_date_if_known": "2026",
+      "recency_note": "Confirmed live on homepage as of July 2026 search.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Protect your brand with automated, non-intrusive proctoring that ensures honest results while respecting the candidate's experience.",
+      "why_interesting": "Proctoring is a genuine tension point in the industry \u2014 most platforms are criticised for invasive webcam surveillance. TestnHire explicitly positions theirs as 'non-intrusive' and frames it as a brand-protection feature for the employer, not just a cheat-prevention tool. That dual framing (protect brand + respect candidate) is a differentiated stance in a space where proctoring is a known candidate experience complaint.",
+      "level": "company",
+      "source_url": "https://testnhire.com/",
+      "as_of_date_if_known": "2026",
+      "recency_note": "Confirmed live on homepage as of July 2026 search.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Send thousands of invites and let intelligent scoring surface your top 1% instantly.",
+      "why_interesting": "The 'top 1%' framing is unusually bold and specific for a product claim \u2014 most competitors say 'top candidates' or 'best fits.' Claiming to isolate the top 1% from a bulk invite implies a scoring precision and ranking confidence that is either genuinely distinctive (worth exploring) or aggressive marketing (worth pushing back on). Either way it's a concrete hook.",
+      "level": "company",
+      "source_url": "https://testnhire.com/",
+      "as_of_date_if_known": "2026",
+      "recency_note": "Confirmed live on homepage as of July 2026 search.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Through TestnHire, we enable companies to cut through resume clutter, focus on real skills, and hire 70% faster while reducing bad hires by 60%.",
+      "why_interesting": "Dual quantified outcome claims (70% faster hiring + 60% fewer bad hires) are specific enough to be either substantiated or challenged. Unlike vague 'faster hiring' language, these figures invite a natural follow-up: what's the evidence base? That makes it a genuine conversation starter rather than generic positioning.",
+      "level": "company",
+      "source_url": "https://www.stackforce.co/talent/ashish-jain-business-development-executive-6a20996f5d68ff3d9b6d2453",
+      "as_of_date_if_known": "unknown",
+      "recency_note": "Sourced from Ashish Jain's Stackforce profile; likely Ashish's own LinkedIn bio text mirrored by Stackforce AI. Not an independently verified claim.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Drift Point Technologies also operates W3 Speedster \u2014 a website speed optimization plugin for WordPress, Magento, Laravel, and more \u2014 as a completely separate product line from TestnHire.",
+      "why_interesting": "It's genuinely surprising that the parent company behind a hiring-tech SaaS also builds and maintains a web performance plugin spanning multiple CMS platforms. This dual-product structure (HR tech + web perf) from a ~33-person bootstrapped team in Jaipur is an unusual strategic footprint. It suggests the founder is either a serial product builder or is resource-stretching across two unrelated markets \u2014 both are interesting angles.",
+      "level": "individual",
+      "source_url": "https://www.stackforce.co/talent/ashish-jain-business-development-executive-6a20996f5d68ff3d9b6d2453",
+      "as_of_date_if_known": "2026",
+      "recency_note": "W3Speedster site confirmed live July 2026; DriftPoint headcount (~33) from SignalHire, an inferred estimate.",
+      "sensitivity": "none"
+    }
+  ]
+}
