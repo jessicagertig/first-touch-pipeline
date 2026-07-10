@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://natanitsolutions.com",
-    "what_they_do": "Unknown. The website exists but contains only default WordPress placeholder content ('Hello world! Welcome to WordPress. This is your first post.') with no real business information, product descriptions, or services listed.",
-    "raw_notes": "The domain natanitsolutions.com resolves to a live WordPress installation, but the site has not been configured or populated with any real content. All text on the page is default WordPress boilerplate and Lorem Ipsum filler. No services, team, pricing, about page, or any company-specific information is present. Web searches for 'Natan IT Solutions' and 'natanitsolutions.com' returned no matching results \u2014 all search results refer to unrelated companies with similar-sounding names (natitsolutions.com, natitsolution.com, nat-solutions.com, etc.). None of these can be attributed to this signup. The org_name 'Natan IT Solutions' suggests an IT services or consulting business, but this is only an inference from the name \u2014 no primary source confirms it.",
+    "what_they_do": "Unknown. The website contains only default WordPress placeholder content ('Hello world!', 'This is your first post.') with no real business information, product descriptions, or service details published yet.",
+    "raw_notes": "Site appears to be a brand-new, unconfigured WordPress installation. No homepage copy, no about page, no services or products described, no team information, no value proposition, no industry vertical identifiable. Lorem ipsum-style filler text is present. The org name 'Natan IT Solutions' suggests an IT services or technology solutions company, but this is inference from the name only \u2014 not supported by any published content.",
     "source_urls": [
       "https://natanitsolutions.com"
     ]
@@ -10,14 +10,16 @@
   "individual": {
     "name": "Natan",
     "role_if_found": null,
-    "notes": "The signup email is hr@natanitsolutions.com, which suggests this person may work in an HR or human resources function at the company, or the 'hr' prefix could reflect something else (e.g., initials, a subdomain convention). The first name 'Natan' is provided but no last name was given. No individual named 'Natan' at 'Natan IT Solutions' could be found in web search results. The email prefix 'hr' could also indicate this is a shared HR inbox rather than a personal address, making it uncertain whether 'Natan' is the actual user of this inbox.",
+    "notes": "First name is Natan. Email address is hr@natanitsolutions.com \u2014 the 'hr' prefix suggests this person may work in a Human Resources capacity (e.g., HR Manager, HR Director, or HR generalist) rather than being a founder or technical lead, though this is inference from the email prefix only. No publicly verifiable profile, LinkedIn, or bio was found. Last name unknown.",
     "source_urls": []
   },
   "could_not_find": [
-    "No real company content exists at natanitsolutions.com \u2014 site is an unconfigured WordPress install with only placeholder text.",
-    "No web search results confirm the existence, location, services, industry, or size of 'Natan IT Solutions'.",
-    "No information found on the individual recipient 'Natan' \u2014 no last name, job title, LinkedIn profile, or other public presence identified.",
-    "It is unclear whether the 'hr@' email prefix denotes a personal address or a shared HR department inbox.",
-    "Cannot determine company industry, geography, funding stage, team size, or any other firmographic details."
+    "Company's actual products or services \u2014 website is an unconfigured WordPress default install with no real content.",
+    "Company's industry vertical, target market, or customer type.",
+    "Company founding date, size, or location.",
+    "Natan's last name, full title, or any biographical information.",
+    "Natan's confirmed role \u2014 'hr@' prefix is suggestive but not conclusive.",
+    "Any news, press mentions, or third-party references to Natan IT Solutions.",
+    "No usable first-party or third-party hook available at this time."
   ]
 }
