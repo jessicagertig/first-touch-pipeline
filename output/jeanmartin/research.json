@@ -1,0 +1,25 @@
+{
+  "company": {
+    "website": null,
+    "what_they_do": "Cannot be determined. 'solarnyx.com' is not a real company domain. It is a known disposable/temporary email provider operated by temporarymail.com. No legitimate business website exists at this domain.",
+    "raw_notes": "solarnyx.com is flagged across multiple email verification services (UserCheck, verifymail.io, deviceandbrowserinfo.com) as a disposable/throwaway email domain operated by temporarymail.com. It has no A records (no real web server), is registered via Namecheap, and is listed alongside 26+ other throwaway domains from the same provider. The org_name supplied at signup is 'Jeanmartin', which does not correspond to any findable company associated with this domain. The name 'SolarNyx' as a brand appears only in unrelated personal social media accounts (an artist from the Philippines on X/Instagram). There is no real business entity named Solarnyx or Jeanmartin discoverable via this domain.",
+    "source_urls": [
+      "https://www.usercheck.com/domain/solarnyx.com",
+      "https://verifymail.io/domain/solarnyx.com",
+      "https://deviceandbrowserinfo.com/data/emails/disposable/details/solarnyx.com"
+    ]
+  },
+  "individual": {
+    "name": "Marimanickam",
+    "role_if_found": null,
+    "notes": "No findable individual named 'Marimanickam' associated with solarnyx.com or the org 'Jeanmartin'. The email alias 'mari.mani' is consistent with the first name. No LinkedIn profile, company bio, or any first-party source found linking this person to a real organization.",
+    "source_urls": []
+  },
+  "could_not_find": [
+    "No real company website exists at solarnyx.com \u2014 the domain is a confirmed disposable/throwaway email provider (temporarymail.com network), not a business.",
+    "No A/DNS records for solarnyx.com resolving to a company website.",
+    "Org name 'Jeanmartin' returns no matching company linked to this domain or individual.",
+    "No information found on the individual 'Marimanickam' in any professional or public context.",
+    "HIGH FRAUD RISK FLAG: solarnyx.com is widely flagged as a disposable email domain used for fake account registrations and potential abuse. This signup should be treated with significant skepticism."
+  ]
+}

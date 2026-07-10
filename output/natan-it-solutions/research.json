@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://natanitsolutions.com",
-    "what_they_do": "Unknown. The website contains only default WordPress placeholder content ('Hello world!', 'This is your first post.') with no real business information, product descriptions, or service details published yet.",
-    "raw_notes": "Site appears to be a brand-new, unconfigured WordPress installation. No homepage copy, no about page, no services or products described, no team information, no value proposition, no industry vertical identifiable. Lorem ipsum-style filler text is present. The org name 'Natan IT Solutions' suggests an IT services or technology solutions company, but this is inference from the name only \u2014 not supported by any published content.",
+    "what_they_do": "Unknown. The website is a brand-new, unconfigured WordPress installation with only default placeholder content ('Hello world! Welcome to WordPress. This is your first post.'). No real business description, services, products, team, or any company-specific information is present.",
+    "raw_notes": "The homepage of natanitsolutions.com contains only WordPress default/demo content: the 'Hello world!' first post, Lorem Ipsum-style filler text, and no custom content whatsoever. This strongly indicates the site was very recently set up and has not yet been built out. No services, about page, team, clients, or mission statement are available. Web searches for 'Natan IT Solutions' and 'natanitsolutions.com' returned no matching results \u2014 all search hits were for unrelated companies with similar-sounding names (natitsolutions.com, natitsolution.com, nanitsolutions.com, etc.). None of those can be attributed to this company.",
     "source_urls": [
       "https://natanitsolutions.com"
     ]
@@ -10,16 +10,15 @@
   "individual": {
     "name": "Natan",
     "role_if_found": null,
-    "notes": "First name is Natan. Email address is hr@natanitsolutions.com \u2014 the 'hr' prefix suggests this person may work in a Human Resources capacity (e.g., HR Manager, HR Director, or HR generalist) rather than being a founder or technical lead, though this is inference from the email prefix only. No publicly verifiable profile, LinkedIn, or bio was found. Last name unknown.",
+    "notes": "Only the first name 'Natan' is available from the signup data. The email address used is hr@natanitsolutions.com, which suggests this person may be associated with an HR function at the company \u2014 or the 'hr' prefix may simply reflect how the email account is labeled. No LinkedIn profile, founder bio, or any other public information about an individual named 'Natan' at this specific company could be found. The name 'Natan' itself may also be the company's namesake (the org is called 'Natan IT Solutions'), suggesting a possible founder, but this cannot be confirmed from any source.",
     "source_urls": []
   },
   "could_not_find": [
-    "Company's actual products or services \u2014 website is an unconfigured WordPress default install with no real content.",
-    "Company's industry vertical, target market, or customer type.",
-    "Company founding date, size, or location.",
-    "Natan's last name, full title, or any biographical information.",
-    "Natan's confirmed role \u2014 'hr@' prefix is suggestive but not conclusive.",
-    "Any news, press mentions, or third-party references to Natan IT Solutions.",
-    "No usable first-party or third-party hook available at this time."
+    "Any real business description, services, or industry vertical for Natan IT Solutions \u2014 the website is an unconfigured WordPress default install with no custom content.",
+    "The individual recipient's last name, full role/title, or any public profile.",
+    "Whether 'hr@' indicates an HR department role or is simply an email alias.",
+    "Any news, press coverage, social media presence, or third-party mentions of natanitsolutions.com specifically.",
+    "Company size, founding date, location, or target market.",
+    "Whether 'Natan' in the company name refers to the individual recipient or is unrelated."
   ]
 }
