@@ -1,15 +1,8 @@
 {
   "company": {
     "website": "https://natanitsolutions.com",
-    "what_they_do": "Unknown. The website is a brand-new, unconfigured WordPress installation showing only the default 'Hello world!' placeholder post and Lorem Ipsum filler text. No actual products, services, team, or business description have been published yet.",
-    "raw_notes": [
-      "The homepage content provided directly from natanitsolutions.com consists entirely of WordPress default/placeholder content: 'Hello world!', 'Welcome to WordPress. This is your first post. Edit or delete it, then start writing!', and generic Lorem Ipsum-style filler text.",
-      "No About page, no services page, no team information, no pricing, no industry signals \u2014 nothing substantive is published.",
-      "The org_name 'Natan IT Solutions' suggests an IT services or technology solutions company by naming convention, but this is inference only \u2014 not supported by any published content.",
-      "Web searches for 'natanitsolutions.com' and 'Natan IT Solutions' returned no matching results. All search results were for unrelated companies with similar-sounding names (NAT IT Solutions, NAN IT Solutions, NATS Solutions, A-NAT Solutions, etc.) \u2014 none of which match the domain natanitsolutions.com or the signup entity.",
-      "Domain appears to be newly registered and not yet indexed by search engines.",
-      "Email address used is hr@natanitsolutions.com \u2014 the 'hr' prefix suggests the sender may be in a Human Resources role, or it is a departmental/catch-all address."
-    ],
+    "what_they_do": "Unknown. The website contains only default WordPress placeholder content ('Hello world!', 'This is your first post.') with no real company information, product descriptions, or service details published yet.",
+    "raw_notes": "The site is a freshly installed WordPress instance with zero real content. No homepage copy, no about page, no services listed, no team info, no branding beyond the domain name. The domain name 'Natan IT Solutions' suggests an IT services or technology solutions company, but this is inference from the name only \u2014 not supported by any published content. Filler lorem ipsum-style text is present but is auto-generated placeholder copy, not authored content.",
     "source_urls": [
       "https://natanitsolutions.com"
     ]
@@ -17,20 +10,15 @@
   "individual": {
     "name": "Natan",
     "role_if_found": null,
-    "notes": [
-      "First name only: 'Natan'. No last name provided in the signup data.",
-      "Email prefix is 'hr', which may indicate an HR role (e.g., HR Manager, HR Director, Head of People) \u2014 but this is not confirmed. It could equally be a generic departmental inbox.",
-      "No LinkedIn profile, personal website, or any other findable information for an individual named 'Natan' at 'Natan IT Solutions' or 'natanitsolutions.com' was found via web search.",
-      "Cannot confirm whether Natan is a founder, employee, or just the person who set up the email account."
-    ],
+    "notes": "No individual profile information found. The signup email is hr@natanitsolutions.com, which suggests this person may work in an HR or people-operations capacity at the company \u2014 or the HR address is simply a general contact alias. The first name 'Natan' is provided at signup but no role, title, or biographical detail is available from any source.",
     "source_urls": []
   },
   "could_not_find": [
-    "Any real description of what Natan IT Solutions actually does \u2014 the website is a blank WordPress install.",
-    "The individual's last name, confirmed job title, or professional background.",
-    "Any web presence, press mentions, social media profiles, or third-party listings for natanitsolutions.com.",
-    "Whether 'hr@' reflects the recipient's actual role or is simply a departmental/catch-all address.",
-    "Company size, location, founding date, industry vertical, or target market.",
-    "Any first-party 'About', 'Services', or 'Team' page content \u2014 none has been published yet."
+    "What the company actually does \u2014 no real website content exists yet.",
+    "Natan's last name, title, or role.",
+    "Whether 'Natan' is the founder, an HR staffer, or another employee using the HR inbox.",
+    "Any third-party news, LinkedIn presence, or other public information about the company or individual.",
+    "Company size, location, founding date, or any other firmographic data.",
+    "Any products, services, clients, or differentiators."
   ]
 }
