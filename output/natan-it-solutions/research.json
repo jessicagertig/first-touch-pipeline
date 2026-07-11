@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://natanitsolutions.com",
-    "what_they_do": "Unknown. The website contains only WordPress default placeholder content ('Hello world!', 'This is your first post.') and Lorem Ipsum-style filler text. No actual business description, product, or service information is present.",
-    "raw_notes": "Site appears to be a brand-new, unconfigured WordPress installation. No homepage copy, no about page, no services listed, no product descriptions, no team information, no case studies, no branding beyond the domain name itself. The name 'Natan IT Solutions' suggests an IT services or technology solutions company, but this is an inference from the name only \u2014 nothing on the site confirms it.",
+    "what_they_do": "Cannot be determined. The website contains only a default WordPress placeholder ('Hello world!') with no real content, product descriptions, or service information.",
+    "raw_notes": "The homepage is an unmodified WordPress installation. All visible text is auto-generated placeholder content ('Hello world!', 'Welcome to WordPress. This is your first post.') and Lorem Ipsum-style filler text. No company description, no services, no team, no branding, no logo, no industry signals \u2014 nothing proprietary or real has been published yet.",
     "source_urls": [
       "https://natanitsolutions.com"
     ]
@@ -10,15 +10,16 @@
   "individual": {
     "name": "Natan",
     "role_if_found": null,
-    "notes": "Email address is hr@natanitsolutions.com, suggesting this person works in or manages an HR function at the company. The first name 'Natan' matches the company name, which may indicate a founder or owner, but this is speculative. No individual profile, LinkedIn, or bio was found on the company website.",
+    "notes": "First name is 'Natan'. The email address used is hr@natanitsolutions.com, suggesting an HR function or HR-related role rather than a founder/technical role \u2014 but this is inference from the email prefix only, not a confirmed title. No individual profile, LinkedIn, or biographical information could be derived from the site (which has no team or about page).",
     "source_urls": []
   },
   "could_not_find": [
-    "What the company actually does \u2014 no real website content exists yet",
-    "Natan's last name, title, or role beyond the HR email prefix",
-    "Whether Natan is the founder/owner or an HR employee",
-    "Company size, industry vertical, target customers, or geography",
-    "Any news, press mentions, or third-party references to the company",
-    "Any social media profiles or public presence for the company or individual"
+    "What the company actually does \u2014 no services, products, or industry mentioned anywhere on the site.",
+    "Company founding story, mission, or value proposition.",
+    "Natan's last name, confirmed job title, or any biographical detail.",
+    "Team size, location, or client/market information.",
+    "Any news, press, or third-party references to the company.",
+    "Whether 'Natan' is the founder, an HR manager, or another role \u2014 only the 'hr@' email prefix exists as a weak signal.",
+    "The site appears brand-new and unbuilt; no indexable content exists beyond the default WordPress install."
   ]
 }
