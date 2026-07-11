@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://natanitsolutions.com",
-    "what_they_do": "Unknown. The website contains only a default WordPress placeholder ('Hello world!') with Lorem Ipsum-style filler text. No real product, service, or business description is present.",
-    "raw_notes": "The entire homepage is an unmodified WordPress installation: default 'Hello world!' post, generic Lorem Ipsum filler, no logo, no about page, no services listed, no team info, no contact details beyond the email used at signup. The site has not been configured or built out yet.",
+    "what_they_do": "Cannot be determined. The website contains only default WordPress placeholder content ('Hello world!', 'This is your first post.') and Lorem Ipsum-style filler text. No actual products, services, or company description are present.",
+    "raw_notes": "Site is a brand-new, unconfigured WordPress installation. No homepage copy, no about page, no services listed, no team page, no logo, no tagline beyond the default WordPress onboarding text. The domain name 'natanitsolutions.com' suggests an IT solutions/services company, but this is inference from the name only \u2014 not supported by any first-party content. The email prefix 'hr@' suggests the signee may work in a Human Resources capacity rather than being a founder or technical lead.",
     "source_urls": [
       "https://natanitsolutions.com"
     ]
@@ -10,16 +10,16 @@
   "individual": {
     "name": "Natan",
     "role_if_found": null,
-    "notes": "Email address is hr@natanitsolutions.com, suggesting an HR function or HR-related role at the company \u2014 possibly an HR manager, HR founder, or someone handling HR responsibilities. The 'hr' prefix could also indicate this is a generic departmental inbox rather than a named individual. No further identity or professional profile found. Last name unknown.",
+    "notes": "Only the first name 'Natan' is available. The email address used is hr@natanitsolutions.com, which suggests an HR function or role, but no confirmed title, LinkedIn profile, or other identifying information was found. It is unclear whether 'Natan' is the founder (whose name appears in the company name) or an HR employee at a company named after someone else.",
     "source_urls": []
   },
   "could_not_find": [
-    "What the company actually does \u2014 website is a blank WordPress install with no real content",
-    "Individual's last name or full identity",
-    "Natan's specific job title or seniority",
-    "Whether 'hr@' is a personal inbox or a shared departmental inbox",
-    "Company size, industry, founding date, or location",
-    "Any news, press coverage, or third-party mentions of Natan IT Solutions",
-    "LinkedIn or other social profiles for the individual or company"
+    "What the company actually does \u2014 no services, products, or mission statement on the website",
+    "Natan's last name, title, or role",
+    "Whether Natan is the founder or an HR staff member",
+    "Company size, industry vertical, target customers, or geography",
+    "Any news, press, or third-party mentions of Natan IT Solutions",
+    "Any social media profiles or LinkedIn presence for the company or individual",
+    "When the company was founded or how long it has been operating"
   ]
 }
