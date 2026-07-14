@@ -1,0 +1,82 @@
+{
+  "lead_id": "jeanmartin-294cc8f6-b4f8-41a4-a1d0-a1d55b17d68e",
+  "company_name": "Jeanmartin",
+  "recipient_name": "Mari Mani",
+  "email": "marimanickam.m@jeanmartin.com",
+  "variations": [
+    {
+      "variant_n": 1,
+      "compliment": "Jeanmartin looks like a great company - I like that your Property Smart Grid can help save energy and reduce costs by up to 40%.",
+      "email": "Hello Mari,\n\nThanks for checking out Polymer! Jeanmartin looks like a great company - I like that your Property Smart Grid can help save energy and reduce costs by up to 40%.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.jeanmartin.com/products"
+      ],
+      "score": 8,
+      "tells": [
+        "can help save energy and reduce costs by up to 40% — reads like a marketing stat lifted from their site"
+      ],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1784017095.610739",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 2,
+      "compliment": "Jeanmartin looks like a great company - it's impressive that your products and services now reach over 350 million daily users!",
+      "email": "Hello Mari,\n\nThanks for checking out Polymer! Jeanmartin looks like a great company - it's impressive that your products and services now reach over 350 million daily users!\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.prnewswire.com/news-releases/jean-martin-inc-appoints-kaushik-paul-as-chief-revenue-officer-302087178.html"
+      ],
+      "score": 8,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1784017095.862769",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 3,
+      "compliment": "Jeanmartin looks like a great company - over 350 million daily users of your products and services is an incredible reach!",
+      "email": "Hello Mari,\n\nThanks for checking out Polymer! Jeanmartin looks like a great company - over 350 million daily users of your products and services is an incredible reach!\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.prnewswire.com/news-releases/jean-martin-inc-appoints-kaushik-paul-as-chief-revenue-officer-302087178.html"
+      ],
+      "score": 8,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1784017096.118199",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 4,
+      "compliment": "Jeanmartin looks like a great company - the smart grid solution helping utility customers save energy and cut costs by up to 40% seems like really impactful work.",
+      "email": "Hello Mari,\n\nThanks for checking out Polymer! Jeanmartin looks like a great company - the smart grid solution helping utility customers save energy and cut costs by up to 40% seems like really impactful work.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.jeanmartin.com/products"
+      ],
+      "score": 9,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1784017096.370309",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 5,
+      "compliment": "Jeanmartin looks like a great company - it's impressive that your energy management platform is already running as a SaaS solution for over twenty-five utility customers around the world.",
+      "email": "Hello Mari,\n\nThanks for checking out Polymer! Jeanmartin looks like a great company - it's impressive that your energy management platform is already running as a SaaS solution for over twenty-five utility customers around the world.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.jeanmartin.com/"
+      ],
+      "score": 8,
+      "tells": [
+        "it's impressive that your energy management platform is already running as a SaaS solution for over twenty-five utility customers around the world"
+      ],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1784017096.619969",
+      "slack_channel": "C0B87Q5UEL9"
+    }
+  ]
+}

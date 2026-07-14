@@ -1,0 +1,55 @@
+{
+  "company": {
+    "website": "https://www.jeanmartin.com",
+    "what_they_do": "Jean Martin Inc. (JMI) is a global, minority-owned IT services and consulting firm headquartered in New York City (260 Madison Avenue, Manhattan). Founded in 1997, it provides end-to-end technology solutions to enterprise clients across financial services, energy, government, insurance, telecommunications, pharma, manufacturing, and retail. Core service pillars are: (1) Technology Solutions \u2014 software engineering, AI/ML, cloud migration, Salesforce, ServiceNow, SAP/Dynamics ERP, CRM, IoT, blockchain, cybersecurity, and mobile/web development; (2) Financial Research & Analysis \u2014 investment banking support, PE/VC research, risk, asset management; (3) Data & Analytics \u2014 data engineering, data science, BI, visualization; (4) Product Development \u2014 Agile dev/ops, QA, testing, documentation. It uses a 'Hybrid Delivery Model' combining on-site and offshore teams. Offshore/global offices span the US (NY, NJ, CA, RI, TX), India (Chennai), Colombia (Bogot\u00e1), and Japan. The firm claims 2,000\u20132,500 employees globally and 500+ clients served.",
+    "raw_notes": [
+      "Founded 1997 by Shawn Kumar (Co-Founder & CEO) and Ravi Kumar (President/Co-Founder).",
+      "Minority-owned business; listed with National Minority Business Council.",
+      "~150\u20132,500 employees reported across different sources (varies widely by source/date); Happierleads (July 2026) says 158; LinkedIn says 201\u2013500; JMI's own site says 2,500+.",
+      "Revenue estimates vary: D&B says ~$20M, ZoomInfo says ~$79.5M, Happierleads says $10M\u2013$50M.",
+      "Key technology specialties per LinkedIn: IT services, CRM, Digital Marketing, Microsoft Dynamics, Mobile app dev, Managed services, IT Infrastructure, ERP, CPQ, AI, IoT, Cloud (AWS/Azure/GCP), Blockchain, Salesforce, Data Analytics, Data Visualization.",
+      "JMI Digital arm handles integrated digital roadmaps: SEO, SEM, social, tag management, web analytics.",
+      "JMI has built and hosts SaaS solutions (e.g., energy management platform for 25+ utility customers globally).",
+      "In March 2024, JMI appointed Kaushik Paul as Chief Revenue Officer (per PR Newswire/Tracxn).",
+      "Past partnership with OKTO on security token solutions (2018).",
+      "Clients span retail (1,000+ location deployments), manufacturing, utilities, and financial services sectors.",
+      "Hybrid model emphasized: minimum on-site presence + strong offshore team for cost savings and quick turnaround."
+    ],
+    "source_urls": [
+      "https://www.jeanmartin.com/",
+      "https://www.jeanmartin.com/about-us",
+      "https://www.jeanmartin.com/contact.html",
+      "https://www.jeanmartin.com/retail",
+      "https://happierleads.com/companies/jeanmartin-com",
+      "https://www.linkedin.com/company/jean-martin",
+      "https://www.crunchbase.com/organization/jean-martin",
+      "https://tracxn.com/d/companies/jean-martin/",
+      "https://www.zoominfo.com/c/jean-martin-inc/64407458",
+      "https://www.datanyze.com/companies/jean-martin/64407458",
+      "https://www.dnb.com/business-directory/company-profiles.jean_martin_inc.d176f33986d8c2abfa24725252b1398e.html"
+    ]
+  },
+  "individual": {
+    "name": "Marimanickam M (first name: Mari)",
+    "role_if_found": "Software Developer at Jean Martin Inc.",
+    "notes": [
+      "Full name appears to be 'Marimanickam M' \u2014 email prefix 'marimanickam.m' corroborates this.",
+      "Role: Software Developer at Jean Martin Inc., joined in 2019 per The Org profile.",
+      "Prior experience: Internship Trainee at Vamsoft Technology (December 2017 \u2013 May 2018).",
+      "Education: Thiagarajar College of Engineering, attended 2015\u20132018.",
+      "No founder/executive role \u2014 individual contributor / developer profile.",
+      "No additional public profile (LinkedIn, personal site) surfaced beyond The Org entry."
+    ],
+    "source_urls": [
+      "https://theorg.com/org/jean-martin/org-chart/marimanickam-m"
+    ]
+  },
+  "could_not_find": [
+    "Mari's specific technology stack or current project focus at JMI \u2014 not publicly available.",
+    "Reason for signup / what product/tool they are evaluating \u2014 unknown.",
+    "LinkedIn profile for Marimanickam M not surfaced (may be private or absent).",
+    "Employee headcount discrepancy across sources (158 vs. 201\u2013500 vs. 2,500+) \u2014 exact current figure uncertain; JMI's own site claims 2,500+ resources which may include contractors/offshore.",
+    "Revenue figures vary widely across third-party sources \u2014 no audited/official figure available.",
+    "Crunchbase lists the company as 'unfunded' while Datanyze mentions $1.1M raised \u2014 conflicting; neither is from a primary JMI source."
+  ]
+}
