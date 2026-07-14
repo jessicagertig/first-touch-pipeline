@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://natanitsolutions.com",
-    "what_they_do": "Unknown. The website is a brand-new, unconfigured WordPress installation showing only the default 'Hello world!' placeholder post and Lorem Ipsum filler text. No actual business description, services, or industry vertical can be determined from the site content.",
-    "raw_notes": "The homepage content provided is entirely default WordPress boilerplate: 'Hello world! Welcome to WordPress. This is your first post. Edit or delete it, then start writing!' and Lorem Ipsum placeholder text. There is no real content about the company's services, industry, team, location, or mission. Web searches for 'natanitsolutions.com' and 'Natan IT Solutions' returned no matching results for this specific domain \u2014 all results were unrelated similarly-named companies (NAT IT Solutions, NAN IT Solutions, etc.). The org name 'Natan IT Solutions' suggests it may be an IT services firm, but this cannot be confirmed from any source.",
+    "what_they_do": "Cannot be determined. The website is a default, unconfigured WordPress installation showing only placeholder/dummy content ('Hello world!', Lorem Ipsum-style text). No real business description, services, products, or about content is present.",
+    "raw_notes": "Site is a brand-new or unconfigured WordPress install. The entire visible homepage content is the default WordPress first post ('Hello world! Welcome to WordPress. This is your first post. Edit or delete it, then start writing!') plus generic Lorem Ipsum filler text. No company description, no service pages, no team page, no branding beyond the org name 'Natan IT Solutions'. The name suggests IT services or solutions, but this is inference only \u2014 nothing is confirmed by the site.",
     "source_urls": [
       "https://natanitsolutions.com"
     ]
@@ -10,15 +10,15 @@
   "individual": {
     "name": "Natan",
     "role_if_found": null,
-    "notes": "First name 'Natan' provided at signup. The contact email is hr@natanitsolutions.com \u2014 the 'hr' prefix suggests this person may work in a Human Resources capacity, or it may simply be a departmental inbox rather than a personal email. No LinkedIn profile, personal bio, or any other identifying information was found for an individual named 'Natan' at natanitsolutions.com. No role, background, or personal details can be confirmed.",
+    "notes": "Only the first name 'Natan' is known from the signup. The email address is hr@natanitsolutions.com, which suggests this person works in or manages an HR function at the company \u2014 or the HR address was used as a general contact. No role title, LinkedIn profile, or other identifying information was found. No web search results returned identifying information for this individual.",
     "source_urls": []
   },
   "could_not_find": [
-    "No real website content exists at natanitsolutions.com \u2014 site is an unconfigured WordPress install with only placeholder text.",
-    "Company's actual services, industry, location, size, and founding story are entirely unknown.",
-    "No web search results match natanitsolutions.com specifically; the domain appears too new or too obscure to be indexed.",
-    "Individual 'Natan' \u2014 last name, title, LinkedIn, or any personal/professional details not found.",
-    "The 'hr@' email prefix may indicate an HR role or simply a shared departmental inbox; cannot confirm either way.",
-    "Cannot infer what 'Natan IT Solutions' actually does beyond the generic 'IT Solutions' name."
+    "What the company actually does \u2014 website is a default WordPress placeholder with zero real content.",
+    "Any services, products, or industry verticals for Natan IT Solutions.",
+    "Full name, job title, or any background on the individual recipient 'Natan'.",
+    "Company size, founding date, location, or team information.",
+    "Any press, news, or third-party references to Natan IT Solutions.",
+    "Reason for the HR email prefix \u2014 unclear if 'Natan' is HR staff, a founder, or simply using a generic inbox."
   ]
 }
