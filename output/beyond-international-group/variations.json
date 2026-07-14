@@ -1,0 +1,78 @@
+{
+  "lead_id": "beyond-international-group",
+  "company_name": "Beyond International Group",
+  "recipient_name": "Jason Ye",
+  "email": "jason.ye@beyond-wm.com",
+  "variations": [
+    {
+      "variant_n": 1,
+      "compliment": "Beyond Global Management looks like a great firm - I like that you're focused on distressed commercial real estate at a time when most institutional players are tightening their exposure.",
+      "email": "Hello Jason,\n\nThanks for checking out Polymer! Beyond Global Management looks like a great firm - I like that you're focused on distressed commercial real estate at a time when most institutional players are tightening their exposure.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.globest.com/2025/08/18/how-jenny-zhan-is-finding-value-where-others-see-distress/"
+      ],
+      "score": 8,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1784009169.590359",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 2,
+      "compliment": "Beyond Global Management looks like a really impressive firm - with 192% three-year revenue growth, ranking on the 2024 Inc. 5000 is a great achievement!",
+      "email": "Hello Jason,\n\nThanks for checking out Polymer! Beyond Global Management looks like a really impressive firm - with 192% three-year revenue growth, ranking on the 2024 Inc. 5000 is a great achievement!\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.businesswire.com/news/home/20240814061562/en/Beyond-Global-Management-Ranks-No.-2651-on-the-2024-Inc.-5000"
+      ],
+      "score": 8,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1784009169.821249",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 3,
+      "compliment": "Beyond Global Management looks like a great firm - ranking No. 2,651 on the 2024 Inc. 5000 with 192% three-year revenue growth is really impressive for a company founded in 2020.",
+      "email": "Hello Jason,\n\nThanks for checking out Polymer! Beyond Global Management looks like a great firm - ranking No. 2,651 on the 2024 Inc. 5000 with 192% three-year revenue growth is really impressive for a company founded in 2020.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.businesswire.com/news/home/20240814061562/en/Beyond-Global-Management-Ranks-No.-2651-on-the-2024-Inc.-5000"
+      ],
+      "score": 6,
+      "tells": [
+        "ranking No. 2,651 on the 2024 Inc. 5000 with 192% three-year revenue growth is really impressive for a company founded in 2020 — stat-stacking that reads like a recited press release rather than a genuine observation"
+      ],
+      "verdict": "revise",
+      "ship": false
+    },
+    {
+      "variant_n": 4,
+      "compliment": "Beyond Global Management looks like an impressive firm - congrats on ranking No. 2,651 on the 2024 Inc. 5000!",
+      "email": "Hello Jason,\n\nThanks for checking out Polymer! Beyond Global Management looks like an impressive firm - congrats on ranking No. 2,651 on the 2024 Inc. 5000!\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.businesswire.com/news/home/20240814061562/en/Beyond-Global-Management-Ranks-No.-2651-on-the-2024-Inc.-5000"
+      ],
+      "score": 8,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1784009170.025489",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 5,
+      "compliment": "Beyond Global Management looks like a great firm - focusing on private credit collateralized by real estate assets, with an executive team bringing over 100 years of combined investment experience across market cycles, is really impressive!",
+      "email": "Hello Jason,\n\nThanks for checking out Polymer! Beyond Global Management looks like a great firm - focusing on private credit collateralized by real estate assets, with an executive team bringing over 100 years of combined investment experience across market cycles, is really impressive!\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.businesswire.com/news/home/20240814061562/en/Beyond-Global-Management-Ranks-No.-2651-on-the-2024-Inc.-5000"
+      ],
+      "score": 4,
+      "tells": [
+        "focusing on private credit collateralized by real estate assets, with an executive team bringing over 100 years of combined investment experience across market cycles, is really impressive"
+      ],
+      "verdict": "revise",
+      "ship": false
+    }
+  ]
+}

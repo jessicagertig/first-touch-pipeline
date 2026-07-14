@@ -1,0 +1,62 @@
+{
+  "company": {
+    "website": "https://beyond-wm.com",
+    "what_they_do": "Beyond International Group (operating as Beyond Wealth Management) is a real estate-focused alternative investment firm headquartered in Irvine, CA. It serves high-net-worth and accredited investors \u2014 primarily with international (US-China) cross-border backgrounds \u2014 across three core lines: (1) Beyond Global Management, which directly acquires and manages real estate assets (offices, shopping centers, multi-family, hospitality, medical, industrial, data centers, agriculture, assisted living, etc.) using a value-investing approach; (2) Beyond Private Credit, which provides short-term debt financing to real estate investors and developers when conventional lenders are unavailable; and (3) Beyond Marketplace, an SEC-regulated platform where accredited investors can directly invest in real estate properties and investment-grade real estate funds. The firm also has a significant EB-5 investment immigration practice, recognized as a leading regional center operator. It started as an international investment firm helping HNW clients find US/Canada real estate opportunities and has grown to ~$300M AUM. Offices span Irvine CA, Houston TX, Toronto, Beijing, Hong Kong, Shanghai, and Shenzhen \u2014 reflecting a strong US-China investor base. The company ranked No. 2,651 on the 2024 Inc. 5000.",
+    "raw_notes": [
+      "Legal entity: Beyond Holding US, LLC; brand names include Beyond International Group, Beyond Wealth Management, Beyond Global Management, Beyond Private Credit, Beyond Marketplace, Beyond Lenders.",
+      "Headquarters: 15615 Alton Parkway, Suite 125, Irvine, CA 92618. Also Houston, Toronto, Beijing, Hong Kong, Shanghai, Shenzhen offices.",
+      "~$300M AUM stated on about page; an older affiliated entity (beyondreits.com) cites AUM of affiliates exceeding $10B \u2014 likely refers to parent/affiliate network.",
+      "SEC-regulated funds; EB-5 regional center operator with 1,000+ EB-5 placements completed; Jenny Zhan involved in EB-5 since 2014.",
+      "Active EB-5 project: 'Beyond Paradise 1' in Hawaii (Big Island), Rural TEA, I-956F and I-526E approvals obtained, construction started September 2025, 1,200+ projected US jobs.",
+      "100% on-time dividend issuance track record cited on news page.",
+      "Ranked No. 2,651 on 2024 Inc. 5000 (Beyond Global Management entity).",
+      "Hiring bilingual client relationship managers in Irvine and Houston \u2014 signals active growth, bilingual (English/Chinese) client base.",
+      "Uses fintech in investment structure design to reduce volatility and hedge downside risk.",
+      "Target clients: accredited investors, international HNW clients, foreign investors seeking US/Canada real estate exposure.",
+      "Asset classes: hospitality, medical, retail, industrial, entertainment, telecom, digital/data centers, agriculture, assisted living, multi-family, single-family.",
+      "Founded by Jenny Zhan, CFA, CEO. Previously PM/MD at GMO (Boston, $68B AUM) 2002\u20132011, then President of Good Hope Investment (CreditEase subsidiary).",
+      "Source: beyond-wm.com (primary, first-party); beyondgm.com/about (first-party sister site); beyondreits.com (first-party); LinkedIn company page."
+    ],
+    "source_urls": [
+      "https://beyond-wm.com/",
+      "https://beyond-wm.com/about/",
+      "https://beyond-wm.com/team/",
+      "https://beyond-wm.com/news/",
+      "https://beyond-wm.com/investment-immigration/",
+      "https://beyondgm.com/about/",
+      "https://beyondreits.com/resources.html",
+      "https://www.linkedin.com/company/beyond-wealth-management-group"
+    ]
+  },
+  "individual": {
+    "name": "Jason Ye (Jason ZhongYuan YE)",
+    "role_if_found": "Managing Partner & Head of U.S. Operations",
+    "notes": [
+      "Title on company website (beyond-wm.com/team): 'Managing Partner.' Title on beyondgm.com: manages U.S. operations. Third-party sources (Crunchbase, VisualVisitor) list him as 'Head of U.S.' or 'Head of U.S. Fund.'",
+      "15\u201318 years of experience in cross-border investment and consulting (sources vary slightly: beyond-wm.com says 15+ years real estate investment experience; beyondgm.com says 18+ years cross-border investment and consulting).",
+      "Oversees portfolio strategy and ensures alignment with the firm's long-term objectives (per company website).",
+      "Career background (from beyondgm.com/about, a first-party source): From 2001\u20132016 worked at PwC China and Singapore as Managing Director, advising 50+ Fortune 500 multinationals and large corporations across different markets. From 2017\u20132019, Director at Good Hope Investment (CreditEase subsidiary), leading US business development, capital raising, and private fund operations. Joined Beyond after that.",
+      "Co-delivered a speech at Beyond's two-year anniversary event alongside CEO Jenny Zhan (beyondreits.com).",
+      "Active in EB-5 conference circuit: represented Beyond Global Management at Global Alts Asia 2024 in Singapore (Marina Bay Sands, Nov 2024); attended IIUSA EB-5 Industry Forum in Washington D.C. (May 2026).",
+      "LinkedIn profile exists (linkedin.com/in/jason-zhongyuan-ye-b4123714) with 500+ connections; based in Irvine.",
+      "Education: CUEB (Capital University of Economics and Business, Beijing) per LinkedIn snippet.",
+      "No personal founder story \u2014 Jenny Zhan is the founder; Jason is a senior partner/operator, not founder."
+    ],
+    "source_urls": [
+      "https://beyond-wm.com/team/",
+      "https://beyondgm.com/about/",
+      "https://beyondreits.com/resources.html",
+      "https://www.linkedin.com/in/jason-zhongyuan-ye-b4123714/",
+      "https://www.crunchbase.com/organization/beyond-international",
+      "https://www.visualvisitor.com/companies/452126/beyond_international_group"
+    ]
+  },
+  "could_not_find": [
+    "Jason Ye's exact personal email confirmation (email domain match beyond-wm.com is consistent with his known employer).",
+    "Specific title on email domain \u2014 'Managing Partner' is from the team page but some third-party sources say 'Head of U.S.' or 'Head of U.S. Fund'; these are likely the same role described differently.",
+    "No personal social media (Twitter/X, personal blog) found for Jason Ye \u2014 LinkedIn is the only individual presence located.",
+    "Precise AUM figure is somewhat inconsistent across sources ($300M on about page vs. $10B+ on beyondreits.com which likely refers to parent/affiliate network); treat $300M as the company's own stated AUM.",
+    "No recent press coverage specifically about Jason Ye as an individual beyond conference participation.",
+    "beyondgm.com bio for Jason mentions PwC China/Singapore 2001\u20132016 but does not specify which specific markets/industries beyond 'Fortune 500 multinationals' \u2014 no further granularity available from public sources."
+  ]
+}
