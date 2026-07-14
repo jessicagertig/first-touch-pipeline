@@ -1,0 +1,49 @@
+{
+  "candidates": [
+    {
+      "item": "Technology-agnostic: no vendor lock-in, no prescribed frameworks. Engineering stack spans Solidity, Rust, Vyper; EVM-compatible and non-EVM chains (Solana, Sui, Aptos); L1/L2; on-prem or cloud-native.",
+      "why_interesting": "Most boutique Web3 shops plant a flag on one chain or one VM (e.g., 'we're an EVM house'). Genuinely spanning EVM + Solana + Sui + Aptos + L1/L2 simultaneously is a real engineering commitment, not just a checkbox \u2014 it means separate Rust vs. Solidity competencies co-existing in one team. The 'no prescribed frameworks' stance is also a pointed contrast to the wave of cookie-cutter scaffold shops. HOWEVER: 'technology-agnostic / no lock-in' is a very common marketing claim in consultancies. The specific chain breadth (Sui, Aptos alongside Solana and EVM) is the genuinely differentiating detail here.",
+      "level": "company",
+      "source_url": "https://blockcsherpa.dev",
+      "as_of_date_if_known": null,
+      "recency_note": "Sourced from company website/GitHub; site is still loading as a JS app so content may not yet be publicly rendered.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Full IP ownership for clients. No licensing fees, no ongoing royalties.",
+      "why_interesting": "Many dev shops retain some IP or charge ongoing support/licensing as a revenue model. A clean, explicit 'zero royalties, zero licensing fees, full IP transfer' is a bold commercial stance \u2014 especially in smart contract work where the code literally holds money. It's a trust signal aimed squarely at enterprise buyers who've been burned by vendor lock-in. Still, this is worth verifying whether it's truly universal or only applies to certain engagement types.",
+      "level": "company",
+      "source_url": "https://blockcsherpa.dev",
+      "as_of_date_if_known": null,
+      "recency_note": "Sourced from company-provided research notes; homepage content not yet publicly rendered.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "GitHub orgs include forks of wagmi, EIPs, Superfluid Protocol Monorepo, prysm, and protocol-studies \u2014 alongside a custom SaaS Boilerplate (Next.js + Tailwind CSS + Shadcn UI + TypeScript).",
+      "why_interesting": "Forking prysm (Ethereum consensus client, written in Go) and protocol-studies alongside application-layer tools like wagmi and Superfluid signals genuine protocol-depth engineering, not just dApp scaffolding. Most boutique Web3 consultancies live entirely at the application layer. The juxtaposition of consensus-layer forks with a polished SaaS frontend boilerplate suggests a genuinely full-stack, protocol-to-product range \u2014 a verifiable, concrete detail rather than a marketing claim.",
+      "level": "company",
+      "source_url": "https://github.com/Block-Sherpa",
+      "as_of_date_if_known": null,
+      "recency_note": "GitHub org content is live and publicly inspectable as of research date.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Founded by seasoned crypto investors and blockchain engineers who understand both technical and economic layers of decentralized systems. Backed by crypto-native investors with capital markets expertise and ecosystem connections.",
+      "why_interesting": "The dual founder profile \u2014 investors who can model tokenomics AND engineers who can ship smart contracts \u2014 is a genuine differentiator from pure-dev shops or pure-advisory firms. Most consultancies are one or the other. The 'capital markets expertise' framing also suggests they can engage at the tokenomics/treasury level, not just at the code level. Candidate for a strong opener if Jose is a founder. Cannot yet be confirmed for Jose specifically.",
+      "level": "company",
+      "source_url": "https://blockcsherpa.dev",
+      "as_of_date_if_known": null,
+      "recency_note": "Sourced from company-provided research notes; unverifiable from live site until homepage renders.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Two separate GitHub organisations exist: github.com/Block-Sherpa and github.com/Block-Sherpa-WorkPlace \u2014 both listing blockcsherpa.dev and hello@blockcsherpa.dev as contacts.",
+      "why_interesting": "Operating two distinct GitHub orgs (one likely client-facing/open, one internal/workplace) at what appears to be a very early-stage company is a subtle but telling operational maturity signal \u2014 they've thought about separating public-facing repos from internal work product. Small but verifiable, and not something every early-stage shop bothers to set up.",
+      "level": "company",
+      "source_url": "https://github.com/Block-Sherpa",
+      "as_of_date_if_known": null,
+      "recency_note": "GitHub orgs are live and publicly visible as of research date.",
+      "sensitivity": "none"
+    }
+  ]
+}

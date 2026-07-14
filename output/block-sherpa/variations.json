@@ -1,0 +1,83 @@
+{
+  "lead_id": "block-sherpa",
+  "company_name": "Block Sherpa",
+  "recipient_name": "Jose Olivencia",
+  "email": "hello@blockcsherpa.dev",
+  "variations": [
+    {
+      "variant_n": 1,
+      "compliment": "Block Sherpa looks like a great company - I love that clients keep full IP ownership with no licensing fees or royalties.",
+      "email": "Hello Jose,\n\nThanks for checking out Polymer! Block Sherpa looks like a great company - I love that clients keep full IP ownership with no licensing fees or royalties.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://github.com/Block-Sherpa"
+      ],
+      "score": 9,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1784000241.018519",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 2,
+      "compliment": "Block Sherpa looks great - letting clients retain full IP ownership with no licensing fees or royalties is such a refreshing, straightforward promise.",
+      "email": "Hello Jose,\n\nThanks for checking out Polymer! Block Sherpa looks great - letting clients retain full IP ownership with no licensing fees or royalties is such a refreshing, straightforward promise.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://github.com/Block-Sherpa"
+      ],
+      "score": 8,
+      "tells": [
+        "refreshing, straightforward promise"
+      ],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1784000241.279609",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 3,
+      "compliment": "Block Sherpa looks like a great engineering team - I love that clients keep full IP ownership with no licensing fees or ongoing royalties.",
+      "email": "Hello Jose,\n\nThanks for checking out Polymer! Block Sherpa looks like a great engineering team - I love that clients keep full IP ownership with no licensing fees or ongoing royalties.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://github.com/Block-Sherpa"
+      ],
+      "score": 9,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1784000241.544139",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 4,
+      "compliment": "Block Sherpa looks great - I like that you're technology-agnostic and let clients pick the optimal stack for each product rather than locking them into a prescribed framework.",
+      "email": "Hello Jose,\n\nThanks for checking out Polymer! Block Sherpa looks great - I like that you're technology-agnostic and let clients pick the optimal stack for each product rather than locking them into a prescribed framework.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://github.com/Block-Sherpa"
+      ],
+      "score": 6,
+      "tells": [
+        "technology-agnostic and let clients pick the optimal stack for each product rather than locking them into a prescribed framework",
+        "rather than locking them into a prescribed framework"
+      ],
+      "verdict": "revise",
+      "ship": false
+    },
+    {
+      "variant_n": 5,
+      "compliment": "Block Sherpa looks great - I had a peek at your GitHub org and the range of repos, from reth and go-ethereum to a clean Next.js + Tailwind + Shadcn SaaS boilerplate, is really impressive.",
+      "email": "Hello Jose,\n\nThanks for checking out Polymer! Block Sherpa looks great - I had a peek at your GitHub org and the range of repos, from reth and go-ethereum to a clean Next.js + Tailwind + Shadcn SaaS boilerplate, is really impressive.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://github.com/Block-Sherpa"
+      ],
+      "score": 8,
+      "tells": [
+        "I had a peek at your GitHub org"
+      ],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1784000241.798759",
+      "slack_channel": "C0B87Q5UEL9"
+    }
+  ]
+}

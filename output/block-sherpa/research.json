@@ -1,0 +1,39 @@
+{
+  "company": {
+    "website": "https://blockcsherpa.dev",
+    "what_they_do": "Block Sherpa is a UK-headquartered (London), crypto-native consulting and development firm. They specialize in blockchain strategy, smart contract engineering, and decentralized application (dApp) development for enterprises, startups, and Web3-native clients across Europe, Asia-Pacific, and the Americas. They are technology-agnostic, selecting the optimal stack per project (Solidity, Rust, or Vyper; EVM or non-EVM chains including Solana, Sui, Aptos; Layer-1 or Layer-2). Their full-lifecycle capabilities include tokenomics, DeFi protocol development, NFT passports, on-chain insurance, dApp frontends, multi-chain integration, enterprise security auditing/pen testing, and ongoing product evolution. Clients retain full IP ownership with no licensing fees or royalties. They claim 50+ delivered Web3 solutions across DeFi, NFT marketplaces, supply chain traceability, healthcare records, gaming, and real-world asset tokenization.",
+    "raw_notes": [
+      "Founded by seasoned crypto investors and blockchain engineers who understand both technical and economic layers of decentralized systems.",
+      "Backed by crypto-native investors with capital markets expertise and ecosystem connections.",
+      "Technology-agnostic: no vendor lock-in, no prescribed frameworks.",
+      "Engineering stack spans Solidity, Rust, Vyper; EVM-compatible and non-EVM chains (Solana, Sui, Aptos); L1/L2; on-prem or cloud-native.",
+      "50+ Web3 solutions delivered: DeFi, NFT marketplaces, supply chain, healthcare records, gaming, real-world asset tokenization.",
+      "Full IP ownership for clients. No licensing fees, no ongoing royalties.",
+      "Serves regulated enterprises, funded startups, and blockchain-native scale-ups.",
+      "GitHub presence: two orgs found \u2014 github.com/Block-Sherpa and github.com/Block-Sherpa-WorkPlace \u2014 both listing blockcsherpa.dev and hello@blockcsherpa.dev as contacts.",
+      "Repos of interest include forks of wagmi, EIPs, Superfluid Protocol Monorepo, prysm, protocol-studies, and a SaaS Boilerplate (Next.js + Tailwind CSS + Shadcn UI + TypeScript) \u2014 indicating active full-stack and protocol-level engineering work.",
+      "Website (blockcsherpa.dev) is very new / still loading ('Loading BlockSherpa...' only \u2014 JavaScript app not yet rendered or still in development).",
+      "Note: blocksherpa.dev (without the 'c') is an unrelated expired domain. blocksherpa.ai is a separate, unrelated older project."
+    ],
+    "source_urls": [
+      "https://blockcsherpa.dev",
+      "https://github.com/Block-Sherpa",
+      "https://github.com/Block-Sherpa-WorkPlace"
+    ]
+  },
+  "individual": {
+    "name": "Jose",
+    "role_if_found": null,
+    "notes": "Only first name 'Jose' is known. The contact email is hello@blockcsherpa.dev (a general/team inbox, not a personal address), which limits individual attribution. No public profiles (LinkedIn, GitHub, Twitter/X, press mentions) were found that link a person named Jose specifically to Block Sherpa. Both GitHub orgs list no public members. Jose may be a founder, given the company appears early-stage and the email is the same one listed publicly on GitHub for the entire org, but this cannot be confirmed from available sources.",
+    "source_urls": []
+  },
+  "could_not_find": [
+    "Jose's last name \u2014 not determinable from available sources.",
+    "Jose's specific role (founder, developer, business lead, etc.) \u2014 no public attribution found.",
+    "Any personal profiles (LinkedIn, Twitter/X, GitHub personal account) for Jose at Block Sherpa.",
+    "blockcsherpa.dev homepage content \u2014 site is a JavaScript app still loading; no readable content was served.",
+    "Founding date or launch date for Block Sherpa.",
+    "Any press coverage, blog posts, or case studies published by or about Block Sherpa.",
+    "Number of employees or team size."
+  ]
+}
