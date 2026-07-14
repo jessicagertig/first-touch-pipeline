@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://natanitsolutions.com",
-    "what_they_do": "Cannot be determined. The website contains only default WordPress placeholder content ('Hello world!', 'This is your first post.') and Lorem Ipsum-style filler text. No actual products, services, or company description are present.",
-    "raw_notes": "Site is a freshly installed WordPress instance with zero real content published. No homepage copy, no about page, no services listed, no team page, no case studies \u2014 nothing first-party to work with. The org name 'Natan IT Solutions' suggests an IT services or technology solutions company, but this is inference from the name alone, not sourced from the site.",
+    "what_they_do": "Unknown. The website is a brand-new, unconfigured WordPress installation with only the default placeholder content ('Hello world! Welcome to WordPress. This is your first post.'). No real business information, product descriptions, services, or about content is present. The org name 'Natan IT Solutions' suggests an IT services or solutions company, but this is inferred solely from the name \u2014 nothing on the site confirms it.",
+    "raw_notes": "The homepage contains exclusively WordPress default placeholder text: 'Hello world! Welcome to WordPress. This is your first post. Edit or delete it, then start writing!' \u2014 plus Lorem Ipsum-style filler paragraphs ('Amet consectur adipiscing elit...'). There is no navigation, no services page, no about page, no contact info, no team page, no branding, and no description of any actual business activity. The site is effectively a blank WordPress install. Web searches for 'natanitsolutions.com' and 'Natan IT Solutions' returned no matching results \u2014 only unrelated companies with similar-sounding names (e.g., natitsolutions.com, natitsolution.com, nanitsolutions.com). None of those are the same entity.",
     "source_urls": [
       "https://natanitsolutions.com"
     ]
@@ -10,15 +10,15 @@
   "individual": {
     "name": "Natan",
     "role_if_found": null,
-    "notes": "Email address is hr@natanitsolutions.com, which places this person in an HR function (or they manage the HR inbox) at Natan IT Solutions. No further information about this individual is available from the company website (no team/about page exists). First name 'Natan' may suggest the company is founder-named, but this is speculative \u2014 not confirmed by any source.",
+    "notes": "The email address is hr@natanitsolutions.com, indicating the recipient works in an HR capacity at this company (or manages HR functions). The first name 'Natan' may also be the company's namesake, suggesting a founder or owner role \u2014 but this is speculative. No LinkedIn profile, biography, or any third-party reference to this individual was found. No role, background, or personal details could be confirmed from any source.",
     "source_urls": []
   },
   "could_not_find": [
-    "What the company actually does \u2014 no real website content exists yet",
-    "Natan's last name, title, or LinkedIn profile",
-    "Whether 'Natan' is a founder, employee, or HR staff member",
-    "Company size, industry vertical, location, or founding date",
-    "Any products, services, clients, or differentiators",
-    "No web search results returned meaningful information about this company \u2014 likely too new or too small to be indexed"
+    "No usable business content on natanitsolutions.com \u2014 site is an unconfigured WordPress default install with only placeholder text.",
+    "No description of what the company actually does, its services, target market, or industry vertical.",
+    "No information about the individual recipient 'Natan' \u2014 role, background, or LinkedIn presence not found.",
+    "The hr@ email prefix suggests an HR function, but whether this person is an HR employee, the founder, or both is unknown.",
+    "No third-party mentions, news, or directory listings for 'Natan IT Solutions' at natanitsolutions.com were found in web search.",
+    "Company appears too new or pre-launch to have any public footprint beyond the domain registration."
   ]
 }
