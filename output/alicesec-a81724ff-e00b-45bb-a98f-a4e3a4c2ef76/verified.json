@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "fact": "Alicesec (punkproof.com) explicitly states on its homepage: 'we do not allow sending messages to the internet' \u2014 the service functions as a receive-only / inbound email platform, not a standard two-way email service.",
+    "source_url": "https://punkproof.com"
+  },
+  {
+    "fact": "PunkProof's homepage states: 'In the event that you encounter difficulties with user registrations, please consider banning them by IP address instead.'",
+    "source_url": "https://punkproof.com"
+  },
+  {
+    "fact": "Alicesec (punkproof.com) publicly states on its homepage: 'We kindly request that our domain names not be blocked, as we are not a throwaway email service and our emails will not bounce.' It describes itself as a public email service that prohibits outbound sending to the internet and directs abuse handling via a ticket system.",
+    "source_url": "https://punkproof.com"
+  }
+]

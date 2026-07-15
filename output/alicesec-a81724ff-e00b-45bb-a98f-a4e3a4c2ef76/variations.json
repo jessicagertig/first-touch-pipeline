@@ -1,0 +1,80 @@
+{
+  "lead_id": "alicesec-a81724ff-e00b-45bb-a98f-a4e3a4c2ef76",
+  "company_name": "Alicesec",
+  "recipient_name": "Alice Test",
+  "email": "alice012@punkproof.com",
+  "variations": [
+    {
+      "variant_n": 1,
+      "compliment": "Alicesec looks like a smart service - making it receive-only and prohibiting outbound sending to the internet seems like a clever way to sidestep a lot of the usual abuse problems.",
+      "email": "Hello Alice,\n\nThanks for checking out Polymer! Alicesec looks like a smart service - making it receive-only and prohibiting outbound sending to the internet seems like a clever way to sidestep a lot of the usual abuse problems.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://punkproof.com"
+      ],
+      "score": 8,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1784134630.128349",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 2,
+      "compliment": "Alicesec looks great - I love that you're upfront about being a genuine public email service that won't bounce, rather than a throwaway one.",
+      "email": "Hello Alice,\n\nThanks for checking out Polymer! Alicesec looks great - I love that you're upfront about being a genuine public email service that won't bounce, rather than a throwaway one.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://punkproof.com"
+      ],
+      "score": 8,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1784134630.338049",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 3,
+      "compliment": "Alicesec seems like a thoughtful approach to email - not allowing messages out to the internet is a simple but smart way to keep things clean.",
+      "email": "Hello Alice,\n\nThanks for checking out Polymer! Alicesec seems like a thoughtful approach to email - not allowing messages out to the internet is a simple but smart way to keep things clean.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://punkproof.com"
+      ],
+      "score": 8,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1784134630.544649",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 4,
+      "compliment": "Alicesec looks like a great platform - I appreciate the practical touch of suggesting IP-based bans for troublesome registrations.",
+      "email": "Hello Alice,\n\nThanks for checking out Polymer! Alicesec looks like a great platform - I appreciate the practical touch of suggesting IP-based bans for troublesome registrations.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://punkproof.com"
+      ],
+      "score": 8,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1784134630.779829",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 5,
+      "compliment": "Alicesec looks like a really original service - building an inbound-only email platform with a proper ticket system for abuse handling is a clever niche to own.",
+      "email": "Hello Alice,\n\nThanks for checking out Polymer! Alicesec looks like a really original service - building an inbound-only email platform with a proper ticket system for abuse handling is a clever niche to own.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://punkproof.com"
+      ],
+      "score": 8,
+      "tells": [
+        "a clever niche to own"
+      ],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1784134630.992099",
+      "slack_channel": "C0B87Q5UEL9"
+    }
+  ]
+}

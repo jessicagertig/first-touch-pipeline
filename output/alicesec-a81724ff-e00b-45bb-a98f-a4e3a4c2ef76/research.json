@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://punkproof.com",
-    "what_they_do": "punkproof.com is a public email service provider \u2014 it offers free email addresses to the public under its domain. It is not a company building a product or service in the traditional B2B/SaaS sense. The site explicitly positions itself as a legitimate (non-throwaway) public email host, emphasizing spam prevention, prohibition of illegal activity, and abuse reporting infrastructure.",
-    "raw_notes": "Homepage copy describes a public free email service. Key claims: (1) primary goal is spam prevention and safe/secure environment, (2) prohibits illegal activities, (3) does not allow sending messages to the internet, (4) explicitly states it is NOT a throwaway/disposable email service and that emails will not bounce, (5) asks receivers not to block their domain, (6) suggests banning problematic users by IP rather than domain, (7) has an abuse ticket system. This pattern \u2014 public inbound-only email with anti-abuse messaging directed at third-party site operators \u2014 is characteristic of a shared public email domain used by many individuals, not a single organization's corporate domain.",
+    "what_they_do": "PunkProof operates a public email service focused on spam prevention and platform safety. It provides email addresses to users (e.g. alice012@punkproof.com) but explicitly does not allow sending messages to the internet. It positions itself as a legitimate, non-throwaway email service and asks not to be blocklisted, suggesting it serves as a shared/community inbox or alias email provider. It includes an abuse reporting system.",
+    "raw_notes": "- Public email service, not a throwaway/disposable email provider (they self-assert this)\n- Primary goal: prevent spam, maintain safe/secure environment\n- Does NOT allow sending messages to the internet (inbound/alias only, or internal only)\n- Strictly prohibits illegal activities\n- Requests domain not be blocked by receiving mail servers\n- Suggests site owners ban problematic users by IP rather than blocking the domain\n- Has an abuse ticket system for reporting\n- Appears to be a relatively new or low-profile service (noted as potentially too new for web search indexing)\n- The org_name 'Alicesec' does not match 'PunkProof' \u2014 likely a personal/informal label entered by the user at signup, not an actual separate company",
     "source_urls": [
       "https://punkproof.com"
     ]
@@ -10,14 +10,16 @@
   "individual": {
     "name": "Alice",
     "role_if_found": null,
-    "notes": "The recipient's first name is Alice and the email is alice012@punkproof.com. Because punkproof.com is a public shared email service (not a private corporate domain), 'alice012' is almost certainly just a personal user account on this free email platform \u2014 not an employee, founder, or representative of punkproof.com itself. The org_name 'Alicesec' was self-reported at signup and may suggest an interest or project related to security ('sec'), but this is unverifiable speculation. No individual profile, role, or affiliation could be confirmed from available sources.",
+    "notes": "Only the first name 'Alice' is known. The org_name entered at signup is 'Alicesec', which may be a personal handle or informal label rather than a registered business. No role, title, LinkedIn, or other individual-level information was findable. The email username 'alice012' suggests this may be one of multiple Alice-named accounts on the platform, implying a shared/public service context. No verified employer, founder status, or professional background can be asserted.",
     "source_urls": []
   },
   "could_not_find": [
-    "No verified company 'Alicesec' found \u2014 the org_name appears to be self-reported and does not correspond to a discoverable registered business or website.",
-    "Alice's role, title, LinkedIn profile, or any professional identity could not be established.",
-    "punkproof.com has no 'About', 'Team', or 'Company' pages \u2014 no founding story, leadership, or business model details are available.",
-    "Cannot confirm Alice has any affiliation with punkproof.com as an organization \u2014 she is most likely a user of the public email service, not an employee or representative.",
-    "The email address pattern ('alice012') suggests a personal/public mailbox, not a corporate one, which makes this signup high-risk for being a non-business or fictitious sign-up."
+    "No information about who owns or founded PunkProof.com",
+    "No company registration, team page, or 'About' page beyond the homepage snippet provided",
+    "No LinkedIn, Crunchbase, or press coverage found for PunkProof",
+    "No role, title, or professional background for 'Alice' / alice012",
+    "'Alicesec' as an org name does not resolve to any findable company or entity",
+    "Unclear whether PunkProof is a commercial SaaS product, a hobbyist project, or a community service",
+    "No pricing, customer, or product-detail pages were available"
   ]
 }

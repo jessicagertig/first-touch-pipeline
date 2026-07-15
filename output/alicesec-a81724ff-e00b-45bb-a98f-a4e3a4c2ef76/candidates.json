@@ -1,3 +1,31 @@
 {
-  "candidates": []
+  "candidates": [
+    {
+      "item": "Does NOT allow sending messages to the internet (inbound/alias only, or internal only)",
+      "why_interesting": "Most email services \u2014 even privacy-focused or shared ones \u2014 allow outbound sending. A public email service that deliberately blocks all outbound internet mail is a genuinely unusual architectural choice: it reframes what 'email' means for the platform, functioning more like a receive-only inbox or internal alias layer. That constraint is specific and non-obvious.",
+      "level": "company",
+      "source_url": "https://punkproof.com",
+      "as_of_date_if_known": null,
+      "recency_note": "Sourced from homepage copy; service appears new/low-profile with limited external indexing as of research date.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Suggests site owners ban problematic users by IP rather than blocking the domain",
+      "why_interesting": "Rather than just asking not to be blocklisted, PunkProof actively coaches third-party site operators on *how* to handle abuse in a way that keeps the domain usable \u2014 shifting the moderation burden to IP-level targeting. This is a blunt, opinionated stance that reveals a specific philosophy about shared-domain accountability and is not a generic feature claim.",
+      "level": "company",
+      "source_url": "https://punkproof.com",
+      "as_of_date_if_known": null,
+      "recency_note": "Sourced from homepage copy; no external corroboration available due to low web profile.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Self-asserts it is NOT a throwaway/disposable email provider and requests not to be blocklisted \u2014 while being a public shared email service",
+      "why_interesting": "This is a genuinely tense and interesting positioning tension: a public email service (anyone can get an address) that insists it is *not* disposable. The claim requires trust infrastructure \u2014 abuse tickets, no outbound sending, anti-spam focus \u2014 to be credible, which makes it a notable design bet rather than just marketing.",
+      "level": "company",
+      "source_url": "https://punkproof.com",
+      "as_of_date_if_known": null,
+      "recency_note": "Sourced from homepage copy; no third-party validation found.",
+      "sensitivity": "none"
+    }
+  ]
 }
