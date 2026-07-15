@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://natanitsolutions.com",
-    "what_they_do": "Cannot be determined. The website contains only the default WordPress placeholder content ('Hello world! Welcome to WordPress. This is your first post.') with no real business description, product pages, or services listed.",
-    "raw_notes": "Site is a brand-new, unconfigured WordPress installation. No homepage copy, no about page, no services or product information, no team bios, no case studies, no social links \u2014 nothing beyond the default WordPress demo text and Lorem Ipsum-style filler. The business name 'Natan IT Solutions' suggests an IT services or technology solutions company, but this is inference from the name alone, not supported by any site content.",
+    "what_they_do": "Unknown. The website is a default, unconfigured WordPress installation with no real content \u2014 only placeholder/lorem ipsum text and the default 'Hello world!' post. No products, services, or company description have been published yet.",
+    "raw_notes": "Site shows default WordPress placeholder content ('Welcome to WordPress. This is your first post. Edit or delete it, then start writing!') and generic lorem ipsum filler text. No about page, no services page, no product descriptions, no team info, no branding beyond the domain name. The domain name 'natanitsolutions.com' suggests an IT solutions/services company, but this is inference from the name only \u2014 not supported by any published content. Site appears newly registered and not yet built out.",
     "source_urls": [
       "https://natanitsolutions.com"
     ]
@@ -10,15 +10,14 @@
   "individual": {
     "name": "Natan",
     "role_if_found": null,
-    "notes": "Email address is hr@natanitsolutions.com, suggesting this person works in an HR capacity (or manages HR-related functions) at Natan IT Solutions. Could be an HR manager, HR director, or an owner/founder handling HR duties. No further information is findable from the website. First name 'Natan' matches the company name, which may suggest a founder or owner, but this is speculative.",
+    "notes": "Email address is hr@natanitsolutions.com, indicating this person works in or manages HR at Natan IT Solutions. First name 'Natan' matches the company name, which may suggest a founder or owner, but this is speculative. No individual profile, biography, LinkedIn, or other identifying information was found or confirmed from first-party sources.",
     "source_urls": []
   },
   "could_not_find": [
-    "What Natan IT Solutions actually does \u2014 no real website content exists yet.",
-    "Natan's surname or specific job title.",
-    "Any description of services, products, or clients.",
-    "Company size, location, or founding date.",
-    "Any social media profiles, LinkedIn, or press mentions \u2014 site is too new/unconfigured to appear in public search indexes.",
-    "Whether 'Natan' in the email prefix refers to the recipient or is simply the company name prefix on an HR role mailbox."
+    "What the company actually does \u2014 no service or product description exists on the website yet.",
+    "Individual's last name, title, or confirmed role beyond the HR email prefix.",
+    "Any company description, founding story, team info, or mission statement.",
+    "Any third-party mentions, news, or web search results confirming the company's existence or offerings.",
+    "Whether 'Natan' in the company name refers to the individual recipient or is coincidental."
   ]
 }
