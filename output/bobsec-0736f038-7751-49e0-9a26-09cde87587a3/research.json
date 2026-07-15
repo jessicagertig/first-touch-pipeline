@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://punkproof.com",
-    "what_they_do": "punkproof.com is a free/public email service provider \u2014 it offers email addresses to the general public, similar to Gmail or Outlook. It is NOT a company called 'Bobsec' or any kind of security firm. The homepage explicitly describes itself as a public email service focused on spam prevention and safe/secure email delivery. It asks receiving services not to block its domain, clarifying it is not a throwaway/disposable email provider.",
-    "raw_notes": "The domain punkproof.com hosts a public email platform, not a business called 'Bobsec'. The org_name 'Bobsec' was self-reported by the user at signup and does not correspond to any verifiable company associated with this domain. The homepage language ('we do not allow sending messages to the internet', 'not a throwaway email service', 'abuse reporting via abuse ticket system') strongly suggests this is a free public inbox service \u2014 the kind commonly used by individuals who do not wish to share a personal or corporate email address. There is no product, service, or business identity associated with punkproof.com that matches 'Bobsec'.",
+    "what_they_do": "punkproof.com is a free/public email service provider \u2014 they offer email addresses to the general public (anyone can sign up for a @punkproof.com address). Their stated focus is anti-spam, safety, and security. They explicitly are NOT a throwaway/disposable email service and claim their emails do not bounce. They have an abuse reporting ticket system.",
+    "raw_notes": "- Public email service, not a private company product or SaaS tool\n- Mission framed around preventing spam and maintaining a safe/secure environment\n- Prohibits illegal activities on platform\n- Does not allow sending messages to the internet (inbound-only or sandboxed service?)\n- Asks not to be blocklisted, distinguishing themselves from throwaway/disposable email providers\n- Suggests abuse can be handled via IP bans rather than domain blocks\n- Has an abuse ticket system\n- No product, pricing, team, or founder information visible on homepage\n- No indication of a business called 'Bobsec' anywhere on punkproof.com",
     "source_urls": [
       "https://punkproof.com"
     ]
@@ -10,13 +10,15 @@
   "individual": {
     "name": "Bob",
     "role_if_found": null,
-    "notes": "No verifiable individual named 'Bob' could be identified from this domain or org name. The email address (bob012@punkproof.com) is a user account on a public email platform, not a corporate or professional email address. 'Bobsec' appears to be a self-reported org name with no web presence or verifiable identity. The numeric suffix in 'bob012' is also consistent with a generic public inbox registration rather than a professional identity.",
+    "notes": "Signed up under the org name 'Bobsec', but this name does not appear anywhere on punkproof.com or in any verifiable first-party source. The email address bob012@punkproof.com is a public email account on a free email service \u2014 it is NOT a corporate domain tied to a real company called Bobsec. No role, title, LinkedIn, or other individual information is findable. The '012' numeric suffix and use of a public email domain further suggest a personal/anonymous signup rather than a legitimate business representative.",
     "source_urls": []
   },
   "could_not_find": [
-    "No real company called 'Bobsec' could be found \u2014 it does not appear to have a website, LinkedIn page, or any web presence.",
-    "punkproof.com is a public email provider, not the company of the signee \u2014 so the domain cannot be used to infer the recipient's employer, role, or industry.",
-    "No individual named 'Bob' associated with 'Bobsec' could be identified through any first-party or third-party source.",
-    "The signup pattern (public email domain + self-reported org name + numeric username suffix) is a strong signal of a low-intent, anonymous, or potentially fake signup. This prospect should be flagged for review before any outreach is attempted."
+    "No real company called 'Bobsec' could be verified \u2014 org_name appears to be self-reported and unsubstantiated",
+    "punkproof.com is a PUBLIC email provider, not Bob's/Bobsec's own company domain \u2014 the email domain does not represent the recipient's employer or organization",
+    "No individual named Bob with last name, role, or professional profile findable",
+    "No founding team, leadership, or 'about us' information on punkproof.com",
+    "No products, pricing, or business model details for punkproof.com beyond it being a free public email service",
+    "Signup shows high-risk signals: public/free email domain used as org domain, generic numeric suffix in username, unverifiable org name \u2014 likely not a legitimate business prospect"
   ]
 }

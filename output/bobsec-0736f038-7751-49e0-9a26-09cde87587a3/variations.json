@@ -1,0 +1,82 @@
+{
+  "lead_id": "bobsec-0736f038-7751-49e0-9a26-09cde87587a3",
+  "company_name": "Bobsec",
+  "recipient_name": "Bob Test",
+  "email": "bob012@punkproof.com",
+  "variations": [
+    {
+      "variant_n": 1,
+      "compliment": "Bobsec looks like an interesting service - the inbound-only approach where you don't allow sending messages to the internet is a smart way to keep things secure.",
+      "email": "Hello Bob,\n\nThanks for checking out Polymer! Bobsec looks like an interesting service - the inbound-only approach where you don't allow sending messages to the internet is a smart way to keep things secure.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://punkproof.com"
+      ],
+      "score": 8,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1784104257.787119",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 2,
+      "compliment": "Bobsec looks like an interesting approach - the inbound-only, walled-garden setup where you don't allow sending messages to the internet is a clever way to handle email security.",
+      "email": "Hello Bob,\n\nThanks for checking out Polymer! Bobsec looks like an interesting approach - the inbound-only, walled-garden setup where you don't allow sending messages to the internet is a clever way to handle email security.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://punkproof.com"
+      ],
+      "score": 8,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1784104257.939359",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 3,
+      "compliment": "Bobsec looks like a thoughtful company - asking sites to ban by IP rather than block your domains is a smart way to protect legitimate users.",
+      "email": "Hello Bob,\n\nThanks for checking out Polymer! Bobsec looks like a thoughtful company - asking sites to ban by IP rather than block your domains is a smart way to protect legitimate users.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://punkproof.com"
+      ],
+      "score": 8,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1784104258.098569",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 4,
+      "compliment": "Bobsec seems like a really original idea - a walled-garden inbox that only receives messages and never sends out to the internet is a fascinating take on email.",
+      "email": "Hello Bob,\n\nThanks for checking out Polymer! Bobsec seems like a really original idea - a walled-garden inbox that only receives messages and never sends out to the internet is a fascinating take on email.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://punkproof.com"
+      ],
+      "score": 8,
+      "tells": [
+        "a fascinating take on email"
+      ],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1784104258.259569",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 5,
+      "compliment": "Bobsec looks great - I like that it's an inbound-only service built to be reliable, rather than a throwaway inbox.",
+      "email": "Hello Bob,\n\nThanks for checking out Polymer! Bobsec looks great - I like that it's an inbound-only service built to be reliable, rather than a throwaway inbox.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://punkproof.com"
+      ],
+      "score": 8,
+      "tells": [
+        "rather than a throwaway inbox"
+      ],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1784104258.406499",
+      "slack_channel": "C0B87Q5UEL9"
+    }
+  ]
+}

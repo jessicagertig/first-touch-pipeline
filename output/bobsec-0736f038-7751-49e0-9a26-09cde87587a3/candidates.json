@@ -1,3 +1,31 @@
 {
-  "candidates": []
+  "candidates": [
+    {
+      "item": "Does not allow sending messages to the internet (inbound-only or sandboxed service?)",
+      "why_interesting": "Most email services are bidirectional by design \u2014 an email provider that explicitly restricts outbound sending to the internet is architecturally unusual and worth probing. It implies a very different security model (receive-only or walled-garden), which is genuinely distinctive if true.",
+      "level": "company",
+      "source_url": "https://punkproof.com",
+      "as_of_date_if_known": "unknown",
+      "recency_note": "Noted in raw research; not independently verified with a timestamped page",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Asks not to be blocklisted, distinguishing themselves from throwaway/disposable email providers \u2014 suggests abuse can be handled via IP bans rather than domain blocks",
+      "why_interesting": "Proactively lobbying blocklist operators with a specific technical argument ('ban the IP, not our domain') is an unusual and somewhat bold stance for a free public email provider. It signals they are fighting an uphill reputational battle and have thought carefully about how spam ecosystem players perceive them \u2014 a quirky, specific position rather than a generic claim.",
+      "level": "company",
+      "source_url": "https://punkproof.com",
+      "as_of_date_if_known": "unknown",
+      "recency_note": "Noted in raw research; not independently verified with a timestamped page",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Explicitly states their emails do NOT bounce and they are NOT a throwaway/disposable email service",
+      "why_interesting": "Free public email providers almost universally get lumped in with disposable/temp-mail services by spam filters and deliverability tools. Explicitly differentiating on bounce rate and permanence \u2014 and staking a claim that their addresses are real, persistent inboxes \u2014 is a specific, falsifiable product stance, not just a marketing slogan.",
+      "level": "company",
+      "source_url": "https://punkproof.com",
+      "as_of_date_if_known": "unknown",
+      "recency_note": "Noted in raw research; not independently verified with a timestamped page",
+      "sensitivity": "none"
+    }
+  ]
 }
