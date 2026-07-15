@@ -1,0 +1,24 @@
+{
+  "company": {
+    "website": "https://punkproof.com",
+    "what_they_do": "punkproof.com is a public (shared/free) email service provider \u2014 not a product or startup called 'Alicesec'. They offer email addresses under the punkproof.com domain to the general public, positioning themselves as a legitimate (non-throwaway) free email host that prohibits spam and illegal activity.",
+    "raw_notes": "Homepage text is that of a generic public email hosting provider. Key signals: (1) They explicitly say 'public email service'; (2) They forbid sending messages to the internet (suggesting inbound/internal only, or a sandboxed service); (3) They ask not to be blocklisted, distinguishing themselves from throwaway/disposable email services; (4) They have an abuse ticket system; (5) There is no mention of any company, product, or brand called 'Alicesec' anywhere on the site. The org_name 'Alicesec' appears to be a name the individual typed at signup, not a real company associated with this domain.",
+    "source_urls": [
+      "https://punkproof.com"
+    ]
+  },
+  "individual": {
+    "name": "Alice",
+    "role_if_found": null,
+    "notes": "The email address alice012@punkproof.com is a free public email address issued by the punkproof.com email service. There is no evidence that Alice owns, works for, or is affiliated with punkproof.com as an organization. The numeric suffix '012' in the username is consistent with a generic free-account registration pattern. No professional identity, company role, or individual background could be established.",
+    "source_urls": []
+  },
+  "could_not_find": [
+    "No real company called 'Alicesec' could be identified \u2014 the org_name appears to be a self-typed label, not a verifiable organization.",
+    "No information about Alice's actual role, employer, or professional background.",
+    "punkproof.com does not surface in web search results as a known startup, SaaS product, or named business \u2014 it presents solely as a generic public email host.",
+    "No founding team, leadership page, about page, or business context found on punkproof.com.",
+    "Cannot determine Alice's intent or use case from available signals.",
+    "RISK FLAG: The combination of a free public email domain, a self-styled org name with no verifiable existence, and a numeric-suffix username is strongly consistent with a throwaway or pseudonymous signup rather than a legitimate business prospect. Outreach personalization is not advisable without further verification."
+  ]
+}

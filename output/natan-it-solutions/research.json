@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://natanitsolutions.com",
-    "what_they_do": "Cannot be determined. The website contains only the default WordPress placeholder content ('Hello world! Welcome to WordPress. This is your first post.') and generic Lorem Ipsum-style filler text. No real products, services, or company description are present.",
-    "raw_notes": "Site is a brand-new, unconfigured WordPress installation. No homepage copy, no about page, no services listed, no team information, no branding beyond the domain name. The name 'Natan IT Solutions' suggests an IT services or technology solutions company, but this is inferred from the name alone \u2014 not supported by any published content.",
+    "what_they_do": "Unknown. The website contains only default WordPress placeholder content ('Hello world!', 'This is your first post.') and generic Lorem Ipsum-style filler text. No actual product, service, or business description is present.",
+    "raw_notes": "Site is a brand-new, unconfigured WordPress installation. No homepage copy, no about page, no services listed, no case studies, no team page \u2014 nothing substantive. The content is entirely WordPress default boilerplate. Cannot determine industry, offering, target market, or value proposition from this source.",
     "source_urls": [
       "https://natanitsolutions.com"
     ]
@@ -10,15 +10,15 @@
   "individual": {
     "name": "Natan",
     "role_if_found": null,
-    "notes": "Only the first name 'Natan' is known. The email address is hr@natanitsolutions.com, which suggests this person may work in a Human Resources capacity (HR prefix), but this is not confirmed by any source. No LinkedIn profile, biography, or other individual-level information was found.",
+    "notes": "First name is Natan. Email is hr@natanitsolutions.com \u2014 the 'hr' prefix suggests a Human Resources function (HR manager, HR director, HR generalist, or similar), but this is an inference from the email prefix only, not confirmed by any source. No individual profile, LinkedIn, or biographical information found.",
     "source_urls": []
   },
   "could_not_find": [
-    "Company's actual products or services \u2014 website is a default WordPress placeholder with no real content.",
-    "Company founding story, mission, team, or differentiators.",
-    "Individual's last name, confirmed job title, or any biographical detail.",
-    "Any news, press mentions, or third-party references to Natan IT Solutions.",
-    "Whether 'hr@' email prefix reflects a true HR role or is simply an administrative inbox.",
-    "Company size, location, industry focus, or target market."
+    "What Natan IT Solutions actually does \u2014 no real website content exists yet",
+    "Industry or sector the company operates in",
+    "Company size, founding date, location, or team",
+    "Natan's last name, job title, or personal background",
+    "Any news, press mentions, or third-party references to the company",
+    "Whether 'hr@' email prefix reflects Natan's actual role or is simply a shared/functional inbox"
   ]
 }

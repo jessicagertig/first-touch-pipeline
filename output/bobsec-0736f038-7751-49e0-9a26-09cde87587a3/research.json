@@ -1,0 +1,22 @@
+{
+  "company": {
+    "website": "https://punkproof.com",
+    "what_they_do": "punkproof.com is a free/public email service provider \u2014 it offers email addresses to the general public, similar to Gmail or Outlook. It is NOT a company called 'Bobsec' or any kind of security firm. The homepage explicitly describes itself as a public email service focused on spam prevention and safe/secure email delivery. It asks receiving services not to block its domain, clarifying it is not a throwaway/disposable email provider.",
+    "raw_notes": "The domain punkproof.com hosts a public email platform, not a business called 'Bobsec'. The org_name 'Bobsec' was self-reported by the user at signup and does not correspond to any verifiable company associated with this domain. The homepage language ('we do not allow sending messages to the internet', 'not a throwaway email service', 'abuse reporting via abuse ticket system') strongly suggests this is a free public inbox service \u2014 the kind commonly used by individuals who do not wish to share a personal or corporate email address. There is no product, service, or business identity associated with punkproof.com that matches 'Bobsec'.",
+    "source_urls": [
+      "https://punkproof.com"
+    ]
+  },
+  "individual": {
+    "name": "Bob",
+    "role_if_found": null,
+    "notes": "No verifiable individual named 'Bob' could be identified from this domain or org name. The email address (bob012@punkproof.com) is a user account on a public email platform, not a corporate or professional email address. 'Bobsec' appears to be a self-reported org name with no web presence or verifiable identity. The numeric suffix in 'bob012' is also consistent with a generic public inbox registration rather than a professional identity.",
+    "source_urls": []
+  },
+  "could_not_find": [
+    "No real company called 'Bobsec' could be found \u2014 it does not appear to have a website, LinkedIn page, or any web presence.",
+    "punkproof.com is a public email provider, not the company of the signee \u2014 so the domain cannot be used to infer the recipient's employer, role, or industry.",
+    "No individual named 'Bob' associated with 'Bobsec' could be identified through any first-party or third-party source.",
+    "The signup pattern (public email domain + self-reported org name + numeric username suffix) is a strong signal of a low-intent, anonymous, or potentially fake signup. This prospect should be flagged for review before any outreach is attempted."
+  ]
+}
