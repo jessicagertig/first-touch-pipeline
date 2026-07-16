@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://natanitsolutions.com",
-    "what_they_do": null,
-    "raw_notes": "The website at natanitsolutions.com contains only WordPress default placeholder content ('Hello world!', 'This is your first post. Edit or delete it, then start writing!') and Lorem Ipsum-style filler text. No real business description, services, products, team information, or any other substantive content is present. The site appears to have been freshly installed and not yet configured or populated with real content.",
+    "what_they_do": "Unknown. The website is a brand-new, unconfigured WordPress installation with no real content \u2014 only default placeholder text ('Hello world! Welcome to WordPress. This is your first post.'). No products, services, team, or company description have been published yet.",
+    "raw_notes": "The homepage at natanitsolutions.com contains exclusively WordPress default/placeholder content: the default 'Hello world!' post, generic Lorem Ipsum-style filler text, and no customisation whatsoever. This indicates the site was very recently set up and has not been built out. No About page, no services page, no pricing, no branding beyond the domain name itself. The org name typed at signup is 'Natan IT Solutions', which suggests an IT services or solutions company, but this is only the name \u2014 no content confirms it. Web searches returned no results matching natanitsolutions.com specifically; several superficially similar company names exist (NAT IT Solutions, NAT IT & Digital Marketing Solutions, Nahum Natan Technology Solutions, etc.) but none are verifiably the same entity as this signup. The email address is hr@natanitsolutions.com, which is a Human Resources inbox rather than a founder/executive address.",
     "source_urls": [
       "https://natanitsolutions.com"
     ]
@@ -10,17 +10,15 @@
   "individual": {
     "name": "Natan",
     "role_if_found": null,
-    "notes": "The email address is hr@natanitsolutions.com, suggesting this person may work in or manage an HR function at the company. The first name 'Natan' is provided but no further individual details (surname, title, LinkedIn, biography) are surfaced from the homepage, which has no staff or team content whatsoever.",
-    "source_urls": [
-      "https://natanitsolutions.com"
-    ]
+    "notes": "Only a first name ('Natan') is known. The email used is hr@natanitsolutions.com \u2014 a departmental HR address \u2014 so 'Natan' may be an HR staff member, HR manager, or simply the person who set up the account; they are likely not the founder. No LinkedIn profile, no personal bio, no title, and no other identifying information could be found for an individual named 'Natan' tied to natanitsolutions.com. The name 'Natan' may also be the company's namesake (the company is called 'Natan IT Solutions'), but this is speculative.",
+    "source_urls": []
   },
   "could_not_find": [
-    "What the company actually does \u2014 no services, products, or industry description found anywhere on the site.",
-    "Company founding story, team size, location, or any 'About' content.",
-    "Individual's last name, exact title, or any personal/professional background.",
-    "Any web search results or third-party references to 'Natan IT Solutions' or 'natanitsolutions.com' that could fill in the gaps.",
-    "Whether the email recipient 'Natan' is the founder, an employee, or an HR administrator \u2014 HR email handle suggests an HR role but this is speculative.",
-    "No logo, tagline, social media links, or contact details were present on the site to infer the company's focus or stage."
+    "Any real company description, services, or offerings \u2014 the website is an unconfigured WordPress default installation with no real content.",
+    "The individual recipient's last name, title, or role.",
+    "Any third-party mentions, news, or profiles for natanitsolutions.com specifically.",
+    "Whether 'Natan' is the founder/owner or simply an HR employee.",
+    "Company size, industry focus, location, founding date, or any other firmographic data.",
+    "Any social media presence (LinkedIn company page, Twitter, etc.) tied to natanitsolutions.com."
   ]
 }
