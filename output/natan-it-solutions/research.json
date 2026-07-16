@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://natanitsolutions.com",
-    "what_they_do": "Unknown. The website is a brand-new, unconfigured WordPress installation with no real content. No products, services, or business description can be determined from the site.",
-    "raw_notes": "The homepage content provided is entirely default WordPress placeholder text ('Hello world! Welcome to WordPress. This is your first post. Edit or delete it, then start writing!') along with lorem ipsum-style filler text. There is no description of what the company does, no team page, no services listed, no pricing, no case studies, and no about page. The domain 'natanitsolutions.com' did not surface any meaningful results in web search \u2014 search results returned only unrelated companies with similar names (NAT IT Solutions at natitsolution.com, NAT IT & Digital Marketing Solutions at natitsolutions.com, etc.). None of these are the same entity as 'Natan IT Solutions' at natanitsolutions.com. The company name 'Natan IT Solutions' suggests an IT services or solutions business, but this is only inference from the name \u2014 it cannot be asserted from any source.",
+    "what_they_do": "Unknown. The website is a default WordPress installation with no real content \u2014 only placeholder/Lorem Ipsum text and the default 'Hello world!' post. No products, services, or business description are published yet.",
+    "raw_notes": "Site appears to be brand new and unconfigured. Homepage contains only the WordPress default first post ('Hello world! Welcome to WordPress. This is your first post. Edit or delete it, then start writing!') and generic Lorem Ipsum filler text. No About page, no Services page, no team information, no company description, no location, no industry signals whatsoever are present.",
     "source_urls": [
       "https://natanitsolutions.com"
     ]
@@ -10,15 +10,15 @@
   "individual": {
     "name": "Natan",
     "role_if_found": null,
-    "notes": "Only a first name ('Natan') is available. The email used is hr@natanitsolutions.com \u2014 the 'hr' prefix suggests this person may work in a human resources function, or the HR email alias was used as the signup address, which could also mean the signee manages HR for the company. No LinkedIn profile, biography, or other public information about an individual named 'Natan' at 'Natan IT Solutions' (natanitsolutions.com) was found. The name 'Natan' may also be the company founder/namesake, given the org name matches the first name, but this is speculative and unsupported by any source.",
+    "notes": "Email address is hr@natanitsolutions.com, which suggests an HR function (HR manager, HR director, or similar people-ops role) rather than a founder/technical role \u2014 though this cannot be confirmed. The first name 'Natan' may match the company name ('Natan IT Solutions'), potentially indicating a founder-named business, but this is speculative. No individual profile, LinkedIn, or bio was findable from first-party sources.",
     "source_urls": []
   },
   "could_not_find": [
-    "Any real company description, product, or service offering \u2014 the website is an unconfigured WordPress default installation with no actual content.",
-    "The individual recipient's last name, title, or role.",
-    "Any public web presence (LinkedIn, news, directories, social media) for 'Natan IT Solutions' at natanitsolutions.com specifically.",
-    "Whether 'Natan' is the founder, an HR staffer, or another role \u2014 the hr@ email prefix adds ambiguity.",
-    "Company size, location, industry vertical, or founding date.",
-    "Any differentiating or noteworthy facts about the company or individual that could serve as a personalization hook."
+    "What the company actually does \u2014 no services, products, or industry described anywhere on the live site",
+    "Company size, location, founding date, or any firmographic data",
+    "Natan's last name, title, or role \u2014 only inferred loosely from the 'hr@' email prefix",
+    "Any team, about, or contact page content",
+    "Any third-party coverage, news, or web presence beyond the domain itself",
+    "Whether 'Natan' in the company name refers to the individual recipient or is coincidental"
   ]
 }
