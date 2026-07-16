@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://natanitsolutions.com",
-    "what_they_do": "Cannot be determined. The homepage contains only default WordPress placeholder content ('Hello world!', 'Welcome to WordPress. This is your first post.') and generic Lorem Ipsum-style filler text. No actual product, service, or business description is present.",
-    "raw_notes": "Site appears to be a brand-new or unconfigured WordPress installation. No 'About', 'Services', 'Products', or any other real page content is visible. Filler text includes generic Lorem Ipsum variants. No logo, tagline, team page, or contact details were found in the provided content. The org name 'Natan IT Solutions' suggests an IT services or technology solutions firm, but this is inference from the name only \u2014 not supported by any site content.",
+    "what_they_do": "Unknown. The website is a brand-new, unconfigured WordPress installation with no real content \u2014 only the default 'Hello world!' placeholder post and Lorem Ipsum filler text. No products, services, or business description are present.",
+    "raw_notes": "The homepage content provided is entirely the default WordPress boilerplate: 'Hello world! Welcome to WordPress. This is your first post. Edit or delete it, then start writing!' accompanied by Lorem Ipsum placeholder text. There is no actual company description, no service list, no team page, no about section, and no indication of what the business does. The org name 'Natan IT Solutions' suggests an IT services or solutions company, but this is only an inference from the name \u2014 nothing is confirmed by the website itself. Web searches for 'natanitsolutions.com' and 'Natan IT Solutions' returned no matching results for this specific entity; all results were unrelated similarly-named companies (NAT IT Solutions, Nateco IT Solutions, Nathan IT Solutions Ltd, etc.).",
     "source_urls": [
       "https://natanitsolutions.com"
     ]
@@ -10,15 +10,15 @@
   "individual": {
     "name": "Natan",
     "role_if_found": null,
-    "notes": "First name is Natan. Email prefix is 'hr@natanitsolutions.com', which suggests this person works in or manages a Human Resources function at the company \u2014 or the HR inbox is a shared/generic mailbox rather than a personal one. No individual profile, LinkedIn, or bio was findable from the site content provided. Cannot confirm whether Natan is the HR contact, a founder, or another role.",
+    "notes": "The email address is hr@natanitsolutions.com, which suggests the signup came through an HR-associated inbox rather than a founder or executive inbox. This may indicate 'Natan' is an HR staff member, office manager, or similar \u2014 or that 'hr@' is simply the address this person uses. No individual named 'Natan' at 'Natan IT Solutions' (natanitsolutions.com) was found in any web search result. First name only was provided; no last name, LinkedIn profile, or other biographical detail is findable.",
     "source_urls": []
   },
   "could_not_find": [
-    "No description of what Natan IT Solutions actually does \u2014 site is an unconfigured WordPress default.",
-    "No services, products, pricing, or target market information.",
-    "No information on company size, founding date, or location.",
-    "No confirmed role or bio for the individual 'Natan' \u2014 'hr@' may be a shared inbox, not a personal email.",
-    "No social media profiles, press mentions, or third-party sources found from provided inputs.",
-    "Cannot verify whether the company is operational or pre-launch."
+    "Any real business description or service offering from natanitsolutions.com \u2014 the site is an unconfigured WordPress default install with no content.",
+    "Any web search results confirming the existence of 'Natan IT Solutions' at natanitsolutions.com as an established business.",
+    "The individual recipient's last name, role/title, or any professional profile.",
+    "Company founding date, size, location, industry vertical, or target market.",
+    "Whether 'Natan' is the founder, an employee, or simply the owner of the hr@ inbox.",
+    "Any social media presence (LinkedIn, Twitter/X, etc.) for this specific company or individual."
   ]
 }
