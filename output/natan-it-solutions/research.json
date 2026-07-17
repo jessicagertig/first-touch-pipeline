@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://natanitsolutions.com",
-    "what_they_do": "Cannot be determined. The website is a freshly installed, unconfigured WordPress instance with no real content \u2014 only the default 'Hello world!' placeholder post and Lorem Ipsum filler text. No products, services, industry, or business description are present.",
-    "raw_notes": "The homepage content provided is entirely default WordPress boilerplate: 'Hello world! Welcome to WordPress. This is your first post. Edit or delete it, then start writing!' \u2014 plus Lorem Ipsum fragments. There is no real business content whatsoever. Web searches for 'natanitsolutions.com' and 'Natan IT Solutions' returned no matching results for this specific domain. Multiple similarly-named but unrelated companies exist (natitsolutions.com, natitsolution.com, nat-solutions.com, etc.) \u2014 none of these can be reliably attributed to this registrant. The email address used is hr@natanitsolutions.com, suggesting the sender may be in an HR function, but this is speculative.",
+    "what_they_do": "Cannot be determined. The website at natanitsolutions.com is a default, unconfigured WordPress installation showing only placeholder content ('Hello world! Welcome to WordPress. This is your first post.') and Lorem Ipsum-style filler text. No real products, services, or business description are published.",
+    "raw_notes": "The homepage content provided directly from natanitsolutions.com consists entirely of WordPress default boilerplate: the 'Hello world!' first post, generic Lorem Ipsum-variant text ('Amet consectur adipiscing elit...'), and a repeated 'Welcome to WordPress' message. There is zero substantive content about what the company does, who it serves, or what it offers. Web searches for 'Natan IT Solutions' and 'natanitsolutions.com' returned no matching results \u2014 all results are unrelated companies with similar-sounding names (NAT IT Solutions at natitsolutions.com, NAT IT Solutions at natitsolution.com, A-NAT Solutions, NAT Solutions, etc.). None of these can be attributed to this signup's domain with confidence.",
     "source_urls": [
       "https://natanitsolutions.com"
     ]
@@ -10,16 +10,15 @@
   "individual": {
     "name": "Natan",
     "role_if_found": null,
-    "notes": "Only a first name ('Natan') is available. The email prefix 'hr@' suggests the individual may work in human resources, but this is not confirmed \u2014 'hr@' could also be a generic company inbox rather than a personal address. No LinkedIn profile, biography, or any other identifying information was found for this individual at this company.",
+    "notes": "The email address is hr@natanitsolutions.com, suggesting the recipient may work in an HR or people-operations function at the company \u2014 but this is inferred from the email prefix only, not from any external source. No individual named 'Natan' associated with natanitsolutions.com was found in web search results. The first name 'Natan' also matches the company name, which may indicate this is a founder or owner, but there is no source to confirm this.",
     "source_urls": []
   },
   "could_not_find": [
-    "Last name of the individual 'Natan'.",
-    "Any confirmed role or title for the individual.",
-    "Any real business description, services, or industry for Natan IT Solutions \u2014 the website is an unconfigured WordPress default page with no content.",
-    "No third-party sources (web search, news, directories) return results specifically for natanitsolutions.com or this company.",
-    "Company size, founding date, location, or any other firmographic data.",
-    "Whether 'Natan' is the founder, an HR staffer, or something else \u2014 cannot be determined.",
-    "No usable hook or personalisation basis exists for this contact at this time."
+    "Any real business description, product, or service offering \u2014 the website is an unconfigured WordPress default install with only placeholder content.",
+    "Any information about the individual recipient 'Natan' \u2014 no LinkedIn profile, bio, or role confirmation found.",
+    "Company industry, target market, team size, or founding date \u2014 none published anywhere.",
+    "Whether the 'hr@' email prefix indicates a dedicated HR person or simply the owner using that prefix \u2014 cannot confirm.",
+    "No third-party mentions, press, or directory listings for natanitsolutions.com specifically were found in web search results.",
+    "Cannot confirm company is the same as any of the similarly-named IT firms returned in search (natitsolutions.com, natitsolution.com, etc.) \u2014 these are distinct domains and likely unrelated entities."
   ]
 }
