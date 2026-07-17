@@ -1,0 +1,58 @@
+{
+  "candidates": [
+    {
+      "item": "From day one, we've embraced sustainability \u2014 sending tulsi seeds with every order \u2014 and we empower young girls to express themselves boldly through accessories.",
+      "why_interesting": "Tucking tulsi (holy basil) seeds into every single jewellery package is a quirky, concrete ritual \u2014 not a vague 'eco pledge' \u2014 that surprises customers enough that they mention it unprompted in reviews ('complimentary thoughtful gift of tulsi seeds to plant was remarkable'). No comparable D2C accessory brand does this as a from-day-one standard.",
+      "level": "company",
+      "source_url": "https://www.ishkaara.com/en-us/pages/about-us",
+      "as_of_date_if_known": "2025\u20132026 (page live as of research date)",
+      "recency_note": "Confirmed active; customer reviews on homepage and product pages independently corroborate the practice.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Ishkaara was born when our founder, Vidhi Jain, couldn't find accessories that truly spoke. As a Delhi University student with an eye for bold, statement pieces, she decided to create them herself. What started as a passion project quickly grew into a community \u2014 from college stalls to lakhs of customers online.",
+      "why_interesting": "The origin story is unusually scrappy and specific: a DU student who couldn't find what she wanted, sold at college stalls, and scaled to hundreds of thousands of customers without (publicly known) VC money. That arc \u2014 campus stall to D2C brand on Myntra and Nykaa \u2014 is the kind of concrete underdog detail that is easy to react to.",
+      "level": "company",
+      "source_url": "https://www.ishkaara.com/en-us/pages/about-us",
+      "as_of_date_if_known": "2025\u20132026",
+      "recency_note": "Confirmed on About Us page; LinkedIn lists Vidhi Jain as Founder & CEO.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "I've been shopping from you since almost a year and I wanted to tell you one thing, this amazing thing you do while sending freebies. I've got freebies with everyyyy order I've placed and that excitement I hold whenever I receive your parcel is unexplainable. I'm more excited to see what freebies you've sent rather than checking the stuff I've ordered.",
+      "why_interesting": "A real customer review \u2014 verbatim, unpolished \u2014 that reveals Ishkaara's freebie mechanic has flipped the typical unboxing dynamic: the surprise gift outshines the thing actually purchased. This is a concrete, human reaction to their tiered gifting system (mystery jewellery above \u20b9999, Self-Love Organiser above \u20b91,499), not a brand claim.",
+      "level": "company",
+      "source_url": "https://www.ishkaara.com (homepage reviews)",
+      "as_of_date_if_known": "Live on homepage as of research date",
+      "recency_note": "Sourced from live homepage review carousel; independently corroborated by multiple other reviews.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Ishkaara has found its way into the spotlight \u2014 from reality shows like Bigg Boss, MTV Hustle, and Saregama Pa, to features in Grazia... Our pieces have been styled by icons such as Kareena Kapoor Khan, Ananya Panday, Yo Yo Honey Singh, Neha Kakkar, Sunidhi Chauhan, and Urvashi Rautela.",
+      "why_interesting": "For an affordable D2C brand that started at college stalls, landing placements on Bigg Boss and being worn by Kareena Kapoor Khan without any apparent paid celebrity endorsement deal (none is claimed) is a striking gap between the brand's price point and its cultural reach.",
+      "level": "company",
+      "source_url": "https://www.ishkaara.com/en-us/pages/about-us",
+      "as_of_date_if_known": "2025\u20132026",
+      "recency_note": "Stated on About Us page; no independent verification of specific celebrity styling was conducted.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "3 Hour Express Delivery in Delhi NCR",
+      "why_interesting": "A 3-hour delivery window for fashion jewellery is an unusually bold logistical promise for a small homegrown D2C brand \u2014 this is Amazon-level speed applied to handpicked accessories, which is genuinely surprising for a brand at this scale.",
+      "level": "company",
+      "source_url": "https://www.ishkaara.com/en-us/collections/all",
+      "as_of_date_if_known": "Live on site as of research date",
+      "recency_note": "Confirmed appearing as a live site-wide banner on multiple Ishkaara pages.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Previously known as 'Jewelishk'; rebranded to Ishkaara.",
+      "why_interesting": "The rebrand from a relatively generic portmanteau name ('Jewelishk') to the more evocative 'Ishkaara' signals a deliberate brand maturation moment \u2014 a concrete narrative beat that is easy to reference as a sign of intentional growth.",
+      "level": "company",
+      "source_url": "https://ishkaara.com (raw research notes, referenced in step-1 JSON)",
+      "as_of_date_if_known": "Unknown exact rebrand date",
+      "recency_note": "Sourced from step-1 research notes; not independently confirmed via a third-party press article in this search round. Treat with moderate confidence.",
+      "sensitivity": "none"
+    }
+  ]
+}

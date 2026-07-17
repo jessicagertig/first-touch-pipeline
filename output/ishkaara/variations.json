@@ -1,0 +1,78 @@
+{
+  "lead_id": "ishkaara",
+  "company_name": "Ishkaara",
+  "recipient_name": "Navya  Mehrotra",
+  "email": "navya@ishkaara.com",
+  "variations": [
+    {
+      "variant_n": 1,
+      "compliment": "Ishkaara looks like a wonderful brand - the freebies with every order are such a fun touch, and customers clearly love them - one review said the excitement of seeing what freebie you'd sent beat opening the actual order!",
+      "email": "Hello Navya,\n\nThanks for checking out Polymer! Ishkaara looks like a wonderful brand - the freebies with every order are such a fun touch, and customers clearly love them - one review said the excitement of seeing what freebie you'd sent beat opening the actual order!\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.ishkaara.com"
+      ],
+      "score": 8,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1784285854.199909",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 2,
+      "compliment": "Ishkaara looks great - I love that a passion project started at college stalls has grown into a community of lakhs of customers.",
+      "email": "Hello Navya,\n\nThanks for checking out Polymer! Ishkaara looks great - I love that a passion project started at college stalls has grown into a community of lakhs of customers.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.ishkaara.com/en-us/pages/about-us"
+      ],
+      "score": 9,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1784285854.305999",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 3,
+      "compliment": "Ishkaara looks amazing - I love that you send tulsi seeds with every order and focus on empowering young girls to express themselves boldly through accessories.",
+      "email": "Hello Navya,\n\nThanks for checking out Polymer! Ishkaara looks amazing - I love that you send tulsi seeds with every order and focus on empowering young girls to express themselves boldly through accessories.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.ishkaara.com/en-us/pages/about-us"
+      ],
+      "score": 8,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1784285854.407309",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 4,
+      "compliment": "Ishkaara looks like a fantastic company - having your pieces styled by icons like Kareena Kapoor Khan and Ananya Panday and featured on shows like Bigg Boss is seriously impressive.",
+      "email": "Hello Navya,\n\nThanks for checking out Polymer! Ishkaara looks like a fantastic company - having your pieces styled by icons like Kareena Kapoor Khan and Ananya Panday and featured on shows like Bigg Boss is seriously impressive.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.ishkaara.com/en-us/pages/about-us"
+      ],
+      "score": 9,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1784285854.512269",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 5,
+      "compliment": "Ishkaara looks great - I love that a passion project started at college stalls has grown into a community of 3 lakh+ happy customers.",
+      "email": "Hello Navya,\n\nThanks for checking out Polymer! Ishkaara looks great - I love that a passion project started at college stalls has grown into a community of 3 lakh+ happy customers.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.ishkaara.com/en-us/pages/about-us"
+      ],
+      "score": 9,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1784285854.622449",
+      "slack_channel": "C0B87Q5UEL9"
+    }
+  ]
+}
