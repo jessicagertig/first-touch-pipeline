@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://natanitsolutions.com",
-    "what_they_do": "Unknown. The website is a brand-new, unconfigured WordPress installation. No real business content has been published \u2014 the only content present is WordPress default placeholder text ('Hello world! Welcome to WordPress. This is your first post.') and generic Lorem Ipsum filler. No services, products, team, or mission have been described.",
-    "raw_notes": "The homepage at natanitsolutions.com contains exclusively WordPress default content: the 'Hello world!' sample post, Lorem Ipsum-style placeholder text, and no custom pages, navigation, or business information. The site is live but has not been built out. Web searches for 'Natan IT Solutions' and 'natanitsolutions.com' returned zero matching results \u2014 all search results are for unrelated companies (NAT IT Solutions, NAT solutions, NAN IT Solutions, A-NAT Solutions, etc.) with different domains. The company name 'Natan IT Solutions' suggests an IT services or solutions business, but this cannot be confirmed from any source. The email used for signup is hr@natanitsolutions.com, indicating the sender may be from an HR function, but this is speculative.",
+    "what_they_do": "Unknown. The website is a default, unconfigured WordPress installation with no real content \u2014 only the auto-generated 'Hello world!' placeholder post and Lorem Ipsum filler text. No products, services, industry, or company description are present.",
+    "raw_notes": "Site contains only WordPress default content: 'Hello world!' post, Lorem Ipsum fragments, and no actual business information. The site has not been set up beyond initial WordPress installation. Cannot determine industry, offerings, team size, or any other company detail from this source.",
     "source_urls": [
       "https://natanitsolutions.com"
     ]
@@ -10,16 +10,16 @@
   "individual": {
     "name": "Natan",
     "role_if_found": null,
-    "notes": "First name only is available: 'Natan'. The signup email is hr@natanitsolutions.com, which suggests this person may work in HR or is using an HR-designated inbox, but this is an inference from the email prefix \u2014 not confirmed by any source. No LinkedIn profile, personal bio, or external reference to an individual named 'Natan' at 'Natan IT Solutions' was found. The company name shares the first name 'Natan', which may indicate this person is the founder or owner, but this cannot be confirmed.",
+    "notes": "Only the first name 'Natan' is known. The email address used is hr@natanitsolutions.com, which suggests an HR function or HR-related role within the company, but this is inferred from the email prefix only \u2014 no confirmed title, LinkedIn profile, or biography was found. No further identifying information is available.",
     "source_urls": []
   },
   "could_not_find": [
-    "No real company website content exists \u2014 natanitsolutions.com is an unconfigured WordPress install with only default placeholder text.",
-    "No description of what the company actually does, its services, products, industry, or target market.",
-    "No information about the individual recipient beyond first name ('Natan') and email prefix ('hr@').",
-    "No LinkedIn, Crunchbase, news, or any third-party references to 'Natan IT Solutions' at natanitsolutions.com specifically.",
-    "Recipient's surname, title, and role are all unknown.",
-    "Cannot confirm whether Natan is the founder, an HR staff member, or something else.",
-    "Company size, location, founding date, and stage are all unknown."
+    "Company's actual products or services \u2014 website is a blank WordPress placeholder with no real content.",
+    "Company industry, sector, or market.",
+    "Company founding date, size, or location.",
+    "Natan's last name or confirmed job title.",
+    "Any team, leadership, or about-page information.",
+    "Any external news, press, or third-party mentions of Natan IT Solutions.",
+    "Natan's individual professional profile (LinkedIn or equivalent)."
   ]
 }
