@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://natanitsolutions.com",
-    "what_they_do": "Unknown. The website exists but contains only default WordPress placeholder content with no real business information.",
-    "raw_notes": "The homepage at natanitsolutions.com is a freshly installed WordPress site with no meaningful content \u2014 it shows only the default 'Hello world! Welcome to WordPress. This is your first post.' text, Lorem Ipsum-style filler paragraphs, and no actual description of services, industry, team, or product. No web search results matched this specific domain or company name. Several similarly named but unrelated companies exist (NAT IT Solutions at natitsolution.com, natitsolutions.com, etc.) but none of these are natanitsolutions.com and none can be attributed to this signup. The email is an hr@ address, which may indicate the company has an HR function, but nothing further can be confirmed.",
+    "what_they_do": "Unknown. The website is a brand-new, unconfigured WordPress installation showing only default placeholder content ('Hello world! Welcome to WordPress. This is your first post.'). No actual products, services, or business description are present.",
+    "raw_notes": "The homepage content provided is entirely default WordPress boilerplate \u2014 the 'Hello world!' post, Lorem Ipsum-style filler text, and no custom content whatsoever. This indicates the site was very recently registered and has not been built out yet. No about page, no services page, no team info, no location, no industry signals are available from the site itself. Web searches for 'Natan IT Solutions' and 'natanitsolutions.com' returned no matching results \u2014 only unrelated companies with similar names (NAT IT Solutions, NAN IT Solutions, Nahum Natan Technology Solutions, etc.). None of those can be attributed to this signup. The email prefix 'hr@' suggests the sender may be in an HR or administrative role, or is using a generic departmental address. The org name 'Natan IT Solutions' implies an IT services or technology-oriented business, but this cannot be confirmed from any source.",
     "source_urls": [
       "https://natanitsolutions.com"
     ]
@@ -10,14 +10,15 @@
   "individual": {
     "name": "Natan",
     "role_if_found": null,
-    "notes": "Only a first name ('Natan') is available. The email prefix is 'hr@', suggesting this person may work in an HR or people-operations capacity at the company, but this is an inference from the email address only \u2014 not confirmed by any source. No LinkedIn profile, bio, or other individual-level information was found for this person at this organization.",
+    "notes": "Only a first name ('Natan') is available. The email address is 'hr@natanitsolutions.com', which is a departmental/functional address (HR), not a personal one \u2014 so 'Natan' may or may not be the HR contact; it could simply be the name used at signup. No LinkedIn profile, biography, or any other public information was found for an individual named Natan at this company. Cannot confirm role, last name, or any personal background.",
     "source_urls": []
   },
   "could_not_find": [
-    "Any real business description, services, or industry for Natan IT Solutions \u2014 the website is a blank WordPress install with only placeholder content.",
-    "No third-party web search results match natanitsolutions.com specifically.",
-    "Individual's last name, job title, or any personal/professional background.",
-    "Company founding date, size, location, or funding information.",
-    "Whether the company is newly founded or simply has not yet built out its web presence."
+    "Any real business description, services, or offerings from natanitsolutions.com \u2014 site is an unconfigured WordPress default install.",
+    "Any corroborating web presence for 'Natan IT Solutions' (no social media, no directory listings, no news coverage found).",
+    "Individual recipient's full name, last name, or role.",
+    "Company location, founding date, team size, or target market.",
+    "Whether the 'hr@' address means the recipient works in HR or is simply using a catch-all/generic inbox.",
+    "Any first-party content usable as a personalization hook \u2014 nothing credible exists yet."
   ]
 }
