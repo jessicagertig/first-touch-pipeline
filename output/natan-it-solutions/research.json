@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://natanitsolutions.com",
-    "what_they_do": "Cannot be determined. The website contains only the default WordPress placeholder content ('Hello world! This is your first post.') with no real company information, product descriptions, or service listings. The site appears to be freshly installed and not yet configured.",
-    "raw_notes": "Homepage is an uncustomized WordPress default install. No about page, no services page, no product info, no team info, no tagline, no logo, no real copy \u2014 only WordPress boilerplate text and Lorem Ipsum-style filler. The org name 'Natan IT Solutions' suggests IT services/consulting of some kind, but this is inference from the name only, not from any published content. Cannot assert anything about what they actually do.",
+    "what_they_do": "Cannot be determined. The website contains only a default WordPress placeholder ('Hello world!') with Lorem Ipsum-style filler text and no real company content.",
+    "raw_notes": "The homepage is an out-of-the-box WordPress install with zero customisation. No products, services, about page, team page, or any real content is present. The org name 'Natan IT Solutions' suggests an IT services or technology solutions company, but this is inference from the name alone \u2014 not supported by any first-party source content.",
     "source_urls": [
       "https://natanitsolutions.com"
     ]
@@ -10,17 +10,17 @@
   "individual": {
     "name": "Natan",
     "role_if_found": null,
-    "notes": "Email address is hr@natanitsolutions.com, which places this person in an HR function (or they are using/managing the HR inbox). First name 'Natan' matches the company name, which may suggest a founder or owner, but this is speculative inference \u2014 no sourced confirmation. No individual profile, LinkedIn, or bio was findable from the provided content.",
+    "notes": "Only a first name ('Natan') and an email address at the hr@ subdomain are available. The hr@ prefix could indicate this person works in Human Resources, or it may simply be a chosen email alias. No role, title, LinkedIn profile, or biographical detail could be confirmed from available sources.",
     "source_urls": []
   },
   "could_not_find": [
-    "What the company actually does \u2014 website has zero real content",
+    "What the company actually does \u2014 website has no real content",
     "Company founding date, size, industry vertical, or target market",
-    "Any products, services, or client information",
+    "Any products or services offered",
     "Natan's last name",
-    "Natan's specific role or title (founder, HR manager, employee, etc.)",
-    "Any team information or company background",
-    "Any news, press, or third-party mentions of the company",
-    "Whether 'Natan' in the company name refers to the same individual who signed up"
+    "Natan's confirmed role or title",
+    "Any team, about, or leadership page",
+    "Any third-party coverage, news, or web presence for this company",
+    "Whether 'hr@' reflects a genuine HR role or is just an email alias"
   ]
 }
