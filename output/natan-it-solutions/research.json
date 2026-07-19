@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://natanitsolutions.com",
-    "what_they_do": "Unknown. The website is a brand-new, unconfigured WordPress installation with only the default placeholder content ('Hello world! Welcome to WordPress. This is your first post.'). No actual products, services, or business description are present on the site.",
-    "raw_notes": "The homepage content provided is entirely WordPress default/placeholder text \u2014 'Hello world! Welcome to WordPress. This is your first post. Edit or delete it, then start writing!' \u2014 along with Lorem Ipsum-style filler text ('Amet consectur adipiscing elit...'). There is zero first-party business content to analyze. The domain natanitsolutions.com did not surface in web search results, confirming it is too new or unlaunched to have any indexed presence. No products, services, team info, pricing, or mission statement exist on the site. Web searches for 'Natan IT Solutions' and 'natanitsolutions.com' returned only unrelated companies with similar-sounding names (NAT IT Solutions, NAN IT Solutions, NAT solutions, Nahum Natan Technology Solutions, etc.) \u2014 none of which are verifiably the same entity as natanitsolutions.com.",
+    "what_they_do": "Unknown. The website exists but contains only default WordPress placeholder content with no real business information.",
+    "raw_notes": "The homepage at natanitsolutions.com is a freshly installed WordPress site with no meaningful content \u2014 it shows only the default 'Hello world! Welcome to WordPress. This is your first post.' text, Lorem Ipsum-style filler paragraphs, and no actual description of services, industry, team, or product. No web search results matched this specific domain or company name. Several similarly named but unrelated companies exist (NAT IT Solutions at natitsolution.com, natitsolutions.com, etc.) but none of these are natanitsolutions.com and none can be attributed to this signup. The email is an hr@ address, which may indicate the company has an HR function, but nothing further can be confirmed.",
     "source_urls": [
       "https://natanitsolutions.com"
     ]
@@ -10,16 +10,14 @@
   "individual": {
     "name": "Natan",
     "role_if_found": null,
-    "notes": "Only the first name 'Natan' is available from the signup. The email used is hr@natanitsolutions.com \u2014 the 'hr' prefix suggests this person may work in a human resources capacity, or this is a generic HR/department inbox rather than a personal email. No LinkedIn profile, personal bio, or any other individual-level information was found for a 'Natan' at natanitsolutions.com. It is also possible 'Natan' is the founder or owner, given the company name matches the first name, but this cannot be confirmed from available sources.",
+    "notes": "Only a first name ('Natan') is available. The email prefix is 'hr@', suggesting this person may work in an HR or people-operations capacity at the company, but this is an inference from the email address only \u2014 not confirmed by any source. No LinkedIn profile, bio, or other individual-level information was found for this person at this organization.",
     "source_urls": []
   },
   "could_not_find": [
-    "What the company actually does \u2014 website is an unconfigured WordPress default with no real content.",
-    "Company industry, services, products, or target market.",
-    "Individual's last name, confirmed role/title, or any public professional profile.",
-    "Whether 'Natan' is the founder/owner or an HR employee \u2014 the hr@ prefix is ambiguous.",
-    "Company size, location, founding date, or any firmographic data.",
-    "Any news, press, or third-party mentions of natanitsolutions.com specifically.",
-    "No web search results matched natanitsolutions.com \u2014 the domain appears to have no indexed presence beyond its own (blank) site."
+    "Any real business description, services, or industry for Natan IT Solutions \u2014 the website is a blank WordPress install with only placeholder content.",
+    "No third-party web search results match natanitsolutions.com specifically.",
+    "Individual's last name, job title, or any personal/professional background.",
+    "Company founding date, size, location, or funding information.",
+    "Whether the company is newly founded or simply has not yet built out its web presence."
   ]
 }
