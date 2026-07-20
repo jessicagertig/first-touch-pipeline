@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://natanitsolutions.com",
-    "what_they_do": "Unknown. The website contains only the default WordPress placeholder content ('Hello world! Welcome to WordPress. This is your first post.') and generic Lorem Ipsum-style filler text. No actual company description, services, products, or about page content is present.",
-    "raw_notes": "Site appears to be a brand-new or unconfigured WordPress installation. No homepage copy, no product or service descriptions, no team or about section, no case studies, no blog posts, no social links, no location or industry indicators. All visible text is either WordPress boilerplate or dummy Lorem Ipsum text. The org name 'Natan IT Solutions' suggests an IT services or technology solutions firm, but this is inference from the name only \u2014 nothing on the site confirms it.",
+    "what_they_do": "Unknown. The website is a brand-new, unconfigured WordPress installation with only default placeholder content ('Hello world! Welcome to WordPress. This is your first post.'). No real business description, services, team, or product information is present.",
+    "raw_notes": "The homepage at natanitsolutions.com contains exclusively WordPress default/placeholder text and lorem ipsum filler. There is no content describing the company's actual services, industry, team, pricing, clients, or mission. The site appears to have been set up very recently and has not yet been populated with real content. The org_name 'Natan IT Solutions' suggests an IT services or solutions company, but this is inferred only from the name \u2014 nothing on the site confirms it. Web searches for 'natanitsolutions.com' and 'Natan IT Solutions' returned no matching results for this specific domain or company; all results were unrelated similarly-named businesses (NAT IT Solutions, Nateco IT Solutions, Nahum Natan Technology Solutions, etc.). None of those can be attributed to this signup.",
     "source_urls": [
       "https://natanitsolutions.com"
     ]
@@ -10,14 +10,14 @@
   "individual": {
     "name": "Natan",
     "role_if_found": null,
-    "notes": "Email address is hr@natanitsolutions.com, which places this person in an HR or human resources function at the company. First name is Natan. No further information about this individual \u2014 full name, title, LinkedIn, or biography \u2014 could be confirmed from the homepage content or the company website, which has no team or staff pages.",
+    "notes": "The email address is hr@natanitsolutions.com, which places this person in an HR function \u2014 suggesting they may be an HR manager, HR director, or similar people-ops role at the company. However, this is inferred from the email prefix only; no first-party or third-party source confirms their actual title, last name, or personal background. No LinkedIn profile, bio, or other individual-level data was found for this person. The first name 'Natan' may also be the company's founder/namesake, but this is purely speculative.",
     "source_urls": []
   },
   "could_not_find": [
-    "Company's actual business description, services, or industry \u2014 website is an unconfigured WordPress default install with no real content.",
-    "Individual's full name, exact job title, or any biographical detail beyond first name and HR email prefix.",
-    "Company founding story, team size, clients, or geographic focus.",
-    "Any external web presence (news, LinkedIn company page, Crunchbase, etc.) confirmed to belong to this specific company \u2014 not searched yet, but homepage provides zero corroborating detail to verify matches.",
-    "Whether 'Natan' is the founder/owner or simply an HR employee \u2014 cannot be determined from available data."
+    "Any real business description or services for natanitsolutions.com \u2014 site is an unconfigured WordPress placeholder",
+    "Company industry, size, location, founding date, or clients",
+    "Individual's last name, title, or any biographical information",
+    "No web search results matched this specific company or domain \u2014 it may be too new or too small to be indexed",
+    "Whether 'Natan' in the company name refers to the individual recipient or is coincidental"
   ]
 }
