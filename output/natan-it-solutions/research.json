@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://natanitsolutions.com",
-    "what_they_do": "Unknown. The website is a brand-new, unconfigured WordPress installation showing only the default 'Hello world!' placeholder post and Lorem Ipsum filler text. No real content, products, services, or company description have been published yet.",
-    "raw_notes": "The homepage content provided consists entirely of WordPress default content: the 'Hello world!' first post prompt, a Lorem Ipsum-style passage ('There are many variations of passages...'), and a repeated WordPress onboarding message. None of this reflects actual business activity or offerings. The domain natanitsolutions.com did not surface any meaningful third-party results in web search \u2014 no LinkedIn page, no news, no directory listings, no crunchbase, no reviews. The org_name 'Natan IT Solutions' returned no matching, verifiable results. Superficially similar companies found (NAT IT Solutions at natitsolution.com, NAT IT & Digital Marketing Solutions at natitsolutions.com, Nathan IT Solutions Limited on UK Companies House) are distinct entities and cannot be used as proxies for this company.",
+    "what_they_do": "Unknown. The website is a default, unconfigured WordPress installation with no real content \u2014 only placeholder/Lorem Ipsum text and the default 'Hello World' first post. No products, services, or business description are present.",
+    "raw_notes": "Site is a freshly installed WordPress instance. Content is entirely auto-generated placeholder text ('Hello world!', 'Welcome to WordPress. This is your first post. Edit or delete it, then start writing!') and Lorem Ipsum-style filler. No 'About' page, no service descriptions, no team info, no branding beyond the domain name. The org name 'Natan IT Solutions' suggests an IT services or technology solutions company, but this is inference from the name only \u2014 nothing on the site confirms it.",
     "source_urls": [
       "https://natanitsolutions.com"
     ]
@@ -10,15 +10,15 @@
   "individual": {
     "name": "Natan",
     "role_if_found": null,
-    "notes": "Only a first name ('Natan') and the HR email address (hr@natanitsolutions.com) are available. The 'hr@' prefix suggests this person works in Human Resources, or that HR is the functional inbox used at signup \u2014 but this is an inference from the email prefix, not a confirmed role. No LinkedIn profile, biography, or other public record for an individual named 'Natan' at 'Natan IT Solutions' was found. It is also possible 'Natan' is the founder/owner, given the company name appears to incorporate their personal name, but this cannot be confirmed from available sources.",
+    "notes": "Email address is hr@natanitsolutions.com, which places this person in an HR function (Human Resources). First name 'Natan' matches the company name, which may suggest a founder or namesake, but this is speculative. No individual profile, LinkedIn, or biographical information was found on the company website. No other first-party source available.",
     "source_urls": []
   },
   "could_not_find": [
-    "Company's actual products or services \u2014 website is an unconfigured WordPress placeholder with no real content.",
-    "Company founding date, size, location, or industry vertical.",
-    "Individual's last name, confirmed job title, or any professional profile.",
-    "Any third-party mentions, news, or directory listings for natanitsolutions.com or 'Natan IT Solutions'.",
-    "Whether 'Natan' is the founder, an HR staff member, or another role \u2014 the hr@ email prefix is ambiguous.",
-    "No usable first-party hook or compliment basis exists at this time; the site must be treated as a brand-new, pre-launch WordPress setup."
+    "What the company actually does \u2014 no services, products, or business description exist on the website yet.",
+    "Natan's last name, title, or specific role beyond the HR email prefix.",
+    "Any team, about, or leadership page.",
+    "Company founding date, size, or location.",
+    "Any external mentions, news, or third-party references to the company.",
+    "Whether 'Natan' is the founder/owner or simply an HR staff member."
   ]
 }
