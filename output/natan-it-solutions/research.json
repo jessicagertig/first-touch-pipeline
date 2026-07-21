@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://natanitsolutions.com",
-    "what_they_do": "Unknown. The website is a default, unconfigured WordPress installation with no real content \u2014 only placeholder/Lorem Ipsum text and the default 'Hello World' first post. No products, services, or business description are present.",
-    "raw_notes": "Site is a freshly installed WordPress instance. Content is entirely auto-generated placeholder text ('Hello world!', 'Welcome to WordPress. This is your first post. Edit or delete it, then start writing!') and Lorem Ipsum-style filler. No 'About' page, no service descriptions, no team info, no branding beyond the domain name. The org name 'Natan IT Solutions' suggests an IT services or technology solutions company, but this is inference from the name only \u2014 nothing on the site confirms it.",
+    "what_they_do": "Unknown. The website at natanitsolutions.com is a brand-new, unconfigured WordPress installation. The only content present is the default WordPress placeholder text ('Hello world! Welcome to WordPress. This is your first post.') and lorem ipsum filler copy. No actual products, services, industry, or business description can be determined from this source.",
+    "raw_notes": "The homepage content is entirely WordPress boilerplate \u2014 'Hello world! Welcome to WordPress. This is your first post. Edit or delete it, then start writing!' plus stock lorem ipsum text. There is zero first-party content describing what the company actually does. The org_name 'Natan IT Solutions' suggests an IT services or solutions company, but this is inference from the name alone, not from any published content. Web searches returned no results for 'natanitsolutions.com' specifically. Other similarly-named companies found in search (natitsolutions.com, natitsolution.com, nat-solutions.com, etc.) are entirely distinct entities with no confirmed relationship to this signup.",
     "source_urls": [
       "https://natanitsolutions.com"
     ]
@@ -10,15 +10,16 @@
   "individual": {
     "name": "Natan",
     "role_if_found": null,
-    "notes": "Email address is hr@natanitsolutions.com, which places this person in an HR function (Human Resources). First name 'Natan' matches the company name, which may suggest a founder or namesake, but this is speculative. No individual profile, LinkedIn, or biographical information was found on the company website. No other first-party source available.",
+    "notes": "The signup email is hr@natanitsolutions.com, which places this person in an HR function (or they are using an HR-labeled inbox). First name is 'Natan'. No last name provided. No LinkedIn profile, personal bio, or any other public information found for this individual in connection with natanitsolutions.com. The HR email address could indicate an HR manager/director, or it could be a generic departmental inbox rather than a personal one \u2014 so the individual identity behind 'Natan' is uncertain.",
     "source_urls": []
   },
   "could_not_find": [
-    "What the company actually does \u2014 no services, products, or business description exist on the website yet.",
-    "Natan's last name, title, or specific role beyond the HR email prefix.",
-    "Any team, about, or leadership page.",
-    "Company founding date, size, or location.",
-    "Any external mentions, news, or third-party references to the company.",
-    "Whether 'Natan' is the founder/owner or simply an HR staff member."
+    "Company website is a blank WordPress install \u2014 no description of services, industry, team, or mission available.",
+    "No web search results index natanitsolutions.com, confirming the site is too new or has no SEO presence yet.",
+    "No individual profile found for 'Natan' at this company \u2014 no LinkedIn, no About page, no press mentions.",
+    "Last name of recipient unknown.",
+    "Role of recipient is inferred only from the 'hr@' email prefix; not confirmed from any source.",
+    "Company size, location, founding date, and industry are all unknown.",
+    "Cannot confirm whether this is a new company being set up or an established one with a brand-new website."
   ]
 }
