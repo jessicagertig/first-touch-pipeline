@@ -1,14 +1,8 @@
 {
   "company": {
     "website": "https://natanitsolutions.com",
-    "what_they_do": "Unknown. The website is a default, unconfigured WordPress installation. No real business content, product descriptions, service pages, or about information are present. The homepage contains only the WordPress placeholder post ('Hello world! Welcome to WordPress. This is your first post.') and generic Lorem Ipsum-style filler text. No actual services, offerings, or company description can be determined from this source.",
-    "raw_notes": [
-      "Primary source (natanitsolutions.com) is a freshly installed WordPress site with zero real content \u2014 only the default 'Hello world!' post and Lorem Ipsum filler. No About, Services, Team, or Contact pages with real data were found.",
-      "Web search for 'natanitsolutions.com' surfaced a similarly-named but distinct entity at natitsolutions.com (NAT IT & Digital Marketing Solutions), which covers IT support, network support, maintenance, and digital marketing for small-to-mid-sized businesses. This is NOT the same domain and cannot be attributed to this prospect.",
-      "No other web search result maps to natanitsolutions.com or to a company explicitly called 'Natan IT Solutions' with this domain.",
-      "The org_name 'Natan IT Solutions' is consistent with an IT services/solutions brand, but no specifics (services, geography, team size, founding date) are verifiable from any source.",
-      "Email address is hr@natanitsolutions.com \u2014 the 'hr' prefix suggests this may be an HR/People function contact, possibly an HR manager or HR admin rather than a founder or executive."
-    ],
+    "what_they_do": "Unknown. The website is a default, unconfigured WordPress installation with no real content \u2014 only the auto-generated 'Hello world!' placeholder post and Lorem Ipsum filler text. No products, services, or business description are present.",
+    "raw_notes": "Site is a fresh WordPress install. Homepage contains only: the default 'Hello world!' first post, the default WordPress welcome message, and generic Lorem Ipsum-style placeholder text. No logo, no navigation, no description of services, no team page, no case studies, no pricing \u2014 nothing substantive. The org name 'Natan IT Solutions' suggests IT services or technology solutions of some kind, but this is inference from the name only, not supported by any first-party source content.",
     "source_urls": [
       "https://natanitsolutions.com"
     ]
@@ -16,15 +10,17 @@
   "individual": {
     "name": "Natan",
     "role_if_found": null,
-    "notes": "Only a first name ('Natan') is available. The email prefix is 'hr', which suggests the recipient works in a Human Resources or People Operations role at the company, but this is inferred from the email address convention alone \u2014 not confirmed by any external source. No LinkedIn profile, bio, job title, or other identifying information was found for this individual at this company. The name 'Natan' could be both a given name and the company's namesake, but this cannot be confirmed.",
+    "notes": "No individual profile found. The email prefix is 'hr@', suggesting this person works in a Human Resources function at the company, or that HR is the department that signed up. The first name 'Natan' was provided at signup but no corroborating information about this individual \u2014 their surname, title, LinkedIn, or any public profile \u2014 was found via the website or other first-party sources.",
     "source_urls": []
   },
   "could_not_find": [
-    "Any real business content on natanitsolutions.com \u2014 the site is an unconfigured WordPress default install with no actual company information.",
-    "What Natan IT Solutions actually does (services, industry, geography, target customers).",
-    "The individual recipient's last name, confirmed job title, or any professional profile.",
-    "Company founding date, team size, funding status, or any other firmographic data.",
-    "Any news, press mentions, or third-party references to 'Natan IT Solutions' at this domain.",
-    "Whether the signup contact ('Natan') is a founder, employee, or other stakeholder \u2014 and whether 'Natan' in the company name refers to this individual."
+    "What the company actually does \u2014 no service or product description exists on the website",
+    "Company founding story, mission, or values",
+    "Team members, leadership, or org structure",
+    "Individual's last name, exact title, or any public profile",
+    "Why an HR email address was used for signup (department signup vs. HR professional signing up personally)",
+    "Any news, press mentions, or third-party references to the company",
+    "Company size, location, industry vertical, or target market",
+    "Whether the company is operational or still being set up (website suggests very early / pre-launch stage)"
   ]
 }
