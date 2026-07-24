@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://web-library.net",
-    "what_they_do": "web-library.net is a public email/inbox service \u2014 not a real business organization. It provides free, publicly accessible email addresses to anyone. The homepage explicitly describes it as a 'public email service' focused on spam prevention and safe messaging. It requests that its domain not be blocked, and directs abuse reports to a ticket system.",
-    "raw_notes": "The site self-describes as a 'public email service,' not a company, product, or SaaS tool. It explicitly states it does not allow sending messages to the internet. It asks not to be treated as a throwaway/disposable email service, but the use pattern (random address like polyd4653067@web-library.net) is consistent with throwaway/anonymous inbox usage. There is no business, product, team, or mission described. The org_name 'DeltaSecCo' does not appear anywhere on web-library.net and is almost certainly fabricated by the registrant.",
+    "what_they_do": "web-library.net is a public email/mailbox service \u2014 not a legitimate business organization. Its homepage describes it as a 'public email service' focused on spam prevention and user anonymity. It explicitly states it does not allow sending messages to the internet, positions itself as not a 'throwaway' service, and provides an abuse reporting ticket system. It is, functionally, a free/anonymous inbound email provider.",
+    "raw_notes": "Homepage text makes clear this is an email hosting/inbox service for end-users, not a company that sells products or services in any conventional B2B or B2C sense. The org_name 'DeltaSecCo' does not appear anywhere on web-library.net \u2014 it was typed in by the user at signup and is unverifiable. The email domain belongs to the email service provider, not to any company called DeltaSecCo. No website, product, team, or business footprint for 'DeltaSecCo' is associated with this domain.",
     "source_urls": [
       "https://web-library.net"
     ]
@@ -10,14 +10,15 @@
   "individual": {
     "name": "D",
     "role_if_found": null,
-    "notes": "Only a single initial 'D' was provided as a first name \u2014 no full name, no verifiable identity. The email address (polyd4653067@web-library.net) follows the pattern of a randomly generated or anonymous public inbox address, not a personal or professional email. No individual matching this signup could be identified. The org_name 'DeltaSecCo' returns no verifiable results and appears to be fictitious.",
+    "notes": "Only a single initial ('D') was provided as a first name. The email address (polyd4653067@web-library.net) follows a pattern consistent with auto-generated or anonymized inboxes on public email services (random alphanumeric string). No individual by this name or email is findable. Role, identity, and affiliation are all unknown and unverifiable.",
     "source_urls": []
   },
   "could_not_find": [
-    "No real individual could be identified \u2014 only an initial 'D' provided.",
-    "No company named 'DeltaSecCo' could be verified; it does not appear to exist as a registered or web-present organization.",
-    "The email domain (web-library.net) is a public inbox service, not a corporate domain \u2014 it provides zero signal about the recipient's actual employer or role.",
-    "The email address pattern (polyd4653067@...) strongly suggests an anonymous or throwaway-style inbox, not a professional address.",
-    "No LinkedIn, website, press, or any other source corroborates the existence of 'DeltaSecCo' or the individual."
+    "No real company called 'DeltaSecCo' could be verified \u2014 the org_name appears to be self-reported and unsubstantiated.",
+    "The email domain (web-library.net) belongs to a public anonymous email service, not to DeltaSecCo or any identifiable business.",
+    "The recipient's full name is unknown \u2014 only the initial 'D' was provided.",
+    "No role, LinkedIn profile, company website, or any other individual or organizational footprint could be found.",
+    "The email address pattern (polyd4653067@web-library.net) is consistent with a disposable or anonymized inbox, raising authenticity concerns.",
+    "This signup has strong indicators of being low-quality, anonymous, or potentially fraudulent: anonymous email service domain, single-letter name, unverifiable org name, and no corroborating web presence."
   ]
 }
