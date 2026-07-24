@@ -1,24 +1,24 @@
 {
   "company": {
     "website": "https://web-library.net",
-    "what_they_do": "web-library.net is a public email/mailbox service \u2014 not a real company. It provides free, publicly accessible email addresses to anyone who visits. It explicitly states it is not a throwaway email service, but its structure (open public inboxes, no verified identity) makes it functionally indistinguishable from one in a B2B signup context.",
-    "raw_notes": "Homepage copy confirms this is a public email platform, not a business. It asks recipients not to block its domain and directs abuse reports to a ticket system. There is no product, no team, no mission, no customers described \u2014 only policies for a shared email service. The org name 'DeltaSecCo' does not appear anywhere on the site and has no verifiable web presence tied to this domain.",
+    "what_they_do": "web-library.net is a public email/inbox service \u2014 not a legitimate business or organization. Its homepage explicitly describes it as a 'public email service' focused on preventing spam. It is not a company called 'DeltaSecCo' or any other named enterprise.",
+    "raw_notes": "Homepage content confirms this is a public free email provider, analogous to a disposable/anonymous inbox service. The site itself states it does not allow sending messages to the internet and asks not to be blocklisted. There is no mention of 'DeltaSecCo' or any security company anywhere on the domain. The org_name 'DeltaSecCo' appears entirely fabricated by the signup user \u2014 it has no connection to web-library.net. The email address pattern ('polyd4653067@web-library.net') with a random numeric suffix is consistent with throwaway/bot account creation patterns. The site itself denies being a throwaway service, but the usage pattern here is characteristic of one.",
     "source_urls": [
       "https://web-library.net"
     ]
   },
   "individual": {
-    "name": "D (first name only provided)",
+    "name": "D",
     "role_if_found": null,
-    "notes": "Only an initial ('D') was provided as a first name. The email address 'polyd4653067@web-library.net' follows a pattern typical of auto-generated or disposable-style public inbox addresses (random string + numeric suffix). No individual could be identified or researched. No LinkedIn, company page, or any other first-party source links this address to a real person or role.",
+    "notes": "Only a single initial 'D' was provided as a first name \u2014 no full name, no verifiable individual. The email address 'polyd4653067@web-library.net' contains a random numeric string, strongly suggesting an auto-generated or anonymized account rather than a real named person. No individual could be identified or researched. 'DeltaSecCo' does not appear to be a real registered or findable company, making role verification impossible.",
     "source_urls": []
   },
   "could_not_find": [
-    "No real company named 'DeltaSecCo' could be verified \u2014 the org name appears fabricated or unverifiable.",
-    "The email domain (web-library.net) belongs to a public shared email service, not a corporate domain \u2014 zero signal about the actual sender's employer or identity.",
-    "First name is only an initial ('D') \u2014 insufficient to identify the individual.",
-    "No role, title, LinkedIn, or any professional footprint found for the recipient.",
-    "The email address pattern ('polyd4653067@web-library.net') strongly suggests an auto-generated public inbox, not a professional or personal address.",
-    "This signup exhibits multiple high-confidence signals of a fake/anonymous/low-intent signup: public shared email domain, numeric-suffix username, single-letter first name, and an unverifiable org name."
+    "No real individual identified \u2014 only a single initial provided.",
+    "No company called 'DeltaSecCo' found; the org_name appears fabricated.",
+    "web-library.net is a public email service, not a business domain \u2014 cannot be used to infer employer, industry, or legitimacy of the signup.",
+    "Email address pattern (random numeric suffix) is consistent with throwaway/bot account creation.",
+    "No role, LinkedIn, or any professional footprint findable for this signup.",
+    "Overall: this signup has multiple high-confidence signals of a fake, bot, or low-quality registration \u2014 fictitious org name, anonymous initial-only first name, public/disposable email domain, randomized email address string."
   ]
 }
