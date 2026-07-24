@@ -1,0 +1,24 @@
+{
+  "company": {
+    "website": "https://web-library.net",
+    "what_they_do": "web-library.net is a free public email service provider. It offers email addresses to the public, positioning itself as a legitimate (non-throwaway) email service. Its stated primary goal is spam prevention and maintaining a safe/secure environment. It prohibits illegal activities and does not allow sending messages to the internet (i.e., it appears to be an inbound-only or internal email service). It asks platforms not to block its domain and suggests IP bans over domain bans for abuse control.",
+    "raw_notes": "- Not a product/SaaS company; it is a public email provider.\n- The homepage copy is generic and defensive in tone \u2014 focused on legitimacy claims and anti-abuse messaging.\n- The plea 'do not block our domain names' and 'we are not a throwaway email service' is a pattern strongly associated with disposable/temporary email services that seek to avoid blocklists.\n- No company founding story, team, product features, pricing, or business description is present.\n- No named individuals, leadership, or org structure mentioned.\n- 'BobSecTestCo' as org_name is clearly a fabricated/test company name, not a real organization.\n- The email prefix 'polyb10261008' is alphanumeric and pattern-matches common auto-generated or throwaway address formats.\n- Abuse reporting is via a ticket system \u2014 no further detail given.\n- No legitimate SaaS, startup, or business use case is evident from the domain or homepage.",
+    "source_urls": [
+      "https://web-library.net"
+    ]
+  },
+  "individual": {
+    "name": "Bob",
+    "role_if_found": null,
+    "notes": "No individual named 'Bob' with any verifiable role, title, or professional presence could be associated with this signup. The org_name 'BobSecTestCo' is a self-evidently fabricated test company name. The email address 'polyb10261008@web-library.net' uses a randomly structured prefix inconsistent with professional or personal use. No LinkedIn, company page, or any other first-party or third-party source surfaces a real individual behind this signup.",
+    "source_urls": []
+  },
+  "could_not_find": [
+    "No real company behind 'BobSecTestCo' \u2014 name is fabricated/test data.",
+    "No real individual 'Bob' identifiable from this signup.",
+    "web-library.net has no About page, team page, or business identity beyond a generic email-service disclaimer.",
+    "The email domain exhibits characteristics commonly associated with disposable/temporary email services despite its self-described 'non-throwaway' claim.",
+    "No founding story, product, pricing, or leadership information available.",
+    "Cannot verify any legitimate business use case for this signup."
+  ]
+}

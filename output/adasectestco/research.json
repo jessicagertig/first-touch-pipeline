@@ -1,0 +1,23 @@
+{
+  "company": {
+    "website": "https://web-library.net",
+    "what_they_do": "web-library.net is a public email/inbox service \u2014 not a business or product company. It provides free, publicly accessible email addresses to users. The homepage explicitly positions itself as a shared email platform focused on spam prevention and abuse control.",
+    "raw_notes": "Homepage text reads as a public email service provider, not a legitimate business organization. Key signals: (1) 'Welcome to our public email service' \u2014 confirms this is a free/shared email provider. (2) They explicitly ask not to be blocklisted, noting 'we are not a throwaway email service' \u2014 yet the characteristics (public, free, shared inboxes) are consistent with disposable/temporary email services commonly used to bypass registration systems. (3) No products, no team, no company mission beyond email hosting. (4) Abuse reporting mentioned \u2014 typical of bulk/public inbox services. (5) The org_name 'AdaSecTestCo' is not a real registered company name \u2014 it reads as a test/dummy value ('SecTest' suggests security testing). (6) The email address itself follows a pattern typical of auto-generated or throwaway addresses: 'polytest6482656@web-library.net' \u2014 random string + number suffix.",
+    "source_urls": [
+      "https://web-library.net"
+    ]
+  },
+  "individual": {
+    "name": "Ada",
+    "role_if_found": null,
+    "notes": "Only a first name is available ('Ada'). No last name, no verifiable identity, no role. The email address 'polytest6482656@web-library.net' is almost certainly auto-generated or randomly created \u2014 not a real personal or professional address. No individual could be researched or verified.",
+    "source_urls": []
+  },
+  "could_not_find": [
+    "No real company behind 'AdaSecTestCo' \u2014 name pattern strongly suggests a test/dummy org name, not a legitimate business.",
+    "No individual identity for 'Ada' \u2014 no last name, no role, no professional presence findable.",
+    "web-library.net is a public email service, not a business with a product or mission \u2014 there is no prospect company to research.",
+    "The email address pattern ('polytest6482656@...') is consistent with auto-generated or disposable inbox usage, not a real professional email.",
+    "High likelihood this signup is a throwaway/temporary email registration, possibly used for security testing, scraping, or spam \u2014 not a genuine sales prospect."
+  ]
+}
