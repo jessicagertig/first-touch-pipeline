@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://web-library.net",
-    "what_they_do": "web-library.net is a free public email service provider. It offers email addresses to the public, positioning itself as a legitimate (non-throwaway) email service. It explicitly prohibits illegal activities and outbound messaging to the internet, and provides an abuse reporting system.",
-    "raw_notes": "The homepage text is that of a public/shared email hosting provider, not a real business or product company. The domain provides free email addresses to anyone. The site explicitly asks not to be blocklisted, claiming it is not a 'throwaway' service, but its use pattern (free public email, random-looking username 'polyb10261008') is consistent with disposable/anonymous email usage. No products, services, team, or business model are described beyond operating the email platform itself. No founding story, leadership, or company mission beyond spam prevention. Abuse reporting is available via ticket system.",
+    "what_they_do": "web-library.net is a public/shared email service provider \u2014 it offers free email addresses to the general public, positioning itself as a legitimate (non-throwaway) bulk-registration-friendly email host. It is not a product company, SaaS, or business organisation.",
+    "raw_notes": "Homepage copy explicitly describes a public email service focused on spam prevention and safe use. They note they are 'not a throwaway email service' and that emails 'will not bounce'. They ask not to be blocklisted. They provide an abuse ticket system. There is no mention of any product, startup, B2B service, team, mission, or founding story \u2014 it is purely an email infrastructure/hosting utility for end-users.",
     "source_urls": [
       "https://web-library.net"
     ]
@@ -10,15 +10,14 @@
   "individual": {
     "name": "Bob",
     "role_if_found": null,
-    "notes": "Only a first name ('Bob') is available. The email address 'polyb10261008@web-library.net' appears to be a randomly generated or anonymized public email address, not a professional or corporate one. The org_name 'BobSecTestCo' is almost certainly a test/fake company name entered at signup, not a real organization. No individual profile, role, LinkedIn, or any other identifying information is findable. No credible professional identity can be established.",
+    "notes": "No identifying information available. The email address (polyb10261008@web-library.net) is a free public email address on a shared email platform \u2014 not a corporate or professional address. The org_name 'BobSecTestCo' is almost certainly a test/synthetic entry, not a real registered business. No LinkedIn, company page, or any other source links 'Bob' to a real organisation or role.",
     "source_urls": []
   },
   "could_not_find": [
-    "No real company behind 'BobSecTestCo' \u2014 name appears to be a test/placeholder entry.",
-    "No professional identity or role for 'Bob' \u2014 only a first name provided.",
-    "The email domain (web-library.net) is a free public email provider, not a corporate domain, making it impossible to infer employer or organization.",
-    "The random-style username ('polyb10261008') suggests an anonymized or throwaway account, despite the provider's claims otherwise.",
-    "No website, LinkedIn, or any first- or third-party source confirms a real business or individual behind this signup.",
-    "This signup has strong signals of being a test, bot, or anonymized registration rather than a genuine business prospect."
+    "No real company behind 'BobSecTestCo' \u2014 name pattern strongly suggests a test or fake signup.",
+    "No professional identity for 'Bob' \u2014 free shared-mailbox email address provides no linkage to a real individual or role.",
+    "web-library.net is an email utility service, not a prospect company \u2014 there is no product, team, or business to research.",
+    "No founding story, leadership team, press coverage, or business context exists for this signup.",
+    "High likelihood this is a disposable/test registration using a free public email host despite the site's own disclaimer against throwaway use."
   ]
 }
