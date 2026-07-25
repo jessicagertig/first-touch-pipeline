@@ -1,0 +1,40 @@
+{
+  "candidates": [
+    {
+      "item": "'Mode' (French/German for fashion) + 'Lab' (laboratory/experimental) \u2014 name signals creative experimentation in fashion.",
+      "why_interesting": "The studio name is a bilingual pun \u2014 'Mode' means fashion in both French and German, so the name literally translates to 'Fashion Lab' for European-language speakers while reading as a sleek English compound to everyone else. That's a quietly clever piece of naming for a brand-building studio that claims to do naming and brand identity for clients.",
+      "level": "company",
+      "source_url": "https://modelab.site",
+      "as_of_date_if_known": null,
+      "recency_note": "Observed in step-1 research; site appears early-stage with no external press footprint.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "'We reply to every serious enquiry within two business days.'",
+      "why_interesting": "The word 'serious' is doing real work here \u2014 it's a quiet filter that signals selectivity and positions the studio as choosing its clients, not chasing them. That's an unusual stance for an early-stage, no-portfolio studio and reveals a deliberate boutique/exclusive positioning strategy.",
+      "level": "company",
+      "source_url": "https://modelab.site",
+      "as_of_date_if_known": null,
+      "recency_note": "Observed in step-1 research; live homepage copy as of research date.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "No pricing, no portfolio, no client names mentioned on homepage \u2014 early-stage or deliberately exclusive presentation.",
+      "why_interesting": "A studio selling brand-building and creative credibility has zero social proof on its own homepage \u2014 no clients, no case studies, no team names. That's a bold structural bet: the positioning and copy alone are meant to attract the right clients. It's either a very confident move or a revealing constraint \u2014 either way, it's specific and discussable.",
+      "level": "company",
+      "source_url": "https://modelab.site",
+      "as_of_date_if_known": null,
+      "recency_note": "Observed in step-1 research; consistent with a new or early-stage venture.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "The signup first name is 'Mode' and the contact email is hi@modelab.site \u2014 'Mode' is likely a shortened handle, brand alias, or non-standard first name rather than a legal given name.",
+      "why_interesting": "The person or founder goes by the same word as the company's name and the French/German word for fashion \u2014 they've essentially merged their identity with the brand. That's an unusually committed personal-brand move (or a deliberate air of mystery), and it means there's no findable founder footprint anywhere online.",
+      "level": "individual",
+      "source_url": "https://modelab.site",
+      "as_of_date_if_known": null,
+      "recency_note": "Observed in step-1 research; no external corroboration found.",
+      "sensitivity": "Could be sensitive if 'Mode' prefers to keep their real identity private \u2014 treat as an alias and do not probe for legal name."
+    }
+  ]
+}

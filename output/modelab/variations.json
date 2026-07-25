@@ -1,0 +1,78 @@
+{
+  "lead_id": "modelab",
+  "company_name": "Modelab",
+  "recipient_name": "Mode Lab",
+  "email": "hi@modelab.site",
+  "variations": [
+    {
+      "variant_n": 1,
+      "compliment": "Modelab looks like a great creative studio - I love that the name reads as 'Fashion Lab' for French and German speakers!",
+      "email": "Hello Mode,\n\nThanks for checking out Polymer! Modelab looks like a great creative studio - I love that the name reads as 'Fashion Lab' for French and German speakers!\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://blogs.transparent.com/german/dont-let-it-confuse-you-mode/"
+      ],
+      "score": 8,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1784969792.168629",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 2,
+      "compliment": "Modelab looks like a great company - I love that you're building an integrated creative studio focused entirely on fashion brands.",
+      "email": "Hello Mode,\n\nThanks for checking out Polymer! Modelab looks like a great company - I love that you're building an integrated creative studio focused entirely on fashion brands.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://modelab.site"
+      ],
+      "score": 8,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1784969792.496899",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 3,
+      "compliment": "Modelab looks like a great studio - I love that the name reads as 'Fashion Lab' to French and German speakers!",
+      "email": "Hello Mode,\n\nThanks for checking out Polymer! Modelab looks like a great studio - I love that the name reads as 'Fashion Lab' to French and German speakers!\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://blogs.transparent.com/german/dont-let-it-confuse-you-mode/"
+      ],
+      "score": 8,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1784969792.832099",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 4,
+      "compliment": "Modelab looks like a great studio - I love that the name reads as 'Fashion Lab' for French and German speakers.",
+      "email": "Hello Mode,\n\nThanks for checking out Polymer! Modelab looks like a great studio - I love that the name reads as 'Fashion Lab' for French and German speakers.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://blogs.transparent.com/german/dont-let-it-confuse-you-mode/"
+      ],
+      "score": 9,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1784969793.142409",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 5,
+      "compliment": "Modelab looks like a great studio - I love that the name reads as 'Fashion Lab' to French and German speakers, since 'Mode' means 'fashion' in both!",
+      "email": "Hello Mode,\n\nThanks for checking out Polymer! Modelab looks like a great studio - I love that the name reads as 'Fashion Lab' to French and German speakers, since 'Mode' means 'fashion' in both!\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://blogs.transparent.com/german/dont-let-it-confuse-you-mode/"
+      ],
+      "score": 8,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1784969793.447069",
+      "slack_channel": "C0B87Q5UEL9"
+    }
+  ]
+}
