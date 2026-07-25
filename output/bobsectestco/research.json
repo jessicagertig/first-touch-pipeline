@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://web-library.net",
-    "what_they_do": "web-library.net is a public email/webmail service \u2014 not a business or product company. It provides free email addresses to the public, positioning itself as a legitimate (non-throwaway) email provider. It explicitly prohibits illegal activity and sending messages to the internet, and asks recipients not to block its domain.",
-    "raw_notes": "Homepage content confirms this is a public email service, not a real organization. Key signals: (1) No company product, SaaS, or service being sold. (2) The homepage is entirely focused on explaining their email-hosting policy to abuse reporters and mail server operators. (3) They explicitly say they are 'not a throwaway email service' \u2014 but the behavior pattern (random-looking local part 'polyb10261008', org name 'BobSecTestCo') is highly consistent with a disposable/anonymous email use case. (4) No 'About', 'Team', 'Product', or 'Pricing' pages indicated. (5) Abuse reporting is handled via a ticket system. This is not a legitimate business domain for a real organization.",
+    "what_they_do": "web-library.net is a public email/inbox service \u2014 it provides free email addresses to users. It explicitly positions itself as 'not a throwaway email service' but functionally operates as a shared public email domain where anyone can register an address. It prohibits sending messages to the internet and claims to focus on preventing spam and illegal activity.",
+    "raw_notes": "Homepage copy describes a public email service. Key claims: (1) not a throwaway/disposable email service, (2) emails will not bounce, (3) no sending to the internet allowed, (4) abuse reporting via ticket system, (5) requests that their domain not be blocklisted. Despite the disclaimer, the service pattern \u2014 free public email addresses on a shared domain \u2014 is functionally identical to disposable/temporary email providers commonly used to bypass registration requirements. The org_name 'BobSecTestCo' appears fabricated (test/throwaway name). The email address 'polyb10261008@web-library.net' has the hallmarks of an auto-generated or randomly constructed address.",
     "source_urls": [
       "https://web-library.net"
     ]
@@ -10,15 +10,15 @@
   "individual": {
     "name": "Bob",
     "role_if_found": null,
-    "notes": "No identifiable individual found. The email local part 'polyb10261008' appears to be randomly generated or auto-assigned, which is a strong indicator of a throwaway or bot-generated account. The org name 'BobSecTestCo' is not a registered or findable real company \u2014 it reads as a placeholder or test entry. No LinkedIn, company website, or any other source corroborates a real person named Bob associated with this domain or org name.",
+    "notes": "Only a first name ('Bob') is available. No verifiable individual identity, role, or professional profile can be established. The email address (polyb10261008@web-library.net) is not tied to any real organization or professional identity. The org_name 'BobSecTestCo' is almost certainly a fabricated test/placeholder company name, not a real business.",
     "source_urls": []
   },
   "could_not_find": [
-    "No real company behind 'BobSecTestCo' \u2014 appears to be a fabricated/test org name.",
-    "No identifiable individual named 'Bob' linkable to this signup.",
-    "Email address local part ('polyb10261008') appears auto-generated; no person-level data available.",
-    "web-library.net is a public email provider, not a business domain \u2014 cannot infer industry, role, or use case.",
-    "No product, service, team, or funding information exists for this 'company'.",
-    "High-risk signup signal: anonymous public email provider + randomized local part + placeholder org name."
+    "No real individual identity or professional role for 'Bob' \u2014 only a first name provided.",
+    "No real company: 'BobSecTestCo' does not appear to be a legitimate organization; likely a test or throwaway entry.",
+    "web-library.net is a public shared email domain, not a corporate or personal domain \u2014 cannot be used to infer employer, industry, or role.",
+    "No LinkedIn, company website, or any first-party professional source exists for this signup.",
+    "Email address pattern ('polyb10261008@...') suggests auto-generation or deliberate obfuscation, not a real named inbox.",
+    "This signup has strong indicators of being a test, bot, or throwaway registration: fabricated org name, public/shared email domain, randomly structured email address, and no verifiable identity."
   ]
 }
