@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://web-library.net",
-    "what_they_do": "web-library.net is a free public email service provider. It offers disposable-style email addresses to users, positioning itself as a legitimate (non-throwaway) email platform. It explicitly prohibits illegal activity and does not allow outbound messaging to the internet. It asks recipients not to block its domain and handles abuse via a ticket system.",
-    "raw_notes": "Self-described as a 'public email service' focused on spam prevention and safety. Claims it is NOT a throwaway email service and that emails will not bounce. Does not allow sending messages to the internet \u2014 meaning it is effectively an inbound-only or sandboxed email service. Requests that domain not be blocklisted. Has an abuse reporting ticket system. No mention of any commercial product, SaaS offering, team, founders, pricing, or business purpose beyond providing free email addresses.",
+    "what_they_do": "web-library.net is a public email / disposable-address service. It provides free email addresses to end-users, explicitly positioning itself as a non-bouncing alternative to throwaway/temporary email services. It prohibits illegal use and directs abuse reports to a ticket system.",
+    "raw_notes": "The homepage copy is that of a free public email provider, not a real business. The org_name 'BobSecTestCo' does not correspond to any identifiable company associated with this domain. The domain appears to offer shared inboxes or alias-style addresses to anonymous members of the public. The site explicitly asks not to be blocklisted, which is a common pattern seen on disposable/privacy email providers. There is no product, service, or team described beyond the email offering itself. No pricing, no company name, no leadership, no business registration indicators.",
     "source_urls": [
       "https://web-library.net"
     ]
@@ -10,15 +10,15 @@
   "individual": {
     "name": "Bob",
     "role_if_found": null,
-    "notes": "Only first name 'Bob' is available. Email address is polyb10261008@web-library.net \u2014 a seemingly auto-generated or randomized address on a free public email service. No last name, job title, LinkedIn profile, or any other identifying information is available. The org_name 'BobSecTestCo' appears to be a test/placeholder company name, not a real registered organization.",
+    "notes": "No verifiable individual named 'Bob' can be associated with this signup. The email address 'polyb10261008@web-library.net' is a randomly structured address on a public email service \u2014 it is not a corporate or personal professional address. The org_name 'BobSecTestCo' has the hallmarks of a test/throwaway account (generic first name + 'Sec' + 'Test' + 'Co' pattern). No LinkedIn profile, company role, or any other identifying information is findable for this individual.",
     "source_urls": []
   },
   "could_not_find": [
-    "No real company behind 'BobSecTestCo' \u2014 name pattern strongly suggests a test account or fictitious org.",
-    "No individual identity for 'Bob' beyond first name \u2014 no last name, role, or professional profile found.",
-    "web-library.net has no commercial, SaaS, or business-facing product \u2014 it is a free public email utility, not a prospect company.",
-    "The email address (polyb10261008@web-library.net) follows a pattern typical of auto-generated or burner addresses on free email services, raising authenticity concerns.",
-    "No founders, team, investors, or company history findable for either web-library.net or BobSecTestCo.",
-    "No news, press, or third-party references to BobSecTestCo found."
+    "No real business behind 'BobSecTestCo' \u2014 org_name appears to be fabricated/test data.",
+    "No professional identity for 'Bob' \u2014 email is on a public disposable-style email service, not a corporate domain.",
+    "No company website, product, team, or industry segment attributable to the signup.",
+    "The email domain (web-library.net) belongs to the email service itself, not to a business operated by the recipient.",
+    "High probability this is a throwaway/test signup: random-looking email address, generic org name, public email provider domain.",
+    "No outreach-worthy hook, compliment, or personalisation angle exists \u2014 there is no real prospect here to research."
   ]
 }
