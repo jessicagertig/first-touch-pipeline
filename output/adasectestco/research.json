@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://web-library.net",
-    "what_they_do": "web-library.net is a public/free email service provider \u2014 not a business or product company. It provides email addresses to end users, positioning itself as a non-throwaway free email host. It explicitly notes it does not allow sending messages to the internet and asks not to be blocklisted.",
-    "raw_notes": "Homepage text identifies this as a public email service, not a legitimate business entity. The site explicitly asks receivers/platforms not to block their domain, claims it is 'not a throwaway email service', and directs abuse reports to a ticket system. There is no product, no SaaS offering, no company description, no team, no founding story, no pricing \u2014 nothing consistent with a real B2B or B2C company signing up for a service. The org_name 'AdaSecTestCo' does not correspond to any real registered business findable via this domain.",
+    "what_they_do": "web-library.net is a public email/inbox service \u2014 not a company or product organization. It provides free email addresses to anyone, positioning itself as a 'not a throwaway email service' but functionally operating as a shared public email domain that anyone can use to register on third-party platforms.",
+    "raw_notes": "Homepage text is entirely about their email service's anti-abuse policy. They explicitly ask not to be blocklisted, acknowledge that their domain is used for user registrations on other platforms, and direct abuse reports to a ticket system. There is no product, no team, no business described \u2014 this is an anonymous public inbox / disposable-style email provider, regardless of their self-description.",
     "source_urls": [
       "https://web-library.net"
     ]
@@ -10,15 +10,15 @@
   "individual": {
     "name": "Ada",
     "role_if_found": null,
-    "notes": "No individual named 'Ada' is findable in connection with web-library.net or 'AdaSecTestCo'. The first name 'Ada' and org name 'AdaSecTestCo' appear synthetically constructed (note: 'SecTest' suggests security testing). No LinkedIn, company page, or any other first-party source corroborates a real individual.",
+    "notes": "No verifiable individual named 'Ada' is associated with web-library.net. The email address 'polytest6482656@web-library.net' follows a pattern consistent with auto-generated or throwaway addresses ('polytest' prefix + long numeric suffix). The org_name 'AdaSecTestCo' appears to be a fabricated or test organization name, not a real registered company. No public records, website, LinkedIn presence, or any other source corroborates this individual or organization.",
     "source_urls": []
   },
   "could_not_find": [
-    "No real company behind 'AdaSecTestCo' \u2014 name appears fabricated/test-oriented.",
-    "No individual 'Ada' identifiable at this domain or org.",
-    "web-library.net is a free/public email provider, not a business; the email address is functionally equivalent to a disposable/anonymous address.",
-    "Org name 'AdaSecTestCo' contains 'SecTest', strongly suggesting this is a fake or test signup, possibly a security probe or bot registration.",
-    "No website, product, team page, or any business presence associated with 'AdaSecTestCo' could be found.",
-    "High-risk signals: free/anonymous email domain, synthetic org name, no verifiable individual \u2014 this signup does not appear to represent a legitimate prospective customer."
+    "No real company called 'AdaSecTestCo' found \u2014 name appears fabricated or used for testing.",
+    "No real individual named 'Ada' linkable to this domain or org.",
+    "The email address pattern ('polytest' + 8-digit number) strongly suggests an auto-generated or bot-created address, not a genuine signup.",
+    "web-library.net is a public shared email domain, not a legitimate business domain \u2014 any 'org' using it cannot be verified as a real company.",
+    "No LinkedIn, Crunchbase, Companies House, or any other registry record found for 'AdaSecTestCo'.",
+    "High fraud/abuse signal: public inbox domain + numeric-suffix address pattern + nonsense org name all align with throwaway/bot signups."
   ]
 }
