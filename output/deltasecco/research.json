@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://web-library.net",
-    "what_they_do": "web-library.net is a public email service provider, not a legitimate business organization. It offers free email addresses to the public and positions itself as a shared/communal email platform focused on spam prevention and abuse management.",
-    "raw_notes": "Homepage content confirms this is a public email hosting service \u2014 not a real company with products or services. The site explicitly states it is a 'public email service', prohibits illegal activities, and notes it does not allow sending messages to the internet. It asks not to be blocked and distinguishes itself from 'throwaway email' services, yet the domain is clearly a free/shared email provider that anyone can use to register with any username prefix. The org_name 'DeltaSecCo' was typed by the user at signup and has no verifiable connection to any real company. No homepage, about page, product pages, or business identity exists at this domain beyond the email service notice.",
+    "what_they_do": "web-library.net is a public email service provider \u2014 not a business or product company. It offers free email addresses to the public, positioning itself as a legitimate (non-throwaway) free email host. It explicitly prohibits illegal activities and does not allow sending messages to the internet.",
+    "raw_notes": "Homepage text makes clear this is a free public email service, not a real business organization. The domain is used by members of the public to obtain free email addresses. The service asks not to be blocklisted, claims emails won't bounce, and directs abuse reports to a ticket system. There is no product, SaaS offering, startup, or corporate entity called 'DeltaSecCo' associated with this domain. 'org_name: DeltaSecCo' appears to be a fabricated or placeholder company name entered at signup \u2014 it has no verifiable association with web-library.net.",
     "source_urls": [
       "https://web-library.net"
     ]
@@ -10,15 +10,15 @@
   "individual": {
     "name": "D",
     "role_if_found": null,
-    "notes": "Only a single initial ('D') was provided as a first name \u2014 insufficient to identify the individual. The email address 'polyd4653067@web-library.net' uses a randomly structured username (alphanumeric string with a numeric suffix), which is characteristic of a disposable or anonymized account rather than a real personal or professional identity. No role, LinkedIn profile, or any other identifying information is findable.",
+    "notes": "Only a single initial ('D') was provided as a first name. The email address 'polyd4653067@web-library.net' follows a pattern typical of auto-generated or anonymized free-email addresses (random string + numeric suffix). No individual could be identified or verified. No role, LinkedIn profile, or any other identifying information is available.",
     "source_urls": []
   },
   "could_not_find": [
-    "No real company named 'DeltaSecCo' could be verified \u2014 the org_name appears to be self-reported and unsubstantiated.",
-    "The email domain web-library.net is a public email service, not a business domain, so it cannot be used to infer organizational affiliation.",
-    "The first name is only a single initial ('D'), making individual identification impossible.",
-    "The email username ('polyd4653067') follows a pattern typical of auto-generated or anonymized addresses, with no linkable identity.",
-    "No website, LinkedIn, or any other first- or third-party source corroborates the existence of 'DeltaSecCo' as a real organization.",
-    "No role, title, or professional context could be determined for the recipient."
+    "No real company named 'DeltaSecCo' could be confirmed \u2014 the org_name appears fabricated or fictional; no website, registration, or public presence found for it.",
+    "The email domain (web-library.net) belongs to a generic public email service, not to 'DeltaSecCo' or any corporate entity.",
+    "Recipient's full name is unknown \u2014 only the initial 'D' was provided.",
+    "No role, title, or professional information available for the individual.",
+    "The email address pattern ('polyd4653067@web-library.net') is strongly indicative of a disposable or anonymized signup, despite the host's claim of not being a throwaway service.",
+    "No legitimate business use case or ICP signal can be established from the available inputs."
   ]
 }
