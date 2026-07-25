@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://web-library.net",
-    "what_they_do": "web-library.net is a public email/inbox service \u2014 not a legitimate business or organization. Its homepage explicitly describes it as a 'public email service' focused on spam prevention, stating it does not allow sending messages to the internet. It asks not to be blocked and positions itself as distinct from 'throwaway email,' but the service is effectively a free, anonymous, disposable-style inbox provider.",
-    "raw_notes": "Homepage text makes clear this is a public email hosting service, not a real company. The org_name 'DeltaSecCo' does not appear anywhere on web-library.net. The email address 'polyd4653067@web-library.net' follows a pattern (random username + number string) consistent with auto-generated or throwaway accounts. No products, services, team, pricing, or business purpose are described. The site explicitly handles abuse via a ticket system. There is no 'DeltaSecCo' associated with this domain.",
+    "what_they_do": "web-library.net is a public email/inbox service \u2014 not a business or product company. It provides free email addresses to anonymous users. Despite self-describing as 'not a throwaway email service', its structure (shared public domain, random-looking addresses, no-bounce guarantee pitched to site operators) is functionally indistinguishable from a disposable/temporary email provider.",
+    "raw_notes": "Homepage copy is entirely about their email platform's abuse policies and anti-spam stance. There is no mention of any product, SaaS, startup, or commercial offering. The domain is used to generate free public email addresses for anonymous signups. The address 'polyd4653067@web-library.net' follows a pattern (random string + large random number) typical of throwaway/bot-generated addresses. No company named 'DeltaSecCo' appears anywhere on the site or in its copy.",
     "source_urls": [
       "https://web-library.net"
     ]
@@ -10,14 +10,14 @@
   "individual": {
     "name": "D (first name only provided)",
     "role_if_found": null,
-    "notes": "No individual could be identified. The username 'polyd4653067' is a randomly structured string with no clear personal identity signal. Only a single initial 'D' was provided as a first name. No role, LinkedIn, or any personal information is findable or verifiable. The org_name 'DeltaSecCo' returns no credible results tied to a real registered company or known individual.",
+    "notes": "No verifiable individual could be identified. The email address 'polyd4653067@web-library.net' is a public shared-domain address, not a personal or corporate email. The username pattern (random prefix + 7-digit number) is strongly associated with automated or anonymized signups. The org name 'DeltaSecCo' returns no verifiable company \u2014 no website, no registration, no public presence found. Could not confirm this is a real person or real organization.",
     "source_urls": []
   },
   "could_not_find": [
-    "No real company named 'DeltaSecCo' could be verified or associated with web-library.net.",
-    "No individual named 'D' or with username 'polyd4653067' could be identified.",
-    "The email domain is a public/anonymous email service, not a corporate domain \u2014 org_name is self-reported and unverifiable.",
-    "No website, LinkedIn, Crunchbase, or any other first-party source for 'DeltaSecCo' was found.",
-    "This signup exhibits strong signals of a low-quality or fictitious signup: anonymous public email domain, auto-generated-style username, single-letter first name, and unverifiable org name."
+    "No real company named 'DeltaSecCo' could be verified \u2014 no website, LinkedIn, incorporation record, or any public trace found.",
+    "The email domain (web-library.net) belongs to a public shared email service, not to 'DeltaSecCo' or any business entity.",
+    "The email address pattern ('polyd4653067@...') is consistent with bot-generated or throwaway registrations, not a legitimate business contact.",
+    "No individual named 'D' could be identified or linked to any real organization.",
+    "HIGH FRAUD/ABUSE RISK: All signals (shared public email domain, random numeric username, unverifiable org name, single-letter first name) are consistent with a fake, bot, or abusive signup. This signup should be treated with strong suspicion and likely flagged for review before any outreach or account provisioning."
   ]
 }
