@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://natanitsolutions.com",
-    "what_they_do": "Unknown. The website is a default, unconfigured WordPress installation with no real content \u2014 only the auto-generated 'Hello world!' placeholder post and Lorem Ipsum filler text. No products, services, or business description are present.",
-    "raw_notes": "Site is a bare WordPress install. Homepage contains only: the default 'Hello world!' first post, standard WordPress boilerplate, and generic Lorem Ipsum-style placeholder text. No company description, no services listed, no team page, no about page, no branding beyond the org name. The site has not been built out yet.",
+    "what_they_do": "Unknown. The website contains only a default WordPress placeholder ('Hello world!') with no real content, product descriptions, or service information. The company name 'Natan IT Solutions' suggests an IT services or solutions business, but nothing can be confirmed from first-party content.",
+    "raw_notes": "Homepage is an unmodified WordPress installation showing the default 'Hello world!' post and Lorem Ipsum-style filler text. No About page, no Services page, no product descriptions, no team info, no contact details beyond the email provided at signup. Site appears to have been set up but not yet built out.",
     "source_urls": [
       "https://natanitsolutions.com"
     ]
@@ -10,15 +10,16 @@
   "individual": {
     "name": "Natan",
     "role_if_found": null,
-    "notes": "First name is Natan. Email prefix is 'hr@', suggesting this person works in Human Resources or is using an HR-role inbox. Last name unknown. No individual profile, LinkedIn, or bio found on the company website (no content exists). Cannot confirm whether Natan is a founder, HR manager, or another role.",
+    "notes": "First name is 'Natan' per signup. Email address is hr@natanitsolutions.com \u2014 the 'hr' prefix suggests this person may work in a Human Resources capacity, or the email is a departmental/role-based address rather than a personal one. This could mean Natan is not the founder or the primary decision-maker; they may be in HR or administration. No public profile, LinkedIn, or any other corroborating source found. Role and seniority are unconfirmed.",
     "source_urls": []
   },
   "could_not_find": [
-    "Any description of what Natan IT Solutions actually does \u2014 no services, products, or industry stated anywhere on the site.",
-    "Natan's last name, title, or personal bio.",
-    "Whether 'Natan' is the founder/owner or an HR employee using a shared inbox.",
-    "Company size, location, founding date, or any other firmographic data.",
-    "Any external web search results, news, or third-party mentions that could provide context about the company.",
-    "Social media profiles or LinkedIn presence for the company or individual."
+    "What the company actually does \u2014 no real website content exists yet",
+    "Company size, industry vertical, founding date, or location",
+    "Natan's last name",
+    "Natan's specific role or title (hr@ prefix is suggestive but unconfirmed)",
+    "Whether Natan is a founder, employee, or admin contact",
+    "Any news, press mentions, or third-party references to Natan IT Solutions",
+    "Any social media presence or public profiles for the company or individual"
   ]
 }
