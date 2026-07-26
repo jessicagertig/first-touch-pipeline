@@ -1,0 +1,40 @@
+{
+  "candidates": [
+    {
+      "item": "Injectors ranging 80 to 380 tons of closing force, including vertical and two-color injection available",
+      "why_interesting": "Two-color (bi-injection) molding is a genuinely specialized capability \u2014 most small plastic injection shops do not offer it. It's a concrete, verifiable technical differentiator, not a generic service claim.",
+      "level": "company",
+      "source_url": "https://www.farede.com.br/eng/servicos.html",
+      "as_of_date_if_known": "unknown",
+      "recency_note": "Pulled from their services page; no date stamp found",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Official licensee for sports brands Topper, Rainha, and SpoArt",
+      "why_interesting": "Topper and Rainha are well-known Brazilian sportswear/footwear brands. A 11\u201350 person plastic injection shop holding official licensing deals with recognized consumer brands is a striking commercial achievement \u2014 it means they're not just a B2B contract manufacturer but a branded goods producer.",
+      "level": "company",
+      "source_url": "https://www.farede.com.br/eng/servicos.html",
+      "as_of_date_if_known": "unknown",
+      "recency_note": "Pulled from website; license status not independently date-confirmed",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Founded 1994, headquartered in Tatuap\u00e9 district of S\u00e3o Paulo \u2014 30+ years in operation as an 11\u201350 employee company",
+      "why_interesting": "Three decades of survival as a small-to-mid shop in a capital-intensive manufacturing sector is genuinely notable \u2014 most small injection molders don't last that long. It signals institutional knowledge and customer loyalty without being a vague marketing claim.",
+      "level": "company",
+      "source_url": "https://www.zoominfo.com/c/farede/425794496",
+      "as_of_date_if_known": "unknown",
+      "recency_note": "Founding year from ZoomInfo/Crunchbase; independently corroborated across multiple sources",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Product scope spans footwear, orthopedic, sports/extreme sports, civil construction, toys, and motorcyclist accessories \u2014 all from a single small-shop manufacturer",
+      "why_interesting": "The breadth is surprising for a company of this size. Orthopedic AND extreme sports AND civil construction AND toys in one 11\u201350 person shop is an unusually wide segment mix \u2014 suggests either highly flexible tooling capability or a deliberate diversification strategy worth asking about.",
+      "level": "company",
+      "source_url": "https://www.farede.com.br/eng/servicos.html",
+      "as_of_date_if_known": "unknown",
+      "recency_note": "From their services page; no date stamp",
+      "sensitivity": "none"
+    }
+  ]
+}

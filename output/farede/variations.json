@@ -1,0 +1,86 @@
+{
+  "lead_id": "farede",
+  "company_name": "Farede",
+  "recipient_name": "Hurra Done",
+  "email": "wetenir718@aganseo.com",
+  "variations": [
+    {
+      "variant_n": 1,
+      "compliment": "Farede looks like a great company - being an official licensee for brands like Topper, Rainha, and SpoArt across footwear, sports, and so many other segments is really impressive.",
+      "email": "Hello Hurra,\n\nThanks for checking out Polymer! Farede looks like a great company - being an official licensee for brands like Topper, Rainha, and SpoArt across footwear, sports, and so many other segments is really impressive.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.facebook.com/faredeoficial"
+      ],
+      "score": 8,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1785075613.914479",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 2,
+      "compliment": "Farede looks like a really versatile company - covering everything from footwear and orthopedics to toys and motorcyclist accessories is quite an impressive range to serve with plastic injection molds.",
+      "email": "Hello Hurra,\n\nThanks for checking out Polymer! Farede looks like a really versatile company - covering everything from footwear and orthopedics to toys and motorcyclist accessories is quite an impressive range to serve with plastic injection molds.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.farede.com.br/"
+      ],
+      "score": 8,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1785075614.033209",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 3,
+      "compliment": "Farede looks like a great company - I love the range of segments you serve, from footwear and toys to orthopedics and motorcyclist accessories, and it's impressive to see a company going strong since 1994.",
+      "email": "Hello Hurra,\n\nThanks for checking out Polymer! Farede looks like a great company - I love the range of segments you serve, from footwear and toys to orthopedics and motorcyclist accessories, and it's impressive to see a company going strong since 1994.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.farede.com.br/",
+        "https://www.econodata.com.br/consulta-empresa/74547514000106-farede-injetados-plasticos-e-ferramentaria-ltda"
+      ],
+      "score": 8,
+      "tells": [
+        "compliment runs long with two linked ideas joined by 'and it's impressive to see' — pushing past her single-clause style"
+      ],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1785075614.144009",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 4,
+      "compliment": "Farede looks like a great company - being an official licensee for Topper, Rainha, and SpoArt while serving segments from footwear to civil construction shows real range!",
+      "email": "Hello Hurra,\n\nThanks for checking out Polymer! Farede looks like a great company - being an official licensee for Topper, Rainha, and SpoArt while serving segments from footwear to civil construction shows real range!\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.facebook.com/faredeoficial"
+      ],
+      "score": 8,
+      "tells": [
+        "shows real range!"
+      ],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1785075614.249069",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 5,
+      "compliment": "Farede looks like a great company - it's impressive to see a São Paulo mold manufacturer trusted to produce for sports and extreme sports brands as well as so many other industries.",
+      "email": "Hello Hurra,\n\nThanks for checking out Polymer! Farede looks like a great company - it's impressive to see a São Paulo mold manufacturer trusted to produce for sports and extreme sports brands as well as so many other industries.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.farede.com.br/",
+        "https://farede.com.br/eng/servicos.html"
+      ],
+      "score": 8,
+      "tells": [
+        "it's impressive to see"
+      ],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1785075614.352309",
+      "slack_channel": "C0B87Q5UEL9"
+    }
+  ]
+}
