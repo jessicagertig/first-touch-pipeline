@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://web-library.net",
-    "what_they_do": "web-library.net is a public email/inbox service \u2014 not a legitimate business organization. Its homepage explicitly describes it as a 'public email service' focused on spam prevention and user anonymity. It is not a company called 'DeltaSecCo' or any other named business entity.",
-    "raw_notes": "The domain web-library.net hosts a public free email service. The homepage does not describe any product, SaaS tool, consultancy, or commercial offering. It requests that its domain not be blocked and positions itself as 'not a throwaway email service,' though the pattern (random username 'polyd4653067', generic free inbox, org name typed manually at signup as 'DeltaSecCo') is strongly consistent with a disposable/anonymizing inbox used to mask the registrant's real identity and organization. There is no company called 'DeltaSecCo' verifiably associated with this domain.",
+    "what_they_do": "web-library.net is a public email / disposable-style email service provider, not a real business. Its homepage explicitly describes itself as a 'public email service' focused on spam prevention. It is not a company called 'DeltaSecCo' or any other named enterprise.",
+    "raw_notes": "Homepage copy makes clear this is a shared public email platform. The site requests that its domain not be blocked, signals it is commonly flagged as a throwaway/burner email provider, and directs abuse reports to a ticket system. There is no business product, service, team, or company identity matching 'DeltaSecCo' anywhere on the site. The org_name 'DeltaSecCo' appears to be entirely fabricated by the registrant.",
     "source_urls": [
       "https://web-library.net"
     ]
@@ -10,15 +10,14 @@
   "individual": {
     "name": "D (first name only provided)",
     "role_if_found": null,
-    "notes": "Only a single initial 'D' was provided as a first name. The email address username ('polyd4653067') appears randomly generated, giving no identifying information. No individual named 'D' at 'DeltaSecCo' can be found or verified. The org name 'DeltaSecCo' is self-reported at signup only and has no verifiable web presence tied to this email domain.",
+    "notes": "No verifiable individual could be identified. The email address 'polyd4653067@web-library.net' follows a pattern typical of auto-generated or obfuscated addresses on public/disposable email platforms (random string + numeric suffix). No LinkedIn, company page, or any other source corroborates the existence of a real person named 'D' associated with 'DeltaSecCo'.",
     "source_urls": []
   },
   "could_not_find": [
-    "No real company called 'DeltaSecCo' could be confirmed as owning or operating web-library.net.",
-    "The recipient's full name is unknown \u2014 only the initial 'D' was provided.",
-    "No role, title, or professional profile for the individual could be found.",
-    "The email address pattern ('polyd4653067@web-library.net') is consistent with an anonymizing or temporary inbox, making the true identity and organization of the signee unverifiable.",
-    "No legitimate first-party company website exists for 'DeltaSecCo' at this domain.",
-    "The org_name 'DeltaSecCo' appears to be entirely self-reported with no corroborating evidence."
+    "No real company called 'DeltaSecCo' could be verified \u2014 the org_name appears fabricated.",
+    "The email domain web-library.net is a public shared email service, not a corporate domain, making it impossible to infer employer or role.",
+    "No individual identity, role, LinkedIn profile, or any first-party source for the recipient could be located.",
+    "The randomized email address pattern (polyd4653067@...) strongly suggests a throwaway or bot-generated address.",
+    "This signup exhibits multiple high-risk signals: public/shared email domain, numeric-heavy address, single-letter first name, and an unverifiable org name \u2014 consistent with spam, fraud, or fake registration rather than a legitimate business prospect."
   ]
 }
