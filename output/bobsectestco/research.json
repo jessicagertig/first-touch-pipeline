@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://web-library.net",
-    "what_they_do": "web-library.net is a public email/inbox service \u2014 not a business or product company. It provides free, publicly accessible email addresses to anyone. The homepage explicitly describes it as a 'public email service' focused on spam prevention and safety. It is not a throwaway/disposable email service by their own claim, but it is a shared public email domain anyone can use to register for other services.",
-    "raw_notes": "Homepage text is entirely about their email service policies: prohibits illegal activities, does not allow sending messages to the internet, requests not to be blocked, mentions an abuse ticket system. There is no product, no SaaS offering, no team, no 'about us' page with a mission, no clients, no industry vertical. This is a utility public inbox domain \u2014 commonly used to create anonymous or non-personal email addresses for sign-ups.",
+    "what_they_do": "web-library.net is a public email/disposable-style email service that provides free email addresses to users. Despite self-describing as 'not a throwaway email service', it offers publicly accessible email accounts under its domain. Its stated primary goal is spam prevention and maintaining a safe environment. It explicitly does not allow sending messages to the internet and prohibits illegal activities. It handles abuse via a ticket system.",
+    "raw_notes": "- Self-described 'public email service', not a product/SaaS company. - Explicitly requests not to be blocked by receiving mail servers, acknowledging it is commonly treated as a disposable/throwaway domain. - Does not support outbound internet email. - No legitimate business product, team, pricing, or company identity described. - 'org_name' field was filled in as 'BobSecTestCo' \u2014 not a real organization name; strongly suggests test/fake signup. - Email username 'polyb10261008' is a low-signal, randomized-looking string typical of throwaway account generation. - The combination of a public free-mailbox domain + fake org name + randomized username is a strong fingerprint of a non-legitimate or bot signup.",
     "source_urls": [
       "https://web-library.net"
     ]
@@ -10,15 +10,14 @@
   "individual": {
     "name": "Bob",
     "role_if_found": null,
-    "notes": "No identifiable individual named 'Bob' could be associated with web-library.net. The email address 'polyb10261008@web-library.net' appears to be a randomly or programmatically generated address on a public shared email domain. 'BobSecTestCo' as an org name does not correspond to any findable real company. The pattern (random string + public inbox domain + test-sounding org name) is strongly indicative of a test, bot, or throwaway sign-up rather than a real person or business.",
+    "notes": "No identifiable individual named 'Bob' is associated with web-library.net. The first name 'Bob', org name 'BobSecTestCo', and randomized email address (polyb10261008@web-library.net) together suggest a test, fake, or automated signup rather than a real person representing a real organization. No professional profile, role, or affiliation could be found or reasonably inferred.",
     "source_urls": []
   },
   "could_not_find": [
-    "No real company called 'BobSecTestCo' found \u2014 appears to be a fabricated/test org name.",
-    "No real individual named 'Bob' identifiable from this email address or org name.",
-    "web-library.net is a public email utility, not a business with a product, team, or commercial identity.",
-    "The email address pattern ('polyb10261008@...') suggests an auto-generated or anonymized address, not a personal professional one.",
-    "No LinkedIn, Crunchbase, company website, or any other first-party or third-party source corroborates a real business entity here.",
-    "High likelihood this is a spam, bot, or throwaway sign-up despite web-library.net's claim of not being a disposable email service."
+    "No real company called 'BobSecTestCo' found \u2014 name appears fabricated/test data.",
+    "No identifiable individual 'Bob' associated with this domain or org name.",
+    "web-library.net is a public email provider, not a business with a product or team \u2014 no 'About', 'Team', pricing, or product pages found.",
+    "Email username ('polyb10261008') appears randomly generated; no person attributable to it.",
+    "This signup bears multiple strong signals of a disposable/fake/bot registration: public free-mailbox domain, nonsense org name, randomized username string."
   ]
 }
