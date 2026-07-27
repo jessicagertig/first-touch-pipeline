@@ -1,0 +1,82 @@
+{
+  "lead_id": "atomicwork-2e4beb8f-f7cc-4440-9af8-9aa1430dc3c4",
+  "company_name": "Atomicwork",
+  "recipient_name": "Kriti Arya",
+  "email": "kriti@atomicwork.com",
+  "variations": [
+    {
+      "variant_n": 1,
+      "compliment": "Atomicwork looks like a fascinating company - I love the idea of AI coworkers that get the right access exactly when it's needed and have it revoked the moment it's not.",
+      "email": "Hello Kriti,\n\nThanks for checking out Polymer! Atomicwork looks like a fascinating company - I love the idea of AI coworkers that get the right access exactly when it's needed and have it revoked the moment it's not.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.atomicwork.com/"
+      ],
+      "score": 8,
+      "tells": [
+        "get the right access exactly when it's needed and have it revoked the moment it's not"
+      ],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1785139185.479669",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 2,
+      "compliment": "Atomicwork looks great - Pepper Money replacing ServiceNow and getting up and running in just 6 weeks (while folding three tools into one) is seriously impressive!",
+      "email": "Hello Kriti,\n\nThanks for checking out Polymer! Atomicwork looks great - Pepper Money replacing ServiceNow and getting up and running in just 6 weeks (while folding three tools into one) is seriously impressive!\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.atomicwork.com/compare/atomicwork-vs-servicenow"
+      ],
+      "score": 8,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1785139185.667819",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 3,
+      "compliment": "Atomicwork looks like a great product - I really like the idea of bringing that easy Alexa and Siri feel to the workplace, but with the controls enterprises actually need.",
+      "email": "Hello Kriti,\n\nThanks for checking out Polymer! Atomicwork looks like a great product - I really like the idea of bringing that easy Alexa and Siri feel to the workplace, but with the controls enterprises actually need.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.prnewswire.com/news-releases/atomicwork-launches-its-universal-agent-bringing-multimodal-ai-to-every-employees-flow-of-work-302437035.html"
+      ],
+      "score": 8,
+      "tells": [
+        "but with the controls enterprises actually need"
+      ],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1785139185.852229",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 4,
+      "compliment": "Atomicwork looks like a sharp company - the approach to access (granted on day one, dynamically when it's needed, and revoked the moment it's not) is such a clean way to handle a real headache.",
+      "email": "Hello Kriti,\n\nThanks for checking out Polymer! Atomicwork looks like a sharp company - the approach to access (granted on day one, dynamically when it's needed, and revoked the moment it's not) is such a clean way to handle a real headache.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.atomicwork.com/"
+      ],
+      "score": 8,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1785139186.105239",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 5,
+      "compliment": "Atomicwork looks like a great company - the idea of AI coworkers with their own identity, skills, memory, and governance, just like a human employee, is a really intriguing way to think about it.",
+      "email": "Hello Kriti,\n\nThanks for checking out Polymer! Atomicwork looks like a great company - the idea of AI coworkers with their own identity, skills, memory, and governance, just like a human employee, is a really intriguing way to think about it.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.crunchbase.com/organization/atomicwork"
+      ],
+      "score": 6,
+      "tells": [
+        "the idea of AI coworkers with their own identity, skills, memory, and governance, just like a human employee, is a really intriguing way to think about it"
+      ],
+      "verdict": "revise",
+      "ship": false
+    }
+  ]
+}

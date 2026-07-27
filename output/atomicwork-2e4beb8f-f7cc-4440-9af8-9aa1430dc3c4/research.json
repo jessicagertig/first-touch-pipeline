@@ -1,0 +1,59 @@
+{
+  "company": {
+    "website": "https://atomicwork.com",
+    "what_they_do": "Atomicwork is an AI-native IT Service Management (ITSM) and Enterprise Service Management (ESM) platform. It deploys a 'Universal AI Coworker' (named Atom) that handles employee support requests \u2014 such as password resets, software access, and incident management \u2014 directly inside the tools employees already use (Microsoft Teams, Slack, browser, web portal). Rather than merely routing tickets, it resolves them end-to-end: provisioning access, installing software, managing incidents, and automating workflows across IT, HR, Finance, Legal, and other departments. It also offers voice and vision support, operates in 25+ languages, and gives different service teams private workspaces while presenting a unified experience to employees. The platform is AI-native by design (not retrofitted), built on an agentic architecture that learns organisational and employee context for smarter decisions.",
+    "raw_notes": [
+      "Founded 2022; headquartered in San Francisco / Palo Alto, CA. Also has an Indian entity (ATOMICWORK SOFTWARE INDIA PRIVATE LIMITED).",
+      "Co-founders: Vijay Rayapati (CEO), Kiran Darisi (CTO), Parsuram Vijayasankar (Product Design).",
+      "Raised $40.3M total over 4 rounds, including a $25M Series A (2025). Investors include Khosla Ventures, Z47 (formerly E.Ventures), Battery Ventures, Blume Ventures, Peak XV, Storm Ventures.",
+      "Core product differentiators: agentic AI (not just chatbot), AI Coworkers with identity/skills/memory/governance, birthright access provisioning, dynamic & revoked access, multimodal support (chat, voice, vision), 25+ language support.",
+      "Integrations: Microsoft Teams, Slack, Claude, ChatGPT for Enterprise, Azure AI Foundry, Lansweeper (new partnership), Azure DevOps, Power Automate, Power BI (roadmap).",
+      "Available on Microsoft Marketplace (announced March 2026).",
+      "Key customer story: Zuora replaced Jira Service Management with Atomicwork across 15 global offices, achieving significant ticket volume reduction.",
+      "Other customer quotes mention replacing ServiceNow, maintaining IT team without adding headcount, ROI gains, and deploying in 6 weeks.",
+      "Head of Product: Aparna Chugh. Head of Applied AI & Platform also listed on ZoomInfo.",
+      "Competitors cited: Moveworks, Aisera, StackAI, Jira Service Management, ServiceNow.",
+      "April 2025: Launched 'Universal Agent' \u2014 multimodal AI for employee productivity.",
+      "Company tagline on homepage: 'Delightful employee support, in the flow of work.' and 'Resolutions, not just answers.'"
+    ],
+    "source_urls": [
+      "https://atomicwork.com (primary \u2014 homepage content provided directly)",
+      "https://www.atomicwork.com/platform",
+      "https://www.atomicwork.com/company/about",
+      "https://www.zoominfo.com/c/atomicwork-inc/1296739264",
+      "https://tracxn.com/d/companies/atomicwork/",
+      "https://www.crunchbase.com/organization/atomicwork",
+      "https://www.getapp.com/collaboration-software/a/atomicwork/",
+      "https://www.goworkwize.com/blog/atomicwork-review",
+      "https://www.microsoft.com/en/customers/story/21861-atomicwork-azure-ai-foundry"
+    ]
+  },
+  "individual": {
+    "name": "Kriti Arya",
+    "role_if_found": "People & Culture",
+    "notes": [
+      "Full name appears to be Kriti Arya based on multiple third-party sources (RocketReach, Weekday, iimjobs, LinkedIn snippet) all linking a 'Kriti' at atomicwork.com to this identity.",
+      "Role: People & Culture at Atomicwork, based in Bengaluru, India.",
+      "Tenure at Atomicwork: approximately 0.84 years as of the source date \u2014 relatively recent joiner.",
+      "Prior employers: CoinSwitch / CoinSwitch Kuber (crypto exchange), Uolo.com (edtech), Viacom18, Chegg, Indian Institute of Information Technology Allahabad (entrepreneurship cell), NIT Raipur (entrepreneurship cell).",
+      "Education: BSc in Life Sciences, Sri Venkateswara College, Delhi University (2017\u20132020); also attended TERI (The Energy and Resources Institute).",
+      "Skills listed: Business Hiring, Leadership Hiring, Public Speaking, Web Content Writing, Marketing, Life Sciences.",
+      "On iimjobs, she is listed as actively recruiting for Atomicwork roles including Solution Architect, Account Management, Client Relationships \u2014 indicating active talent acquisition responsibilities.",
+      "LinkedIn profile tag: 'Talent x AI' \u2014 suggesting she sits at the intersection of HR/talent and AI-native tooling, which is directly relevant to Atomicwork's product.",
+      "NOT a founder; the three co-founders are Vijay Rayapati, Kiran Darisi, and Parsuram Vijayasankar."
+    ],
+    "source_urls": [
+      "https://rocketreach.co/kriti-arya-email_244894551",
+      "https://www.weekday.works/people/kriti-arya-kriti-arya",
+      "https://www.iimjobs.com/r/263669-kriti-arya",
+      "https://www.linkedin.com/in/kriti-arya/"
+    ]
+  },
+  "could_not_find": [
+    "Exact email confirmation that kriti@atomicwork.com = Kriti Arya \u2014 inferred from name match and domain; RocketReach listed a slightly different domain variant (atomic.work) but all other signals point to the same person at Atomicwork.",
+    "Kriti's specific seniority level / title beyond 'People & Culture' (e.g., Manager, Senior, VP \u2014 not found).",
+    "What specifically prompted Kriti / Atomicwork to sign up \u2014 no context available.",
+    "Atomicwork's exact ARR, customer count, or employee headcount \u2014 not publicly confirmed.",
+    "Any direct quotes or published content authored by Kriti Arya herself (no blog posts, conference talks, or articles found)."
+  ]
+}
