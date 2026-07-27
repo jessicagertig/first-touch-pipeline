@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://web-library.net",
-    "what_they_do": "web-library.net is a public email/inbox service \u2014 not a legitimate business organization. Its homepage explicitly describes itself as a 'public email service' focused on spam prevention and user registrations. It is functionally a shared/temporary-style inbox provider, even though it self-describes as 'not a throwaway email service.'",
-    "raw_notes": "Homepage text makes clear this is a free public email platform, not a company with products or services. It prohibits sending messages to the internet, which is atypical for a real business email domain. The domain is used by the public to receive email, not as a corporate domain. There is no business, product, team, or mission described. The org_name 'DeltaSecCo' does not appear anywhere on the domain. No About page, no team, no product offering, no pricing, no industry vertical.",
+    "what_they_do": "web-library.net is a public email/mailbox service \u2014 not a real organization. It provides free email addresses to anyone, positioning itself as a legitimate bulk-sender-friendly alternative to throwaway/disposable email services, but functionally serves the same role: anonymous, unverifiable inboxes with no organizational affiliation.",
+    "raw_notes": "Homepage copy explicitly describes a 'public email service'. It asks receiving platforms not to block their domain and not to ban by domain (only by IP). There is no product, no company, no team, no business described anywhere. The 'org_name' field was filled in as 'DeltaSecCo' by the user \u2014 this name does not appear anywhere on web-library.net and cannot be verified as a real entity associated with this domain.",
     "source_urls": [
       "https://web-library.net"
     ]
@@ -10,15 +10,15 @@
   "individual": {
     "name": "D",
     "role_if_found": null,
-    "notes": "Only a single initial ('D') was provided as a first name. The email address 'polyd4653067@web-library.net' follows a pattern typical of auto-generated or anonymized addresses on public email platforms (random string + numeric suffix). No individual could be identified or researched. The org name 'DeltaSecCo' is not findable as a real registered company.",
+    "notes": "Only a single initial ('D') was provided as a first name. The email address prefix 'polyd4653067' follows a pattern typical of auto-generated or anonymized addresses (random string + numeric suffix). No individual could be identified or verified. No role, LinkedIn, or any other identifying information is findable.",
     "source_urls": []
   },
   "could_not_find": [
-    "No real company named 'DeltaSecCo' could be verified \u2014 the org name appears fabricated or informal.",
-    "The email domain (web-library.net) is a public email service, not a corporate domain \u2014 it provides no signal about the recipient's actual employer or organization.",
-    "The first name is only an initial ('D'), making individual identification impossible.",
-    "The email address pattern ('polyd4653067@...') is consistent with auto-generated or disposable-style addresses, raising strong authenticity concerns.",
-    "No LinkedIn, website, news, or any other source corroborates the existence of 'DeltaSecCo' as a real organization.",
-    "RISK FLAG: This signup exhibits multiple strong indicators of a low-quality or fraudulent signup \u2014 single-letter name, numeric-suffix email on a public inbox platform, unverifiable org name. Not recommended for outreach."
+    "No real company named 'DeltaSecCo' could be verified \u2014 the org_name appears to be self-reported and unsubstantiated.",
+    "web-library.net is a public email provider, not the domain of any organization called DeltaSecCo or otherwise.",
+    "The recipient's full name is unknown \u2014 only the initial 'D' was provided.",
+    "No role, title, or professional profile found for the individual.",
+    "The email address pattern ('polyd4653067@web-library.net') is consistent with a disposable or anonymized inbox, raising strong doubt about the authenticity of this signup.",
+    "No legitimate first-party company website exists to research for this signup."
   ]
 }
