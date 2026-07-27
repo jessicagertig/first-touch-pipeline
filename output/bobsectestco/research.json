@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://web-library.net",
-    "what_they_do": "web-library.net is a public email / disposable-style email service. Despite self-describing as 'not a throwaway email service', it provides free public email addresses to anyone, with no apparent organizational affiliation. Its homepage focuses entirely on anti-abuse messaging and asks receiving services not to block its domain.",
-    "raw_notes": "Homepage copy is entirely about their email service policies \u2014 no products, no SaaS, no business offering. Key signals: (1) 'public email service', (2) explicitly asks domain not be blocked, (3) says emails won't bounce, (4) no sending to internet, (5) abuse reporting via ticket system. No company name, no team, no about page, no commercial offering of any kind. The org_name 'BobSecTestCo' does not appear anywhere on the site and appears to be a fabricated/test company name entered at signup.",
+    "what_they_do": "web-library.net is a public email/inbox service \u2014 not a business or product company. It provides free, publicly accessible email addresses to users. It explicitly positions itself as a non-throwaway email service and asks not to be blocklisted, while prohibiting illegal use and noting it does not allow outbound sending to the internet.",
+    "raw_notes": "Homepage text is entirely a terms-of-use/welcome notice for a public email service. There is no product, startup, SaaS, agency, or commercial offering described. The 'org_name' (BobSecTestCo) does not correspond to any real company found at this domain. The domain appears to be a shared public email provider used by many individuals, not a corporate entity. No about page, team, pricing, or product pages referenced. Abuse reporting is handled via a ticket system.",
     "source_urls": [
       "https://web-library.net"
     ]
@@ -10,15 +10,15 @@
   "individual": {
     "name": "Bob",
     "role_if_found": null,
-    "notes": "No verifiable individual named 'Bob' could be associated with a real company or role. The email address 'polyb10261008@web-library.net' follows a pattern typical of auto-generated or anonymized public email addresses (random alphanumeric string). No LinkedIn, company bio, or any other first-party source found for this individual. The org_name 'BobSecTestCo' reads as a placeholder/test entry, not a real registered business.",
+    "notes": "No individual named 'Bob' could be identified or verified as affiliated with web-library.net in any organizational capacity. The email address (polyb10261008@web-library.net) is a randomly formatted address on a shared public email service. The org_name 'BobSecTestCo' appears to be a fabricated/test company name, not a real registered or operating business. No LinkedIn, company bio, or any other identifying information found.",
     "source_urls": []
   },
   "could_not_find": [
-    "No real company behind 'BobSecTestCo' \u2014 name appears fabricated/test data.",
-    "No identifiable individual 'Bob' with a verifiable role or real employer.",
-    "web-library.net has no about page, team page, or commercial product \u2014 purely a public email provider.",
-    "Email address pattern ('polyb10261008@...') is consistent with a throwaway or auto-generated address, despite the domain's self-description.",
-    "No news, LinkedIn, or third-party sources corroborate any legitimate business use case for this signup.",
-    "High probability this is a test, bot, or anonymized signup rather than a genuine business prospect."
+    "No real company or organization behind 'BobSecTestCo' \u2014 name pattern strongly suggests a test or fake signup.",
+    "No identifiable individual 'Bob' with a verifiable role or affiliation.",
+    "web-library.net is a public shared email provider, not a business; the email domain provides no signal about the recipient's actual employer or organization.",
+    "No product, service, founding story, team, or commercial activity to research or compliment.",
+    "High likelihood this is a throwaway/temporary address or a test signup despite the service's self-description as non-throwaway.",
+    "No press, news, or third-party references to 'BobSecTestCo' found."
   ]
 }
