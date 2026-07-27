@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://natanitsolutions.com",
-    "what_they_do": "Unknown. The website is a brand-new, unconfigured WordPress installation. All visible content is default WordPress placeholder text ('Hello world!', 'Welcome to WordPress. This is your first post.'). No actual products, services, industry, or business description can be determined from the site.",
-    "raw_notes": "The homepage at natanitsolutions.com contains only WordPress default/demo content \u2014 no real about page, no services, no team info, no location, no industry signals. The site has not been set up yet. Web searches for 'Natan IT Solutions' and 'natanitsolutions.com' returned no matching results for this specific entity. The closest domain match found in search (natitsolutions.com \u2014 note: missing the 'an') belongs to a different company, 'NAT IT & Digital Marketing Solutions,' which provides IT support, network support, maintenance, and digital marketing for small businesses \u2014 but this is a DIFFERENT company and domain, not the signup entity. No other web results confirm the existence or nature of 'Natan IT Solutions' as a business.",
+    "what_they_do": "Cannot be determined. The homepage contains only default WordPress placeholder content ('Hello world!', 'Welcome to WordPress. This is your first post.') and Lorem Ipsum-style filler text. No actual business description, services, products, or about content is present.",
+    "raw_notes": "Site appears to be a brand-new or unconfigured WordPress installation. No real content exists yet \u2014 no service descriptions, no about page copy, no team info, no industry vertical, no value proposition. The filler text and lorem ipsum blocks confirm the site has not been customized. Cannot infer what 'IT Solutions' means in practice (consulting, managed services, software development, staffing, etc.) from this source alone.",
     "source_urls": [
       "https://natanitsolutions.com"
     ]
@@ -10,15 +10,15 @@
   "individual": {
     "name": "Natan",
     "role_if_found": null,
-    "notes": "The signup email is hr@natanitsolutions.com, suggesting the recipient may work in an HR-related capacity (e.g., HR manager, HR director, recruiter) at the company \u2014 but this is inferred from the email prefix only and cannot be confirmed. No LinkedIn profile, personal bio, or any other individual-level information was found for a person named 'Natan' at 'Natan IT Solutions.' The first name 'Natan' may also be the company eponym, but this is speculative.",
+    "notes": "Email address is hr@natanitsolutions.com, which suggests the recipient may work in a Human Resources function at the company rather than being the founder or a technical lead \u2014 though at a small/early-stage company one person may wear multiple hats. No further identifying information about this individual was findable from the website (which has no team or about content) or from the org name alone.",
     "source_urls": []
   },
   "could_not_find": [
-    "Company's actual business description, services, or industry \u2014 website is an unconfigured WordPress install with only placeholder content.",
-    "Company founding date, size, location, or any operational details.",
-    "Any press coverage, news, or third-party mentions of 'Natan IT Solutions' (natanitsolutions.com).",
-    "Individual recipient's full name, confirmed role/title, or any professional profile.",
-    "Whether 'Natan' in the first_name field refers to the individual signing up or is simply the company name reflected in the email domain.",
-    "The hr@ email prefix suggests an HR function but cannot be confirmed as a title or role."
+    "What the company actually does \u2014 no services, products, or industry vertical described anywhere on the site.",
+    "Natan's last name, specific title, or role beyond the HR email prefix.",
+    "Whether 'Natan' is the founder, an employee, or the sole operator.",
+    "Company size, location, founding date, or any other firmographic data.",
+    "Any external web search results or news coverage that would clarify the business (site appears too new to be indexed).",
+    "Any social media profiles or LinkedIn presence findable from the inputs provided."
   ]
 }

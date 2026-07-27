@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://web-library.net",
-    "what_they_do": "web-library.net is a public email service provider \u2014 it offers free email addresses to the general public, positioning itself as a shared/bulk email domain rather than a traditional business. It is not a company with a product or service in the conventional B2B sense.",
-    "raw_notes": "The homepage explicitly describes itself as a 'public email service'. It requests that its domain not be blocked and clarifies it is 'not a throwaway email service'. It prohibits illegal activities and does not allow sending messages to the internet. Abuse reporting is handled via a ticket system. There is no product, SaaS offering, team, mission, or company narrative present. The org_name 'BobSecTestCo' does not appear to be a real registered company \u2014 it reads as a test/placeholder name ('SecTest' strongly suggests security testing). The email username 'polyb10261008' is a non-personal, likely auto-generated or disposable-style handle.",
+    "what_they_do": "web-library.net is a public email/inbox service \u2014 not a business organisation. It provides free email addresses to the public, positioning itself as a privacy-conscious alternative to throwaway/disposable email services. It explicitly states it does not allow sending messages to the internet and is intended for 'legitimate use only', with abuse reporting via a ticket system.",
+    "raw_notes": "Homepage text presents this as a shared public email platform. Key self-descriptions: 'public email service', goal is to 'prevent spam and maintain a safe and secure environment', prohibits illegal activities, does not allow sending messages to the internet, claims it is NOT a throwaway/disposable email service and that emails will not bounce, requests that its domain not be blocklisted, directs abuse reports to an abuse ticket system. There is no product, no business, no team, no pricing, no industry vertical \u2014 it is purely an email provider for end-users.",
     "source_urls": [
       "https://web-library.net"
     ]
@@ -10,14 +10,14 @@
   "individual": {
     "name": "Bob",
     "role_if_found": null,
-    "notes": "No verifiable individual named 'Bob' associated with 'BobSecTestCo' could be identified. The first name 'Bob' is generic, the org name appears fabricated for testing purposes, and the email address ('polyb10261008@web-library.net') is not tied to any real professional identity. No LinkedIn, company page, or other first-party source confirms this person's existence or role.",
+    "notes": "No individual named 'Bob' is identifiable from this domain or org. The email address 'polyb10261008@web-library.net' is a user-generated inbox on a public shared email service \u2014 there is no company, staff page, founder profile, or LinkedIn presence to research. 'BobSecTestCo' as an org name is almost certainly a placeholder/test entry, consistent with the disposable-email nature of the signup.",
     "source_urls": []
   },
   "could_not_find": [
-    "No real company called 'BobSecTestCo' found \u2014 name pattern strongly suggests a test/fake signup.",
-    "No professional identity for 'Bob' at this org \u2014 email handle is non-personal and auto-generated in style.",
-    "web-library.net is a public shared email domain, not a business domain \u2014 signups from it cannot be attributed to any specific company or individual with confidence.",
-    "No product, industry vertical, team size, funding, or business context discoverable for 'BobSecTestCo'.",
-    "High likelihood this is a fake, test, or spam signup: disposable-style email domain + numeric username + fabricated org name."
+    "No real company exists behind this signup \u2014 'BobSecTestCo' is a fabricated/test org name.",
+    "No individual 'Bob' is identifiable; the email is a shared public inbox, not a personal or corporate address.",
+    "web-library.net is itself an email provider, not a business that would be a legitimate prospect.",
+    "No role, LinkedIn, team page, or any first-party personal information found.",
+    "Signup pattern (random alphanumeric prefix 'polyb10261008', test org name, public inbox domain) is strongly consistent with a bot, spam, or test signup rather than a genuine prospect."
   ]
 }
