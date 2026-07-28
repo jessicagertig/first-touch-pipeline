@@ -1,0 +1,54 @@
+{
+  "company": {
+    "website": "https://gpctexas.com",
+    "what_they_do": "General Packaging Corporation is a Texas-based custom manufacturer of packaging products. Their core offerings are: (1) corrugated boxes and custom corrugated packaging in single, double, and triple wall fiberboard with printing capabilities; (2) wood products \u2014 pallets, skids, crates, and other industrial wood items; (3) custom foam inserts and assemblies for product protection; and (4) engineered/integrated packaging solutions designed by an in-house engineering team. They serve hundreds of customers monthly across diverse industries. They also offer an ISTA-certified package testing lab, CAD design capabilities, and product warehousing. Positioning emphasizes custom/engineered solutions over commodity boxes, competitive pricing, and customer service. They are family-owned and operated.",
+    "raw_notes": [
+      "Founded 1957; incorporated 8/25/1960; BBB accredited since 2006 \u2014 nearly 70 years in business.",
+      "Family-owned and operated; leadership names from BBB: James W. Brown III (President), James Brown IV (Executive Vice President), Bradley E. Brown (Director) \u2014 the 'Brown' family appears to run the company across generations.",
+      "Headquartered at 200 E Arapaho Rd, Richardson, TX 75081 (corporate offices + plant, ~14 miles north of Dallas).",
+      "Four production plants across Texas per their About page (as of March 2025): Richardson (corrugated + HQ), Dallas/Fair Park (wood products, operating since 1981), Conroe/north Houston (industrial packaging, oil & gas / heavy industry / export focus), and a fourth (Garland address appears on BBB \u2014 2755 Miller Park N Ste 100, Garland, TX 75042).",
+      "Ships nationally and internationally.",
+      "RocketReach estimates ~59 employees and ~$36M revenue (third-party estimate, unverified).",
+      "LinkedIn lists company size as 51\u2013200 employees, privately held.",
+      "ISTA-certified testing lab on-site.",
+      "CAD capabilities: Mechanical Desktop, AutoCAD, ArtiosCAD.",
+      "Manufacturing capabilities: slitting, die-cutting, laminating, two-color printing, gluing, stitching.",
+      "Sustainability focus: recycled fiber sourcing, recyclable products (corrugated, foam, wood), sells wood waste back to sawmills/farmers.",
+      "Conroe plant has special focus on oil & gas, heavy industry, and export packaging.",
+      "Dallas plant specializes in new construction wood pallets, crates, bed frame foundations.",
+      "Featured project examples on homepage: custom corrugated inserts for lighting components, adjustable wood/foam motor shipping crate with latches, branded retail-ready box with high-quality print, heavy-duty double-wall corrugated alternative to plywood crate with integrated foam and built-in loading ramp.",
+      "Phone: 972-234-5499.",
+      "USDOT carrier record exists (USDOT #1266901) \u2014 they operate their own fleet (8 drivers, 9 power units).",
+      "Market positioning tagline: 'Anyone can give you a box. We provide you with the right packaging solution at extremely competitive prices.'",
+      "BBB A+ rating.",
+      "Thomasnet verified supplier."
+    ],
+    "source_urls": [
+      "https://gpctexas.com",
+      "https://gpctexas.com/about/",
+      "https://gpctexas.com/locations/",
+      "https://gpctexas.com/innovation-news/",
+      "https://www.bbb.org/us/tx/richardson/profile/corrugated-boxes/general-packaging-corporation-0875-90011025",
+      "https://rocketreach.co/general-packaging-corporation-profile_b5fb8ab6f63d6240",
+      "https://www.linkedin.com/company/general-packaging-corporation",
+      "https://www.thomasnet.com/company/general-packaging-corp-95696/profile",
+      "https://dot.report/usdot/1266901"
+    ]
+  },
+  "individual": {
+    "name": "Justin Hughes",
+    "role_if_found": "Shipping Manager",
+    "notes": "RocketReach lists Justin Hughes at gpctexas.com with the title 'Shipping Manager.' This is the only role attribution found and comes from a third-party data aggregator, not a first-party source, so it should be treated as likely but unconfirmed. No LinkedIn profile, personal website, or other first-party profile was found for this individual. He is not listed among the named leadership (Brown family) in BBB or other primary sources. Given his apparent role in shipping/logistics, he may be involved in or evaluating packaging operations, carrier relationships, or logistics efficiency \u2014 a natural fit for a packaging manufacturer's internal use case.",
+    "source_urls": [
+      "https://rocketreach.co/justin-hughes-email_858794978"
+    ]
+  },
+  "could_not_find": [
+    "No first-party confirmation of Justin Hughes's title or role \u2014 'Shipping Manager' is sourced only from RocketReach (third-party aggregator).",
+    "No LinkedIn, bio page, or company team page that mentions Justin Hughes directly.",
+    "Fourth plant location is inferred (Garland address on BBB) but not explicitly confirmed on the GPC website's locations page (which lists Richardson, Dallas, and Conroe by name).",
+    "Revenue figure ($36M from RocketReach; $10\u201325M from CIENCE) is inconsistent across third-party sources and unverified by any first-party disclosure.",
+    "No recent news articles specifically about GPC Texas (company appears to have low press coverage).",
+    "Founder/origin story details beyond '1957' are not publicly documented."
+  ]
+}

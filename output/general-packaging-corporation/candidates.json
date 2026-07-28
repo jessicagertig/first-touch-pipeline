@@ -1,0 +1,76 @@
+{
+  "candidates": [
+    {
+      "item": "Founded 1957; incorporated 8/25/1960; BBB accredited since 2006 \u2014 nearly 70 years in business.",
+      "why_interesting": "Nearly 70 years of continuous operation as a private, family-owned manufacturer is genuinely unusual longevity \u2014 most small custom packagers don't survive generational transitions, let alone three of them. It's a concrete, verifiable fact that signals deep institutional knowledge, not just a marketing claim.",
+      "level": "company",
+      "source_url": "https://www.bbb.org/us/tx/richardson/profile/corrugated-boxes/general-packaging-corporation-0875-90011025",
+      "as_of_date_if_known": "2025",
+      "recency_note": "Founding year is stable historical fact; BBB accreditation date confirmed via BBB profile.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Leadership names from BBB: James W. Brown III (President), James Brown IV (Executive Vice President), Bradley E. Brown (Director) \u2014 the 'Brown' family appears to run the company across generations.",
+      "why_interesting": "Three generations of the same family \u2014 including a III and a IV \u2014 actively running the company together is a striking, concrete detail that goes well beyond 'family-owned.' It signals deeply embedded ownership culture and long-term commitment that a commodity packaging vendor simply can't claim.",
+      "level": "company",
+      "source_url": "https://www.bbb.org/us/tx/richardson/profile/corrugated-boxes/general-packaging-corporation-0875-90011025",
+      "as_of_date_if_known": "2025",
+      "recency_note": "BBB leadership listings are periodically updated; treat as current but confirm before use.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Conroe plant has special focus on oil & gas, heavy industry, and export packaging.",
+      "why_interesting": "A dedicated plant for oil & gas and export is a surprisingly specific niche for a general packager \u2014 it implies ruggedized, compliance-aware packaging (ISPM-15 heat-treated wood, heavy-duty crating) that most corrugated shops can't actually touch. It's a concrete capability differentiator, not a generic claim.",
+      "level": "company",
+      "source_url": "https://gpctexas.com/locations/",
+      "as_of_date_if_known": "March 2025",
+      "recency_note": "Pulled from GPC's own locations page as of March 2025.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Heavy-duty double-wall corrugated alternative to plywood crate with integrated foam and built-in loading ramp \u2014 featured project example on homepage.",
+      "why_interesting": "A corrugated box with a built-in loading ramp is a genuinely clever engineering detail \u2014 it's the kind of 'we designed the whole logistics problem, not just the container' story that makes the 'engineered solutions' positioning concrete rather than abstract. Very few packagers showcase something this specific.",
+      "level": "company",
+      "source_url": "https://gpctexas.com",
+      "as_of_date_if_known": "2025",
+      "recency_note": "Pulled from homepage featured projects; verify it is still displayed before referencing.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Adjustable wood/foam motor shipping crate with latches \u2014 featured project example on homepage.",
+      "why_interesting": "'Adjustable' is the surprising word here \u2014 a crate engineered to accommodate variable motor sizes rather than being single-SKU signals genuine custom engineering capability, not just print-and-cut work. It's a tangible, visual proof point of the integrated-solution pitch.",
+      "level": "company",
+      "source_url": "https://gpctexas.com",
+      "as_of_date_if_known": "2025",
+      "recency_note": "Pulled from homepage featured projects; verify it is still displayed before referencing.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "USDOT carrier record exists (USDOT #1266901) \u2014 they operate their own fleet (8 drivers, 9 power units).",
+      "why_interesting": "A packaging manufacturer that also runs its own licensed carrier fleet is uncommon at this company size. It means GPC controls the last mile of delivery \u2014 a real operational advantage (and a genuine point of connection for a Shipping Manager recipient) that most similarly sized competitors outsource entirely.",
+      "level": "individual",
+      "source_url": "https://dot.report/usdot/1266901",
+      "as_of_date_if_known": "2025",
+      "recency_note": "USDOT records are updated by carriers; fleet size may have changed. Confirm before citing exact numbers.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Dallas plant specializes in new construction wood pallets, crates, bed frame foundations.",
+      "why_interesting": "Bed frame foundations coming out of an industrial packaging plant is an unexpected product line \u2014 it reveals that GPC's wood operation crosses into consumer goods manufacturing, which is a quirky, memorable detail that breaks the mental model of 'they just make boxes.'",
+      "level": "company",
+      "source_url": "https://gpctexas.com/locations/",
+      "as_of_date_if_known": "March 2025",
+      "recency_note": "Pulled from GPC's own locations page as of March 2025.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Sustainability focus: sells wood waste back to sawmills/farmers.",
+      "why_interesting": "Closing the loop by selling wood scrap back into the agricultural/milling supply chain is a specific, operational sustainability action \u2014 not a vague 'we care about the planet' claim. It's memorable because it names an actual buyer category (sawmills, farmers) that most people wouldn't anticipate.",
+      "level": "company",
+      "source_url": "https://gpctexas.com/about/",
+      "as_of_date_if_known": "2025",
+      "recency_note": "Pulled from GPC About page; content stability is high for an established company.",
+      "sensitivity": "none"
+    }
+  ]
+}

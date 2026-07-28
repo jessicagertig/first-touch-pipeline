@@ -1,0 +1,82 @@
+{
+  "lead_id": "general-packaging-corporation",
+  "company_name": "General Packaging Corporation",
+  "recipient_name": "Justin Hughes",
+  "email": "jhughes@gpctexas.com",
+  "variations": [
+    {
+      "variant_n": 1,
+      "compliment": "General Packaging Corporation looks like a great company - it's really impressive to see a three-generation family business still going strong after nearly 70 years!",
+      "email": "Hello Justin,\n\nThanks for checking out Polymer! General Packaging Corporation looks like a great company - it's really impressive to see a three-generation family business still going strong after nearly 70 years!\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.bbb.org/us/tx/richardson/profile/corrugated-boxes/general-packaging-corporation-0875-90011025"
+      ],
+      "score": 8,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1785266811.585659",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 2,
+      "compliment": "General Packaging Corporation looks like a great company - I love the container with the built-in loading ramp and foam cushioning, such a clever way to replace a plywood crate while cutting both cost and freight weight.",
+      "email": "Hello Justin,\n\nThanks for checking out Polymer! General Packaging Corporation looks like a great company - I love the container with the built-in loading ramp and foam cushioning, such a clever way to replace a plywood crate while cutting both cost and freight weight.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://gpctexas.com"
+      ],
+      "score": 8,
+      "tells": [
+        "such a clever way to replace a plywood crate while cutting both cost and freight weight — trailing clause piles on details and edges toward over-explaining"
+      ],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1785266811.746589",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 3,
+      "compliment": "General Packaging Corporation looks great - the reusable motor crate with adjustable compartments and resealable latches is such a thoughtful, practical design for shipping different sizes.",
+      "email": "Hello Justin,\n\nThanks for checking out Polymer! General Packaging Corporation looks great - the reusable motor crate with adjustable compartments and resealable latches is such a thoughtful, practical design for shipping different sizes.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://gpctexas.com"
+      ],
+      "score": 8,
+      "tells": [
+        "trailing clause 'for shipping different sizes' re-explains a point already implied by 'adjustable compartments'"
+      ],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1785266811.899609",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 4,
+      "compliment": "General Packaging Corporation looks like a great company - I really like that you collect and sell wood waste back to sawmills and farmers, it's a smart way to keep things sustainable.",
+      "email": "Hello Justin,\n\nThanks for checking out Polymer! General Packaging Corporation looks like a great company - I really like that you collect and sell wood waste back to sawmills and farmers, it's a smart way to keep things sustainable.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://gpctexas.com"
+      ],
+      "score": 8,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1785266812.085219",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 5,
+      "compliment": "General Packaging Corporation looks like a great company - I love that it's a three-generation family business, still going strong after nearly 70 years!",
+      "email": "Hello Justin,\n\nThanks for checking out Polymer! General Packaging Corporation looks like a great company - I love that it's a three-generation family business, still going strong after nearly 70 years!\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.bbb.org/us/tx/richardson/profile/corrugated-boxes/general-packaging-corporation-0875-90011025"
+      ],
+      "score": 9,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1785266812.280179",
+      "slack_channel": "C0B87Q5UEL9"
+    }
+  ]
+}
