@@ -1,23 +1,24 @@
 {
   "company": {
     "website": "https://web-library.net",
-    "what_they_do": "web-library.net is a free/public email service provider \u2014 not a product or services company. It offers disposable-style public email addresses to anyone, and explicitly asks recipients not to block its domain. It is not a legitimate business organization.",
-    "raw_notes": "The homepage content makes clear this is a public email hosting service open to anonymous signups. The site self-describes as 'not a throwaway email service' but functionally operates identically to one \u2014 anyone can register an address. There is no company product, SaaS offering, or business described. The org name 'DeltaSecCo' does not appear anywhere on the domain. No about page, no team, no product, no pricing, no business model visible. The plea not to block the domain is a common pattern among bulk/disposable email providers.",
+    "what_they_do": "web-library.net is a public email/mailbox service \u2014 not a business or product company. It provides free email addresses to the public, positioning itself as a non-throwaway but essentially anonymous/shared email provider. It explicitly does not allow sending messages to the internet and asks not to be blocked by services that receive its emails.",
+    "raw_notes": "Homepage copy makes clear this is a public email service, not a real company. The service asks receivers not to block their domain, claims it is not a 'throwaway' service, but the structure (random-looking addresses like polyd4653067@web-library.net) is consistent with disposable/temporary email patterns. No product, no team, no business described. Has an abuse ticket system. No indication of any legitimate organization called 'DeltaSecCo' being hosted here.",
     "source_urls": [
       "https://web-library.net"
     ]
   },
   "individual": {
-    "name": "D (first name only provided)",
+    "name": "D",
     "role_if_found": null,
-    "notes": "The email address 'polyd4653067@web-library.net' follows a pattern typical of auto-generated or anonymized disposable email addresses (random alphanumeric suffix, numeric string). No individual named 'D' associated with 'DeltaSecCo' could be verified. 'DeltaSecCo' returns no credible web presence as a real registered company. The combination of a single-letter first name, a numeric-heavy anonymous email address on a public mail host, and an unverifiable org name are strong signals of a fictitious or obfuscated identity.",
+    "notes": "Only a single initial 'D' was provided as a first name. The email address (polyd4653067@web-library.net) has a randomly generated-looking local part, consistent with a disposable or anonymized inbox rather than a real personal or business email. No individual could be identified or verified.",
     "source_urls": []
   },
   "could_not_find": [
-    "No real company called 'DeltaSecCo' could be verified \u2014 no website, no registration, no credible web presence found.",
-    "The email domain (web-library.net) belongs to a public email service, not to DeltaSecCo \u2014 there is zero domain-to-org match.",
-    "The recipient's full name, role, and identity could not be established from any source.",
-    "No legitimate business use case, product, or industry vertical is attributable to this signup.",
-    "The email address pattern ('polyd4653067@...') is consistent with auto-generated or throwaway addresses, raising further authenticity concerns."
+    "No real company named 'DeltaSecCo' could be verified \u2014 the org_name appears fabricated or unverifiable.",
+    "The email domain (web-library.net) is a public shared email service, not a company domain \u2014 it provides zero signal about the actual identity or employer of the signee.",
+    "The recipient's first name is only an initial ('D'), making individual research impossible.",
+    "The email address local part (polyd4653067) is randomly structured, strongly suggesting a disposable/anonymous inbox.",
+    "No website, LinkedIn, or any first-party source for 'DeltaSecCo' could be found or verified.",
+    "No role, title, or personal information for the individual was found anywhere."
   ]
 }
