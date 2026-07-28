@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://web-library.net",
-    "what_they_do": "web-library.net is a public email service provider \u2014 it offers free email addresses to the public, positioning itself as a non-throwaway, non-bouncing email platform. It is not a business, product company, or organization in any commercial sense.",
-    "raw_notes": "The homepage explicitly describes itself as a 'public email service' focused on spam prevention and safe/secure use. It prohibits illegal activities and sending messages to the internet. It asks not to be blocked, distinguishing itself from throwaway/disposable email services by claiming emails will not bounce. Abuse reporting is handled via a ticket system. There is no product, SaaS offering, team, mission statement, or commercial entity described \u2014 this is purely an email hosting utility.",
+    "what_they_do": "web-library.net is a public email / disposable-style email service. It provides free email addresses to end-users, explicitly asking site operators not to block its domain. Despite self-describing as 'not a throwaway email service', its primary function is to supply anonymous or semi-anonymous public email addresses that are not tied to a real organisation.",
+    "raw_notes": "Homepage copy positions the service as a 'public email service' focused on spam prevention and 'safe/secure environment'. It explicitly states it does not allow sending messages to the internet. It requests its domain not be blocked and suggests banning abusive users by IP rather than by domain. Abuse reporting is handled via a ticket system. There is no commercial product, no named team, no business address, and no indication of a real B2B or B2C company behind the domain beyond operating a free email gateway.",
     "source_urls": [
       "https://web-library.net"
     ]
@@ -10,15 +10,14 @@
   "individual": {
     "name": "Bob",
     "role_if_found": null,
-    "notes": "Only a first name ('Bob') is available. The email address (polyb10261008@web-library.net) is a free public email account on web-library.net \u2014 it carries no organizational affiliation, no professional identity, and no verifiable individual identity. The org_name 'BobSecTestCo' appears to be a fabricated/test company name, consistent with a test or throwaway signup rather than a real business.",
+    "notes": "Only a first name ('Bob') is available. The email address (polyb10261008@web-library.net) follows a pattern typical of auto-generated or anonymised public-email-service addresses (random alphanumeric string). No role, LinkedIn profile, or any other identifying information is findable. The org_name 'BobSecTestCo' appears to be a test/placeholder name rather than a real registered company.",
     "source_urls": []
   },
   "could_not_find": [
-    "No real company behind 'BobSecTestCo' \u2014 name pattern strongly suggests a test/fake signup.",
-    "No individual identity for 'Bob' \u2014 only a first name and a free public email address on a public email utility domain.",
-    "No professional role, LinkedIn, or any other identifying information for the recipient.",
-    "web-library.net is not a business or organization; it is a public free email provider, so there is no employer, product, or company to research.",
-    "The email domain is a free public email service, analogous to signing up with a Gmail or temp-mail address \u2014 no org-level signal can be derived from it.",
-    "No news, funding, product launches, or any other external signals found or applicable."
+    "No real individual identity \u2014 only first name 'Bob'; email pattern suggests an auto-generated or throwaway address.",
+    "No real company \u2014 'BobSecTestCo' does not appear to be a registered or searchable business entity.",
+    "web-library.net is not a commercial organisation but a public/disposable email provider; there is no legitimate prospect company to research.",
+    "No founder story, team page, product offering, or business context exists for either the individual or the stated org.",
+    "Strong signals this is a fake/test signup: disposable-style email domain, generic numeric email handle, placeholder org name."
   ]
 }
