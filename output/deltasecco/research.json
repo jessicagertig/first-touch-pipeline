@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://web-library.net",
-    "what_they_do": "web-library.net is a free public email service provider \u2014 not a business or product company. It offers email addresses to the public, positioning itself as a non-throwaway but anonymous/public inbox service. It explicitly prohibits illegal activity and does not allow outbound messaging to the internet.",
-    "raw_notes": "Homepage copy is entirely about their public email service terms of use. There is no mention of any company called 'DeltaSecCo' anywhere on the domain. The domain hosts a public/shared email service, not a business website. The org_name 'DeltaSecCo' has no presence on this domain. The email address uses a randomized-looking username ('polyd4653067'), consistent with auto-generated or throwaway-style account creation. The service explicitly asks not to be blocked and claims emails won't bounce, suggesting it is aware of spam/abuse reputation concerns.",
+    "what_they_do": "web-library.net is a public email service provider \u2014 not a business or product company. It offers free email addresses to the public, positioning itself as a legitimate (non-throwaway) email hosting service. It explicitly prohibits illegal activities and does not allow sending messages to the internet.",
+    "raw_notes": "Homepage copy confirms this is a public/free email service, not a real organization. The domain is used to provide email addresses to anonymous or pseudonymous users. The site itself requests not to be blocklisted, indicating its addresses are frequently flagged by spam filters. No products, no services, no team, no business mission beyond hosting public inboxes. The org_name 'DeltaSecCo' does not appear anywhere on the site and is almost certainly self-reported fiction by the registrant.",
     "source_urls": [
       "https://web-library.net"
     ]
@@ -10,15 +10,14 @@
   "individual": {
     "name": "D",
     "role_if_found": null,
-    "notes": "Only a single initial ('D') was provided as a first name \u2014 no full name available. The email address 'polyd4653067@web-library.net' appears auto-generated or randomly constructed. No individual could be identified or researched. No LinkedIn, company page, or any other first-party source links this person to 'DeltaSecCo' or any verifiable organization.",
+    "notes": "Only a single initial 'D' was provided as a first name \u2014 not a real identifiable name. The email address 'polyd4653067@web-library.net' follows a pattern (name fragment + long numeric string) typical of auto-generated or disposable-style addresses on public email services. No individual could be identified or verified. No role, LinkedIn, or any other identifying information is findable or assertable.",
     "source_urls": []
   },
   "could_not_find": [
-    "No real company called 'DeltaSecCo' is associated with the domain web-library.net \u2014 the domain is a public email service, not a business.",
-    "The org_name 'DeltaSecCo' cannot be verified as a real organization from any available source.",
-    "No full name for the individual \u2014 only the initial 'D' was provided.",
-    "The email username ('polyd4653067') appears auto-generated, raising authenticity concerns.",
-    "No role, LinkedIn profile, or any biographical information found for the recipient.",
-    "Overall signal strongly suggests this is not a genuine business signup: mismatched org name, public/anonymous email domain, single-letter first name, and randomized username are all high-risk indicators of a fake or throwaway registration."
+    "No real company called 'DeltaSecCo' is associated with the domain web-library.net \u2014 the org name appears to be self-reported and unverifiable.",
+    "The email domain is a public free-email service, not a corporate domain, so it provides zero signal about the recipient's true employer or identity.",
+    "First name is a single initial ('D') \u2014 no full name, no individual identity resolvable.",
+    "No role, title, LinkedIn profile, or any individual presence findable for this registrant.",
+    "The numeric suffix in the email address (4653067) is consistent with auto-generated or disposable-account patterns, raising further doubt about the legitimacy of this signup."
   ]
 }
