@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://web-library.net",
-    "what_they_do": "web-library.net is a public email service provider, not a legitimate business organization. It explicitly states its primary goal is to prevent spam and provide a safe email environment. It prohibits sending messages to the internet and does not support illegal activities. The service self-describes as NOT a throwaway email service, though its characteristics (free public email, no organizational affiliation) are consistent with disposable or anonymizing email services commonly used to bypass registration filters.",
-    "raw_notes": "The homepage content has no connection whatsoever to 'DeltaSecCo' or any security company. This is a generic public email hosting service. The site explicitly asks operators NOT to block their domain. The org_name 'DeltaSecCo' is unverifiable and appears to be self-reported at signup with no corroborating web presence tied to this domain. No products, services, team, pricing, or about page content consistent with a real business was found on the homepage.",
+    "what_they_do": "web-library.net is a free/public email service provider \u2014 not a company called 'DeltaSecCo'. The homepage explicitly describes it as a public email platform focused on spam prevention and safe messaging. It is not a business, product, or SaaS company in any conventional sense.",
+    "raw_notes": "Homepage text positions web-library.net as a public email service. Key signals: (1) It solicits abuse reports via a ticket system. (2) It explicitly asks not to be blocked, distinguishing itself from 'throwaway email' services \u2014 yet its feature set (free public email, no sending to internet) is consistent with a disposable/temporary inbox service. (3) There is no mention of any company called 'DeltaSecCo' anywhere on the site. (4) The org_name 'DeltaSecCo' appears to be self-reported by the user at signup and is NOT corroborated by the domain. (5) The email address prefix 'polyd4653067' follows a pattern (word + large random number) typical of auto-generated or throwaway accounts.",
     "source_urls": [
       "https://web-library.net"
     ]
@@ -10,16 +10,15 @@
   "individual": {
     "name": "D",
     "role_if_found": null,
-    "notes": "Only a single initial ('D') was provided as a first name. The email address 'polyd4653067@web-library.net' follows a pattern typical of auto-generated or anonymized addresses (random string + numeric suffix). No individual could be identified or researched. No role, LinkedIn, or any other identifying information is available.",
+    "notes": "Only a single initial ('D') was provided as a first name \u2014 no full name, no verifiable identity. No individual by this name could be researched. The email prefix 'polyd4653067' gives no reliable identity signal. No role at any real company could be confirmed.",
     "source_urls": []
   },
   "could_not_find": [
-    "No real company named 'DeltaSecCo' could be confirmed \u2014 the org_name appears to be self-reported and is not associated with the email domain web-library.net.",
-    "No website, LinkedIn, or any web presence found for 'DeltaSecCo' as a legitimate organization.",
-    "Recipient's full name is unknown \u2014 only the initial 'D' was provided.",
-    "Recipient's role is entirely unknown.",
-    "The email address pattern ('polyd4653067@web-library.net') is consistent with an auto-generated or anonymized address, raising authenticity concerns.",
-    "web-library.net is a public email service with no affiliation to any business called DeltaSecCo \u2014 the domain does not validate the org_name in any way.",
-    "High-confidence signal: this signup lacks the markers of a genuine business prospect (no matching domain, no full name, no verifiable org). Recommend flagging for review before outreach."
+    "No real company called 'DeltaSecCo' is associated with the domain web-library.net \u2014 the org_name appears fabricated or unverifiable.",
+    "No full name for the recipient \u2014 only the initial 'D' was provided.",
+    "No role, title, or professional identity for the individual could be found.",
+    "The email domain (web-library.net) is a public/shared email service, not a corporate domain, making it impossible to infer employer or industry from it.",
+    "The email address pattern ('polyd4653067@...') is consistent with an auto-generated or throwaway account, raising significant authenticity concerns.",
+    "No credible first-party or third-party source corroborates the existence of 'DeltaSecCo' as a real organization."
   ]
 }
