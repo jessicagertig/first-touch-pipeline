@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://web-library.net",
-    "what_they_do": "web-library.net is a free public email service provider \u2014 not a company in any conventional sense. It provides email addresses to the public. Its homepage explicitly describes it as a 'public email service' focused on spam prevention and safe messaging. It is NOT a throwaway/disposable email service by its own claim, but it is a free shared-domain email provider open to anyone.",
-    "raw_notes": "Homepage text confirms: public email service, prohibits illegal activity, does not allow sending messages to the internet, asks not to be blocked, suggests banning abusive users by IP rather than domain. No products, no SaaS, no business services, no team, no about page describing a real organization. The domain is a free public inbox provider used by anonymous or pseudonymous signups.",
+    "what_they_do": "web-library.net is a free public email service provider \u2014 not a business or product company. It offers email addresses to the public, positioning itself as a non-throwaway but anonymous/public inbox service. It explicitly prohibits illegal activity and does not allow outbound messaging to the internet.",
+    "raw_notes": "Homepage copy is entirely about their public email service terms of use. There is no mention of any company called 'DeltaSecCo' anywhere on the domain. The domain hosts a public/shared email service, not a business website. The org_name 'DeltaSecCo' has no presence on this domain. The email address uses a randomized-looking username ('polyd4653067'), consistent with auto-generated or throwaway-style account creation. The service explicitly asks not to be blocked and claims emails won't bounce, suggesting it is aware of spam/abuse reputation concerns.",
     "source_urls": [
       "https://web-library.net"
     ]
@@ -10,15 +10,15 @@
   "individual": {
     "name": "D",
     "role_if_found": null,
-    "notes": "Only a single initial 'D' was provided as the first name \u2014 no full name available. The email address 'polyd4653067@web-library.net' is a randomly-patterned address on a free public email domain, consistent with an anonymous or throwaway-style signup. No individual identity, role, or professional presence can be established. No LinkedIn, company affiliation, or any other identifying information is findable.",
+    "notes": "Only a single initial ('D') was provided as a first name \u2014 no full name available. The email address 'polyd4653067@web-library.net' appears auto-generated or randomly constructed. No individual could be identified or researched. No LinkedIn, company page, or any other first-party source links this person to 'DeltaSecCo' or any verifiable organization.",
     "source_urls": []
   },
   "could_not_find": [
-    "No real company called 'DeltaSecCo' could be verified \u2014 the org_name appears to be self-reported and unverifiable; no website, registration, or web presence found for it.",
-    "No full name for the recipient \u2014 only the initial 'D' was provided.",
-    "No role or title for the individual.",
-    "The email domain (web-library.net) belongs to a free public email service, not to 'DeltaSecCo' \u2014 there is a complete mismatch between the claimed org name and the email domain.",
-    "No professional, social, or first-party sources exist to corroborate any real identity or organization.",
-    "The signup pattern (random numeric email handle, single-letter name, unverifiable org name, free public email domain) is strongly consistent with a low-quality, anonymous, or potentially fraudulent signup \u2014 not a genuine business prospect."
+    "No real company called 'DeltaSecCo' is associated with the domain web-library.net \u2014 the domain is a public email service, not a business.",
+    "The org_name 'DeltaSecCo' cannot be verified as a real organization from any available source.",
+    "No full name for the individual \u2014 only the initial 'D' was provided.",
+    "The email username ('polyd4653067') appears auto-generated, raising authenticity concerns.",
+    "No role, LinkedIn profile, or any biographical information found for the recipient.",
+    "Overall signal strongly suggests this is not a genuine business signup: mismatched org name, public/anonymous email domain, single-letter first name, and randomized username are all high-risk indicators of a fake or throwaway registration."
   ]
 }
