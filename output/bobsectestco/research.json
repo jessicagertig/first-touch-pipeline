@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://web-library.net",
-    "what_they_do": "web-library.net is a public email/mailbox service \u2014 it provides free email addresses to users. It explicitly positions itself as 'not a throwaway email service' and states that emails will not bounce. It prohibits illegal activities and sending messages to the internet, and directs abuse reports through a ticket system.",
-    "raw_notes": "Despite the 'not a throwaway' claim, web-library.net has all the structural hallmarks of a disposable/temporary email provider: free public email addresses available to anyone, no apparent business product or SaaS offering, no named team or company behind it, abuse-reporting infrastructure front-and-center on the homepage, and a plea not to block their domain \u2014 which is a pattern seen almost exclusively with bulk/disposable email domains. The org_name 'BobSecTestCo' is not a real registered company name and appears fabricated. The email username 'polyb10261008' is a randomly structured string typical of auto-generated disposable inbox addresses. There is no legitimate business entity, product, service, or organizational presence discoverable here.",
+    "what_they_do": "web-library.net is a public email/inbox service \u2014 not a real company or organisation. It provides free email addresses to anyone, positioning itself as a legitimate (non-throwaway) public email provider. It explicitly prohibits illegal use and asks receivers not to block its domain.",
+    "raw_notes": "Homepage text makes clear this is a shared public email service, not a business entity. The service: (1) provides free public email addresses, (2) claims it is NOT a disposable/throwaway service and asks domains not to be blocked, (3) prohibits sending messages to the internet and illegal activities, (4) directs abuse reports to a ticket system. There is no product, SaaS offering, team, or commercial purpose described. The org_name 'BobSecTestCo' does not correspond to any real company associated with this domain.",
     "source_urls": [
       "https://web-library.net"
     ]
@@ -10,16 +10,15 @@
   "individual": {
     "name": "Bob",
     "role_if_found": null,
-    "notes": "No individual named 'Bob' is findable in connection with web-library.net or 'BobSecTestCo.' The first name 'Bob,' the org name 'BobSecTestCo,' and the randomly structured email address 'polyb10261008@web-library.net' together strongly suggest a test or synthetic signup rather than a real person representing a real organization.",
+    "notes": "No verifiable individual named 'Bob' associated with this domain or org_name could be identified. The email address 'polyb10261008@web-library.net' follows a pattern typical of auto-generated or randomly assigned public inbox addresses. The org_name 'BobSecTestCo' appears to be a test/placeholder organisation name, not a real registered business.",
     "source_urls": []
   },
   "could_not_find": [
-    "No real company named 'BobSecTestCo' found \u2014 appears fabricated/test data.",
-    "No individual 'Bob' identifiable as a real person or employee of any organization.",
-    "web-library.net has no 'About,' 'Team,' 'Product,' or 'Pricing' pages \u2014 no business identity beyond a public email service homepage.",
-    "The email username ('polyb10261008') is randomly structured and consistent with auto-generated disposable inbox addresses.",
-    "No LinkedIn, Crunchbase, Companies House, or any other business-registry presence found for 'BobSecTestCo.'",
-    "The domain's self-description as 'not a throwaway email service' is contradicted by its structure and the signup pattern observed here.",
-    "No legitimate use case or real prospect signal is present in any of the inputs."
+    "No real company behind 'BobSecTestCo' \u2014 org_name appears to be a test or fake entry.",
+    "No verified identity for 'Bob' \u2014 only a first name provided; no role, LinkedIn, or professional presence found.",
+    "web-library.net is a public email service, not a corporate domain \u2014 email address provides no signal about the recipient's actual employer or organisation.",
+    "Email address pattern ('polyb10261008@...') suggests a generated/anonymous inbox, not a personal or professional address.",
+    "No news, funding, product, or team information exists for 'BobSecTestCo' \u2014 likely not a real organisation.",
+    "This signup exhibits multiple signals of a low-quality or test submission: public/anonymous email domain, generic numeric email handle, placeholder org name."
   ]
 }
