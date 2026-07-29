@@ -1,24 +1,24 @@
 {
   "company": {
     "website": "https://web-library.net",
-    "what_they_do": "web-library.net is a public email/inbox service \u2014 not a legitimate business. Its homepage explicitly describes it as a 'public email service' focused on spam prevention and user anonymity. It is not a company called 'DeltaSecCo' or any other named enterprise.",
-    "raw_notes": "Homepage text self-identifies as a public email provider. It explicitly asks not to be blocked, distinguishes itself from 'throwaway email' but the use pattern (random-string username 'polyd4653067', non-business domain, org name typed at signup does not match domain) is consistent with a disposable/anonymizing inbox service. No products, no services, no team, no about page indicating a real business. Abuse reporting is available via ticket system. No mention of 'DeltaSecCo' anywhere on the site.",
+    "what_they_do": "web-library.net is a public email/inbox service \u2014 not a business or product company. It provides free email addresses to the public, positioning itself as a non-throwaway but anonymous/shared email provider. It explicitly states it does not allow sending messages to the internet and handles abuse via a ticket system.",
+    "raw_notes": "Homepage copy reads as a generic public email service landing page. No mention of any company called 'DeltaSecCo' anywhere on the domain. The domain is an email hosting utility, not a business entity. The service discourages domain blocking by claiming it is not a throwaway/disposable email service, but the structure (random-looking addresses like 'polyd4653067@web-library.net') is characteristic of disposable or anonymized inbox services. No products, no team, no about page content consistent with a real operating company.",
     "source_urls": [
       "https://web-library.net"
     ]
   },
   "individual": {
-    "name": "D (first name only provided)",
+    "name": "D",
     "role_if_found": null,
-    "notes": "Only a single initial 'D' was provided as a first name. The email address username ('polyd4653067') is an auto-generated or random string, which is a strong signal of an anonymized or bot-generated signup. No findable individual identity. 'DeltaSecCo' as an org name does not correspond to any verifiable company associated with this domain or email.",
+    "notes": "Only a single initial 'D' was provided as a first name. The email address 'polyd4653067@web-library.net' appears auto-generated or randomized (numeric suffix, generic prefix), which is a strong indicator of a disposable/anonymous inbox rather than a real personal or business email. No individual identifiable from this information. No role, title, LinkedIn, or any other signal found.",
     "source_urls": []
   },
   "could_not_find": [
-    "No real company named 'DeltaSecCo' can be verified as existing or associated with this email domain.",
-    "The email domain (web-library.net) belongs to a public email service, not to 'DeltaSecCo' or any business entity.",
-    "No real individual named 'D' could be identified \u2014 only a single initial provided.",
-    "The email username ('polyd4653067') is a random/auto-generated string, not a personal or professional identifier.",
-    "No website, LinkedIn, or any other source for 'DeltaSecCo' could be found.",
-    "This signup has multiple high-confidence signals of being fake, anonymous, or automated: random-string email username, single-letter first name, mismatched org name vs. domain, and use of a public inbox service as the email domain."
+    "No real company called 'DeltaSecCo' could be verified \u2014 the org_name appears to be self-reported and unverifiable; no website, registration, or public presence found for it.",
+    "The email domain (web-library.net) is a public email utility, not a company domain \u2014 it provides zero signal about the recipient's actual employer or organization.",
+    "First name is only a single initial ('D') \u2014 individual cannot be identified or researched.",
+    "The email address format ('polyd4653067@web-library.net') strongly suggests a generated/disposable inbox, not a real business contact.",
+    "No role, title, LinkedIn profile, or any professional signal found for the recipient.",
+    "No founding story, product, team, mission, or any company-specific content attributable to 'DeltaSecCo' was found anywhere."
   ]
 }
