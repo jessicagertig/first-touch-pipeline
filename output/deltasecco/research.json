@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://web-library.net",
-    "what_they_do": "web-library.net is a public email/webmail service provider \u2014 not a company called 'DeltaSecCo'. The site explicitly describes itself as offering free public email addresses to end users, with a focus on spam prevention and abuse control. It is not a throwaway/disposable email service per its own claims, but it is a shared public email domain anyone can register on.",
-    "raw_notes": "Homepage text makes no mention of 'DeltaSecCo' or any cybersecurity/security company. The domain is a public email hosting service similar to Gmail or mail.com, but smaller and less well-known. Key signals: (1) open registration for anyone; (2) explicitly asks receivers not to block their domain; (3) directs abuse reports to a ticket system. No products, SaaS offerings, team, mission, or business description consistent with a real company called 'DeltaSecCo'.",
+    "what_they_do": "web-library.net is a public email/inbox service \u2014 not a real company. It provides free, publicly accessible email addresses to anyone. The homepage explicitly describes itself as a 'public email service' focused on spam prevention and abuse management. It is not a business, product, or organization in any commercial sense.",
+    "raw_notes": "Homepage text is entirely about their email hosting service. They ask not to be blocked, claim not to be a 'throwaway email service,' and direct abuse reports to a ticket system. There is no product, no team, no mission, no customers, no industry vertical. The domain serves as a free email provider used by anyone who wants an inbox. The org_name 'DeltaSecCo' does not appear anywhere on the site and cannot be verified as a real organization associated with this domain.",
     "source_urls": [
       "https://web-library.net"
     ]
@@ -10,14 +10,13 @@
   "individual": {
     "name": "D (first name only provided)",
     "role_if_found": null,
-    "notes": "Only a single letter ('D') was provided as a first name \u2014 no full name to research. The email address 'polyd4653067@web-library.net' follows a pattern (generic prefix + long numeric string) strongly associated with automated signups, bots, or throwaway accounts rather than a real named professional. No individual could be identified or verified.",
+    "notes": "No identifiable individual. Only a single initial 'D' was provided as a first name. The email address 'polyd4653067@web-library.net' is a randomly structured inbox on a public email service \u2014 no person, role, LinkedIn profile, or any other identifying information can be attributed to this address. No search was able to surface any individual associated with this signup.",
     "source_urls": []
   },
   "could_not_find": [
-    "No real company called 'DeltaSecCo' found at web-library.net \u2014 the domain belongs to a public email service, not to this org_name.",
-    "No website, LinkedIn, Crunchbase, or any other presence found for an organization named 'DeltaSecCo'.",
-    "Recipient's full name unknown \u2014 only initial 'D' provided.",
-    "No verifiable individual identity: the email pattern (polyd4653067@web-library.net) is consistent with a bot, automated signup, or fictitious account.",
-    "The combination of a single-letter name, a numeric-suffix public-email address, and a mismatched org_name are strong signals this is not a legitimate business signup and should be flagged for review."
+    "No real company called 'DeltaSecCo' could be verified \u2014 the org_name appears to be self-reported and unverifiable; no website, registration, or public presence found for it.",
+    "The email domain web-library.net is a public free-inbox provider, not a corporate domain \u2014 it carries no signal about the recipient's actual employer or organization.",
+    "Recipient identity is essentially anonymous: only a single initial ('D') provided, email address is a randomly generated public inbox, no role or title available.",
+    "No first-party or third-party source confirms any legitimate business behind this signup."
   ]
 }
