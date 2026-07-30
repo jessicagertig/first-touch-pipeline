@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://web-library.net",
-    "what_they_do": "web-library.net is a public email/inbox service \u2014 it provides free email addresses to users. It explicitly positions itself as 'not a throwaway email service' but functionally operates as a shared, disposable-style public email provider. It does not appear to be a real business or product company.",
-    "raw_notes": "Homepage text is entirely about their email service rules and anti-abuse posture. No products, no SaaS, no team, no founding story, no industry vertical. The domain provides public email addresses (like the one used to sign up). The site explicitly asks not to be blocklisted, which is a common signal of a disposable/temporary email provider. No company name, no leadership, no pricing, no customers mentioned. The 'org_name' field was filled in as 'BobSecTestCo', which is not a real organization \u2014 it reads as a test/throwaway entry.",
+    "what_they_do": "web-library.net is a free public email service provider. It offers email addresses to the public, positioning itself as a legitimate (non-throwaway) email service focused on spam prevention and safe/secure messaging. It explicitly does not allow sending messages to the internet and prohibits illegal activities. It requests that its domain not be blocklisted and directs abuse reports to a ticket system.",
+    "raw_notes": "This is not a real business or product company. It is a public/shared email hosting service \u2014 functionally similar to a disposable or free webmail provider, though it explicitly claims not to be a 'throwaway' service. The homepage content is entirely about their email service policies, not about any SaaS product, startup, or commercial enterprise. The org_name 'BobSecTestCo' does not appear on the site and is almost certainly a fabricated/test value entered by the user at signup. The email address pattern ('polyb10261008@web-library.net') is consistent with a randomly generated or test account on a free public email platform. There is no product, team, mission, funding, or company story to research.",
     "source_urls": [
       "https://web-library.net"
     ]
@@ -10,14 +10,14 @@
   "individual": {
     "name": "Bob",
     "role_if_found": null,
-    "notes": "Only a first name ('Bob') was provided. The email address 'polyb10261008@web-library.net' is a randomly structured address on a public email service \u2014 not a corporate or personal domain. No role, LinkedIn, or any other identifying information is findable. The org name 'BobSecTestCo' strongly suggests this is a test signup, not a real person signing up on behalf of a real company.",
+    "notes": "Only a first name ('Bob') is available. The email address 'polyb10261008@web-library.net' appears to be a randomly generated or test account on a free public email service \u2014 not a professional or business email. No individual by this name could be associated with a real organization or role. No LinkedIn, company page, or any other identifying information is findable. The org_name 'BobSecTestCo' strongly suggests this is a test or fake signup rather than a genuine prospect.",
     "source_urls": []
   },
   "could_not_find": [
-    "No real company behind 'BobSecTestCo' \u2014 appears to be a fabricated/test org name.",
-    "No individual identity for 'Bob' \u2014 only a first name on a public/disposable email domain.",
-    "web-library.net is an email provider, not a prospect company \u2014 the email domain IS the service, not an employer.",
-    "No role, title, LinkedIn, or professional context for the recipient.",
-    "No legitimate business use case or ICP signal present in any of the inputs."
+    "No real company behind 'BobSecTestCo' \u2014 name appears fabricated/test data.",
+    "No individual 'Bob' identifiable beyond a first name; no surname, role, or professional profile.",
+    "email_domain (web-library.net) is a free public email provider, not a corporate or product domain \u2014 cannot be used to infer industry, company size, or business context.",
+    "No product, service offering, funding history, team, or mission attributable to any real organization.",
+    "High likelihood this is a throwaway, bot, or test signup rather than a genuine prospect \u2014 flagged for review."
   ]
 }
