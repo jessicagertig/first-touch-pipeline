@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://natanitsolutions.com",
-    "what_they_do": "Cannot be determined. The website contains only default WordPress placeholder content ('Hello world!', 'Welcome to WordPress. This is your first post.') and Lorem Ipsum-style filler text. No actual product, service, or business description is present.",
-    "raw_notes": "Site is a brand-new, unconfigured WordPress installation. No homepage copy, no about page, no services page, no product descriptions, no team information, no branding beyond the domain name. The org name 'Natan IT Solutions' suggests an IT services or technology solutions company, but this is inference from the name only \u2014 not supported by any site content. Lorem Ipsum filler text is present, indicating a site under construction or not yet built out.",
+    "what_they_do": "Unknown. The website is a brand-new, unconfigured WordPress installation. All content is default WordPress placeholder text ('Hello world! Welcome to WordPress. This is your first post.') and Lorem Ipsum filler copy. No real product, service, or business description has been published.",
+    "raw_notes": "The homepage at natanitsolutions.com contains only the default WordPress 'Hello world!' post and generic Lorem Ipsum placeholder paragraphs. There is no 'About', no services page, no team page, no industry signal, and no real content of any kind. The site has clearly been installed but not yet built out. No web search results returned a match for this exact domain or company name \u2014 the domain and company appear to be too new or too small to have any web presence beyond the WordPress install. Several similarly-named companies surfaced in search (NAT IT Solutions at natitsolutions.com, NAT solutions at nat-solutions.com, etc.) but none match the domain natanitsolutions.com and cannot be attributed to this signup.",
     "source_urls": [
       "https://natanitsolutions.com"
     ]
@@ -10,18 +10,15 @@
   "individual": {
     "name": "Natan",
     "role_if_found": null,
-    "notes": "First name only is known. The email address is hr@natanitsolutions.com, which suggests this person works in an HR or human resources capacity at the company \u2014 or the HR inbox is used as a general contact. No last name, LinkedIn profile, biography, or other individual-level information was found on the company website (which has no content). Cannot confirm whether Natan is a founder, employee, or HR representative.",
+    "notes": "First name only provided. The email address is hr@natanitsolutions.com, which suggests the recipient works in an HR function (or manages HR-related tasks) at the company rather than being a founder or executive \u2014 though this is an inference from the email prefix, not a confirmed title. No individual named 'Natan' at this company could be found via web search. No LinkedIn profile, personal bio, or any other public record for this person at this organisation was located.",
     "source_urls": []
   },
   "could_not_find": [
-    "What the company actually does \u2014 no services, products, or business description anywhere on the site",
-    "Company founding date, size, or industry vertical",
-    "Natan's last name",
-    "Natan's specific role or title (HR inbox used, but role unconfirmed)",
-    "Whether Natan is a founder or employee",
-    "Any team, about, or contact page content",
-    "Any third-party coverage, news, or web presence beyond the domain itself",
-    "Location or market served",
-    "Social media profiles or LinkedIn presence for the company or individual"
+    "What the company actually does \u2014 no real content on the website; it is an unconfigured WordPress default install.",
+    "Industry, services, products, or target market.",
+    "Company size, founding date, or location.",
+    "Individual's last name, confirmed job title, or any biographical detail.",
+    "Any third-party mentions, news, or web presence for natanitsolutions.com.",
+    "Whether 'Natan' in the first_name field refers to the individual's name or is derived from the company name."
   ]
 }
