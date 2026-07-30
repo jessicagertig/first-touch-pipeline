@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://web-library.net",
-    "what_they_do": "web-library.net is a public/free email service provider \u2014 not a company or product in any commercial sense. It offers free email addresses to the public, positioning itself as a legitimate (non-throwaway) free email host. It explicitly states it does not allow sending messages to the internet and prohibits illegal activities.",
-    "raw_notes": "Homepage text confirms this is a generic public email service. It asks platform operators not to block its domain and suggests banning problem users by IP rather than domain. There is no business product, SaaS offering, startup, or commercial entity associated with this domain. 'DeltaSecCo' as an org name does not appear on the site \u2014 it was typed in by the user at signup and has no verified connection to web-library.net. No About page, no team, no product, no pricing \u2014 purely a free email host.",
+    "what_they_do": "web-library.net is a public email/webmail service provider \u2014 not a legitimate business organization. It offers free email addresses to the public and explicitly asks not to be blocklisted, positioning itself as distinct from 'throwaway' email services. However, it does not allow outbound sending to the internet, which is atypical of normal email providers and consistent with burner/anonymous inbox behavior.",
+    "raw_notes": "Homepage text is boilerplate for a free/public email service. No products, no SaaS offering, no company description, no team, no business mission beyond hosting public inboxes. The org_name 'DeltaSecCo' does not appear anywhere on the site \u2014 it is almost certainly a fabricated organization name supplied by the registrant, not a real company with a web presence at this domain. The domain is used for receiving email, not for representing a real business.",
     "source_urls": [
       "https://web-library.net"
     ]
@@ -10,14 +10,15 @@
   "individual": {
     "name": "D (first name only provided)",
     "role_if_found": null,
-    "notes": "Only a single initial ('D') was provided as a first name. The email address 'polyd4653067@web-library.net' is a free public email address with a randomized-looking local part, strongly suggesting a throwaway or anonymized signup. No individual identity, role, or professional profile can be established from the available inputs.",
+    "notes": "No usable individual identity. Only a single letter 'D' is given as first name. The email address 'polyd4653067@web-library.net' follows a pattern (random username + numeric string) consistent with auto-generated or anonymized addresses. No role, LinkedIn, or any personal information is findable or verifiable. Could not confirm this is a real person.",
     "source_urls": []
   },
   "could_not_find": [
-    "No real company called 'DeltaSecCo' could be verified \u2014 the org name was self-reported at signup and is not associated with the email domain web-library.net.",
-    "web-library.net is a free public email provider, not a business entity; there is no company website, product, or team to research.",
-    "Recipient identity is unknown: only the initial 'D' was provided; the email address pattern (polyd4653067@...) appears anonymized or auto-generated.",
-    "No role, LinkedIn, or any professional footprint found for the individual.",
-    "No legitimate B2B or B2C company behind this signup could be confirmed from any source."
+    "No real company called 'DeltaSecCo' could be verified \u2014 the org_name appears fabricated; it has no presence at the email domain.",
+    "No website, LinkedIn, or any public record for 'DeltaSecCo' was found tied to this domain.",
+    "Recipient's full name is unknown \u2014 only the letter 'D' was provided.",
+    "Recipient's role is unknown.",
+    "The email address pattern (polyd4653067@web-library.net) is consistent with a temporary, anonymous, or throwaway inbox despite the host's self-description.",
+    "No legitimate business signals found anywhere in this signup \u2014 high probability this is a low-quality, anonymous, or fraudulent signup."
   ]
 }
