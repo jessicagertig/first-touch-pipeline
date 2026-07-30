@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://web-library.net",
-    "what_they_do": "web-library.net is a public email/webmail service provider. It offers free email addresses to users and positions itself as a legitimate (non-throwaway) public email platform. Its stated primary goal is spam prevention and maintaining a safe environment. It prohibits illegal activities and sending messages to the internet, and provides an abuse reporting ticket system.",
-    "raw_notes": "Self-describes as a 'public email service', not a throwaway/disposable email service. Claims emails will not bounce. Asks receivers not to block their domain. Directs abuse reports to a ticket system. The org_name 'BobSecTestCo' does not match any real company \u2014 it appears to be a fabricated/test organization name. The email address format (polyb10261008@web-library.net) with a generic username pattern is consistent with a free public email account, not a corporate domain. No real business, product, or service associated with this signup.",
+    "what_they_do": "web-library.net is a public email / disposable-address service. It provides free email addresses to end-users, markets itself as 'not a throwaway service' (so its domain is less likely to be blocklisted), prohibits illegal use and sending to the internet, and directs abuse reports through a ticket system. It is not a business-software product, SaaS tool, or identifiable commercial organisation.",
+    "raw_notes": "Homepage text is entirely a policy/terms notice for an email-hosting service aimed at end-users. No product, no team, no pricing, no mission beyond spam-prevention and acceptable-use compliance. The org_name 'BobSecTestCo' does not appear anywhere on the site or in any findable source \u2014 it appears to be a fabricated/test company name entered at signup. The email address pattern ('polyb10261008@web-library.net') is consistent with auto-generated or randomly constructed addresses typical of public/shared email services. No legitimate commercial entity is identifiable here.",
     "source_urls": [
       "https://web-library.net"
     ]
@@ -10,14 +10,14 @@
   "individual": {
     "name": "Bob",
     "role_if_found": null,
-    "notes": "Only a first name ('Bob') is available. The email address polyb10261008@web-library.net is a free public email account, not tied to any identifiable individual or real organization. 'BobSecTestCo' is almost certainly a fabricated company name used for testing or throwaway signups. No professional identity, role, or affiliation can be established. No corroborating information found.",
+    "notes": "Only a first name ('Bob') is available. The email address ('polyb10261008@web-library.net') does not correspond to a named professional or identifiable individual. No LinkedIn profile, company bio, or any other first- or third-party source links this name to a real person or role. 'BobSecTestCo' is almost certainly a placeholder/test org name, not a real company.",
     "source_urls": []
   },
   "could_not_find": [
-    "No real company behind 'BobSecTestCo' \u2014 name appears fabricated/test.",
-    "No identifiable individual named 'Bob' associated with this email or org.",
-    "web-library.net is a free public email provider, not a corporate domain \u2014 cannot infer industry, role, or use case from it.",
-    "No LinkedIn, website, or any other professional presence found for this signup.",
-    "High likelihood this is a throwaway or bot/test signup despite web-library.net's own claim of not being a disposable email service."
+    "No real company behind 'BobSecTestCo' \u2014 name appears fabricated/used for testing.",
+    "No identifiable individual named 'Bob' linkable to this email or org.",
+    "No role, title, LinkedIn, or professional profile for the recipient.",
+    "web-library.net is a public email provider, not a prospect's company website \u2014 the email domain does not represent the recipient's employer.",
+    "Signup pattern (random-looking address, test org name, public email domain) is strongly consistent with a spam/bot/test signup rather than a legitimate prospect."
   ]
 }
