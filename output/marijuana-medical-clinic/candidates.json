@@ -1,0 +1,40 @@
+{
+  "candidates": [
+    {
+      "item": "Most patients receive their approval within 4 hours after submitting their application to the state after their appointment.",
+      "why_interesting": "The 4-hour approval clock is a concrete, specific promise \u2014 not just 'same-day' (which most competitors also claim) but a named sub-4-hour window tied to the state submission step. That granularity is unusual and makes the claim verifiable/memorable.",
+      "level": "company",
+      "source_url": "https://medicalmarijuanaclinicflorida.com/",
+      "as_of_date_if_known": "2024\u20132025 (page indexed Sept 2024)",
+      "recency_note": "Confirmed live on their site as of search results pulled July 2026.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "We accept FSA and HSA cards.",
+      "why_interesting": "Most Florida MMJ certification competitors explicitly do NOT accept FSA/HSA (Miracle Leaf FAQ directly states 'HSA/FSA cards are not accepted'). MMC Florida accepting them is a genuine, verifiable differentiator \u2014 it signals the clinic has structured its billing to treat the certification as a qualified medical expense, which is non-trivial and meaningful to cost-conscious patients.",
+      "level": "company",
+      "source_url": "https://medicalmarijuanaclinicflorida.com/",
+      "as_of_date_if_known": "2024\u20132025",
+      "recency_note": "Confirmed live on their site; Miracle Leaf's explicit 'not accepted' stance confirmed in their FAQ (May 2026).",
+      "sensitivity": "none"
+    },
+    {
+      "item": "No Hidden Fees: $149 for a full 7-month certification period. Recertifications at $129. [Competitor column:] Hidden Fees: Additional fees for flower and other charges.",
+      "why_interesting": "The lower recertification price ($129 vs. $149 initial, and vs. competitors like Miracle Leaf charging $149 for renewals) is a concrete number advantage. More distinctive is that they explicitly name 'flower fees' as a hidden fee competitors charge \u2014 a blunt, specific call-out that will resonate with patients who've been surprised by that before.",
+      "level": "company",
+      "source_url": "https://medicalmarijuanaclinicflorida.com/",
+      "as_of_date_if_known": "2024\u20132025",
+      "recency_note": "Pricing confirmed live in search results July 2026.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "The chain I selected, Medical Marijuana Clinic (mmcflorida.com), has over a dozen locations statewide\u2026 Less than 20 minutes later, I was walking out with a packet of glossy brochures\u2026 and a doctor's recommendation.",
+      "why_interesting": "This is a real, named patient anecdote published in the Orlando Weekly \u2014 an independent third-party voice describing the in-office experience as fast, professional, and discreet ('might have been mistaken for a dentist's'). It's a concrete story, not a company claim, which makes it far more credible and usable as social proof.",
+      "level": "company",
+      "source_url": "https://dev.uocdn.net/medicalmarijuanaclinicflorida.com/ (quoting Orlando Weekly article)",
+      "as_of_date_if_known": "Article cached/indexed July 2023",
+      "recency_note": "Source is a 2023 cached version; the Orlando Weekly piece it cites may be older. Verify the original article is still live before use.",
+      "sensitivity": "none"
+    }
+  ]
+}

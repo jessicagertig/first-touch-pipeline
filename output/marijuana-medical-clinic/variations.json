@@ -1,0 +1,81 @@
+{
+  "lead_id": "marijuana-medical-clinic",
+  "company_name": "Marijuana Medical Clinic",
+  "recipient_name": "Miranda Beyer",
+  "email": "info@mmcflorida.com",
+  "variations": [
+    {
+      "variant_n": 1,
+      "compliment": "Marijuana Medical Clinic looks great - getting patients their approval within about 4 hours of applying is a really fast turnaround!",
+      "email": "Hello Miranda,\n\nThanks for checking out Polymer! Marijuana Medical Clinic looks great - getting patients their approval within about 4 hours of applying is a really fast turnaround!\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://mmcflorida.com"
+      ],
+      "score": 9,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1785404892.180599",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 2,
+      "compliment": "Marijuana Medical Clinic looks like a great company - I love the transparency of one flat $149 fee for the full certification period with no hidden charges.",
+      "email": "Hello Miranda,\n\nThanks for checking out Polymer! Marijuana Medical Clinic looks like a great company - I love the transparency of one flat $149 fee for the full certification period with no hidden charges.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://mmcflorida.com"
+      ],
+      "score": 9,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1785404892.298549",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 3,
+      "compliment": "Marijuana Medical Clinic looks like a thoughtful service - accepting FSA and HSA cards is such a practical touch that makes things easier for patients.",
+      "email": "Hello Miranda,\n\nThanks for checking out Polymer! Marijuana Medical Clinic looks like a thoughtful service - accepting FSA and HSA cards is such a practical touch that makes things easier for patients.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://medicalmarijuanaclinicflorida.com/"
+      ],
+      "score": 8,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1785404892.390989",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 4,
+      "compliment": "Marijuana Medical Clinic looks great - I love that patients can get approval within 4 hours of applying after their appointment.",
+      "email": "Hello Miranda,\n\nThanks for checking out Polymer! Marijuana Medical Clinic looks great - I love that patients can get approval within 4 hours of applying after their appointment.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://mmcflorida.com"
+      ],
+      "score": 8,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1785404892.481899",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 5,
+      "compliment": "Marijuana Medical Clinic looks like a patient-friendly company - between the quick 4-hour approvals and accepting FSA and HSA cards, you're clearly making the whole process smoother.",
+      "email": "Hello Miranda,\n\nThanks for checking out Polymer! Marijuana Medical Clinic looks like a patient-friendly company - between the quick 4-hour approvals and accepting FSA and HSA cards, you're clearly making the whole process smoother.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://mmcflorida.com",
+        "https://medicalmarijuanaclinicflorida.com/"
+      ],
+      "score": 8,
+      "tells": [
+        "you're clearly making the whole process smoother"
+      ],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1785404892.579349",
+      "slack_channel": "C0B87Q5UEL9"
+    }
+  ]
+}
