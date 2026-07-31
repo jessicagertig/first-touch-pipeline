@@ -1,25 +1,26 @@
 {
   "company": {
     "website": "ayable.com",
-    "what_they_do": "Cannot be determined. The domain ayable.com appears to be listed for sale as an unregistered/inactive domain on a domain marketplace (brandpa.com), with no live company website, product, or service discoverable. No business operating under this domain could be verified.",
-    "raw_notes": "A domain broker listing on brandpa.com indicates ayable.com is (or recently was) for sale, first registered in May 2021. No homepage, about page, product page, or any first-party content from a real company at ayable.com was found. A GitHub profile named 'ayable' exists with 7 public repositories (mostly boilerplate/tutorial projects), but cannot be confirmed as related to this signup. A separate company 'aable.com' (different domain) is a Swiss fintech startup \u2014 not the same entity. No company named 'Ydilny' was found anywhere in web searches; the name does not correspond to any known organization, brand, or entity.",
+    "what_they_do": "No active business found. The domain ayable.com is currently listed for sale on a domain marketplace (BrandPA) and does not host a real company website. No products, services, or business operations are associated with it.",
+    "raw_notes": "Domain ayable.com appears on BrandPA as available for purchase \u2014 described only in speculative 'potential use case' marketing copy by the domain seller, not by any actual company. A GitHub account named 'ayable' exists but contains only generic/tutorial repositories (workspace, micropost, microposts, monolist2) with no connection to a real business. An Instagram handle @ayable exists but is a personal account unrelated to any company. The email address 'rimib58944@ayable.com' has a random alphanumeric local-part strongly suggestive of a disposable or auto-generated email address. The domain was first registered in May 2021 per the BrandPA listing.",
     "source_urls": [
       "https://brandpa.com/names/ayable",
-      "https://github.com/ayable"
+      "https://github.com/ayable",
+      "https://www.instagram.com/ayable/"
     ]
   },
   "individual": {
     "name": "Slava",
     "role_if_found": null,
-    "notes": "'Slava' is a common Slavic given name (short form of names like Vyacheslav, Stanislav, Yaroslav, etc.), indicating the individual likely has an Eastern European background. No individual named 'Slava' could be found associated with ayable.com, Ydilny, or any related entity. The email address (rimib58944@ayable.com) has the structure of an auto-generated or disposable address, which may indicate a test/throwaway signup.",
+    "notes": "First name only provided. 'Slava' is a common Slavic given name (often a nickname for Vyacheslav, Stanislav, Yaroslav, etc.). No individual named Slava could be found with any connection to 'ayable.com' or 'Ydilny'. No LinkedIn profile, professional bio, or any other identifying information is available.",
     "source_urls": []
   },
   "could_not_find": [
-    "No live or archived company website at ayable.com \u2014 domain appears to be for sale or parked.",
-    "No information whatsoever about 'Ydilny' as a company, product, or organization.",
-    "No individual named 'Slava' linkable to ayable.com or Ydilny.",
-    "No role, title, or professional profile for the recipient.",
-    "The email address format (rimib58944@ayable.com) is consistent with a disposable or auto-generated address, raising a flag about signup legitimacy.",
-    "Cannot confirm this is a real business signup rather than a bot, test, or throwaway account."
+    "No real company or business found at ayable.com \u2014 domain is listed for sale with no active website.",
+    "Org name 'Ydilny' returns zero results across all searches; it does not correspond to any known company, startup, or organization.",
+    "No individual named 'Slava' could be linked to ayable.com or Ydilny.",
+    "Email address 'rimib58944@ayable.com' has characteristics of a disposable or auto-generated throwaway email (random alphanumeric string + domain listed for sale); the signup may not represent a real, reachable person or business.",
+    "No role, title, or professional background found for the recipient.",
+    "No social media presence, news coverage, or public records found for either the individual or the organization."
   ]
 }

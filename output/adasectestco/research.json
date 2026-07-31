@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://web-library.net",
-    "what_they_do": "web-library.net is a public email/inbox service \u2014 not a business or product company. It provides free, publicly accessible email addresses to anyone. Its homepage explicitly positions it as a privacy-conscious public email platform that prohibits illegal use and asks not to be blocklisted, while acknowledging it is commonly associated with disposable/anonymous signups.",
-    "raw_notes": "Homepage text makes clear this is a public shared email service, not a company with a product or customers. Key signals: (1) 'Welcome to our public email service' \u2014 it IS the email service, not a company using one. (2) It explicitly requests not to be blocked as a 'throwaway email service,' which is exactly the category it occupies in practice. (3) No products, no team, no mission beyond inbox provision. (4) Abuse reporting via ticket system. (5) The org_name 'AdaSecTestCo' is almost certainly a fabricated test/fake company name \u2014 'SecTest' strongly suggests security testing or bot/spam probing behavior. (6) The email address pattern 'polytest6482656@web-library.net' \u2014 the 'polytest' prefix with a long random numeric suffix is a textbook throwaway/automated signup pattern. (7) No legitimate business would use a public shared inbox domain as their company email.",
+    "what_they_do": "web-library.net is a public email service provider \u2014 not a product or technology company. It offers free/public email addresses to users and positions itself as a legitimate (non-throwaway) email service. It explicitly prohibits sending messages to the internet at large and illegal activities, and handles abuse via a ticket system.",
+    "raw_notes": "Homepage text makes clear this is a free public email service, not a real business or SaaS company. The domain is used by the general public to obtain email addresses. The service claims not to be a 'throwaway' or disposable email provider, but the pattern of use (free public email, no organizational affiliation) is consistent with temporary/anonymous email use. There is no product, no team, no mission beyond providing public inboxes. No company history, no leadership, no pricing, no industry vertical.",
     "source_urls": [
       "https://web-library.net"
     ]
@@ -10,15 +10,15 @@
   "individual": {
     "name": "Ada",
     "role_if_found": null,
-    "notes": "No individual named 'Ada' is findable at this domain or org. The first name 'Ada' combined with the org name 'AdaSecTestCo' suggests the name itself may be auto-generated or chosen to match the fake org name. No LinkedIn, no company page, no verifiable identity found. The email pattern (polytest + 8-digit random number) is inconsistent with a real person signing up under their own name.",
+    "notes": "Only a first name ('Ada') is available. The email address 'polytest6482656@web-library.net' contains the string 'polytest' followed by a long numeric suffix \u2014 strongly suggestive of an automated, scripted, or test signup rather than a real person registering with their own name and address. No individual named Ada could be identified at any organization called 'AdaSecTestCo'. No LinkedIn, no public profile, no verifiable identity.",
     "source_urls": []
   },
   "could_not_find": [
-    "No real company named 'AdaSecTestCo' found \u2014 appears to be a fabricated/test org name.",
-    "No verifiable individual named 'Ada' associated with this domain or org.",
-    "web-library.net is a public shared email service, not a business email domain \u2014 no company identity can be inferred from the domain.",
-    "Email address pattern ('polytest6482656@') is strongly indicative of an automated, bot, or throwaway signup rather than a real user.",
-    "No social profiles, LinkedIn, Crunchbase, or any other identity signals found for this individual or org.",
-    "HIGH FRAUD/BOT RISK FLAG: combination of (a) public/disposable-style email domain, (b) randomized numeric email prefix with 'test' in it, (c) fabricated org name, and (d) unverifiable individual identity all point to a non-genuine signup."
+    "No real company called 'AdaSecTestCo' could be found \u2014 the org_name appears fabricated or used for testing purposes.",
+    "No individual named 'Ada' could be identified or verified at any real organization.",
+    "The email address pattern ('polytest' + random digits) is consistent with automated/bot or disposable-email-style signup, not a genuine user registration.",
+    "web-library.net is a free public email service with no affiliation to any business or professional entity \u2014 it cannot be treated as a legitimate corporate email domain.",
+    "No role, title, LinkedIn profile, or any other identifying information found for the recipient.",
+    "No news, press, product pages, or about pages exist for 'AdaSecTestCo'."
   ]
 }

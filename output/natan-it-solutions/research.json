@@ -1,39 +1,24 @@
 {
   "company": {
     "website": "https://natanitsolutions.com",
-    "what_they_do": "Unknown / not yet established. The website is a brand-new, unconfigured WordPress installation showing only the default 'Hello world!' placeholder post and lorem ipsum filler text. The homepage references 'Professional IT Services' in a section heading, but no actual services, products, team, pricing, or about content has been published.",
-    "raw_notes": [
-      "Domain: natanitsolutions.com",
-      "Site is a default WordPress install \u2014 'Hello world! Welcome to WordPress. This is your first post. Edit or delete it, then start writing!' is visible verbatim.",
-      "One section heading reads 'What We're Offering \u2014 Dealing in all Professional IT Services', but the body copy beneath it is lorem ipsum placeholder text, not real service descriptions.",
-      "Another section heading reads 'What's Happening \u2014 Latest News & Articles from the Posts', also with lorem ipsum body copy.",
-      "No about page, no team page, no contact details, no real blog posts, no client list, no location, no pricing.",
-      "No verifiable match found in web search for 'Natan IT Solutions' at natanitsolutions.com \u2014 the domain/brand does not appear in any indexed pages, directories, LinkedIn company pages, or news.",
-      "Web search results for similar names (NAT IT Solutions, NAT solutions, A-NAT Solutions, etc.) return entirely different companies with different domains \u2014 none can be attributed to this signup.",
-      "The org_name 'Natan IT Solutions' and email domain 'natanitsolutions.com' are consistent with each other, so the match is confirmed, but the company itself has no substantive public footprint."
-    ],
+    "what_they_do": "Unknown / not yet established. The website is a brand-new, unconfigured WordPress installation \u2014 the only content present is the default 'Hello world! Welcome to WordPress. This is your first post.' placeholder text. No real products, services, team, or about information has been published.",
+    "raw_notes": "- Domain: natanitsolutions.com. Site name shown in page source: 'Natan IT Solutions'. - Page content is entirely WordPress default boilerplate: 'Hello world! Welcome to WordPress. This is your first post. Edit or delete it, then start writing!' - Section headings visible in the template ('What We're Offering', 'Dealing in all Professional IT Services', 'What's Happening', 'Latest News & Articles from the Posts') are clearly placeholder theme text populated with Lorem Ipsum-style filler copy \u2014 not authored content. - No real service descriptions, pricing, team bios, contact details, logos, or case studies are present. - The site does not appear in any web search results under its own domain (natanitsolutions.com), confirming it is very new or not yet indexed. - Web searches for 'Natan IT Solutions' and 'natanitsolutions.com' returned no matching results \u2014 only unrelated companies with similar-sounding names (NAT IT Solutions at natitsolution.com, NAT solutions at nat-solutions.com, A-NAT Solutions, NATS Solutions, etc.). None of these are the same entity.",
     "source_urls": [
-      "https://natanitsolutions.com (direct fetch, primary source)"
+      "https://natanitsolutions.com"
     ]
   },
   "individual": {
     "name": "Natan",
-    "role_if_found": null,
-    "notes": [
-      "First name only: 'Natan'. No last name provided in signup data.",
-      "Email is hr@natanitsolutions.com \u2014 the 'hr' prefix strongly suggests this person works in, or is responsible for, Human Resources at Natan IT Solutions. They may be an HR manager, HR director, or a founder wearing an HR hat at a small company.",
-      "No individual named 'Natan' at 'Natan IT Solutions' could be found in web search results, LinkedIn, or any public directory.",
-      "Web search results for 'Natan IT Solutions HR professional' returned unrelated individuals and companies (e.g., Natan Alves, a global HR leader at Fortune 500 firms \u2014 different person, different org).",
-      "Cannot confirm full name, seniority, tenure, or personal background from any available source."
-    ],
+    "role_if_found": "Unknown \u2014 email prefix is 'hr@natanitsolutions.com', suggesting the person handles HR or is an HR contact/owner, but no named individual could be confirmed from any source.",
+    "notes": "The signup first name is 'Natan'. The email address hr@natanitsolutions.com suggests an HR function or HR owner/founder role within the company. No LinkedIn profile, news mention, or any other public record for a named individual at natanitsolutions.com was found. Searches for 'Natan IT Solutions HR manager' returned no relevant matches \u2014 only unrelated individuals and companies.",
     "source_urls": []
   },
   "could_not_find": [
-    "Any real service or product details for Natan IT Solutions \u2014 website is an unbuilt WordPress placeholder.",
-    "Company location, founding date, team size, or industry focus.",
-    "Individual's last name, job title, or any professional profile.",
-    "Any press coverage, social media presence, or third-party mentions of Natan IT Solutions (natanitsolutions.com).",
-    "Whether the 'hr@' email prefix indicates the recipient IS the HR function or is simply using an HR inbox alias \u2014 role and seniority are inferred only, not confirmed.",
-    "No logo, branding, or other identity signals present on the site."
+    "What the company actually does \u2014 website is a blank WordPress install with no real content.",
+    "Company founding date, location, size, or industry focus.",
+    "Identity and full name of the individual recipient \u2014 only first name 'Natan' and HR email prefix available.",
+    "Any public profile (LinkedIn, press, directory) for the individual or the company.",
+    "Whether 'Natan' in the first_name field refers to the company name or the person's name (likely the person, but org_name is also 'Natan IT Solutions').",
+    "No usable first-party or third-party information about services, clients, team, or mission exists at this time."
   ]
 }
