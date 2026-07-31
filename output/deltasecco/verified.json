@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "fact": "The web-library.net homepage explicitly states: 'we do not allow sending messages to the internet' \u2014 a self-described public email service that prohibits outbound internet email.",
+    "source_url": "https://web-library.net"
+  },
+  {
+    "fact": "web-library.net is a disposable/throwaway email domain operated by mail.tm, with a risk score of 93/100. It is widely flagged by multiple independent email-verification services (verifymail.io, check-mail.org, usercheck.com) as generating temporary, short-lived addresses used for anonymous registrations. The username pattern 'polyd4653067' \u2014 a short pseudo-word string followed by a 7-digit number \u2014 is structurally consistent with auto-generated disposable addresses. The live homepage itself confirms it is a 'public email service' with no user identity verification, reinforcing that addresses are anonymous by design.",
+    "source_url": "https://check-mail.org/domain/web-library.net/"
+  },
+  {
+    "fact": "web-library.net is a public email service (not associated with any company called 'DeltaSecCo'). Its live homepage explicitly identifies it as a shared public email platform, with no connection to any organization named DeltaSecCo.",
+    "source_url": "https://web-library.net"
+  }
+]

@@ -1,3 +1,34 @@
 {
-  "candidates": []
+  "candidates": [
+    {
+      "item": "web-library.net explicitly states it 'does not allow sending messages to the internet' \u2014 an extraordinary claim for what presents itself as an email service.",
+      "why_interesting": "An email service that prohibits outbound internet email is a genuine head-scratcher and uniquely contradictory \u2014 no legitimate webmail provider frames itself this way. It stands out as quirky and worth flagging, not as a compliment but as a signal of an unusual/non-standard setup.",
+      "level": "company",
+      "source_url": "https://web-library.net",
+      "as_of_date_if_known": null,
+      "recency_note": "Noted in step-1 research; date of homepage copy unknown.",
+      "sensitivity": "Potentially signals a non-standard or deceptive service \u2014 flagging this as a compliment would be inappropriate; it is more of a red-flag indicator."
+    },
+    {
+      "item": "The email address 'polyd4653067@web-library.net' follows a pattern (random-looking alphanumeric string + number) highly consistent with auto-generated or anonymized addresses on free public email platforms.",
+      "why_interesting": "The address pattern is a concrete, specific signal that this is not a genuine professional or organizational email \u2014 it is characteristic of disposable or masked signups, which is the opposite of what web-library.net claims to offer ('not a throwaway service').",
+      "level": "individual",
+      "source_url": "https://web-library.net",
+      "as_of_date_if_known": null,
+      "recency_note": "Observed in step-1 research; pattern analysis based on address structure.",
+      "sensitivity": "High \u2014 directly implies the recipient may be using a fake or anonymized identity. Should not be used as an outreach compliment under any circumstances."
+    },
+    {
+      "item": "The org_name 'DeltaSecCo' does not match the email domain 'web-library.net' in any way, and no company called 'DeltaSecCo' is associated with this domain.",
+      "why_interesting": "A mismatch between stated company name and email domain is a strong and specific signal of either a fabricated organization or deliberate identity masking \u2014 not a generic observation but a concrete, verifiable discrepancy.",
+      "level": "company",
+      "source_url": "https://web-library.net",
+      "as_of_date_if_known": null,
+      "recency_note": "Noted in step-1 research; no web presence found for DeltaSecCo.",
+      "sensitivity": "High \u2014 implies the company name may be fictitious or the signup is fraudulent. Not suitable for use as a compliment or outreach hook."
+    }
+  ],
+  "_meta": {
+    "verdict": "NO viable compliment candidates exist in this dataset. All three surfaced items clear the 'interesting/distinctive' bar only as red flags or anomalies \u2014 not as genuine, sendable compliments. The underlying entity (DeltaSecCo) has no verifiable web presence, the individual cannot be identified beyond a single initial, and the email address pattern strongly suggests a non-genuine signup. Recommend halting outreach to this contact pending verification."
+  }
 }

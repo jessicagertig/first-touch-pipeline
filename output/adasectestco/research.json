@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://web-library.net",
-    "what_they_do": "web-library.net is a public email/inbox service \u2014 not a business, product company, or professional organization. It provides free email addresses to anyone, positioning itself as a non-throwaway but effectively anonymous public email provider. It explicitly prohibits sending messages to the internet and handles abuse via a ticket system.",
-    "raw_notes": "Homepage text confirms this is a public email service, not a real company. Key signals: (1) 'public email service' self-description; (2) requests that domain not be blocked, a classic signal of a disposable/privacy email provider; (3) no products, no team, no business mission, no industry vertical; (4) abuse reporting system present; (5) the org_name 'AdaSecTestCo' does not correspond to any real company found at this domain \u2014 it appears to be a fabricated/test org name. The email address pattern ('polytest6482656@...') with a numeric suffix strongly suggests an automated or test signup rather than a real person.",
+    "what_they_do": "web-library.net is a public email/mailbox service \u2014 not a library or SaaS product. It provides free email addresses to the public, positioning itself as a legitimate (non-throwaway) disposable-style email provider. It prohibits illegal use and outbound sending to the internet, and directs abuse reports through a ticket system.",
+    "raw_notes": "Homepage copy explicitly says 'public email service'. Does not allow sending messages to the internet. Asks not to be blocklisted, claiming it is 'not a throwaway email service'. Abuse reporting via ticket system. No mention of any product, SaaS, library software, or business services. The org_name 'AdaSecTestCo' does not appear anywhere on the site \u2014 it is not a real company hosted or represented here.",
     "source_urls": [
       "https://web-library.net"
     ]
@@ -10,14 +10,15 @@
   "individual": {
     "name": "Ada",
     "role_if_found": null,
-    "notes": "No real individual identifiable. The name 'Ada', combined with the email address 'polytest6482656@web-library.net' (random numeric suffix), the fabricated org name 'AdaSecTestCo', and the use of a public/anonymous email service, strongly indicates this is a bot, automated test, or fake signup \u2014 not a real person. No professional profile, company affiliation, or verifiable identity could be found.",
+    "notes": "Only a first name ('Ada') is available. The email address (polytest6482656@web-library.net) follows a pattern strongly consistent with automated or test account generation ('polytest' prefix + long numeric string). No individual named Ada could be identified at any real organization via this domain. No role, LinkedIn, or any other identifying information found.",
     "source_urls": []
   },
   "could_not_find": [
-    "No real company behind 'AdaSecTestCo' \u2014 appears to be a fabricated test organization name.",
-    "No real individual named 'Ada' associated with this signup \u2014 no LinkedIn, company page, or any professional identity found.",
-    "web-library.net is a public email provider, not a business domain \u2014 cannot be used to infer employer or org.",
-    "The email address pattern ('polytest' + large random number) is a strong indicator of an automated/bot signup.",
-    "No legitimate business use case or prospect profile can be constructed from these inputs."
+    "No real company called 'AdaSecTestCo' found \u2014 appears to be a fabricated org name, likely used for testing.",
+    "The email domain (web-library.net) belongs to a public email provider, not a business domain \u2014 cannot be used to infer employer or industry.",
+    "No individual named 'Ada' could be identified or verified at any real organization.",
+    "The email address pattern ('polytest' + random digits) strongly suggests an automated, scripted, or throwaway signup rather than a genuine user.",
+    "No product, service, or business context exists for 'AdaSecTestCo' \u2014 zero web presence found.",
+    "This signup has multiple high-confidence signals of being fake, a bot, or a security/spam test: disposable-style email provider, randomized email prefix, fabricated company name, and no verifiable individual."
   ]
 }
