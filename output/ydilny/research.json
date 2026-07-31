@@ -1,0 +1,24 @@
+{
+  "company": {
+    "website": "ayable.com",
+    "what_they_do": "Cannot be determined. The domain ayable.com appears to be listed for sale on domain marketplace BrandPa and has no active business website or company presence associated with it.",
+    "raw_notes": "Multiple searches return only a domain-for-sale listing on brandpa.com for ayable.com. The domain was first registered in May 2021 per that listing. There is no homepage, about page, product/service page, or any company operating under this domain. A GitHub account named 'ayable' exists with 7 public repositories (workspace, message-board, micropost, microposts, monolist2) but appears to be a personal/hobbyist account with no business affiliation. There is a separate company 'aable.com' (fintech, based in Zug, Switzerland) that is unrelated. No news, crunchbase, LinkedIn company page, or any business record found for ayable.com.",
+    "source_urls": [
+      "https://brandpa.com/names/ayable",
+      "https://github.com/ayable"
+    ]
+  },
+  "individual": {
+    "name": "Slava",
+    "role_if_found": null,
+    "notes": "No individual named 'Slava' could be identified in connection with ayable.com or Ydilny. 'Slava' is a common Slavic given name (masculine or feminine), used across Russian, Ukrainian, and other Slavic-speaking regions. No LinkedIn profile, company bio, or other professional record was found linking a person named Slava to either ayable.com or Ydilny. The email local part (rimib58944) has the structure of an auto-generated or disposable/throwaway email address.",
+    "source_urls": []
+  },
+  "could_not_find": [
+    "No active company or business found at ayable.com \u2014 domain appears to be listed for sale with no operating entity behind it.",
+    "No information found on the organization 'Ydilny' \u2014 name returns zero results; likely a fabricated or placeholder org name.",
+    "No individual named 'Slava' could be tied to ayable.com or Ydilny through any public source.",
+    "Email address (rimib58944@ayable.com) has characteristics of a disposable/auto-generated address \u2014 randomized numeric local part, domain with no active mail infrastructure found.",
+    "Strong indicators this may be a fake, bot, or throwaway signup: non-existent company domain, unresolvable org name, and disposable-style email format."
+  ]
+}
