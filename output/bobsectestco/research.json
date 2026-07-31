@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://web-library.net",
-    "what_they_do": "web-library.net is a public email/webmail service \u2014 not a business or product company. It provides free email addresses to the public, positioning itself as a non-throwaway, legitimate email hosting provider. It explicitly prohibits illegal activities and sending messages to the internet, and requests that its domain not be blocklisted.",
-    "raw_notes": "Homepage content confirms this is a free public email service. Key claims: (1) primary goal is spam prevention and safe/secure environment; (2) prohibits illegal activities; (3) does not allow sending messages to the internet; (4) explicitly states it is NOT a throwaway/disposable email service and emails will not bounce; (5) asks that its domain not be blocked; (6) suggests banning problem users by IP instead of domain; (7) has an abuse ticket system. There is no company product, SaaS offering, startup, or real business entity described. The org_name 'BobSecTestCo' does not correspond to any real company associated with this domain.",
+    "what_they_do": "web-library.net is a public email / disposable-address service. Despite its self-description as 'not a throwaway email service', the homepage describes a free public email platform whose explicit value proposition is spam prevention and anonymity for its users. It does not appear to be a real business organisation.",
+    "raw_notes": "Homepage text positions the domain as a shared public email provider, not a company. It explicitly asks receivers not to block the domain and directs abuse reports to a ticket system. The 'org_name' supplied at signup ('BobSecTestCo') is not a real identifiable organisation \u2014 it reads as a test or throwaway name. The email username 'polyb10261008' is a random-looking string consistent with auto-generated disposable-inbox usernames. No products, services, team, pricing, or business purpose are described on the site.",
     "source_urls": [
       "https://web-library.net"
     ]
@@ -10,15 +10,14 @@
   "individual": {
     "name": "Bob",
     "role_if_found": null,
-    "notes": "No verifiable individual named 'Bob' can be identified from this signup. The email address 'polyb10261008@web-library.net' is a free public email address generated on a public email service \u2014 it is not a professional or corporate email. No role, company affiliation, LinkedIn profile, or other identifying information is findable. The org_name 'BobSecTestCo' has the hallmarks of a test/placeholder entry rather than a real organization.",
+    "notes": "No verifiable individual named 'Bob' can be associated with this signup. The first name is generic, the email address username is a random alphanumeric string, and the organisation name ('BobSecTestCo') is a self-evidently fabricated test entity. No LinkedIn profile, company page, or any other first-party source corroborates a real person or role.",
     "source_urls": []
   },
   "could_not_find": [
-    "No real business or organization behind 'BobSecTestCo' \u2014 name appears to be a test/fake entry.",
-    "No professional identity for 'Bob' \u2014 free public email address with no traceable individual.",
-    "web-library.net is a public email provider, not a company or prospect \u2014 there is no meaningful 'company' to research.",
-    "No product, service, industry vertical, or funding information exists for this signup.",
-    "Email pattern ('polyb10261008@...') resembles an auto-generated or disposable-style address despite the provider's stated positioning.",
-    "This signup shows strong signals of being a test account, bot signup, or low-quality lead \u2014 not a genuine prospect."
+    "No real company behind 'BobSecTestCo' \u2014 name appears fabricated/test.",
+    "No identifiable individual recipient \u2014 'Bob' is unverifiable; username is auto-generated-style.",
+    "web-library.net is a public shared-inbox / disposable email provider, not a business domain \u2014 sender identity cannot be authenticated.",
+    "No product, service, industry vertical, team, or business model to research.",
+    "High likelihood this is a fake or test signup using a disposable email address."
   ]
 }
