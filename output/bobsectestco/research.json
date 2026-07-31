@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://web-library.net",
-    "what_they_do": "web-library.net is a public email / disposable-address service. Despite its self-description as 'not a throwaway email service', the homepage describes a free public email platform whose explicit value proposition is spam prevention and anonymity for its users. It does not appear to be a real business organisation.",
-    "raw_notes": "Homepage text positions the domain as a shared public email provider, not a company. It explicitly asks receivers not to block the domain and directs abuse reports to a ticket system. The 'org_name' supplied at signup ('BobSecTestCo') is not a real identifiable organisation \u2014 it reads as a test or throwaway name. The email username 'polyb10261008' is a random-looking string consistent with auto-generated disposable-inbox usernames. No products, services, team, pricing, or business purpose are described on the site.",
+    "what_they_do": "web-library.net is a public email/webmail service provider \u2014 not a business or product company. It offers free email addresses to the public, positioning itself as a legitimate (non-throwaway) email service that prohibits illegal activity and spam.",
+    "raw_notes": "Homepage text is entirely about the email service itself: public free email, anti-spam stance, no sending to internet, requests not to be blocklisted, abuse reporting via ticket system. There is no product, SaaS offering, startup, or commercial enterprise here. The 'org_name' supplied at signup ('BobSecTestCo') does not correspond to any real company associated with this domain. The domain is a free public email provider, similar in nature to a disposable/temporary email host \u2014 despite their self-description to the contrary. The email address pattern (polyb10261008@web-library.net) with a randomized-looking username further suggests this is not a genuine business signup.",
     "source_urls": [
       "https://web-library.net"
     ]
@@ -10,14 +10,14 @@
   "individual": {
     "name": "Bob",
     "role_if_found": null,
-    "notes": "No verifiable individual named 'Bob' can be associated with this signup. The first name is generic, the email address username is a random alphanumeric string, and the organisation name ('BobSecTestCo') is a self-evidently fabricated test entity. No LinkedIn profile, company page, or any other first-party source corroborates a real person or role.",
+    "notes": "Only a first name ('Bob') is available. No last name, LinkedIn profile, job title, or verifiable identity. The email address (polyb10261008@web-library.net) is a free public mailbox on a generic email service \u2014 not a professional or corporate email. No individual of this name can be credibly linked to any real organization from the inputs provided.",
     "source_urls": []
   },
   "could_not_find": [
-    "No real company behind 'BobSecTestCo' \u2014 name appears fabricated/test.",
-    "No identifiable individual recipient \u2014 'Bob' is unverifiable; username is auto-generated-style.",
-    "web-library.net is a public shared-inbox / disposable email provider, not a business domain \u2014 sender identity cannot be authenticated.",
-    "No product, service, industry vertical, team, or business model to research.",
-    "High likelihood this is a fake or test signup using a disposable email address."
+    "No real company behind 'BobSecTestCo' \u2014 name appears to be a test/fake org name, not a registered or findable business.",
+    "No individual identity for 'Bob' \u2014 no surname, role, LinkedIn, or any professional footprint found.",
+    "email_domain (web-library.net) is a free public email provider, not a company domain \u2014 provides zero signal about the recipient's actual employer or industry.",
+    "No product, service, or commercial context to research \u2014 nothing to compliment or personalize outreach around.",
+    "High likelihood this is a test signup, a fake/bot signup, or a privacy-conscious signup using a free email alias \u2014 not a genuine prospect."
   ]
 }
