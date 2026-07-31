@@ -1,25 +1,24 @@
 {
   "company": {
     "website": "https://web-library.net",
-    "what_they_do": "web-library.net is a public email/mailbox service \u2014 not a business or product company. It provides free email addresses to anyone, with stated goals around spam prevention and safe use. It explicitly notes it is not a 'throwaway' email service, but it functions as a shared-domain free email provider accessible to the general public.",
-    "raw_notes": "Homepage copy positions it as a public email service. No product, no SaaS, no team, no industry vertical. It asks not to have its domain blocked. Abuse reporting available via ticket system. There is no company named 'DeltaSecCo' associated with this domain \u2014 'DeltaSecCo' appears to be a name typed in by the user at signup, not a real registered organization tied to this domain. The domain itself is a free/public email host, not a corporate domain.",
+    "what_they_do": "web-library.net is a public disposable/temporary email service provider, not a real company. It offers free email addresses to users, explicitly noting it is not a 'throwaway' service in name, but functionally operates as a public shared email platform anyone can sign up with anonymously. It prohibits illegal use and does not allow outbound messaging to the internet.",
+    "raw_notes": "Homepage content confirms this is a public email service, not a business. It asks receivers not to block their domain. It has an abuse reporting system. There is no product, startup, SaaS, or commercial offering associated with this domain. The org_name 'DeltaSecCo' does not appear anywhere on the site and is almost certainly fabricated by the user at signup. The email username 'polyd4653067' has the hallmarks of an auto-generated or randomly created address (random string + digits), consistent with throwaway/anonymous signup behavior.",
     "source_urls": [
       "https://web-library.net"
     ]
   },
   "individual": {
-    "name": "D (first name only provided)",
+    "name": "D",
     "role_if_found": null,
-    "notes": "Only a single initial 'D' was provided as a first name. The email address 'polyd4653067@web-library.net' follows a pattern consistent with auto-generated or anonymized addresses on free/public email platforms. No individual could be identified or verified. No role, LinkedIn, or any other personal data is findable.",
+    "notes": "Only a single initial 'D' was provided as a first name \u2014 no full name, no verifiable identity. The email address (polyd4653067@web-library.net) appears auto-generated and is not tied to any real individual or professional identity. No role, LinkedIn, or any other identifying information is findable or verifiable. The org name 'DeltaSecCo' returns no credible matching company in any publicly available source.",
     "source_urls": []
   },
   "could_not_find": [
-    "No real company named 'DeltaSecCo' could be verified \u2014 the org_name appears to be self-reported and unverifiable.",
-    "The email domain (web-library.net) is a public free email service, not a corporate domain, so it cannot be used to infer employer or organization.",
-    "Recipient's full name is unknown \u2014 only the initial 'D' was provided.",
-    "No role, title, or professional background could be found for the individual.",
-    "No website, LinkedIn, or any first-party source exists for 'DeltaSecCo'.",
-    "The email address pattern ('polyd4653067@...') suggests a potentially auto-generated or throwaway-style address, raising authenticity concerns.",
-    "This signup exhibits multiple low-trust signals: free/public email domain, single-initial name, unverifiable org name, numeric-suffix email address."
+    "No real company called 'DeltaSecCo' could be verified \u2014 the org_name appears fabricated.",
+    "No real individual named 'D' could be identified \u2014 only a single initial provided.",
+    "The email domain (web-library.net) is a public anonymous email provider, not a company domain, making it impossible to infer employer, role, or identity.",
+    "The email address pattern ('polyd4653067') strongly suggests an auto-generated or throwaway address, not a professional one.",
+    "No website, LinkedIn, news, or any first-party source exists for 'DeltaSecCo'.",
+    "This signup exhibits multiple high-risk signals: anonymous email provider, fabricated org name, single-letter first name, randomly generated email username. It is very likely not a legitimate business signup."
   ]
 }
