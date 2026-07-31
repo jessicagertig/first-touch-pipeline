@@ -1,22 +1,22 @@
 {
   "company": {
-    "website": "https://natanitsolutions.com",
-    "what_they_do": "Unknown \u2014 no publicly indexed content found for this domain or company name.",
-    "raw_notes": "The domain natanitsolutions.com returned no indexed pages, no third-party directory listings (LinkedIn, Crunchbase, ZoomInfo, D&B, Companies House, etc.), and no news or press coverage under the name 'Natan IT Solutions'. The name pattern ('Natan IT Solutions') strongly implies an IT services or technology solutions firm, but this is inferred from the name only \u2014 not from any source. The email local-part 'hr@' suggests the sender is in an HR or administrative role at the organisation, not necessarily the founder or namesake 'Natan'. Multiple similarly-named companies exist (NAT IT Solutions, NAT Solutions, Nahum Natan Technology Solutions, Nathan IT Solutions Ltd UK) but none match this domain.",
+    "website": "https://natanitsolutions.com (unverified \u2014 domain not reachable or indexed by any search engine as of research date)",
+    "what_they_do": "Unknown. No publicly indexed content found for natanitsolutions.com or the company name 'Natan IT Solutions'.",
+    "raw_notes": "Zero search results match the exact domain natanitsolutions.com or the company name 'Natan IT Solutions'. The domain is either very new, has no SEO footprint, has no live/indexed website, or uses privacy/redirect settings that prevent discovery. Searches returned several similarly named but unrelated companies (NAT IT Solutions at natitsolution.com, NAT IT & Digital Marketing Solutions at natitsolutions.com, NAT Solutions at nat-solutions.com, etc.) \u2014 none of these match the signup domain. The email prefix 'hr@' suggests the sender works in an HR or recruiting capacity, or is the HR contact for the company, but this cannot be confirmed without a live website or directory listing.",
     "source_urls": []
   },
   "individual": {
     "name": "Natan (first name only provided)",
     "role_if_found": null,
-    "notes": "The signup first name is 'Natan' but the email address is hr@natanitsolutions.com, meaning the sender may be an HR staff member rather than a founder named Natan. No individual named 'Natan' was found associated with this domain or company through any public source. Role, surname, and personal background are all unknown.",
+    "notes": "No individual named 'Natan' could be identified in connection with 'Natan IT Solutions' or natanitsolutions.com. The email address hr@natanitsolutions.com suggests either (a) the person's name is Natan and the company is named after them, or (b) Natan works in HR at a company called Natan IT Solutions. No LinkedIn profile, company bio, or third-party mention was found. 'Natan' is a Hebrew/Israeli given name, which may indicate Israeli or regional Middle East origin, but this is speculative.",
     "source_urls": []
   },
   "could_not_find": [
-    "Company website content \u2014 natanitsolutions.com has no publicly indexed pages",
-    "Company description, industry, or services \u2014 none verifiable from any source",
-    "Company location, size, or founding date",
-    "Individual's full name, surname, or role at the company",
-    "Whether 'Natan' (first name) is the founder/owner or a separate HR employee who signed up",
-    "Any news, press, social media presence, or directory listings for this company"
+    "No live or indexed website found at natanitsolutions.com",
+    "No description of company services, size, industry vertical, or founding story",
+    "No information on the individual recipient 'Natan' \u2014 role, title, founder status unknown",
+    "No news, press, social profiles, or third-party directory listings found for this company or domain",
+    "Cannot confirm whether 'hr@' prefix means HR department address or a personal work email",
+    "Cannot confirm geography, company size, or target market"
   ]
 }
