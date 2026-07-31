@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://natanitsolutions.com",
-    "what_they_do": "Unknown. The website is a default, unconfigured WordPress installation with no real content \u2014 only the WordPress placeholder 'Hello world!' post and Lorem Ipsum filler text. No products, services, or business description are present.",
-    "raw_notes": "Site is a fresh/default WordPress install. Homepage contains only the auto-generated 'Hello world!' first post, a Lorem Ipsum passage, and no company-specific content whatsoever. No about page, no services, no team info, no branding beyond the domain name. The org name 'Natan IT Solutions' suggests an IT services or technology solutions company, but this is inference from the name only \u2014 not supported by any site content.",
+    "what_they_do": "Unknown. The website contains only the default WordPress placeholder content ('Hello world! Welcome to WordPress. This is your first post.') and generic Lorem Ipsum-style filler text. No actual products, services, or company description are present.",
+    "raw_notes": "Site is a freshly installed or unconfigured WordPress instance. No homepage copy, no about page, no services listed, no team information, no branding beyond the domain name. The org name 'Natan IT Solutions' suggests an IT services or technology solutions company, but this is inference from the name only \u2014 nothing on the site confirms it. No blog posts, case studies, or client information visible.",
     "source_urls": [
       "https://natanitsolutions.com"
     ]
@@ -10,16 +10,16 @@
   "individual": {
     "name": "Natan",
     "role_if_found": null,
-    "notes": "First name is 'Natan'. Email address is hr@natanitsolutions.com \u2014 the 'hr' prefix suggests this person may work in a Human Resources function, or the email is a generic HR department address rather than a personal inbox. No individual profile, bio, LinkedIn, or role information was findable from the website (which has no team or about content). Could be the founder given the company appears to share their first name, but this is speculative.",
+    "notes": "First name only provided. Email prefix is 'hr@', which suggests this person may work in a Human Resources function, or 'hr@' is simply the company's general contact alias. No individual profile, LinkedIn, or biographical information was findable from the domain or site content. Cannot confirm role, surname, or any personal details.",
     "source_urls": []
   },
   "could_not_find": [
-    "What the company actually does \u2014 no services, products, or business description on the website",
-    "Natan's last name",
-    "Natan's specific role or title",
-    "Whether 'hr@' is a personal address or a shared department inbox",
-    "Company founding date, size, location, or any other firmographic detail",
-    "Any third-party mentions, news, or web presence beyond the domain itself",
-    "Whether the company is the same as the individual (solo founder) or a larger team"
+    "What the company actually does \u2014 site has no real content",
+    "Individual's last name or confirmed role",
+    "Any product, service, or offering description",
+    "Team, founder, or leadership information",
+    "Company history, founding date, or mission statement",
+    "Any public web presence (news, LinkedIn, directories) corroborating the company",
+    "Whether 'hr@' reflects the recipient's actual role or is just a shared inbox alias"
   ]
 }
