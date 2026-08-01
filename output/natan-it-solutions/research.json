@@ -1,8 +1,17 @@
 {
   "company": {
     "website": "https://natanitsolutions.com",
-    "what_they_do": "IT services company \u2014 self-described as 'Dealing in all Professional IT Services'. No further detail about specific offerings, industries served, or products is available from the homepage.",
-    "raw_notes": "The website appears to be a brand-new, unconfigured WordPress installation. The homepage contains only the default WordPress placeholder post ('Hello world! Welcome to WordPress. This is your first post.'), Lorem Ipsum-style filler text, and a single tagline: 'Dealing in all Professional IT Services'. No real product pages, service descriptions, team bios, case studies, pricing, or about content are present. The site has not been meaningfully built out yet.",
+    "what_they_do": "Natan IT Solutions appears to be an IT services company. The website self-describes as 'Dealing in all Professional IT Services,' but no specific services, products, case studies, or client information are published yet. The site is a brand-new, unconfigured WordPress installation \u2014 the only substantive content is the default 'Hello world!' placeholder post and lorem ipsum filler text.",
+    "raw_notes": [
+      "Homepage headline: 'What We're Offering \u2014 Dealing in all Professional IT Services'",
+      "Body copy is entirely placeholder/lorem ipsum text ('There are many variations of passages of available but majority have suffered alteration...')",
+      "News/blog section header: 'What's Happening \u2014 Latest News & Articles from the Posts' \u2014 also filled with lorem ipsum",
+      "Only published post is the default WordPress 'Hello world!' post",
+      "No real service descriptions, no team page, no about page, no pricing, no case studies, no client logos \u2014 nothing substantive has been built out yet",
+      "Site name in footer: 'Natan IT Solutions'",
+      "No web search results match natanitsolutions.com specifically; it is too new or not indexed",
+      "Domain: natanitsolutions.com"
+    ],
     "source_urls": [
       "https://natanitsolutions.com"
     ]
@@ -10,16 +19,15 @@
   "individual": {
     "name": "Natan",
     "role_if_found": null,
-    "notes": "No individual profile information found. The email address (hr@natanitsolutions.com) uses an 'hr' prefix, which may suggest the recipient works in a Human Resources or administrative capacity at the company, but this is an inference from the email prefix only \u2014 not confirmed by any source. No LinkedIn profile, bio, or other first-party content about this individual was found on the company website.",
+    "notes": "The recipient's first name is 'Natan' and the email is hr@natanitsolutions.com. The 'hr@' prefix suggests this person works in or manages the HR function for the company \u2014 but could also simply be the catch-all or founder email used for a new business. No individual named 'Natan' at natanitsolutions.com was findable in web searches. No LinkedIn profile, personal bio, or any third-party mention of this specific individual was located. The company name itself ('Natan IT Solutions') matches the first name, which may suggest Natan is the founder or owner.",
     "source_urls": []
   },
   "could_not_find": [
-    "Any real description of specific IT services offered (only a generic placeholder tagline exists)",
-    "Company founding date, size, location, or industry verticals served",
-    "Named team members, leadership, or founder information",
-    "Natan's confirmed role or title at the company",
-    "Any news, press mentions, or third-party references to the company",
-    "Social media profiles or any external web presence for the company or individual",
-    "The website is an unconfigured WordPress default \u2014 essentially no usable first-party content exists beyond the company name and a generic IT services tagline"
+    "Any real service or product descriptions from natanitsolutions.com \u2014 the site is a blank WordPress install with only placeholder content",
+    "Natan's last name, title, or role",
+    "Any information about the company's size, location, founding date, or industry focus",
+    "Any third-party mentions, news articles, or listings for natanitsolutions.com",
+    "Whether the company is operational / has customers yet",
+    "Any social media presence for Natan IT Solutions (no Twitter/X, LinkedIn company page, or other profiles found)"
   ]
 }

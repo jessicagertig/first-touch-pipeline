@@ -1,8 +1,8 @@
 {
   "company": {
-    "website": "ayable.com",
-    "what_they_do": "Cannot be determined. The domain ayable.com is currently listed for sale on a domain marketplace (brandpa.com) with no active company, product, or service associated with it.",
-    "raw_notes": "ayable.com surfaces only as a domain-for-sale listing on brandpa.com. No homepage, about page, product page, or any business content is accessible at the domain. The domain was first registered in May 2021 per the marketplace listing. A GitHub account named 'ayable' exists with 7 public repositories, but it appears to be a personal/student account with no connection to a company. There is no 'Ydilny' company findable anywhere via web search \u2014 the name returns no matching results. The org name 'Ydilny' appears to be a random or fabricated string. The email address (rimib58944@ayable.com) contains a random-looking alphanumeric local part, which is a common pattern in disposable/temporary email addresses.",
+    "website": null,
+    "what_they_do": "Unknown. No active company website or business presence was found at ayable.com. The domain appears to be listed for sale on a domain marketplace (brandpa.com), with no evidence of an operating business behind it.",
+    "raw_notes": "The domain ayable.com returns results only from a domain-for-sale listing on brandpa.com, indicating it is currently being marketed as an available domain rather than hosting an active business. The brandpa listing describes hypothetical use cases (AI-powered payment solutions, micro-loan apps) as sales copy to inspire buyers \u2014 these are NOT descriptions of a real company at this domain. A GitHub account named 'ayable' exists with 7 public repositories (mostly Ruby and HTML learning/tutorial-style projects), but there is no link to a commercial entity. No LinkedIn company page, Crunchbase entry, or news coverage was found for any company called 'Ayable' operating at ayable.com. The org_name 'Ydilny' returned no results matching a real company; it may be a misspelling, a nonsense entry, or an internal code name. The email address pattern (rimib58944@ayable.com) with a numeric string is unusual and may suggest an auto-generated or disposable email address.",
     "source_urls": [
       "https://brandpa.com/names/ayable",
       "https://github.com/ayable"
@@ -11,14 +11,14 @@
   "individual": {
     "name": "Slava",
     "role_if_found": null,
-    "notes": "'Slava' is a common Slavic given name (male or female). No individual named 'Slava' with any connection to 'ayable.com' or 'Ydilny' was found in any web search. No LinkedIn profile, company bio, or other first-party source links this person to any identifiable organization.",
+    "notes": "No individual named 'Slava' could be identified in connection with ayable.com or the org name 'Ydilny'. 'Slava' is a common Slavic given name (short form of names like Vyacheslav, Stanislav, Yaroslav, etc.), so it is not uniquely identifying on its own. No LinkedIn profile, company bio, or other first-party source connecting this specific person to either 'Ayable' or 'Ydilny' was found.",
     "source_urls": []
   },
   "could_not_find": [
-    "No active website or business found at ayable.com \u2014 domain is listed for sale.",
-    "No company named 'Ydilny' found anywhere; likely a fabricated or randomly generated org name.",
-    "No individual named 'Slava' connectable to ayable.com or Ydilny.",
-    "Email local part 'rimib58944' follows a pattern consistent with auto-generated or disposable email addresses.",
-    "Cannot verify any real person, role, company product, or business activity for this signup \u2014 high likelihood of a fake/spam signup."
+    "No active website or business found at ayable.com \u2014 domain appears to be for sale.",
+    "No information found on the org_name 'Ydilny' \u2014 may be misspelled, fabricated, or a placeholder.",
+    "No role, title, or professional profile found for the individual 'Slava' at this domain.",
+    "The email address format (rimib58944@ayable.com) is atypical and may indicate a disposable or auto-generated address, raising a data quality flag.",
+    "Cannot verify this is a legitimate business signup \u2014 all signals (domain for sale, unknown org name, numeric email prefix) suggest possible low-quality or synthetic signup data."
   ]
 }
