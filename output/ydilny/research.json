@@ -1,26 +1,25 @@
 {
   "company": {
-    "website": null,
-    "what_they_do": "Unknown. No real company or active website found at ayable.com. The domain appears to be listed for sale on a domain marketplace (brandpa.com) and has no verifiable business operating under it.",
-    "raw_notes": "ayable.com is listed as a domain for sale on brandpa.com, first registered May 2021. No active company website, product, or service was found at this domain. A GitHub account named 'ayable' exists with 7 public repositories (workspace, message-board, micropost, microposts, monolist2) \u2014 these appear to be personal/educational projects with no clear commercial product. An Instagram account @ayable exists but has no business connection. No company named 'Ydilny' was found in any search \u2014 it does not appear in business directories, startup databases, LinkedIn, Crunchbase, or any public web source. 'Ydilny' may be a misspelling, a fabricated/placeholder name, or an extremely early-stage/private entity with no public footprint.",
+    "website": "ayable.com",
+    "what_they_do": "Unknown. No active company website or business presence found at ayable.com.",
+    "raw_notes": "The domain ayable.com appears to be listed for sale on a domain marketplace (brandpa.com), with no active company or product behind it. A GitHub account named 'ayable' exists with 7 public repositories (workspace, message-board, micropost, microposts, monolist2, ayable.github.io), but these appear to be personal/learning projects with no clear commercial product or company identity. The domain was first registered in May 2021 per the domain listing. No live company website, product, or service was discoverable.",
     "source_urls": [
       "https://brandpa.com/names/ayable",
-      "https://github.com/ayable",
-      "https://www.instagram.com/ayable/"
+      "https://github.com/ayable"
     ]
   },
   "individual": {
     "name": "Slava",
     "role_if_found": null,
-    "notes": "No individual named 'Slava' could be linked to ayable.com or Ydilny through any public source. 'Slava' is a Slavic given name, commonly a nickname for masculine names like Vyacheslav or Stanislav, suggesting the individual may have an Eastern European or Russian background. No professional profile (LinkedIn, Crunchbase, company bio, etc.) was found connecting this person to either the email domain or the org name.",
+    "notes": "No individual named 'Slava' could be linked to ayable.com or the org 'Ydilny'. 'Slava' is a common Slavic given name. No professional profile, LinkedIn page, or any other identifying information was found connecting this first name to the email domain or org name.",
     "source_urls": []
   },
   "could_not_find": [
-    "No active company website at ayable.com \u2014 domain appears to be for sale or parked.",
-    "No company named 'Ydilny' found anywhere on the public web \u2014 origin, industry, and nature of the organization are unknown.",
-    "No individual 'Slava' tied to ayable.com or Ydilny found in any public source.",
-    "No role, title, or professional background for the individual recipient.",
-    "Cannot verify whether the email address rimib58944@ayable.com belongs to an actual operating business or is a disposable/temporary email address.",
-    "The combination of a parked domain, an untraceable org name, and a seemingly random email prefix raises a flag that this may be a test signup, spam, or a very pre-launch stealth entity."
+    "No active website or business found at ayable.com \u2014 domain appears to be listed for sale.",
+    "No information found on the org name 'Ydilny' \u2014 does not appear to be a registered or publicly known company.",
+    "No individual 'Slava' linkable to ayable.com or Ydilny.",
+    "No role, title, or professional profile for the recipient.",
+    "The email address (rimib58944@ayable.com) pattern (random-string@domain) is consistent with a disposable or generated email address, which raises a flag about the legitimacy of this signup.",
+    "Cannot verify whether ayable.com is actually owned/operated by this person or is simply a domain they are using for a temporary email."
   ]
 }
