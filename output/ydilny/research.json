@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "ayable.com",
-    "what_they_do": null,
-    "raw_notes": "ayable.com appears to be listed for sale as an unregistered/inactive domain on a domain marketplace (brandpa.com). No live company website, product, or service was found at this domain. The domain was first registered in May 2021 per the marketplace listing. There is no evidence of an active business operating at ayable.com. A GitHub account named 'ayable' exists with 7 public repositories (workspace, ayable.github.io, message-board, micropost, microposts, monolist2), but these appear to be personal/learning projects with no business context. No company named 'Ydilny' was found in any web source \u2014 the name returns zero results. It does not match any known company, brand, or organization.",
+    "what_they_do": "Cannot be determined. The domain ayable.com does not resolve to a live, identifiable business. A domain-brokerage listing (brandpa.com) lists ayable.com as a domain for sale, suggesting it is not currently hosting an active company website.",
+    "raw_notes": "ayable.com appears on a domain-for-sale marketplace (brandpa.com). No homepage, about page, product/service pages, or any first-party company content was found. A GitHub account under the handle 'ayable' exists with 7 public repositories (largely tutorial/practice projects), but nothing links it to a real product company. The email address rimib58944@ayable.com has the structure of a randomly generated address (alphanumeric prefix), which is consistent with a disposable or auto-generated email rather than a corporate one.",
     "source_urls": [
       "https://brandpa.com/names/ayable",
       "https://github.com/ayable"
@@ -11,16 +11,14 @@
   "individual": {
     "name": "Slava",
     "role_if_found": null,
-    "notes": "'Slava' is a common Slavic given name (nickname for names like Vyacheslav, Stanislav, Yaroslav, etc.), used in Russia, Ukraine, and other Slavic countries. No individual named 'Slava' could be identified in connection with ayable.com or Ydilny. No LinkedIn profile, company bio, or any other public record linking this first name to the email domain or org name was found.",
-    "source_urls": [
-      "https://en.wikipedia.org/wiki/Slava_(given_name)"
-    ]
+    "notes": "No individual named 'Slava' could be found associated with ayable.com or 'Ydilny'. 'Slava' is a common Slavic given name. No LinkedIn profile, company bio, or any other professional reference connecting this first name to either the email domain or the org name was surfaced.",
+    "source_urls": []
   },
   "could_not_find": [
-    "No live or active website found at ayable.com \u2014 domain appears to be for sale or parked.",
-    "No company named 'Ydilny' found anywhere online \u2014 likely a fabricated, misspelled, or placeholder org name.",
-    "No information found about the individual recipient 'Slava' in connection with this domain or org.",
-    "No role, title, or professional profile for the recipient could be identified.",
-    "The email address (rimib58944@ayable.com) has a randomly generated-looking local part, which together with the unresolvable domain and unknown org name raises a flag that this may be a throwaway/fake signup rather than a genuine business prospect."
+    "No live website or business presence found at ayable.com \u2014 domain appears to be listed for sale.",
+    "No company or organization named 'Ydilny' found anywhere on the web. It may be a misspelling, a very new entity, a fictitious name, or a placeholder entered at signup.",
+    "No individual 'Slava' linkable to ayable.com or Ydilny was found.",
+    "The email address (rimib58944@ayable.com) has a randomly generated alphanumeric prefix, which is a strong indicator of a disposable/throwaway email address.",
+    "Overall signup pattern (unresolvable domain, unknown org name, randomized email prefix, common first name) raises a high likelihood that this is not a genuine business signup and may warrant fraud/spam review."
   ]
 }
