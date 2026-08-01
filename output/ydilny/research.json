@@ -1,26 +1,25 @@
 {
   "company": {
     "website": "ayable.com",
-    "what_they_do": "No active business found. The domain ayable.com is currently listed for sale on a domain marketplace (BrandPA) and does not host a real company website. No products, services, or business operations are associated with it.",
-    "raw_notes": "Domain ayable.com appears on BrandPA as available for purchase \u2014 described only in speculative 'potential use case' marketing copy by the domain seller, not by any actual company. A GitHub account named 'ayable' exists but contains only generic/tutorial repositories (workspace, micropost, microposts, monolist2) with no connection to a real business. An Instagram handle @ayable exists but is a personal account unrelated to any company. The email address 'rimib58944@ayable.com' has a random alphanumeric local-part strongly suggestive of a disposable or auto-generated email address. The domain was first registered in May 2021 per the BrandPA listing.",
+    "what_they_do": "Cannot be determined. No active, publicly accessible company website was found at ayable.com. The domain appears to be listed for sale on a domain marketplace (brandpa.com), with no live business content, product pages, or About page discoverable.",
+    "raw_notes": "The only search result for ayable.com is a domain-for-sale listing on brandpa.com, which states the domain was first registered in May 2021 and is currently being marketed for purchase. No business, product, service, team, or company description was found at this domain. There is a GitHub account under the handle 'ayable' with 7 repositories and a 'ayable.github.io' page, but nothing links it to a company or the signup recipient. The org_name 'Ydilny' returns zero results as a company, startup, product, or organization of any kind. It does not appear to be a known brand, registered business, or publicly documented entity.",
     "source_urls": [
       "https://brandpa.com/names/ayable",
-      "https://github.com/ayable",
-      "https://www.instagram.com/ayable/"
+      "https://github.com/ayable"
     ]
   },
   "individual": {
     "name": "Slava",
     "role_if_found": null,
-    "notes": "First name only provided. 'Slava' is a common Slavic given name (often a nickname for Vyacheslav, Stanislav, Yaroslav, etc.). No individual named Slava could be found with any connection to 'ayable.com' or 'Ydilny'. No LinkedIn profile, professional bio, or any other identifying information is available.",
+    "notes": "'Slava' is a common Slavic given name (short form of names like Vyacheslav, Stanislav, Yaroslav, etc.). No individual named 'Slava' could be found in connection with 'ayable.com' or 'Ydilny' via web search. No LinkedIn profile, company bio, or any other public record linking this first name to this domain or organization was found.",
     "source_urls": []
   },
   "could_not_find": [
-    "No real company or business found at ayable.com \u2014 domain is listed for sale with no active website.",
-    "Org name 'Ydilny' returns zero results across all searches; it does not correspond to any known company, startup, or organization.",
+    "No live website or business content found at ayable.com \u2014 domain appears to be for sale with no active company behind it.",
+    "No information found for the organization name 'Ydilny' \u2014 no matches as a company, startup, brand, or registered entity anywhere on the web.",
     "No individual named 'Slava' could be linked to ayable.com or Ydilny.",
-    "Email address 'rimib58944@ayable.com' has characteristics of a disposable or auto-generated throwaway email (random alphanumeric string + domain listed for sale); the signup may not represent a real, reachable person or business.",
-    "No role, title, or professional background found for the recipient.",
-    "No social media presence, news coverage, or public records found for either the individual or the organization."
+    "No role, title, LinkedIn profile, or any other professional information found for the recipient.",
+    "The email address (rimib58944@ayable.com) pattern with a long numeric string is atypical and may suggest a disposable/temporary email address, which raises a data quality / legitimacy flag for this signup.",
+    "Cannot confirm this is a real business signup \u2014 both the domain (for sale) and org name (no trace) are unverifiable."
   ]
 }
