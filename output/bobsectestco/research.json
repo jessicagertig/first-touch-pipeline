@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://web-library.net",
-    "what_they_do": "web-library.net is a public email service provider \u2014 it offers free email addresses to the general public, not a product or business company. It explicitly positions itself as a non-throwaway, spam-preventing public email host. It does not appear to be a real business organization.",
-    "raw_notes": "Homepage text confirms this is a public/shared email service, not a company. They prohibit illegal activity, do not allow sending messages to the internet, and ask not to be blocklisted. They provide an abuse ticket system. The domain is used by anyone who wants a free email address \u2014 it is not a corporate domain tied to a specific business. 'BobSecTestCo' is an org name typed at signup and has no verifiable existence as a real company.",
+    "what_they_do": "web-library.net is a public email/inbox service \u2014 not a business or product company. It provides free, publicly accessible email addresses to anyone. It self-describes as a 'public email service' focused on spam prevention and safety. It explicitly states it does not allow sending messages to the internet, and it requests not to be blocked, distinguishing itself from 'throwaway' email services. It has an abuse reporting system.",
+    "raw_notes": "- Self-described 'public email service', not a real company or product org.\n- Primary goal: prevent spam, maintain safe/secure environment.\n- Prohibits illegal activities.\n- Does not allow outbound sending to the internet.\n- Asks domain not be blocked; claims emails will not bounce.\n- Suggests banning problematic users by IP rather than domain.\n- Has an abuse ticket system for reporting.\n- No products, no team, no mission beyond running a public inbox service.\n- The org_name 'BobSecTestCo' appears fabricated \u2014 no such company exists at this domain or findable elsewhere.\n- The email address pattern (polyb10261008@web-library.net) is consistent with a randomly or auto-generated inbox on this public email service.",
     "source_urls": [
       "https://web-library.net"
     ]
@@ -10,14 +10,14 @@
   "individual": {
     "name": "Bob",
     "role_if_found": null,
-    "notes": "No meaningful individual profile is findable. The email address 'polyb10261008@web-library.net' is a free public email address on a shared email service \u2014 it carries no professional or organizational identity signal. The username pattern ('polyb10261008') is generic and not tied to any identifiable person. No role, LinkedIn, or professional presence found.",
+    "notes": "No verifiable individual named 'Bob' associated with 'BobSecTestCo' or web-library.net could be found. The email address (polyb10261008@web-library.net) is a public inbox on a free email service \u2014 it is not a corporate or personal business email. 'BobSecTestCo' appears to be a fabricated or test organization name with no findable web presence, registration, or personnel.",
     "source_urls": []
   },
   "could_not_find": [
-    "No real company behind 'BobSecTestCo' \u2014 the org name appears to be a test/placeholder entry, not a verifiable business.",
-    "No individual identity for 'Bob' \u2014 the email is on a public shared email service with no professional identity signal.",
-    "No website, product, or service associated with 'BobSecTestCo' found anywhere.",
-    "The email domain (web-library.net) is a public email provider, not a corporate domain \u2014 it cannot be used to infer employer, industry, or role.",
-    "This signup has strong indicators of being a test signup or throwaway registration: generic org name ('BobSecTestCo'), public/free email domain, numeric-heavy username."
+    "No real company called 'BobSecTestCo' found \u2014 name appears fabricated or used for testing.",
+    "No individual 'Bob' with a verifiable role, LinkedIn, or business identity tied to this domain.",
+    "web-library.net is a public email provider, not a business entity \u2014 the email domain does not indicate a real organization.",
+    "The email address pattern suggests an auto-generated or disposable-style public inbox, despite the service's claim of not being a throwaway provider.",
+    "No products, services, team, or business context findable for the purported org."
   ]
 }

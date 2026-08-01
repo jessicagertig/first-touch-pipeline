@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "ayable.com",
-    "what_they_do": "Unknown. No active company website found at ayable.com. The domain appears to be listed for sale on a domain marketplace (brandpa.com) and is not associated with any identifiable operating business.",
-    "raw_notes": "ayable.com is listed for sale on brandpa.com as an unowned/parked domain first registered in May 2021. No homepage, about page, product, or services content is publicly accessible. A GitHub profile named 'ayable' exists with 7 public repositories (mostly tutorial/learning projects with no apparent commercial affiliation). No company named 'Ydilny' was found in any search result \u2014 not on LinkedIn, Crunchbase, company registries, or general web results. The email address rimib58944@ayable.com follows a pattern (random string + number) commonly associated with disposable or auto-generated email addresses.",
+    "what_they_do": "Unknown. No active company or live website was found at ayable.com. The domain is currently listed for sale by a domain marketplace (brandpa.com). No products, services, or business operations associated with ayable.com could be identified.",
+    "raw_notes": "ayable.com is listed for sale on brandpa.com as of the search date; the domain was first registered in May 2021 per that listing. There is no indexed content at ayable.com itself \u2014 no homepage, about page, or product/service pages. A GitHub account named 'ayable' exists with 7 public repositories (mostly learning-style projects: workspace, message-board, micropost, microposts, a forked Ruby app), but no clear connection to a company. No Crunchbase, LinkedIn company page, news articles, or any other company-published sources for a business called 'ayable' or 'Ydilny' were found. The org name 'Ydilny' returned zero relevant results \u2014 it does not appear to be a known registered company, brand, or product.",
     "source_urls": [
       "https://brandpa.com/names/ayable",
       "https://github.com/ayable"
@@ -11,14 +11,15 @@
   "individual": {
     "name": "Slava",
     "role_if_found": null,
-    "notes": "No individual named 'Slava' could be linked to ayable.com or Ydilny. 'Slava' is a common Slavic given name. No professional profile, LinkedIn record, or other first-party source was found connecting this person to the email domain or org name provided. The email address format (rimib58944@ayable.com) is consistent with a disposable/auto-generated address, which further limits research.",
+    "notes": "No individual named 'Slava' could be connected to ayable.com or Ydilny. The first name 'Slava' is a common Slavic given name. The email address (rimib58944@ayable.com) uses a randomly generated-looking local part, which is a common pattern for disposable or auto-generated email addresses, raising the possibility this is not a real professional signup. No LinkedIn profile, personal website, or any other first-party source linking a person named Slava to ayable.com or Ydilny was found.",
     "source_urls": []
   },
   "could_not_find": [
-    "No active website or business content at ayable.com \u2014 domain appears parked/for sale.",
-    "No company named 'Ydilny' found anywhere online (no website, LinkedIn, Crunchbase, registry, or news coverage).",
-    "No individual named 'Slava' linked to ayable.com or Ydilny in any findable source.",
-    "Email address format (rimib58944@ayable.com) resembles a disposable or auto-generated address, raising signup authenticity concerns.",
-    "Org name 'Ydilny' does not match the email domain 'ayable.com', and neither resolves to a verifiable entity."
+    "No live website or active business found at ayable.com \u2014 domain appears to be for sale.",
+    "No information whatsoever on the org name 'Ydilny' \u2014 not a recognizable company, brand, or product.",
+    "No individual 'Slava' linkable to ayable.com or Ydilny in any public source.",
+    "The email local part (rimib58944) appears auto-generated, suggesting a possible throwaway or bot signup.",
+    "No role, title, or professional background for the recipient.",
+    "No company founding story, product description, team, funding, or any other business details available."
   ]
 }

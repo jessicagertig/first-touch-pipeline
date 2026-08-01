@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://natanitsolutions.com",
-    "what_they_do": "Appears to be an IT services company ('Dealing in all Professional IT Services'), but no specific services, products, clients, or use cases are described anywhere on the site.",
-    "raw_notes": "The website is a default, unconfigured WordPress installation. The only real content present is the default 'Hello world! Welcome to WordPress. This is your first post.' placeholder text. The headline reads 'What We're Offering \u2014 Dealing in all Professional IT Services' and a 'What's Happening \u2014 Latest News & Articles from the Posts' section, but both are filled entirely with Lorem Ipsum-style filler text. No actual services, team, case studies, pricing, about page, or contact information are present. The site has no meaningful first-party content beyond the company name 'Natan IT Solutions' and the generic tagline about IT services. The site appears to have been very recently created and not yet built out.",
+    "what_they_do": "Unknown. The website is a brand-new, unconfigured WordPress installation with no real content \u2014 only the default 'Hello world!' placeholder post and generic Lorem Ipsum-style filler text. The only signal is the phrase 'Dealing in all Professional IT Services', which suggests a broad IT services positioning, but no specifics (e.g. managed IT, staffing, consulting, development, support) are described anywhere on the site.",
+    "raw_notes": "- Site is a default WordPress install; no real pages, no about page, no services page, no team page, no case studies, no client mentions.\n- Only substantive text found: 'What We're Offering \u2014 Dealing in all Professional IT Services' \u2014 this appears to be a theme placeholder heading, not necessarily custom-written copy.\n- 'What's Happening \u2014 Latest News & Articles from the Posts' section exists but contains only Lorem Ipsum filler; no real articles.\n- No logo, no tagline, no location, no phone number, no social links visible in the scraped content.\n- Site name 'Natan IT Solutions' matches the signup org_name exactly \u2014 confirms this is the right domain.\n- No evidence of product, pricing, team, or differentiator.",
     "source_urls": [
       "https://natanitsolutions.com"
     ]
@@ -10,18 +10,17 @@
   "individual": {
     "name": "Natan",
     "role_if_found": null,
-    "notes": "Only the first name 'Natan' is available from the signup. The email used is hr@natanitsolutions.com, suggesting this person may work in an HR or administrative capacity at the company, or the HR inbox is used as a general contact. No individual profile, LinkedIn, bio, or role information could be found or confirmed. It is unclear whether Natan is a founder, employee, or HR staff member.",
+    "notes": "Only the first name 'Natan' is available from the signup. The email prefix is 'hr@', which suggests this person may work in a Human Resources or HR-adjacent role at the company \u2014 or that 'hr' is simply the catch-all inbox used at a very small/new business. No further identity information (last name, title, LinkedIn, bio) was found on the company website or inferable from the provided inputs.",
     "source_urls": []
   },
   "could_not_find": [
-    "No last name provided or findable.",
-    "No confirmed role or title for the individual recipient.",
-    "No real company description \u2014 website is a blank WordPress default install with only placeholder/filler text.",
-    "No specific IT services listed or described.",
-    "No team, about, or leadership page exists.",
-    "No case studies, clients, or portfolio.",
-    "No news, press, or third-party mentions found.",
-    "Company does not appear in web search results yet, consistent with a brand-new or pre-launch site.",
-    "Unclear if 'Natan' is the founder/owner of the company or simply an HR contact."
+    "Last name of the individual recipient.",
+    "Confirmed role/title of 'Natan' \u2014 'hr@' prefix implies HR but is not definitive.",
+    "What the company actually does in specific terms \u2014 the website has no real content.",
+    "Company location, size, or founding date.",
+    "Any products, services, clients, or case studies.",
+    "Any news, press coverage, or third-party mentions of Natan IT Solutions.",
+    "Social media profiles or LinkedIn presence for either the company or the individual.",
+    "Whether the company is newly founded or just has a newly launched (unconfigured) site."
   ]
 }
