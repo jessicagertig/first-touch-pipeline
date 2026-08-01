@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://natanitsolutions.com",
-    "what_they_do": "Presents itself as an IT services company ('Dealing in all Professional IT Services'), but the website is a brand-new, unconfigured WordPress installation with no real content \u2014 only default placeholder text ('Hello world!', lorem ipsum copy, and a stock tagline). No specific services, products, team, pricing, or client information are described anywhere on the site.",
-    "raw_notes": "Site headline: 'What We're Offering \u2014 Dealing in all Professional IT Services'. Body copy is entirely lorem ipsum / placeholder. 'What's Happening' section also uses filler text. No about page, no services page, no contact details beyond the email inferred from signup. The WordPress default post ('Hello world! Welcome to WordPress. This is your first post. Edit or delete it, then start writing!') is still live, confirming the site has not been configured or launched in any meaningful way. No logo, no imagery descriptions, no social links, no team bios visible in the scraped content. Company name 'Natan IT Solutions' appears only in the footer.",
+    "what_they_do": "Appears to be an IT services company ('Dealing in all Professional IT Services'), but no specific services, products, clients, or use cases are described anywhere on the site.",
+    "raw_notes": "The website is a default, unconfigured WordPress installation. The only real content present is the default 'Hello world! Welcome to WordPress. This is your first post.' placeholder text. The headline reads 'What We're Offering \u2014 Dealing in all Professional IT Services' and a 'What's Happening \u2014 Latest News & Articles from the Posts' section, but both are filled entirely with Lorem Ipsum-style filler text. No actual services, team, case studies, pricing, about page, or contact information are present. The site has no meaningful first-party content beyond the company name 'Natan IT Solutions' and the generic tagline about IT services. The site appears to have been very recently created and not yet built out.",
     "source_urls": [
       "https://natanitsolutions.com"
     ]
@@ -10,18 +10,18 @@
   "individual": {
     "name": "Natan",
     "role_if_found": null,
-    "notes": "First name 'Natan' matches the company name 'Natan IT Solutions', suggesting this person is likely the founder or owner. The signup email is hr@natanitsolutions.com \u2014 the 'hr' prefix could indicate an HR function or simply be an alias chosen at setup. No individual profile, LinkedIn, or bio was findable from the domain or company name alone. No further identifying information is available from the homepage content.",
-    "source_urls": [
-      "https://natanitsolutions.com"
-    ]
+    "notes": "Only the first name 'Natan' is available from the signup. The email used is hr@natanitsolutions.com, suggesting this person may work in an HR or administrative capacity at the company, or the HR inbox is used as a general contact. No individual profile, LinkedIn, bio, or role information could be found or confirmed. It is unclear whether Natan is a founder, employee, or HR staff member.",
+    "source_urls": []
   },
   "could_not_find": [
-    "Any real description of specific IT services offered",
-    "Natan's last name or confirmed role/title",
-    "Team size, location, or founding date",
-    "Any clients, case studies, or portfolio",
-    "Social media profiles or press mentions",
-    "Whether 'hr@' prefix indicates an HR role or is just an email alias",
-    "Any web search results corroborating the company's existence or history \u2014 site appears too new to be indexed"
+    "No last name provided or findable.",
+    "No confirmed role or title for the individual recipient.",
+    "No real company description \u2014 website is a blank WordPress default install with only placeholder/filler text.",
+    "No specific IT services listed or described.",
+    "No team, about, or leadership page exists.",
+    "No case studies, clients, or portfolio.",
+    "No news, press, or third-party mentions found.",
+    "Company does not appear in web search results yet, consistent with a brand-new or pre-launch site.",
+    "Unclear if 'Natan' is the founder/owner of the company or simply an HR contact."
   ]
 }
