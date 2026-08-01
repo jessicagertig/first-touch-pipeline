@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://natanitsolutions.com",
-    "what_they_do": "Unknown. The website is a default/unconfigured WordPress installation with no real content \u2014 only placeholder text ('Hello world!', Lorem Ipsum-style copy, and 'Welcome to WordPress. This is your first post.'). The only substantive text present is 'Dealing in all Professional IT Services', suggesting a broad IT services positioning, but no specific services, products, markets, or differentiators are described.",
-    "raw_notes": "Site appears to be a brand-new or not-yet-built WordPress site. All content is boilerplate: the default WordPress 'Hello world!' post, Lorem Ipsum filler text, and a single phrase 'Dealing in all Professional IT Services'. No About page, no team page, no service detail pages, no case studies, no location, no founding story, no client mentions. The org name 'Natan IT Solutions' matches the site's footer branding. No real substance to work with from the homepage.",
+    "what_they_do": "IT services company \u2014 self-described as 'Dealing in all Professional IT Services'. No further detail about specific offerings, industries served, or products is available from the homepage.",
+    "raw_notes": "The website appears to be a brand-new, unconfigured WordPress installation. The homepage contains only the default WordPress placeholder post ('Hello world! Welcome to WordPress. This is your first post.'), Lorem Ipsum-style filler text, and a single tagline: 'Dealing in all Professional IT Services'. No real product pages, service descriptions, team bios, case studies, pricing, or about content are present. The site has not been meaningfully built out yet.",
     "source_urls": [
       "https://natanitsolutions.com"
     ]
@@ -10,16 +10,16 @@
   "individual": {
     "name": "Natan",
     "role_if_found": null,
-    "notes": "First name only provided. Email address is hr@natanitsolutions.com, which suggests this person may work in an HR or people-operations capacity, or the 'hr@' address is simply a generic/admin inbox rather than a personal one. No individual profile, LinkedIn, or biographical information found on the company website (which has no team or about page). Last name unknown.",
+    "notes": "No individual profile information found. The email address (hr@natanitsolutions.com) uses an 'hr' prefix, which may suggest the recipient works in a Human Resources or administrative capacity at the company, but this is an inference from the email prefix only \u2014 not confirmed by any source. No LinkedIn profile, bio, or other first-party content about this individual was found on the company website.",
     "source_urls": []
   },
   "could_not_find": [
-    "Any real description of what the company actually does or offers (site is an unconfigured WordPress default)",
-    "Specific IT services, products, or industries served",
-    "Company founding date, location, size, or history",
-    "Individual's last name, title, or role",
-    "Whether 'hr@' is a personal inbox or a shared/generic address",
+    "Any real description of specific IT services offered (only a generic placeholder tagline exists)",
+    "Company founding date, size, location, or industry verticals served",
+    "Named team members, leadership, or founder information",
+    "Natan's confirmed role or title at the company",
     "Any news, press mentions, or third-party references to the company",
-    "No web search results expected to surface meaningful data given the site appears too new/uncrawled"
+    "Social media profiles or any external web presence for the company or individual",
+    "The website is an unconfigured WordPress default \u2014 essentially no usable first-party content exists beyond the company name and a generic IT services tagline"
   ]
 }
