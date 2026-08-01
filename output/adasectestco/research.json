@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://web-library.net",
-    "what_they_do": "web-library.net is a public email/inbox service \u2014 not a business or product company. It provides free email addresses to anyone, positioning itself as a non-throwaway public email provider. It explicitly requests that its domain not be blocklisted and directs abuse reports to a ticket system.",
-    "raw_notes": "Homepage text reads as a generic public free-email service landing page, not a real company or SaaS product. No products, no team, no pricing, no mission beyond 'public email.' The plea not to be blocked and the note that 'emails will not bounce' are characteristic of disposable/temporary email infrastructure attempting to avoid spam filters. No org name, founding story, leadership, or business model described anywhere on the page.",
+    "what_they_do": "web-library.net is a public email/inbox service \u2014 not a company or product organization. It provides free, publicly accessible email addresses to anyone. The homepage explicitly describes it as a 'public email service' focused on spam prevention and safe messaging. It is not a throwaway/disposable email service by their own description, but it is a shared public email provider with no affiliation to any real business.",
+    "raw_notes": "Homepage content: 'Welcome to our public email service.' Goals stated as spam prevention and safe environment. Prohibits illegal activities. Does not allow sending messages to the internet. Requests that domain names not be blocked. Claims emails will not bounce. Suggests banning abusive users by IP rather than blocking the domain. Has an abuse reporting ticket system. No products, no team, no business mission, no customers described. No SaaS, no startup, no real org present.",
     "source_urls": [
       "https://web-library.net"
     ]
@@ -10,14 +10,16 @@
   "individual": {
     "name": "Ada",
     "role_if_found": null,
-    "notes": "No verifiable individual named 'Ada' could be associated with web-library.net. The org_name 'AdaSecTestCo' appears to be a fabricated/test organization name (pattern: Name + 'Sec' + 'Test' + 'Co' + random digits in email). No LinkedIn, company page, or any public record found linking a real person named Ada to this domain or org.",
+    "notes": "Only a first name ('Ada') is available. Email address is polytest6482656@web-library.net \u2014 the prefix 'polytest' combined with a long random numeric suffix (6482656) is strongly indicative of an automated test account or throwaway registration, not a real individual. No role, no LinkedIn, no company affiliation findable. The org_name 'AdaSecTestCo' appears to be a fabricated/test organization name, not a real registered company.",
     "source_urls": []
   },
   "could_not_find": [
-    "No real company behind 'AdaSecTestCo' \u2014 appears to be a fictitious/test org name.",
-    "No individual 'Ada' with a verifiable role, title, or public profile tied to this domain or org.",
-    "web-library.net is a public free-email provider, not a prospect company \u2014 there is no legitimate business to research.",
-    "The email address pattern ('polytest' + random digits) strongly suggests this is a test or throwaway signup, not a genuine prospect.",
-    "No products, services, team, funding, or business model findable for 'AdaSecTestCo' anywhere."
+    "No real company behind 'AdaSecTestCo' \u2014 name appears synthetic/test-generated.",
+    "No real individual named Ada associated with this domain or org.",
+    "Email prefix 'polytest6482656' strongly suggests an automated or scripted test signup, not a human registrant.",
+    "web-library.net is a public email provider, not a business \u2014 there is no legitimate org to research.",
+    "No LinkedIn, Crunchbase, or any other professional profile findable for this individual or org.",
+    "No founding story, product, team, or business context available.",
+    "HIGH SIGNAL OF FAKE/TEST SIGNUP: combination of public email domain + numeric-suffixed 'test' email prefix + fabricated org name warrants flagging for review before any outreach."
   ]
 }

@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://web-library.net",
-    "what_they_do": "web-library.net is a public email service provider \u2014 it offers free email addresses to the general public, positioning itself as a non-throwaway, legitimate-use email platform. It explicitly states it does not allow sending messages to the internet and prohibits illegal activities. It requests not to be blocklisted and directs abuse reports through a ticket system.",
-    "raw_notes": "Self-described as a 'public email service'. Claims to be not a throwaway/disposable email service, but the domain provides free public email addresses to anyone. Emails sent from it will not bounce per their claim. No outbound internet messaging allowed. Abuse reporting via ticket system. No products, SaaS offering, or business services mentioned \u2014 purely a free public email inbox provider. The org_name 'BobSecTestCo' does not appear anywhere on the site and is almost certainly a fabricated/test company name entered at signup.",
+    "what_they_do": "web-library.net is a public email / disposable-address service. It provides free email addresses to end-users, explicitly markets itself as a service whose domain names should not be blocked, and positions itself as 'not a throwaway email service' \u2014 though the feature set (free public inboxes, no sending to the internet) is functionally identical to a temporary/disposable email provider.",
+    "raw_notes": "Homepage copy confirms: (1) it is a public email service, not a real business product or SaaS; (2) it prohibits sending messages to the internet \u2014 meaning inboxes are receive-only/one-way, a hallmark of disposable/burner email services; (3) it explicitly asks operators not to block its domain, and suggests banning by IP instead of domain if registrations are problematic \u2014 language directed at website operators who are dealing with abuse from these addresses; (4) it has an abuse ticket system; (5) there is no company name, no team, no product, no pricing, no industry vertical mentioned. The 'org_name' field was filled in as 'BobSecTestCo', which is clearly a placeholder/test value and not a real organization.",
     "source_urls": [
       "https://web-library.net"
     ]
@@ -10,14 +10,15 @@
   "individual": {
     "name": "Bob",
     "role_if_found": null,
-    "notes": "Only a first name ('Bob') is available. The email address 'polyb10261008@web-library.net' appears to be a randomly generated or test address on a free public email service. No professional identity, role, or affiliation can be established. The org_name 'BobSecTestCo' is almost certainly a test/fake company name, not a real organization. No individual profile is findable.",
+    "notes": "Only a first name ('Bob') is available. The email address prefix 'polyb10261008' follows a pattern common to auto-generated or semi-anonymous disposable-email usernames (alphanumeric string, no personal identity signal). No role, LinkedIn profile, company affiliation, or any other identifying information is findable. The org name 'BobSecTestCo' is a self-evident test/dummy value.",
     "source_urls": []
   },
   "could_not_find": [
-    "No real company behind 'BobSecTestCo' \u2014 name appears fabricated/used for testing purposes.",
-    "No verifiable identity for 'Bob' \u2014 only a first name provided, no last name, no role.",
-    "The email domain (web-library.net) is a free public email provider, not a corporate domain, so it provides zero signal about employer or industry.",
-    "No LinkedIn, website, or any other professional presence findable for this individual.",
-    "No legitimate business use case can be inferred from these inputs."
+    "No real company behind this signup \u2014 'BobSecTestCo' is a test/placeholder org name, not a real business.",
+    "No verifiable individual identity \u2014 only first name 'Bob' and an auto-pattern email address.",
+    "web-library.net is a public disposable/burner email provider, not a business domain; the email address carries no organizational signal.",
+    "No role, title, LinkedIn, or any professional context for the recipient.",
+    "No news, funding, product launches, or any other external information about a real company associated with this signup.",
+    "RISK FLAG: This signup exhibits multiple strong signals of a throwaway/test/fraudulent registration: disposable email domain, auto-generated username pattern, placeholder org name, and a domain that explicitly anticipates abuse-related blocking by operators."
   ]
 }
