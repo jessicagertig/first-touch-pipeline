@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://natanitsolutions.com",
-    "what_they_do": "Unknown. The website is a brand-new, unconfigured WordPress installation with no real content \u2014 only the default 'Hello world!' placeholder post and generic Lorem Ipsum / dummy text. The only substantive text present is 'Dealing in all Professional IT Services', which suggests a broad IT services positioning, but no specifics (e.g. managed IT, consulting, software development, staffing) are described anywhere on the site.",
-    "raw_notes": "Site is a default WordPress install. Sections visible in the template include 'What We're Offering' (with tagline 'Dealing in all Professional IT Services') and 'What's Happening / Latest News & Articles' \u2014 both populated only with filler/Lorem Ipsum text. No real service descriptions, no team page, no case studies, no client logos, no pricing, no location, no founding story. The company name 'Natan IT Solutions' mirrors the first name of the signup user ('Natan'), strongly suggesting this is a solo founder or very early-stage venture that has just registered a domain and stood up a WordPress site. No social links, no About page, no contact details were present in the provided homepage content.",
+    "what_they_do": "Appears to be an IT services company. The only stated descriptor is 'Dealing in all Professional IT Services' \u2014 no specific services, products, industries, or client types are described beyond this generic placeholder.",
+    "raw_notes": "The website is a brand-new, unconfigured WordPress installation. The homepage contains only the default 'Hello world! Welcome to WordPress. This is your first post.' placeholder content. The 'What We're Offering' and 'What's Happening' sections exist as structural shells but are filled entirely with Lorem Ipsum / filler text (e.g., 'There are many variations of passages of available but majority have suffered alteration in some form\u2026'). No real services, team bios, case studies, pricing, clients, or any substantive content is present. The company name 'Natan IT Solutions' appears in the footer. No founding story, no mission statement, no differentiators, no social links, no contact details beyond the HR email used at signup.",
     "source_urls": [
       "https://natanitsolutions.com"
     ]
@@ -10,15 +10,18 @@
   "individual": {
     "name": "Natan",
     "role_if_found": null,
-    "notes": "No individual profile information found. The email address 'hr@natanitsolutions.com' uses an 'hr' prefix, which could indicate this person works in or leads an HR/people-operations function \u2014 or it may simply be an administrative inbox choice for a micro/solo operation. The company name shares the first name 'Natan', suggesting Natan may be the founder. No LinkedIn, bio, or other first-party source confirmed role or last name.",
+    "notes": "First name is 'Natan' per signup. The email address used is hr@natanitsolutions.com, suggesting this person may work in an HR or people-operations capacity, or the HR inbox is simply being used for tool signups \u2014 it is not possible to determine whether 'Natan' is the founder, an HR staff member, or another employee. No individual profile, LinkedIn, or bio was findable on the website or in its content.",
     "source_urls": []
   },
   "could_not_find": [
-    "No real company description, services, or differentiators \u2014 site is an unconfigured WordPress placeholder.",
-    "Natan's last name and confirmed role/title.",
-    "Company founding date, team size, location, or industry verticals served.",
-    "Any press coverage, social media presence, or third-party mentions of Natan IT Solutions.",
-    "Whether the 'hr@' email prefix indicates Natan's actual function or is just an admin/catch-all address.",
-    "No web search results returned meaningful data \u2014 site appears too new to be indexed."
+    "Any real description of services offered \u2014 site is 100% placeholder/Lorem Ipsum content",
+    "Individual's last name, title, or role",
+    "Whether 'Natan' is the founder or simply an employee/HR contact",
+    "Company founding date, size, location, or industry focus",
+    "Any client names, case studies, or portfolio work",
+    "Any team or about-page content",
+    "Any news, press, or third-party mentions findable via web search",
+    "Social media profiles or LinkedIn presence",
+    "Whether the company is operational or still being set up"
   ]
 }
