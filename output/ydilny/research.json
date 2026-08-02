@@ -1,35 +1,27 @@
 {
   "company": {
-    "website": "ayable.com",
-    "what_they_do": "Cannot be determined. The domain ayable.com appears to be listed for sale on a domain marketplace (brandpa.com) with no active business website found. No company operating under the name 'ayable.com' or 'Ydilny' could be verified.",
-    "raw_notes": [
-      "brandpa.com lists ayable.com as a domain for sale \u2014 it is NOT an active company website.",
-      "The domain was first registered in May 2021 per brandpa.com listing.",
-      "A GitHub account named 'ayable' exists (github.com/ayable) with a few public repos (HTML, Ruby microposts, monolist fork) \u2014 appears to be a personal developer account, not a company.",
-      "An Instagram account '@ayable' exists but is personal/unrelated.",
-      "No Crunchbase, LinkedIn company page, or any business directory entry for 'ayable.com' as a company was found.",
-      "The org_name 'Ydilny' returned zero meaningful results \u2014 no company, brand, or entity with that name could be found anywhere online.",
-      "The email address 'rimib58944@ayable.com' follows a pattern (random string + number) consistent with a disposable/temporary email address rather than a corporate domain.",
-      "Overall signals strongly suggest this is not a legitimate business signup: the domain is for sale, the org name is unrecognizable, and the email format resembles a throwaway address."
-    ],
+    "website": null,
+    "what_they_do": "Cannot be determined. The email domain 'ayable.com' does not appear to belong to an active, identifiable business. The domain appears on a domain-for-sale listing (brandpa.com), indicating it may not be operated by a real company at this time. No live company website, product, or service could be found at ayable.com.",
+    "raw_notes": "1. brandpa.com lists ayable.com as a domain FOR SALE, with speculative business ideas attached (AI payments, micro-loans, online marketplace) \u2014 these are not real company activities, just marketing copy from the domain broker. 2. A GitHub account named 'ayable' exists (github.com/ayable) with 7 public repos (workspace, message-board, micropost, microposts, monolist2 \u2014 mostly Ruby/HTML beginner-level projects, forked from techacademy-jp). This is likely an individual developer's learning account, not a company. 3. An Instagram handle @ayable exists but is unrelated. 4. No MX records, no product pages, no About page, no LinkedIn company page, no Crunchbase entry, no press mentions found for ayable.com as a business. 5. The org name 'Ydilny' returns zero relevant results \u2014 it appears to be a made-up or randomly generated string with no traceable company behind it. 6. The email address format (rimib58944@ayable.com) with a random alphanumeric local part strongly resembles a disposable/temporary email address pattern. Disposable email services frequently rotate domains; ayable.com may be functioning as one such domain.",
     "source_urls": [
       "https://brandpa.com/names/ayable",
-      "https://github.com/ayable",
-      "https://www.instagram.com/ayable/"
+      "https://github.com/ayable"
     ]
   },
   "individual": {
     "name": "Slava",
     "role_if_found": null,
-    "notes": "No individual named 'Slava' could be linked to ayable.com or Ydilny. 'Slava' is a common Slavic given name (short form of Vyacheslav, Yaroslav, etc.) with no identifiable person matching this signup found online. The GitHub account 'ayable' shows no personal name. No LinkedIn profile, company page, or other first-party source connects a person named Slava to either 'ayable.com' or 'Ydilny'.",
-    "source_urls": []
+    "notes": "'Slava' is a common given name in Slavic-speaking countries (Russia, Ukraine, Bulgaria, etc.), often a nickname for longer names like Vyacheslav or Stanislav. No specific individual named Slava could be identified in connection with ayable.com or 'Ydilny'. No LinkedIn profile, company bio, or public record linking this first name to either entity was found.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Slava_(given_name)"
+    ]
   },
   "could_not_find": [
-    "No active website or business operation found at ayable.com \u2014 domain appears to be for sale.",
-    "No information whatsoever found for org_name 'Ydilny' \u2014 likely fictitious, misspelled, or a placeholder.",
-    "No individual named 'Slava' linkable to ayable.com or Ydilny.",
-    "Email address pattern ('rimib58944@ayable.com') is consistent with a disposable/temporary email service, raising the possibility this is not a genuine signup.",
-    "No role, title, LinkedIn, or any professional profile found for the recipient.",
-    "Cannot confirm what product/service, if any, 'Ydilny' or 'ayable.com' is associated with."
+    "No active website or business found at ayable.com \u2014 domain appears to be for sale or used as a disposable email provider.",
+    "No information found on 'Ydilny' as a company or organization \u2014 name appears fabricated or randomly generated.",
+    "No individual 'Slava' linkable to ayable.com or Ydilny.",
+    "No role, LinkedIn, or any professional profile for the recipient.",
+    "Email address pattern (rimib58944@ayable.com) is consistent with a disposable/throwaway email address \u2014 high likelihood this is not a genuine business signup.",
+    "Cannot confirm whether ayable.com is a currently active disposable email domain, but all signals point to this being a low-trust or fake signup."
   ]
 }
