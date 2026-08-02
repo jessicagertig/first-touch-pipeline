@@ -1,31 +1,25 @@
 {
   "company": {
     "website": "ayable.com",
-    "what_they_do": "Cannot be determined. The domain ayable.com does not resolve to a real company website. A third-party domain marketplace (BrandPa) lists ayable.com as a domain name FOR SALE, indicating it is not currently owned or operated by an active business. The email address used (rimib58944@ayable.com) has the structural pattern of a randomly generated address (random string + number), strongly suggesting it is a disposable/throwaway email address rather than a legitimate corporate email.",
-    "raw_notes": [
-      "BrandPa.com (brandpa.com/names/ayable) lists ayable.com as available for purchase \u2014 'The domain name ayable.com is for sale.' This is a domain brokerage listing, not a real company's website.",
-      "A GitHub user account named 'ayable' (github.com/ayable) exists with a few small public repos (workspace, ayable.github.io, message-board, micropost, microposts, monolist2-fork). These appear to be personal/learning projects, not a company.",
-      "An Instagram account @ayable exists but is a personal account unrelated to a company.",
-      "No website at ayable.com belonging to any company called 'Ydilny' or 'Ayable' was found.",
-      "The email local part 'rimib58944' matches the pattern of auto-generated disposable email addresses (random letters + digits).",
-      "Disposable/throwaway email domains are widely documented as used for fake or anonymous signups."
-    ],
+    "what_they_do": "Cannot be determined. The domain ayable.com appears to be parked or listed for sale \u2014 no active business website was found at this domain. A domain broker listing describes it as available for purchase, with no content indicating a real operating company.",
+    "raw_notes": "brandpa.com lists ayable.com as a domain for sale. The domain was first registered in May 2021 per that listing. No homepage, about page, product pages, or any business content found at ayable.com. The GitHub account 'ayable' exists but contains only personal/learning-style repositories (workspace, message-board, micropost, monolist fork) with no connection to a commercial entity. An Instagram account @ayable exists but has no business relevance. No news, press coverage, or business registry entry found for ayable.com as an operating company.",
     "source_urls": [
       "https://brandpa.com/names/ayable",
-      "https://github.com/ayable"
+      "https://github.com/ayable",
+      "https://www.instagram.com/ayable/"
     ]
   },
   "individual": {
     "name": "Slava",
     "role_if_found": null,
-    "notes": "No individual named 'Slava' could be found in connection with ayable.com or 'Ydilny'. 'Slava' is a common Slavic given name (short form of names like Vyacheslav, Stanislav, Yaroslav, etc.), so it provides no identifying signal on its own. No LinkedIn profile, company bio, or any other first-party source linking a person named Slava to ayable.com or Ydilny was found.",
+    "notes": "No individual named 'Slava' could be linked to ayable.com or 'Ydilny' through any web search. 'Slava' is a common Slavic given name (typically a nickname for longer Slavic names like Vyacheslav, Stanislav, Yaroslav, etc.). The email address rimib58944@ayable.com has the appearance of a randomly generated local-part, which may indicate a disposable or auto-generated email address rather than a professional business email. No LinkedIn profile, company bio, social media presence, or any other public record tying this specific individual to a known company was found.",
     "source_urls": []
   },
   "could_not_find": [
-    "No real company website at ayable.com \u2014 the domain appears to be listed for sale by a domain marketplace, not operated by any business.",
-    "No company named 'Ydilny' found anywhere \u2014 no website, no registry entry, no news, no LinkedIn page. The name does not match any known organization.",
-    "No individual 'Slava' linkable to ayable.com or Ydilny.",
-    "The email address (rimib58944@ayable.com) has all hallmarks of a disposable/throwaway email: randomly generated local part (random string + number) on a domain with no active mail infrastructure tied to a real business.",
-    "Signup appears to be fraudulent or a bot/fake registration: org name 'Ydilny' is unverifiable, email domain is listed for sale (not a real company domain), email local part is randomly generated, and no real person or company can be identified."
+    "No active business website or product/service information at ayable.com \u2014 domain appears to be for sale or parked.",
+    "No information whatsoever about 'Ydilny' as a company, product, or organization \u2014 likely a fabricated or misspelled org name.",
+    "No identity or role information found for the individual 'Slava' connected to ayable.com or Ydilny.",
+    "The email local-part ('rimib58944') follows a pattern consistent with a randomly generated or disposable email address, raising data quality concerns.",
+    "This signup has multiple low-quality signals: an unresolvable org name ('Ydilny'), a parked/for-sale email domain, and a randomized-looking email address. High likelihood this is not a genuine business signup."
   ]
 }

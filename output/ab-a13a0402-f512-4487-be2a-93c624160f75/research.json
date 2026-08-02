@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "barumart.com",
-    "what_they_do": "barumart.com is NOT a real company website. It is a disposable/temporary email domain operated by temp-mail.org, used to generate throwaway email addresses for anonymous or fake registrations.",
-    "raw_notes": "Multiple independent email verification services (verifymail.io, check-mail.org, usercheck.com, gatekeepr.io) consistently flag barumart.com as a disposable/temporary email domain with a HIGH risk score (91/100). It is operated by temp-mail.org, one of the largest known throwaway email providers, which operates 2,841+ similar domains. There is no A record (no real website) for barumart.com \u2014 only an MX record pointing to mail.barumart.com (IP: 161.35.253.124). The domain was created on 2011-06-05. It is commonly used to bypass sign-up verification, create fake accounts, and abuse free trials. It is not a business email provider, ISP email, or any form of legitimate organizational email.",
+    "what_they_do": "barumart.com is not a real company website. It is a disposable/temporary email domain operated by temp-mail.org, used to generate throwaway email addresses. There is no legitimate business associated with this domain.",
+    "raw_notes": "barumart.com is flagged across multiple email verification services (verifymail.io, check-mail.org, usercheck.com, gatekeepr.io) as a disposable/temporary email domain operated by temp-mail.org. Risk score: 91/100 (HIGH). No A records found for the domain. MX host: mail.barumart.com (IP: 161.35.253.124). Domain created 2011-06-05 (~5,532 days old). It is one of 2,841+ domains operated by the same throwaway email provider. Commonly used for anonymous registrations, bypassing sign-up restrictions, free trial abuse, and spam. Multiple sources recommend blocking it. The org_name 'ab' and first_name 'a' are single-character placeholder values, strongly suggesting a fake/bot signup.",
     "source_urls": [
       "https://verifymail.io/domain/barumart.com",
       "https://check-mail.org/domain/barumart.com/",
@@ -11,15 +11,16 @@
     ]
   },
   "individual": {
-    "name": "a",
+    "name": "a (single character \u2014 not a real name)",
     "role_if_found": null,
-    "notes": "The first name provided is 'a' \u2014 a single letter, almost certainly not a real name. The email address 'wekaces726@barumart.com' is a randomly generated throwaway address consistent with disposable email service usage. No real individual could be identified or researched. The org_name provided is 'ab' \u2014 also a non-meaningful, likely fake entry.",
+    "notes": "No real individual identifiable. first_name 'a' and org_name 'ab' are single-character/nonsense placeholder inputs. The email address wekaces726@barumart.com is a throwaway address on a known disposable email domain. No personal, professional, or company information is findable.",
     "source_urls": []
   },
   "could_not_find": [
-    "No real company associated with barumart.com \u2014 it is a disposable email domain, not a business.",
-    "No real individual identifiable \u2014 first name 'a', org name 'ab', and a randomly generated email address are all strong indicators of a fake/bot signup.",
-    "No website, LinkedIn, or any other first-party source for a legitimate organization.",
-    "\u26a0\ufe0f FRAUD SIGNAL: This signup exhibits multiple high-confidence fake signup indicators \u2014 disposable email domain (risk 91/100), nonsense first name, nonsense org name. Strongly recommend blocking or flagging this signup."
+    "No real company associated with barumart.com \u2014 it is a disposable email provider, not a business.",
+    "No real individual identifiable \u2014 'a' and 'ab' are placeholder/fake inputs.",
+    "No role, LinkedIn profile, or any personal information findable for the recipient.",
+    "No legitimate website, product, or service to research.",
+    "\u26a0\ufe0f HIGH FRAUD SIGNAL: Disposable email domain (risk 91/100), single-character name and org fields \u2014 this signup has strong indicators of being fake, bot-generated, or trial-abuse in nature. Recommend blocking or flagging for review."
   ]
 }
