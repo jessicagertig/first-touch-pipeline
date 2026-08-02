@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "ayable.com",
-    "what_they_do": "Cannot be determined. The domain ayable.com has no active, functioning business website. A third-party domain marketplace (brandpa.com) lists ayable.com as available for sale, describing it as an unowned domain first registered in May 2021. No products, services, team, or real company presence are findable under this domain.",
-    "raw_notes": "- ayable.com resolves to a domain-for-sale listing on brandpa.com, not to any live company site. - The brandpa listing speculates hypothetically about what a business called 'Ayable' could do (AI payment solutions, micro-loans) but this is marketing copy for the domain name itself, not a description of a real company. - A GitHub profile exists under the handle 'ayable' with 7 public repos (workspace, message-board, micropost, microposts, monolist2 fork in Ruby), suggesting an individual developer's personal account, not a company. - An Instagram handle @ayable exists but has no visible company affiliation. - No LinkedIn company page, Crunchbase entry, Glassdoor listing, or any business registration found for 'ayable' or 'ayable.com'. - The org_name supplied at signup is 'Ydilny', which returns zero results in any web search \u2014 not a real or findable company name.",
+    "what_they_do": "Cannot be determined. No active company website was found at ayable.com. The domain appears listed for sale on a domain marketplace (BrandPa), with no live business, product, or service content accessible.",
+    "raw_notes": "brandpa.com lists ayable.com as a domain available for purchase, first registered May 2021. A GitHub account named 'ayable' exists with 7 repositories, but they are generic learning/tutorial projects (micropost, monolist2 fork, etc.) with no indication of a real company. An Instagram handle @ayable exists but is a personal account unrelated to any business. No LinkedIn company page, Crunchbase entry, Crunchbase, or any other business directory listing was found for a company operating at ayable.com. The org_name 'Ydilny' returned zero search results matching any company, product, or brand \u2014 it does not correspond to any identifiable business entity.",
     "source_urls": [
       "https://brandpa.com/names/ayable",
       "https://github.com/ayable",
@@ -12,14 +12,15 @@
   "individual": {
     "name": "Slava",
     "role_if_found": null,
-    "notes": "No individual named 'Slava' could be found in connection with 'ayable.com' or 'Ydilny'. 'Slava' is a common Slavic given name (often a nickname for Vyacheslav, Stanislav, Yaroslav, etc.) with no unique identifying information to link to a specific person here. No LinkedIn profile, company bio, or other first-party source surfaced for this individual at this domain or org name.",
+    "notes": "No individual named 'Slava' could be linked to ayable.com or Ydilny through any findable source. 'Slava' is a common Slavic given name. The email address rimib58944@ayable.com follows a pattern (seemingly random alphanumeric string + number prefix) consistent with auto-generated or disposable/throwaway email addresses, which raises a flag about the authenticity of this signup.",
     "source_urls": []
   },
   "could_not_find": [
-    "No active business website at ayable.com \u2014 domain is listed for sale on a domain marketplace.",
-    "Org name 'Ydilny' returns zero web results \u2014 not a recognizable or findable company.",
-    "Email local part 'rimib58944@ayable.com' has the pattern (random alphanumeric string + numeric suffix) consistent with a disposable/throwaway email address, though ayable.com was not confirmed in any known temp-mail domain blocklist.",
-    "No individual 'Slava' linkable to ayable.com or Ydilny \u2014 role, surname, and background entirely unknown.",
-    "Cannot confirm whether this is a real signup or a bot/fake registration. Multiple red flags: non-existent company name, domain not hosting a real business, random-looking email local part, and no findable individual."
+    "No active company website or business found at ayable.com \u2014 domain appears to be for sale.",
+    "No information whatsoever found for org_name 'Ydilny' \u2014 not a recognizable company, brand, or entity.",
+    "No individual 'Slava' linkable to ayable.com or Ydilny.",
+    "Email address pattern (rimib58944@ayable.com) is consistent with a disposable or auto-generated email \u2014 possible fake/bot signup.",
+    "No LinkedIn, Crunchbase, AngelList, or any business directory entry found for either 'ayable' (as a company) or 'Ydilny'.",
+    "Cannot determine industry, company size, product, or any other firmographic details."
   ]
 }
