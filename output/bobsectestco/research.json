@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://web-library.net",
-    "what_they_do": "web-library.net is a free public email service provider \u2014 it offers email addresses to the general public, positioning itself as a non-throwaway, legitimate shared email domain. It is not a product company, SaaS, or business organisation in any commercial sense.",
-    "raw_notes": "The homepage describes a public email service focused on spam prevention and safety. It explicitly states it does not allow sending messages to the internet. It asks not to be blocklisted, distinguishing itself from throwaway/disposable email services and noting its emails will not bounce. Abuse reporting is handled via a ticket system. There is no product, no team, no founding story, no pricing, no industry vertical, and no business mission beyond operating a shared public inbox domain.",
+    "what_they_do": "web-library.net is a public email / webmail service \u2014 not a business company. It provides free email addresses to the public, positioning itself as a legitimate (non-throwaway) email provider. It explicitly prohibits illegal activities and does not allow outbound sending to the internet. It asks services not to block its domain and suggests IP bans for abuse instead.",
+    "raw_notes": "Homepage text identifies this as a public email service, not a company product or SaaS. Key claims: 'not a throwaway email service', emails won't bounce, abuse reporting via ticket system, no outbound internet sending. The org_name 'BobSecTestCo' does not appear anywhere on the site and is almost certainly a fictional/test name entered by the registrant. There is no real business entity, product, or team described. The site reads like a generic free-email-provider notice page.",
     "source_urls": [
       "https://web-library.net"
     ]
@@ -10,14 +10,15 @@
   "individual": {
     "name": "Bob",
     "role_if_found": null,
-    "notes": "The email address 'polyb10261008@web-library.net' is a randomly styled address on a free public email domain. There is no indication this is a professional or business email. 'BobSecTestCo' as an org name strongly suggests this is a test/fake signup \u2014 likely a security or QA test rather than a real company registration. No individual named Bob could be identified or verified as associated with any real organisation.",
+    "notes": "No individual named 'Bob' is findable in connection with web-library.net or 'BobSecTestCo'. The email address format (polyb10261008@web-library.net) strongly suggests a randomly generated or disposable-style address using the public email service, not a professional or corporate address. 'BobSecTestCo' reads as a test/fake org name \u2014 likely a security test, bot, or throwaway signup.",
     "source_urls": []
   },
   "could_not_find": [
-    "No real company called 'BobSecTestCo' found \u2014 name is strongly indicative of a test entry.",
-    "No professional identity, role, or LinkedIn/web presence found for the individual recipient.",
-    "web-library.net is a public shared email domain, not a company domain \u2014 the email address carries no organisational signal.",
-    "No commercial business, product, or service associated with this signup.",
-    "This signup has all hallmarks of a fake/test/bot registration: randomly generated email localpart, generic test company name, free public email domain. Strongly recommend flagging for review rather than outreach."
+    "No real company called 'BobSecTestCo' found \u2014 name appears fictional/test.",
+    "No individual 'Bob' identifiable at this domain or org.",
+    "web-library.net is a free public email provider, not a business \u2014 there is no legitimate prospect company to research.",
+    "Email address pattern (polyb10261008@web-library.net) is consistent with a generated or throwaway address despite the provider's self-description.",
+    "No LinkedIn, Crunchbase, or other professional profile findable for this individual or org.",
+    "High likelihood this is a fake, bot, or security-test signup \u2014 not a genuine prospect."
   ]
 }
