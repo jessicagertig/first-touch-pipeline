@@ -1,37 +1,25 @@
 {
   "company": {
     "website": "https://natanitsolutions.com",
-    "what_they_do": "Unknown / not yet established. The website is a brand-new, unconfigured WordPress installation showing only the default 'Hello world!' placeholder post and generic Lorem Ipsum / filler copy. The homepage references 'Professional IT Services' in a placeholder heading and 'Dealing in all Professional IT Services' as a sub-tagline, but no real service descriptions, client information, team details, pricing, or any other substantive content is present. The site has not been built out yet.",
-    "raw_notes": [
-      "Domain: natanitsolutions.com \u2014 confirmed visited as primary source.",
-      "Site is a freshly installed WordPress instance; all visible content is default/placeholder text ('Hello world!', Lorem Ipsum passages, 'What We're Offering', 'Dealing in all Professional IT Services', 'What's Happening', 'Latest News & Articles from the Posts').",
-      "No real product/service pages, no About page, no team bios, no location, no contact info beyond the signup email.",
-      "No social media links, no press mentions, no third-party references specifically to 'Natan IT Solutions' at natanitsolutions.com were found via web search.",
-      "Web search results for 'Natan IT Solutions' return unrelated companies (NAT IT Solutions at natitsolution.com, NAT solutions at nat-solutions.com, A-NAT Solutions, NATS-Solutions, etc.) \u2014 none of these match the domain natanitsolutions.com or the org as described.",
-      "The company name 'Natan IT Solutions' combined with the HR email address (hr@natanitsolutions.com) suggests the company may be preparing to hire or has an HR function, but this cannot be confirmed from available sources."
-    ],
+    "what_they_do": "Unclear. The site is a freshly installed, unconfigured WordPress instance. The only substantive text present is the default WordPress placeholder ('Hello world! Welcome to WordPress. This is your first post.') and generic template filler text (Lorem Ipsum variants). The only real signal is a tagline fragment: 'Dealing in all Professional IT Services' \u2014 suggesting an intent to position as a general IT services company, but no specific services, offerings, clients, locations, or differentiators are described anywhere on the site.",
+    "raw_notes": "- Site is a default WordPress install; no real content has been published yet.\n- Company name 'Natan IT Solutions' appears once in the footer/header area.\n- The 'What We're Offering' section exists as a template heading but contains only Lorem Ipsum filler \u2014 no actual services listed.\n- The 'What's Happening' / Latest News section also contains only Lorem Ipsum filler \u2014 no real articles or posts.\n- The one non-placeholder phrase is: 'Dealing in all Professional IT Services' \u2014 but this is likely still template/demo text, not a verified specific claim.\n- No team page, no about page, no contact details, no social links, no case studies, no pricing, no location info found in the provided content.\n- The email used (hr@natanitsolutions.com) uses the 'hr' prefix, suggesting the sender may be in a Human Resources or administrative role rather than a technical or executive one.",
     "source_urls": [
       "https://natanitsolutions.com"
     ]
   },
   "individual": {
     "name": "Natan",
-    "role_if_found": "HR (inferred from email prefix 'hr@natanitsolutions.com') \u2014 likely an HR manager, HR officer, or HR-related role at the company. Last name unknown.",
-    "notes": [
-      "First name 'Natan' provided at signup; no last name given.",
-      "Email prefix is 'hr', strongly suggesting the recipient works in or leads the HR function at Natan IT Solutions.",
-      "No LinkedIn profile, personal website, or any third-party source specifically identifying this individual at natanitsolutions.com was found.",
-      "Could not confirm whether 'Natan' is the company founder or an HR employee \u2014 the company name shares the first name, which may suggest a founder-named business, but this is speculative.",
-      "No prior press coverage, interviews, or public content attributable to this individual was found."
-    ],
+    "role_if_found": null,
+    "notes": "Only the first name 'Natan' is available. The email prefix is 'hr@', which suggests an HR or people-operations function, but this cannot be confirmed \u2014 it could also be an admin or catch-all address. No LinkedIn profile, job title, founder status, or other individual-level information was findable from the provided sources. It is also possible 'Natan' is the name of the company's founder/namesake (the company is called 'Natan IT Solutions'), but this is speculative and not source-supported.",
     "source_urls": []
   },
   "could_not_find": [
-    "Any real description of what Natan IT Solutions actually does \u2014 the website is a blank WordPress install with only placeholder content.",
-    "Individual's last name, confirmed job title, or LinkedIn/public profile.",
-    "Company location, founding date, team size, or industry focus.",
-    "Whether 'Natan' is the founder/owner or an HR employee \u2014 cannot be confirmed.",
-    "Any news, press coverage, case studies, or third-party mentions of natanitsolutions.com specifically.",
-    "No usable hook or compliment basis can be drawn from available sources \u2014 the company has no substantive public-facing content yet."
+    "No actual services or offerings described \u2014 only placeholder text on the website.",
+    "No information about company size, location, founding date, or industry focus.",
+    "No individual-level data: no last name, no confirmed job title, no LinkedIn or other public profile found for 'Natan' at this company.",
+    "Cannot confirm whether 'hr@' prefix reflects the recipient's actual role.",
+    "No news, press coverage, or third-party mentions of 'Natan IT Solutions' were available.",
+    "Website appears to be brand new and not yet indexed or populated with real content \u2014 severely limits research depth.",
+    "Cannot confirm the company is even operational yet, given the default WordPress state of the site."
   ]
 }
