@@ -1,0 +1,18 @@
+[
+  {
+    "fact": "Skyward's live Organization schema on goskyward.io hard-codes all of the following in its 'knowsAbout' array: 'Answer Engine Optimization', 'AEO', 'Search Engine Optimization', 'SEO', 'Paid Media', 'Lead Generation', 'Multi-location SEO', 'B2B Marketing', 'AI Search Visibility', 'ChatGPT Optimization', 'Perplexity Optimization'. The site title reads 'Skyward | SEO, AEO & Paid Media Agency' and the meta description explicitly references 'AI answer engines'. AEO is also listed as a named service offering (with its own URL /aeo) in the hasOfferCatalog, described as making brands 'findable, citeable, and trusted across ChatGPT, Perplexity, Google AI Overviews.'",
+    "source_url": "https://goskyward.io"
+  },
+  {
+    "fact": "The live goskyward.io production site's og:image and twitter:image meta tags both point to 'https://new-skyward-website-2026.replit.app/opengraph.jpg' \u2014 a Replit staging URL baked into the production metadata. The canonical URL is confirmed as https://www.goskyward.io/.",
+    "source_url": "https://goskyward.io"
+  },
+  {
+    "fact": "CallRail tracking script (//cdn.callrail.com/companies/368224875/6cc214e51aa5418864b2/12/swap.js) is present in the live goskyward.io homepage HTML, confirming active call tracking infrastructure on the agency's own site.",
+    "source_url": "https://goskyward.io"
+  },
+  {
+    "fact": "The live goskyward.io homepage HTML (fetched August 2026) is a minimal single-page React app shell (<div id=\"root\"></div>) with no blog, case studies, team page, or client logos present in the HTML. The og:image points to a Replit staging domain ('new-skyward-website-2026.replit.app'), and the only structured content is an Organization schema listing services \u2014 confirming the site is early-stage and content-light as of this date.",
+    "source_url": "https://goskyward.io"
+  }
+]

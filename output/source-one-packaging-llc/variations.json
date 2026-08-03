@@ -1,0 +1,24 @@
+{
+  "lead_id": "source-one-packaging-llc",
+  "company_name": "Source One Packaging, LLC",
+  "recipient_name": "Paul Skirbe",
+  "email": "paul@goskyward.io",
+  "variations": [
+    {
+      "variant_n": 1,
+      "compliment": "Skyward looks like a great agency - naming AEO as its own service alongside the SEO and paid media work is a smart way to help brands get found in AI search.",
+      "email": "Hello Paul,\n\nThanks for checking out Polymer! Skyward looks like a great agency - naming AEO as its own service alongside the SEO and paid media work is a smart way to help brands get found in AI search.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://goskyward.io"
+      ],
+      "score": 8,
+      "tells": [
+        "naming AEO as its own service alongside the SEO and paid media work is a smart way to help brands get found in AI search — 'get found in AI search' reads like their marketing copy echoed back"
+      ],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1785764784.791969",
+      "slack_channel": "C0B87Q5UEL9"
+    }
+  ]
+}

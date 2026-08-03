@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "ayable.com",
-    "what_they_do": "Unknown. No active company website or business found at ayable.com.",
-    "raw_notes": "The domain ayable.com appears to be listed for sale on a domain marketplace (BrandPA), with no active company or business found operating under it. A GitHub account named 'ayable' exists with 7 public repositories (mostly basic HTML/Ruby learning projects), but shows no signs of being a real company. No business, product, or service could be confirmed at this domain. The org_name 'Ydilny' returned no results for any known company, startup, or organization anywhere on the web.",
+    "what_they_do": "Cannot be determined. The domain ayable.com appears to be listed for sale by a domain broker (BrandPa) with no active business, product, or service operating under it. No live company website was found at this domain.",
+    "raw_notes": "Search results for ayable.com exclusively return a BrandPa domain-for-sale listing, a dormant GitHub account (github.com/ayable) with generic/personal learning repositories (Ruby micropost apps, a workspace), and unrelated social profiles (Instagram handle @ayable). The domain was first registered in May 2021 per BrandPa. There is no homepage, no about page, no product or service pages, and no company description associated with ayable.com. The email address format 'rimib58944@ayable.com' \u2014 a randomized alphanumeric string followed by a number \u2014 is strongly consistent with patterns used by disposable/temporary email services, which frequently use parked or for-sale domains as their sending domains.",
     "source_urls": [
       "https://brandpa.com/names/ayable",
       "https://github.com/ayable"
@@ -11,14 +11,15 @@
   "individual": {
     "name": "Slava",
     "role_if_found": null,
-    "notes": "'Slava' is a common Slavic given name (short for names like Vyacheslav, Stanislav, Yaroslav, etc.), but no individual named Slava could be found with any connection to ayable.com or the organization 'Ydilny'. No LinkedIn profile, news mention, or professional profile was surfaced.",
+    "notes": "No individual named 'Slava' could be associated with ayable.com or the org name 'Ydilny' through any web search. 'Slava' is a common given name in Slavic countries (a nickname for names like Vyacheslav, Stanislav, Yaroslav, etc.). No LinkedIn profile, company bio, founder page, or other first-party source connecting a person named Slava to ayable.com or Ydilny was found.",
     "source_urls": []
   },
   "could_not_find": [
-    "No active website or business found at ayable.com \u2014 domain appears to be listed for sale.",
-    "No information found for org_name 'Ydilny' \u2014 not a recognized company, startup, or organization in any public source.",
-    "No individual profile found for 'Slava' at ayable.com or associated with Ydilny.",
-    "Cannot determine the recipient's role, title, or background.",
-    "Email address (rimib58944@ayable.com) pattern with a random-looking local part suggests this may be a disposable/temporary email address, raising possible data quality concerns about this signup."
+    "No active company or business found at ayable.com \u2014 domain appears to be for sale with no live company behind it.",
+    "No information found on 'Ydilny' as a company, startup, product, or organization of any kind \u2014 the name returns zero relevant results and may be fabricated or a placeholder.",
+    "No individual named 'Slava' could be connected to ayable.com or Ydilny through any findable source.",
+    "The email address 'rimib58944@ayable.com' exhibits a pattern (random alphanumeric string + number + parked domain) strongly consistent with a disposable or temporary email address, raising a significant data quality / signup authenticity flag.",
+    "No role, title, LinkedIn, or professional profile for the recipient was found.",
+    "Overall assessment: This signup has multiple low-quality signals \u2014 unidentifiable org name, no live company behind the email domain, and a disposable-email-style address pattern. Treat as unresearchable / likely not a genuine prospect."
   ]
 }

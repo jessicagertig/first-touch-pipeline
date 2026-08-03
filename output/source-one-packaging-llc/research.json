@@ -1,0 +1,35 @@
+{
+  "company": {
+    "website": "https://goskyward.io",
+    "what_they_do": "Skyward is a performance-led digital marketing agency offering four core services: Answer Engine Optimization (AEO) \u2014 making brands findable and citable in ChatGPT, Perplexity, and Google AI Overviews; Enterprise SEO \u2014 technical and content systems for multi-location and B2B brands; Paid Media Management \u2014 performance-focused ad campaigns with measurable ROI; and Lead Generation \u2014 demand generation and conversion optimization to build compounding pipeline. The agency is US-based and targets ambitious brands seeking visibility across both traditional search and AI-driven answer engines.",
+    "raw_notes": [
+      "Brand name: Skyward. Domain: goskyward.io.",
+      "Tagline/description: 'performance-led agency helping ambitious brands win visibility across search, AI answer engines, and paid channels\u2014then convert that visibility into pipeline.'",
+      "Four named service lines: (1) AEO \u2014 ChatGPT, Perplexity, Google AI Overviews optimization; (2) Enterprise SEO \u2014 multi-location, B2B; (3) Paid Media Management; (4) Lead Generation.",
+      "AEO is a differentiating, forward-looking service \u2014 optimizing for AI answer engines is still an emerging/niche capability that few agencies offer explicitly.",
+      "Schema lists explicit expertise in: Answer Engine Optimization, AEO, SEO, Paid Media, Lead Generation, Multi-location SEO, B2B Marketing, AI Search Visibility, ChatGPT Optimization, Perplexity Optimization.",
+      "Contact email: Letsgo@goskyward.io. Phone: +1-917-856-9634 (New York area code).",
+      "Canonical URL: https://www.goskyward.io/. Site appears to be freshly built (Replit-hosted staging URL visible in OG image meta tag: new-skyward-website-2026.replit.app).",
+      "CallRail tracking script present \u2014 agency is using call tracking, suggesting they handle inbound lead gen for themselves or clients.",
+      "No blog, case studies, team page, or client logos visible from the HTML alone \u2014 site may be early stage or content-light at launch.",
+      "No social profiles listed in Schema sameAs array (empty) \u2014 brand-new or deliberately minimal social presence."
+    ],
+    "source_urls": [
+      "https://goskyward.io (provided directly, primary source)"
+    ]
+  },
+  "individual": {
+    "name": "Paul",
+    "role_if_found": null,
+    "notes": "Paul signed up with the email paul@goskyward.io, meaning he is part of the Skyward agency itself \u2014 not a client or prospect from Source One Packaging. The org_name field 'Source One Packaging, LLC' was typed at signup and likely represents a CLIENT or prospect that Skyward (Paul's agency) is working with or trying to win, not Paul's own employer. Paul's specific role at Skyward (founder, account manager, strategist, etc.) is not determinable from public sources. No individual named 'Paul' appears in any public listing for Skyward/goskyward.io. The domain goskyward.io is too new to have indexed web presence beyond the homepage provided.",
+    "source_urls": []
+  },
+  "could_not_find": [
+    "Paul's last name and specific role/title at Skyward \u2014 not publicly indexed.",
+    "Whether Paul is a founder, employee, or contractor at Skyward \u2014 unknown.",
+    "Skyward's team page, case studies, client list, or founding story \u2014 site is new and content is not crawlable from HTML alone.",
+    "Skyward's social media profiles \u2014 sameAs array in Schema is empty; no LinkedIn/Twitter found.",
+    "The relationship between Paul and Source One Packaging LLC is ambiguous: 'org_name' at signup may mean SOP is a prospect/client Paul is onboarding into a tool, not Paul's own company. If so, SOP background is contextual only.",
+    "Source One Packaging LLC leadership named 'Paul' \u2014 not found in any public directory. Named leaders found: Richard Perillo (President, RocketReach), Thomas McGarry (Managing Member, Buzzfile), Morgan McGarry (Creative Director, Prospeo). No Paul listed."
+  ]
+}

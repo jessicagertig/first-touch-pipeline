@@ -1,0 +1,40 @@
+{
+  "candidates": [
+    {
+      "item": "Schema lists explicit expertise in: Answer Engine Optimization, AEO, SEO, Paid Media, Lead Generation, Multi-location SEO, B2B Marketing, AI Search Visibility, ChatGPT Optimization, Perplexity Optimization.",
+      "why_interesting": "AEO \u2014 optimizing brands to be cited and quoted inside ChatGPT, Perplexity, and Google AI Overviews \u2014 is a genuinely nascent service category. Industry roundups as of mid-2026 list only a handful of agencies explicitly offering it, and the space is crowded with SEO shops that have merely slapped 'AEO' onto existing content work. Skyward hard-codes ChatGPT Optimization and Perplexity Optimization as named schema skills, signalling they've planted a flag in AI-answer visibility specifically \u2014 not just SEO with a rebrand. That's a specific, verifiable stance worth reacting to.",
+      "level": "company",
+      "source_url": "https://goskyward.io",
+      "as_of_date_if_known": "2026 (site recently built per Replit staging URL in OG meta)",
+      "recency_note": "Site appears freshly launched in 2026; schema skills were present at time of research crawl.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Canonical URL: https://www.goskyward.io/. Site appears to be freshly built (Replit-hosted staging URL visible in OG image meta tag: new-skyward-website-2026.replit.app).",
+      "why_interesting": "A leaked Replit staging URL in the live site's OG meta tag is an amusing, concrete detail \u2014 it means the agency that sells technical SEO and schema optimization shipped their own site with a staging artifact still baked into the production metadata. A light, friendly observation that shows genuine attention to the site, not a generic compliment.",
+      "level": "company",
+      "source_url": "https://goskyward.io",
+      "as_of_date_if_known": "2026",
+      "recency_note": "Present at time of research crawl; may be fixed if they update the OG tag.",
+      "sensitivity": "Mildly sensitive \u2014 could read as a critique of their own technical hygiene. Frame gently as a friendly observation, not a gotcha."
+    },
+    {
+      "item": "CallRail tracking script present \u2014 agency is using call tracking, suggesting they handle inbound lead gen for themselves or clients.",
+      "why_interesting": "Self-eating-own-cooking signal: they're running call-tracking infrastructure on their own site, which means they practice the lead-gen attribution discipline they sell. Specific and verifiable, not a generic claim.",
+      "level": "company",
+      "source_url": "https://goskyward.io",
+      "as_of_date_if_known": "2026",
+      "recency_note": "Present at time of research crawl.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "No blog, case studies, team page, or client logos visible from the HTML alone \u2014 site may be early stage or content-light at launch.",
+      "why_interesting": "For an agency whose core product is content-driven AEO and SEO visibility, launching without a blog, case studies, or client proof is a striking and specific tension worth noting \u2014 not to embarrass, but as a genuine conversation hook ('you're building this for others; curious what your own AEO play looks like at launch').",
+      "level": "company",
+      "source_url": "https://goskyward.io",
+      "as_of_date_if_known": "2026",
+      "recency_note": "State of site at time of research crawl; may have changed since.",
+      "sensitivity": "Mildly sensitive \u2014 could come across as a critique. Only use if framed as curiosity/interest, not a dig."
+    }
+  ]
+}
