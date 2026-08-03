@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://web-library.net",
-    "what_they_do": "web-library.net is a free/public email service provider. It offers email addresses to users at no cost, positioning itself as a legitimate (non-throwaway) public email platform. Its stated primary goal is spam prevention and maintaining a safe environment. It explicitly prohibits illegal activities and sending messages to the internet, and directs abuse reports through a ticket system.",
-    "raw_notes": "- Self-described 'public email service', not a product/SaaS company\n- Explicitly asks not to be blocked, claims it is 'not a throwaway email service'\n- No commercial product, no team, no industry vertical, no customers described\n- No pricing, no features beyond basic email hosting mentioned\n- Abuse reporting via ticket system\n- The org_name 'BobSecTestCo' does not correspond to any real company found on this domain or elsewhere \u2014 it reads as a test/fake company name\n- The email username 'polyb10261008' is alphanumeric/random-looking, consistent with a disposable or test account pattern\n- There is no 'Bob' or any individual associated with web-library.net as a business",
+    "what_they_do": "web-library.net is a public email/webmail service provider. It offers free email addresses to users under its domain. It positions itself as a legitimate (non-throwaway) public email service, emphasizing spam prevention, prohibition of illegal activities, and a safe environment for users.",
+    "raw_notes": "Homepage text describes a public email service \u2014 not a business product, SaaS tool, or commercial company. The site explicitly asks not to be blocklisted, distinguishing itself from 'throwaway' disposable email services, yet its use case (free public email under a shared domain) is functionally very similar to disposable/anonymous email providers. No products, pricing, team, or business mission beyond operating a shared-domain email service are mentioned. Abuse reporting is handled via a ticket system. No founding story, no named leadership, no commercial offering found on the homepage.",
     "source_urls": [
       "https://web-library.net"
     ]
@@ -10,15 +10,14 @@
   "individual": {
     "name": "Bob",
     "role_if_found": null,
-    "notes": "No findable individual named 'Bob' associated with web-library.net or 'BobSecTestCo'. The email address (polyb10261008@web-library.net) follows a pattern typical of auto-generated, test, or throwaway accounts. 'BobSecTestCo' is almost certainly a fictitious or test organization name \u2014 not a real registered company. No LinkedIn, company page, or any other source surfaces a real person matching these inputs.",
+    "notes": "No verifiable individual named 'Bob' could be linked to web-library.net. The email address 'polyb10261008@web-library.net' is a user-generated address on a shared public email service \u2014 it is not a corporate or professional email address. There is no indication this person is affiliated with, employed by, or a founder of web-library.net. The org_name 'BobSecTestCo' appears to be a placeholder or test entry, not a real registered company.",
     "source_urls": []
   },
   "could_not_find": [
-    "No real individual 'Bob' identifiable from the provided inputs",
-    "No real company 'BobSecTestCo' found anywhere \u2014 likely a test/fake org name",
-    "web-library.net is a public email provider, not a business customer \u2014 there is no company to research",
-    "The email username pattern ('polyb10261008') is consistent with a disposable/automated account, not a genuine signup",
-    "No role, title, LinkedIn, or any professional profile findable for the recipient",
-    "This signup exhibits multiple strong signals of being a throwaway, bot, or test account and should be flagged accordingly"
+    "No real company called 'BobSecTestCo' could be identified \u2014 almost certainly a test/fake org name.",
+    "The email domain (web-library.net) is a shared public email service, not a company domain belonging to the recipient.",
+    "No individual named 'Bob' with a verifiable role or affiliation could be found.",
+    "No commercial product, team page, pricing, or business entity found at web-library.net.",
+    "This signup has strong signals of being a test, throwaway, or low-quality signup: shared public email domain, numeric/random username, and placeholder org name."
   ]
 }
