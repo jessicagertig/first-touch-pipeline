@@ -1,3 +1,40 @@
 {
-  "candidates": []
+  "candidates": [
+    {
+      "item": "does not allow sending messages to the internet",
+      "why_interesting": "A free public email service that explicitly cannot send outbound email to the internet is structurally unusual \u2014 it functions more like an inbound-only or internal messaging silo, which is an odd design for a self-described legitimate email provider and raises questions about its actual use case.",
+      "level": "company",
+      "source_url": "https://web-library.net",
+      "as_of_date_if_known": "unknown",
+      "recency_note": "Pulled from homepage snapshot in step-1 research; no publish date available.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "requests not to be blocked, asserting it is 'not a throwaway email service' and emails 'will not bounce'",
+      "why_interesting": "The site proactively pleads its own case against blocklists \u2014 a legitimate email provider almost never needs to do this. The defensive framing is itself a tell, and the concrete ask (don't block our domain) is a distinctive and candid admission of the reputational problem it faces.",
+      "level": "company",
+      "source_url": "https://web-library.net",
+      "as_of_date_if_known": "unknown",
+      "recency_note": "Pulled from homepage snapshot in step-1 research; no publish date available.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "recommends IP bans rather than domain blocks for bad registrations",
+      "why_interesting": "Actively coaching abuse responders on HOW to block bad actors using its service (ban the IP, not the domain) is a self-serving but oddly transparent tactic \u2014 it reveals the service is aware its domain gets flagged and is negotiating the terms of its own moderation.",
+      "level": "company",
+      "source_url": "https://web-library.net",
+      "as_of_date_if_known": "unknown",
+      "recency_note": "Pulled from homepage snapshot in step-1 research; no publish date available.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "email address 'polytest6482656@web-library.net' \u2014 contains the string 'polytest' followed by a 7-digit numeric sequence",
+      "why_interesting": "The address pattern is a strong signal of an auto-generated or bot-created account rather than a real personal email, undermining the authenticity of the sender identity ('Ada') and the organization ('AdaSecTestCo').",
+      "level": "individual",
+      "source_url": "",
+      "as_of_date_if_known": "unknown",
+      "recency_note": "Derived from the email address string provided in step-1 research.",
+      "sensitivity": "The combination of a test-pattern email, a fabricated org name ('AdaSecTestCo' literally contains 'Test'), and a disposable-style domain is consistent with a fake or automated signup \u2014 flagging this may be sensitive if the recipient is a real person using an unconventional address, but the evidence strongly points to a non-genuine account."
+    }
+  ]
 }

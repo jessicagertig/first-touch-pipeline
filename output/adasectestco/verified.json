@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "fact": "AdaSecTestCo (web-library.net) explicitly states on its homepage: 'we do not allow sending messages to the internet' \u2014 confirming the service is inbound-only and does not support outbound email to external addresses.",
+    "source_url": "https://web-library.net"
+  },
+  {
+    "fact": "The live homepage of web-library.net states: 'We kindly request that our domain names not be blocked, as we are not a throwaway email service and our emails will not bounce.'",
+    "source_url": "https://web-library.net"
+  },
+  {
+    "fact": "AdaSecTestCo (web-library.net) explicitly requests that its domain names not be blocked and instead advises abuse responders to ban problematic users by IP address: 'In the event that you encounter difficulties with user registrations, please consider banning them by IP address instead.'",
+    "source_url": "https://web-library.net"
+  },
+  {
+    "fact": "The email address 'polytest6482656@web-library.net' is factually accurate in its construction: the local part is 'polytest' followed by the 7-digit sequence '6482656', and the domain 'web-library.net' is a confirmed, currently-active disposable/temporary email service operated via mail.tm infrastructure. Multiple independent email-verification services (verifymail.io, usercheck.com, check-mail.org, IPQualityScore) flag the domain as disposable/throwaway as of June\u2013August 2026. The live homepage of web-library.net itself confirms it is a public email service that accepts inbound mail and asks not to be blocked \u2014 consistent with a disposable-mail operator attempting to avoid domain-level blocks. The 'polytest' prefix combined with a 7-digit numeric suffix (6482656) is structurally characteristic of auto-generated or bot-created usernames.",
+    "source_url": "https://check-mail.org/domain/web-library.net/"
+  }
+]
