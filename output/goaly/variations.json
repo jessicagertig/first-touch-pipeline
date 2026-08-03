@@ -1,0 +1,81 @@
+{
+  "lead_id": "goaly",
+  "company_name": "Goaly",
+  "recipient_name": "Tony Liu",
+  "email": "tony.liu@goaly.ai",
+  "variations": [
+    {
+      "variant_n": 1,
+      "compliment": "Goaly looks like an exciting early-stage company - it's great to see you already hiring for a Founding Engineer role while still in stealth!",
+      "email": "Hello Tony,\n\nThanks for checking out Polymer! Goaly looks like an exciting early-stage company - it's great to see you already hiring for a Founding Engineer role while still in stealth!\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.linkedin.com/jobs/view/founding-engineer-ai-infra-at-goaly-ai-4438965213"
+      ],
+      "score": 8,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1785787396.560199",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 2,
+      "compliment": "Goaly looks like an exciting company - I love that you're inviting design partners to co-create the future of enterprise AI, and I see you're already hiring a Founding Engineer!",
+      "email": "Hello Tony,\n\nThanks for checking out Polymer! Goaly looks like an exciting company - I love that you're inviting design partners to co-create the future of enterprise AI, and I see you're already hiring a Founding Engineer!\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://goaly.ai",
+        "https://www.linkedin.com/jobs/view/founding-engineer-ai-infra-at-goaly-ai-4438965213"
+      ],
+      "score": 5,
+      "tells": [
+        "inviting design partners to co-create the future of enterprise AI"
+      ],
+      "verdict": "revise",
+      "ship": false
+    },
+    {
+      "variant_n": 3,
+      "compliment": "Goaly looks great - I really like how open you are to connecting with collaborators even while in stealth mode.",
+      "email": "Hello Tony,\n\nThanks for checking out Polymer! Goaly looks great - I really like how open you are to connecting with collaborators even while in stealth mode.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://goaly.ai"
+      ],
+      "score": 8,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1785787396.767859",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 4,
+      "compliment": "Goaly looks like an intriguing company - I see you're hiring a Founding Engineer for AI Infra, exciting to see an early team coming together in stealth.",
+      "email": "Hello Tony,\n\nThanks for checking out Polymer! Goaly looks like an intriguing company - I see you're hiring a Founding Engineer for AI Infra, exciting to see an early team coming together in stealth.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.linkedin.com/jobs/view/founding-engineer-ai-infra-at-goaly-ai-4438965213"
+      ],
+      "score": 8,
+      "tells": [
+        "exciting to see an early team coming together in stealth"
+      ],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1785787396.985829",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 5,
+      "compliment": "Goaly looks intriguing - the idea of bringing on design partners to shape enterprise AI together is a really thoughtful way to build.",
+      "email": "Hello Tony,\n\nThanks for checking out Polymer! Goaly looks intriguing - the idea of bringing on design partners to shape enterprise AI together is a really thoughtful way to build.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://goaly.ai"
+      ],
+      "score": 8,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1785787397.189519",
+      "slack_channel": "C0B87Q5UEL9"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "candidates": [
+    {
+      "item": "Actively recruiting design partners, collaborators, and waitlist signups.",
+      "why_interesting": "Seeking 'design partners' specifically \u2014 not just beta users \u2014 signals they want co-builders who will shape the product, a deliberate early-stage GTM move that's worth noting. It's a concrete, observable stance rather than a generic 'sign up' call.",
+      "level": "company",
+      "source_url": "https://goaly.ai",
+      "as_of_date_if_known": "2026-08",
+      "recency_note": "Confirmed live as of research date; stealth-mode company so this is one of very few public signals.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "LinkedIn job posting for 'Founding Engineer, AI Infra' at Goaly AI, located in San Francisco, posted ~3 weeks ago.",
+      "why_interesting": "Hiring for AI Infrastructure specifically \u2014 not a product engineer, not a generalist \u2014 as the *founding* engineering role is a distinctive signal. It suggests the core bet is on the underlying platform/infra layer, not just wrapping existing APIs. That's a meaningful architectural stance for an enterprise AI company to make this early.",
+      "level": "company",
+      "source_url": "https://www.linkedin.com/jobs/view/founding-engineer-ai-infra-at-goaly-ai-4438965213",
+      "as_of_date_if_known": "~2026-07",
+      "recency_note": "Posted approximately 3 weeks before research date; role may have been filled.",
+      "sensitivity": "none"
+    }
+  ],
+  "excluded_with_reason": [
+    {
+      "item": "Making frontier AI accessible and affordable to every business.",
+      "reason": "Pure marketing tagline \u2014 sloganeering with no concrete mechanism behind it surfaced in research. Cannot be reacted to, only parroted back. Excluded per rules."
+    },
+    {
+      "item": "goaly.ai/waitlist exists \u2014 confirms waitlist program is live.",
+      "reason": "A waitlist page is generic; nearly every pre-launch startup has one. Fails the uniqueness test."
+    },
+    {
+      "item": "No product details, funding, press coverage found.",
+      "reason": "Absence of information is not a candidate fact worth surfacing in an outreach compliment."
+    }
+  ]
+}

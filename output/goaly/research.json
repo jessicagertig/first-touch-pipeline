@@ -1,0 +1,36 @@
+{
+  "company": {
+    "website": "https://goaly.ai",
+    "what_they_do": "Goaly is a stealth-mode enterprise AI startup. Based on their own homepage, they are focused on 'making frontier AI accessible and affordable to every business.' They are not yet public about their specific product, but are actively seeking design partners, collaborators, and waitlist members. They are also hiring a Founding Engineer in AI Infrastructure (job posted ~3 weeks ago on LinkedIn), indicating early-stage team building. The enterprise AI framing and infra hiring signal they are building foundational AI tooling or platform products for businesses.",
+    "raw_notes": [
+      "Homepage (primary source, provided directly): Company is in stealth mode. Tagline: 'Making frontier AI accessible and affordable to every business.' Actively recruiting design partners, collaborators, and waitlist signups.",
+      "goaly.ai/waitlist exists \u2014 confirms waitlist program is live.",
+      "LinkedIn job posting for 'Founding Engineer, AI Infra' at Goaly AI, located in San Francisco, posted ~3 weeks ago. This is the only confirmed open role found.",
+      "No product details, no funding announcements, no press coverage found. Company appears very early-stage / pre-launch.",
+      "NOTE: There are unrelated 'Goaly' products in the market (a habit tracker app at goals.rosenpin.io and a Crunchbase entry for goaly.com, a Scandinavian coaching platform). These are distinct companies and NOT goaly.ai.",
+      "The goaly.ai domain and 'enterprise AI' positioning clearly distinguish this from those unrelated entities."
+    ],
+    "source_urls": [
+      "https://goaly.ai",
+      "https://goaly.ai/waitlist",
+      "https://www.linkedin.com/jobs/view/founding-engineer-ai-infra-at-goaly-ai-4438965213"
+    ]
+  },
+  "individual": {
+    "name": "Tony Liu",
+    "role_if_found": null,
+    "notes": "No Tony Liu directly and confidently linkable to goaly.ai was found in web search results. Multiple Tony Lius exist in tech/AI: (1) A Tony Liu who is a Partner at Costanoa Ventures with a background in enterprise infra PM and data science (ex-Databricks, ex-Turo) \u2014 possible but unconfirmed connection. (2) A Tony Liu listed as 'AI Expert' on LinkedIn (profile: tony-liu-b1381b356) with no accessible details. (3) Other Tony Lius in unrelated fields (bioengineering, AMD software engineering, enterprise AI transformation at Humana, academic CS at Mount Holyoke). None could be confirmed as the goaly.ai Tony Liu from available public sources. Given the company is in stealth, the individual's profile is likely intentionally low-key.",
+    "source_urls": [
+      "https://www.linkedin.com/in/tony-liu-b1381b356",
+      "https://www.linkedin.com/in/tonydl"
+    ]
+  },
+  "could_not_find": [
+    "Tony Liu's specific role at Goaly (founder, co-founder, employee?) \u2014 not confirmed by any source.",
+    "Any confirmed LinkedIn profile for Tony Liu tied explicitly to goaly.ai.",
+    "Goaly's specific product, technology stack, or market focus beyond 'enterprise AI' \u2014 company is in stealth.",
+    "Funding information, investors, or founding date for Goaly AI.",
+    "Team size or other team members beyond one open AI Infra engineering hire.",
+    "Any press coverage, blog posts, or public announcements about Goaly AI."
+  ]
+}
