@@ -1,8 +1,8 @@
 {
   "company": {
-    "website": "barumart.com",
-    "what_they_do": "barumart.com is not a real company website. It is a disposable/temporary email domain operated by temp-mail.org, used to generate throwaway email addresses for anonymous or fake registrations.",
-    "raw_notes": "barumart.com is flagged across multiple email verification services (verifymail.io, check-mail.org, usercheck.com, gatekeepr.io) as a known disposable email domain with a HIGH risk score of 91/100. It is one of 2,841+ domains operated by temp-mail.org. The domain has no A records (no real website), only MX records pointing to mail.barumart.com (IP: 161.35.253.124). Domain was created 2011-06-05. It is not associated with any legitimate business. Multiple sources recommend blocking it to prevent fake sign-ups, spam registrations, and free-trial abuse.",
+    "website": null,
+    "what_they_do": null,
+    "raw_notes": "barumart.com is not a real business domain. It is a disposable/temporary email domain operated by temp-mail.org. It has no company website, no products or services, and no legitimate business presence. Multiple email verification services flag it with a HIGH risk score (91/100). The domain exists solely to generate throwaway email addresses used for anonymous registrations, bypassing sign-up restrictions, or avoiding spam. The org_name supplied ('ab') is also a placeholder/nonsense value.",
     "source_urls": [
       "https://verifymail.io/domain/barumart.com",
       "https://check-mail.org/domain/barumart.com/",
@@ -13,14 +13,15 @@
   "individual": {
     "name": "a",
     "role_if_found": null,
-    "notes": "First name provided is 'a' \u2014 almost certainly a placeholder/fake name. Email 'wekaces726@barumart.com' is a randomly generated throwaway address. No real individual could be identified. Org name 'ab' is also a placeholder. No LinkedIn, company directory, or any other source yields a real person associated with this signup.",
+    "notes": "The first_name field contains only 'a' \u2014 clearly a placeholder, not a real name. No individual could be identified or researched. The email address (wekaces726@barumart.com) is a randomly generated throwaway address on a disposable email domain. No professional profile, LinkedIn, or any other source exists for this person.",
     "source_urls": []
   },
   "could_not_find": [
-    "No real company behind barumart.com \u2014 it is a disposable email provider, not a business.",
-    "No identifiable individual \u2014 first name 'a', org name 'ab', and email username 'wekaces726' are all indicators of a fake/bot signup.",
-    "No company website, product, or service to research.",
-    "No role, LinkedIn profile, or any professional identity for the recipient.",
-    "\u26a0\ufe0f HIGH FRAUD SIGNAL: Disposable email domain (risk score 91/100), single-letter name, two-letter org name \u2014 this signup has all hallmarks of a bot, fake account, or free-trial abuse attempt. Recommend blocking or flagging for manual review."
+    "No real company exists at barumart.com \u2014 it is a disposable email provider (temp-mail.org), not a business.",
+    "No legitimate org_name \u2014 'ab' is a placeholder/nonsense value.",
+    "No real individual \u2014 first_name 'a' is a placeholder; email appears randomly generated.",
+    "No website, product, service, mission, or founding story to research.",
+    "No individual role, LinkedIn, or any professional presence findable.",
+    "\u26a0\ufe0f STRONG SIGNAL OF FAKE/SPAM SIGNUP: disposable email domain with risk score 91/100, placeholder name and org, randomly generated email address. Recommend blocking or flagging this signup."
   ]
 }

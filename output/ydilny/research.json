@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "ayable.com",
-    "what_they_do": "Cannot be determined. No active company exists at this domain. The domain ayable.com is currently listed for sale on a domain marketplace (BrandPa) with no business, product, or service operating under it.",
-    "raw_notes": "BrandPa lists ayable.com as a domain for sale \u2014 the page is a sales pitch for the domain name itself, not a real company. The domain was first registered in May 2021 per the listing. No company homepage, about page, product page, or team page was findable. A GitHub account with the username 'ayable' exists with 7 public repos (mostly generic Ruby/HTML learning projects, including a fork of a Japanese tech academy project), but there is no evident business connection. 'Ydilny' as an org name returns zero results and appears to be randomly generated. The email local part 'rimib58944' also resembles a machine-generated string, consistent with a disposable/fake email address.",
+    "what_they_do": "No real operating business found at this domain. The domain ayable.com is currently listed for sale on a domain marketplace (brandpa.com). There is no discoverable homepage, product, service, or company using this domain as a real business.",
+    "raw_notes": "1. brandpa.com lists ayable.com as a domain for sale \u2014 it is NOT an active company website. 2. A GitHub account named 'ayable' exists with 7 public repositories (personal/developer projects \u2014 no corporate affiliation found). 3. The org_name 'Ydilny' returns zero results for any real company, organization, or product \u2014 it appears to be a fabricated or nonsense string. 4. The email local part 'rimib58944' is a random alphanumeric string strongly consistent with auto-generated disposable/temporary email addresses. 5. No news, Crunchbase, LinkedIn, or other business records found for 'Ydilny' or 'ayable.com' as an operating entity.",
     "source_urls": [
       "https://brandpa.com/names/ayable",
       "https://github.com/ayable"
@@ -11,15 +11,15 @@
   "individual": {
     "name": "Slava",
     "role_if_found": null,
-    "notes": "No individual named Slava could be linked to ayable.com or Ydilny. 'Slava' is a common Slavic given name (often a nickname for Vyacheslav, Yaroslav, Stanislav, etc.). No LinkedIn profile, company bio, or any web presence connects a person named Slava to this domain or org name.",
+    "notes": "No individual named Slava could be connected to ayable.com or the org Ydilny through any findable public source. 'Slava' is a common Slavic given name (nickname for names like Vyacheslav, Stanislav, Yaroslav). No professional profile, LinkedIn, or other record links this first name to the signup's domain or org. Identity cannot be verified.",
     "source_urls": []
   },
   "could_not_find": [
-    "No active company or business at ayable.com \u2014 domain is listed for sale with no live website.",
-    "Org name 'Ydilny' returns zero results anywhere; likely fabricated or randomly generated.",
-    "Email local part 'rimib58944' appears machine-generated; consistent with a disposable/throwaway email address.",
-    "No individual 'Slava' linkable to ayable.com, Ydilny, or any related business.",
-    "No role, title, LinkedIn, or any personal/professional profile found for the recipient.",
-    "Overall signup pattern (random local-part email, for-sale domain, nonsense org name) is a strong indicator of a fake or bot-generated signup rather than a genuine prospect."
+    "No live website or active business found at ayable.com \u2014 domain is listed for sale.",
+    "No company, product, or organization named 'Ydilny' found anywhere; likely a fabricated org name.",
+    "Email local part 'rimib58944' is characteristic of a disposable/auto-generated email address \u2014 high likelihood this is a fake or throwaway signup.",
+    "No individual named Slava could be identified or linked to this domain or org.",
+    "No role, LinkedIn, Crunchbase, or any professional record for the recipient.",
+    "OVERALL SIGNAL: Multiple red flags (domain for sale, random email local part, untraceable org name) strongly suggest this is not a genuine business signup and warrants fraud/spam review before outreach."
   ]
 }
