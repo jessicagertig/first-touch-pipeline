@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "ayable.com",
-    "what_they_do": "Unknown. No active business was found at ayable.com. The domain appears to be listed for sale on a domain marketplace (brandpa.com) with no live company website behind it.",
-    "raw_notes": "Multiple searches for 'ayable.com' return only a domain-for-sale listing on brandpa.com, a GitHub account ('ayable') with 7 miscellaneous repositories unrelated to any business, and an unrelated Instagram handle. The domain was first registered in May 2021 per the domain listing page. No homepage, about page, product page, or any business presence was found. The org_name 'Ydilny' returns zero results in any search engine \u2014 no company, brand, or entity by that name is findable anywhere on the web. The combination of a randomly structured email address (rimib58944@ayable.com), a domain with no live website, and an org name that does not exist strongly suggests this signup may be low-quality, bot-generated, or use a throwaway/fake email domain.",
+    "what_they_do": "Cannot be determined. No active company exists at this domain. The domain ayable.com is currently listed for sale on a domain marketplace (BrandPa) with no business, product, or service operating under it.",
+    "raw_notes": "BrandPa lists ayable.com as a domain for sale \u2014 the page is a sales pitch for the domain name itself, not a real company. The domain was first registered in May 2021 per the listing. No company homepage, about page, product page, or team page was findable. A GitHub account with the username 'ayable' exists with 7 public repos (mostly generic Ruby/HTML learning projects, including a fork of a Japanese tech academy project), but there is no evident business connection. 'Ydilny' as an org name returns zero results and appears to be randomly generated. The email local part 'rimib58944' also resembles a machine-generated string, consistent with a disposable/fake email address.",
     "source_urls": [
       "https://brandpa.com/names/ayable",
       "https://github.com/ayable"
@@ -11,15 +11,15 @@
   "individual": {
     "name": "Slava",
     "role_if_found": null,
-    "notes": "No individual named 'Slava' could be connected to ayable.com or Ydilny. 'Slava' is a common Slavic given name (short for names like Vyacheslav, Stanislav, Yaroslav, etc.), but no specific person by this name was findable in relation to these entities. The email local-part ('rimib58944') appears randomly generated, which further undermines the authenticity of the signup.",
+    "notes": "No individual named Slava could be linked to ayable.com or Ydilny. 'Slava' is a common Slavic given name (often a nickname for Vyacheslav, Yaroslav, Stanislav, etc.). No LinkedIn profile, company bio, or any web presence connects a person named Slava to this domain or org name.",
     "source_urls": []
   },
   "could_not_find": [
-    "No live website or business at ayable.com \u2014 domain listed for sale.",
-    "No company, brand, or entity named 'Ydilny' found anywhere on the web.",
-    "No individual 'Slava' linkable to ayable.com or Ydilny.",
-    "No role, title, or professional profile for the recipient.",
-    "Email address local-part ('rimib58944') appears randomly generated \u2014 possible bot, throwaway, or fake signup.",
-    "Could not verify whether ayable.com is or has been used as a disposable/temporary email domain."
+    "No active company or business at ayable.com \u2014 domain is listed for sale with no live website.",
+    "Org name 'Ydilny' returns zero results anywhere; likely fabricated or randomly generated.",
+    "Email local part 'rimib58944' appears machine-generated; consistent with a disposable/throwaway email address.",
+    "No individual 'Slava' linkable to ayable.com, Ydilny, or any related business.",
+    "No role, title, LinkedIn, or any personal/professional profile found for the recipient.",
+    "Overall signup pattern (random local-part email, for-sale domain, nonsense org name) is a strong indicator of a fake or bot-generated signup rather than a genuine prospect."
   ]
 }
