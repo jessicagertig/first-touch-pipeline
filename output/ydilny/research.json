@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "ayable.com",
-    "what_they_do": "No active company found. The domain ayable.com is currently listed for sale on a domain marketplace (brandpa.com) and does not resolve to any operating business website.",
-    "raw_notes": "Domain ayable.com first registered May 2021 per brandpa.com listing. It is being marketed as an available domain for purchase, not an active business. No homepage, about page, product/service pages, or company identity of any kind found at this domain. A GitHub account named 'ayable' exists with 7 low-activity public repositories (Ruby/HTML learning exercises, no company affiliation). The email local part 'rimib58944' has a random-character-plus-numeric-suffix pattern highly consistent with disposable/throwaway email address services.",
+    "what_they_do": "Cannot be determined. The domain ayable.com appears to have no active, publicly accessible business website. A third-party domain marketplace (brandpa.com) lists ayable.com as a domain for sale, suggesting it may be dormant, parked, or not yet publicly launched.",
+    "raw_notes": "- brandpa.com lists ayable.com as a domain available for purchase, with no evidence of an active company operating at that address. - The domain was first registered in May 2021 per brandpa.com listing. - A GitHub account under the handle 'ayable' exists (github.com/ayable) with 7 public repositories (mostly Ruby and HTML learning projects), consistent with an individual developer or student rather than a commercial company. - The org_name 'Ydilny' returns zero substantive results in web searches \u2014 no company, product, or organization of that name is findable anywhere online. - The email address uses a randomized-looking local part ('rimib58944'), which is a common pattern associated with disposable/temporary email address services. No evidence of ayable.com being a known disposable email domain was found, but the combination of an unsearchable org name, randomized email prefix, and a domain with no live website is a strong signal of a low-quality or fictitious signup.",
     "source_urls": [
       "https://brandpa.com/names/ayable",
       "https://github.com/ayable"
@@ -11,14 +11,15 @@
   "individual": {
     "name": "Slava",
     "role_if_found": null,
-    "notes": "'Slava' is a common Slavic given name. No individual named Slava linked to ayable.com or the organization name 'Ydilny' was found through any web search. No professional profile, LinkedIn, or other first-party source surfaced.",
+    "notes": "No individual named 'Slava' could be associated with ayable.com or the organization 'Ydilny' through any public web source. 'Slava' is a common Slavic given name. No LinkedIn profile, company bio, or any other first-party source links this person to a verifiable company.",
     "source_urls": []
   },
   "could_not_find": [
-    "No active business or website found at ayable.com \u2014 domain is listed for sale.",
-    "Organization name 'Ydilny' returns zero results; likely fabricated or randomly generated.",
-    "No individual 'Slava' linkable to ayable.com or Ydilny found.",
-    "Email 'rimib58944@ayable.com' displays hallmarks of a disposable/throwaway email address (random alphanumeric local part + numeric suffix, inactive domain). High likelihood this is a fake/bot signup.",
-    "No role, title, LinkedIn, or any professional context for the recipient found."
+    "No active website or business found at ayable.com \u2014 domain appears to be parked/for sale per third-party domain marketplace listing.",
+    "Org name 'Ydilny' returns zero results across all web searches \u2014 not a findable company, brand, or organization.",
+    "No individual named 'Slava' could be linked to ayable.com or Ydilny through any public source.",
+    "Email local part ('rimib58944') is randomized/nonsensical in pattern, raising a flag for a disposable or bot-generated email address.",
+    "No role, title, or professional background for the recipient could be found.",
+    "Overall: this signup has multiple signals of being fictitious or low-quality \u2014 unresolvable domain, non-existent org name, randomized email prefix, and no traceable individual."
   ]
 }
