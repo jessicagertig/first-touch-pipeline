@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "ayable.com",
-    "what_they_do": "Cannot be determined. The domain ayable.com currently appears to be listed for sale on a domain marketplace (brandpa.com) with no live business website found. No real company operating under this domain was identified.",
-    "raw_notes": "ayable.com is listed for sale on brandpa.com \u2014 the listing describes it as a 6-letter, 2-syllable domain first registered in May 2021, but there is no evidence of an active business behind it. A GitHub account exists under the handle 'ayable' (github.com/ayable) with 7 public repositories of basic HTML/Ruby learning projects, suggesting an individual learner rather than a company. An Instagram account @ayable exists but is unrelated. No company homepage, about page, product pages, or business registration were found. The domain does not resolve to any verifiable business presence.",
+    "what_they_do": "Unknown. The domain ayable.com does not resolve to a live, identifiable business website. A third-party domain marketplace (BrandPa) lists 'ayable.com' as available for sale, suggesting the domain may be parked, unused, or very recently acquired. No company profile, product, or service information could be found associated with this domain.",
+    "raw_notes": "1. BrandPa lists ayable.com as a domain for sale, first registered May 2021 \u2014 indicating it may be parked or newly acquired with no established web presence. 2. A GitHub account named 'ayable' exists (github.com/ayable) with 7 public repositories, mostly beginner/tutorial-style projects (microposts, monolist fork from techacademy-jp, a message board, a static HTML page). This appears to be an individual developer's learning account, not a company GitHub org. 3. No LinkedIn company page, Crunchbase entry, news mentions, or any other business-facing web presence found for 'ayable.com' or a company called 'Ayable.' 4. The org_name entered at signup is 'Ydilny' \u2014 no findable company, brand, or organization by that name exists on the public web. It does not match any known company. It may be a misspelling, a personal/internal project name, a transliteration artifact, or a placeholder.",
     "source_urls": [
       "https://brandpa.com/names/ayable",
       "https://github.com/ayable"
@@ -11,14 +11,16 @@
   "individual": {
     "name": "Slava",
     "role_if_found": null,
-    "notes": "No individual named 'Slava' could be identified in connection with ayable.com or the org name 'Ydilny'. 'Slava' is a Slavic given name (common nickname for names like Vyacheslav, Yaroslav, Stanislav, etc.), suggesting possible Eastern European or Russian-speaking background \u2014 but this is inference from the name alone, not sourced evidence. No LinkedIn profile, company bio, news mention, or other first-party source linking a 'Slava' to ayable.com or Ydilny was found.",
+    "notes": "'Slava' is a Slavic given name (common in Russian, Ukrainian, Bulgarian, and other Slavic countries), often a short form of longer names such as Vyacheslav, Stanislav, or Yaroslav. No individual named 'Slava' could be tied to ayable.com or 'Ydilny' through any public source. The email local-part 'rimib58944' appears to be a randomized/disposable string, which is a strong signal that the email address is from a temporary or privacy-masked email service rather than a genuine corporate or personal address. No LinkedIn profile, personal website, or professional bio linking a 'Slava' to this domain or org was found.",
     "source_urls": []
   },
   "could_not_find": [
-    "No live website or active business found at ayable.com \u2014 domain appears to be listed for sale.",
-    "No information on what 'Ydilny' is \u2014 the org name returns zero results across all searches; likely a personal project name, a very early-stage startup, or a non-public entity.",
-    "No role, title, or background found for the individual 'Slava' in connection with ayable.com or Ydilny.",
-    "Cannot verify whether ayable.com email is a real business domain or a disposable/temporary email address \u2014 the combination of an unresolved domain, a randomly-structured email address (rimib58944@ayable.com), a non-googleable org name, and no web presence raises a flag that this may be a low-quality or synthetic signup.",
-    "No product, service, team, or founding story found for either the company or org."
+    "No live website or business content at ayable.com \u2014 domain appears parked or for sale per third-party marketplace.",
+    "No identifiable company, product, or service associated with 'ayable.com' or 'Ydilny'.",
+    "'Ydilny' returns zero results as a company or organization name \u2014 likely a placeholder, misspelling, or nonsense entry.",
+    "No individual 'Slava' linkable to this domain, org, or email domain.",
+    "Email address 'rimib58944@ayable.com' has a randomized local-part strongly suggesting a disposable/temporary email service \u2014 the domain may simply be used as a throwaway mail host rather than a real business domain.",
+    "No role, title, or LinkedIn profile found for the recipient.",
+    "No GitHub org (only an individual hobby account) found under the 'ayable' handle \u2014 no signs of a real software company."
   ]
 }
