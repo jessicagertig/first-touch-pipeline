@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://web-library.net",
-    "what_they_do": "web-library.net is a public email/inbox service \u2014 it provides free email addresses to end users. It is NOT a company or business in any commercial sense. The homepage explicitly positions it as a 'public email service' focused on spam prevention and safe messaging. It notes it does not allow sending messages to the internet and requests not to be blocklisted, distinguishing itself from throwaway/disposable email services (though the low-friction, anonymized signup pattern is consistent with temporary/privacy email use).",
-    "raw_notes": "- Self-described 'public email service'. - Primary stated goal: prevent spam, maintain safe/secure environment. - Prohibits illegal activities. - Does NOT allow sending messages to the internet (receive-only or internal-only service). - Requests domain not be blocked; claims emails will not bounce. - Explicitly says it is 'not a throwaway email service'. - Has an abuse reporting ticket system. - No commercial product, no SaaS offering, no team, no pricing, no business description. - The org_name 'BobSecTestCo' is almost certainly a fabricated/test company name entered by the user, not a real organization.",
+    "what_they_do": "web-library.net is a public email/mailbox service \u2014 it provides free email addresses to the public. It is not a product or software company. The homepage explicitly positions it as a shared email platform focused on spam prevention and abuse control, and notes that it does not allow sending messages to the internet.",
+    "raw_notes": "Homepage text describes it as a 'public email service'. States its primary goal is to prevent spam and maintain a safe/secure environment. Prohibits illegal activities. Does not allow sending messages to the internet. Explicitly states it is 'not a throwaway email service' and that 'emails will not bounce'. Requests domain names not be blocked. Suggests banning problematic users by IP address rather than domain. Has an abuse ticket system. No products, no SaaS offering, no real business entity described \u2014 this is an infrastructure/utility email provider, not a company in any conventional B2B sense.",
     "source_urls": [
       "https://web-library.net"
     ]
@@ -10,15 +10,14 @@
   "individual": {
     "name": "Bob",
     "role_if_found": null,
-    "notes": "Only a first name ('Bob') is available. The email address 'polyb10261008@web-library.net' follows a pattern (random prefix + numbers) consistent with an auto-generated or anonymized inbox, not a professional/personal named address. No role, LinkedIn profile, or any other identifying information is findable. The org name 'BobSecTestCo' suggests this may be a test or fake signup rather than a genuine business user.",
+    "notes": "Only first name 'Bob' is known. Email address is 'polyb10261008@web-library.net' \u2014 a web-library.net public mailbox address, not a corporate or professional email. No role, title, LinkedIn, or other identifying information found. The username pattern ('polyb10261008') is characteristic of a randomly generated or auto-assigned public mailbox handle, not a personal or professional identity.",
     "source_urls": []
   },
   "could_not_find": [
-    "No real company behind 'BobSecTestCo' \u2014 name appears fabricated/test-oriented.",
-    "No individual identity for 'Bob' beyond the first name \u2014 email pattern is anonymized/auto-generated.",
-    "No role, title, LinkedIn, or any professional profile for the recipient.",
-    "web-library.net is an email provider, not a business customer \u2014 there is no product, industry vertical, or company mission to research.",
-    "High likelihood this is a disposable/privacy email signup despite the service's self-description; 'BobSecTestCo' strongly suggests a test or fraudulent signup rather than a legitimate business prospect.",
-    "No news, press, or third-party sources about web-library.net as an organization."
+    "No real company behind 'BobSecTestCo' \u2014 org_name appears to be a test/fake entry (pattern: '[Name]SecTestCo' strongly suggests a sandbox or QA signup).",
+    "No individual identity for 'Bob' beyond first name \u2014 no role, employer, LinkedIn, or professional context.",
+    "web-library.net is not a business or B2B organization; it is a public email utility with no identifiable commercial entity behind it.",
+    "The email domain is a shared public mailbox service, not a company domain \u2014 cannot infer employer or org from it.",
+    "Overall signup pattern (disposable-style email address, generic first name only, obviously synthetic org name) is highly consistent with a test, bot, or throwaway registration rather than a genuine prospect."
   ]
 }
