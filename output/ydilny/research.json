@@ -1,24 +1,27 @@
 {
   "company": {
     "website": "ayable.com",
-    "what_they_do": "Unknown. No active company or product found at ayable.com. The domain appears only in a third-party domain-for-sale listing (brandpa.com), with no evidence of a real business operating at this address.",
-    "raw_notes": "ayable.com surfaces only on brandpa.com as a domain listed for sale \u2014 no homepage, no about page, no product or service. The GitHub account 'ayable' (github.com/ayable) exists but contains only basic practice/tutorial repositories with no apparent connection to a real company. The email domain 'ayable.com' shows all hallmarks of a disposable or throwaway email domain. No news, press, LinkedIn company page, Crunchbase entry, or any other signal of a legitimate business found.",
+    "what_they_do": "Cannot be determined. The domain ayable.com is currently listed for sale on a domain marketplace (brandpa.com) and does not resolve to an active company website. No products, services, or business operations are described on or attributable to this domain.",
+    "raw_notes": "ayable.com appears on brandpa.com as a domain for sale, first registered May 2021. The marketplace listing speculates hypothetical use cases (AI payment solutions, micro-loans) but these are generated domain-sale pitch copy, not descriptions of a real company. A GitHub account named 'ayable' exists with 7 public repositories (basic HTML/Ruby learning projects, forked from a Japanese coding bootcamp), suggesting the domain may be tied to an individual learner rather than an established business. No homepage, about page, product pages, press coverage, or company registry entry found for ayable.com. The org_name 'Ydilny' returns zero results across all searches \u2014 it does not correspond to any identifiable company, startup, product, or brand.",
     "source_urls": [
       "https://brandpa.com/names/ayable",
-      "https://github.com/ayable"
+      "https://github.com/ayable",
+      "https://github.com/ayable/ayable.github.io"
     ]
   },
   "individual": {
     "name": "Slava",
     "role_if_found": null,
-    "notes": "'Slava' is a Slavic given name (common in Russia, Ukraine, and neighboring countries), but no specific individual named Slava associated with ayable.com or Ydilny was found in any public source. No LinkedIn profile, personal website, or other identifying information discovered.",
+    "notes": "No individual named 'Slava' could be found in connection with ayable.com or Ydilny via any public source. 'Slava' is a common Slavic given name (nickname for Vyacheslav, Stanislav, Yaroslav, etc.), so no specific individual can be identified from the first name alone. The email address (rimib58944@ayable.com) follows a pattern (random string + number) that is atypical of a professional or company email, which may suggest a disposable or auto-generated address. No LinkedIn profile, news mention, or company bio found.",
     "source_urls": []
   },
   "could_not_find": [
-    "No real company website or business found at ayable.com \u2014 domain is listed for sale on a domain marketplace.",
-    "Org name 'Ydilny' returns zero results across all searches; appears to be a fabricated or nonsense organization name.",
-    "No individual named Slava tied to ayable.com or Ydilny found anywhere online.",
-    "No role, title, LinkedIn, or any other profile information for the recipient.",
-    "Strong indicators this may be a fake/bot signup: disposable-looking email domain, no traceable company, nonsensical org name."
+    "No active website or business presence found at ayable.com \u2014 domain is listed for sale.",
+    "Org name 'Ydilny' returns zero results; cannot be matched to any real company, product, or brand.",
+    "No individual 'Slava' identifiably associated with ayable.com or Ydilny.",
+    "No role, title, or professional background found for the recipient.",
+    "Email format (rimib58944@ayable.com) is atypical and may indicate a throwaway or test address.",
+    "No news, funding, or product launch information found for either entity.",
+    "Cannot verify whether ayable.com is actually owned/operated by the signee or is simply a purchased/parked domain."
   ]
 }
