@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://web-library.net",
-    "what_they_do": "web-library.net is a public email/inbox service \u2014 not a business or product company. It provides free email addresses to the public, positioning itself as a legitimate (non-throwaway) public email provider. It explicitly prohibits illegal activities and does not allow outbound sending to the internet. It requests that its domain not be blocklisted and directs abuse reports through a ticket system.",
-    "raw_notes": "Homepage copy confirms this is a public shared email service, not a real business organization. The domain is used by anyone to create free email addresses. The 'org_name' field ('BobSecTestCo') appears to be a fabricated/test organization name, not a real company. There is no product, service, team, or mission associated with a legitimate business. The email address pattern (polyb10261008@web-library.net) is consistent with a randomly generated or disposable-style address on a shared public email domain.",
+    "what_they_do": "web-library.net is a public email/inbox service \u2014 it provides free email addresses to users. It is not a company or commercial product in the traditional sense. The homepage explicitly describes it as a 'public email service' focused on spam prevention and safe usage. It asks site operators not to block its domain, distinguishing itself from throwaway/disposable email services, though its functional profile (free public inboxes, non-business domain) is consistent with a shared/public email provider rather than a legitimate business domain.",
+    "raw_notes": "Homepage text confirms this is a public email service, not a real business. The org_name 'BobSecTestCo' does not correspond to any real company found at this domain. The email address 'polyb10261008@web-library.net' follows a pattern (random-looking alphanumeric username) consistent with a generated or temporary address. The site explicitly requests its domain not be blocked and positions itself as legitimate, but the domain is not associated with any real organization. No product pages, about pages, team pages, pricing, or business identity found.",
     "source_urls": [
       "https://web-library.net"
     ]
@@ -10,14 +10,15 @@
   "individual": {
     "name": "Bob",
     "role_if_found": null,
-    "notes": "No individual named 'Bob' could be identified or verified. The email address (polyb10261008@web-library.net) is on a public shared email domain and carries no verified identity signal. The org name 'BobSecTestCo' is almost certainly a fabricated test entry, not a real organization with a real employee named Bob.",
+    "notes": "No individual named 'Bob' could be identified at this domain. The org_name 'BobSecTestCo' appears to be a fabricated or test company name (contains 'Test' and 'Sec', suggesting a security test or throwaway signup). No LinkedIn, company directory, or any other source corroborates a real person named Bob associated with this organization. The email username pattern ('polyb10261008') does not correspond to a recognizable personal identifier.",
     "source_urls": []
   },
   "could_not_find": [
-    "No real company exists behind this signup \u2014 'BobSecTestCo' appears to be a fabricated/test organization name.",
-    "No real individual identity found \u2014 'Bob' is a first name only with no verifiable role, title, LinkedIn, or company affiliation.",
-    "The email domain (web-library.net) is a public shared email service, not a corporate or personal domain, providing zero identity or company signal.",
-    "The email address pattern suggests it may be auto-generated or used for testing/spam purposes.",
-    "This signup has the hallmarks of a low-quality or synthetic registration: public/shared email domain, generic first name only, nonsensical org name with 'Test' in it."
+    "No real business or organization named 'BobSecTestCo' found anywhere \u2014 name appears fabricated/test-oriented.",
+    "No individual 'Bob' identifiable at this domain or org.",
+    "web-library.net is a public shared email provider, not a company domain \u2014 cannot verify any legitimate organizational affiliation.",
+    "Email username pattern is random/generated, not a recognizable personal handle.",
+    "No company website, product, team, or about page associated with 'BobSecTestCo'.",
+    "HIGH RISK FLAGS: (1) disposable/public email domain used as signup email; (2) org name contains 'Test'; (3) no verifiable real-world entity behind the signup."
   ]
 }
