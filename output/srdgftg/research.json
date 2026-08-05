@@ -1,0 +1,21 @@
+{
+  "company": {
+    "website": null,
+    "what_they_do": null,
+    "raw_notes": "The email domain '20030310.com' does not resolve to any identifiable company or organization. Web searches for '20030310.com' return no results linked to a real business, website, or entity by that domain. The string '20030310' appears to be a date format (2003-03-10, i.e. March 10, 2003), likely used as a throwaway or fake domain. The org_name provided ('srdgftg') is a random keyboard-mash string with no meaning or identifiable company.",
+    "source_urls": []
+  },
+  "individual": {
+    "name": "wdefrgt (first_name field \u2014 appears to be a random/fake name, not a real person's name)",
+    "role_if_found": null,
+    "notes": "The name 'wdefrgt' is a keyboard-mash string and does not correspond to a real person. The email 'aspencer066@20030310.com' uses a plausible-sounding local part ('aspencer066'), but the domain is not a real company domain. No individual matching this information could be found via web search.",
+    "source_urls": []
+  },
+  "could_not_find": [
+    "No real website or company found at 20030310.com \u2014 domain appears fake/disposable.",
+    "Org name 'srdgftg' is a random string with no identifiable meaning or associated company.",
+    "First name 'wdefrgt' is a random keyboard-mash string, not a real name.",
+    "No individual named 'aspencer066' or associated with '20030310.com' found in any web source.",
+    "This signup exhibits multiple strong signals of a fake/bot/spam registration: nonsense first name, nonsense org name, numeric-date-formatted domain, and sequentially-numbered email local part."
+  ]
+}
