@@ -1,24 +1,25 @@
 {
   "company": {
-    "website": null,
-    "what_they_do": null,
-    "raw_notes": "The email domain ayable.com does not resolve to any active business website. A domain broker listing (brandpa.com) shows ayable.com is currently listed FOR SALE, with no real company behind it. The domain was first registered in May 2021. A GitHub profile under the handle 'ayable' (github.com/ayable) exists with 7 mostly empty or tutorial-level repositories (Ruby, HTML), showing no signs of a real product company. The org_name 'Ydilny' returns zero results across all searches \u2014 no company, product, or entity of this name could be found anywhere on the public web.",
+    "website": "ayable.com",
+    "what_they_do": "Cannot be determined. No live company website exists at ayable.com. The domain is listed for sale on a domain marketplace (BrandPA), with no operating business, product, or service found at that URL.",
+    "raw_notes": "- ayable.com resolves to a domain-for-sale listing on brandpa.com, not a real company website. The BrandPA page describes hypothetical business ideas for the name but makes clear the domain is available for purchase. First registered May 2021 per BrandPA listing. No homepage, about page, or product/service pages exist. A GitHub account named 'ayable' exists with 7 small public repositories (workspace, micropost, microposts, monolist2, ayable.github.io) \u2014 these appear to be personal learning/practice projects, not a company presence. An Instagram handle @ayable exists but is a personal account unrelated to a company. No crunchbase, LinkedIn company page, or news mentions found for a company called 'ayable' operating at ayable.com.",
     "source_urls": [
       "https://brandpa.com/names/ayable",
-      "https://github.com/ayable"
+      "https://github.com/ayable",
+      "https://www.instagram.com/ayable/"
     ]
   },
   "individual": {
     "name": "Slava",
     "role_if_found": null,
-    "notes": "No individual named 'Slava' could be linked to ayable.com or Ydilny through any public source. The first name 'Slava' is a common Slavic given name (short for Vyacheslav, Stanislav, Yaroslav, etc.), but no specific person matching this signup could be identified. The email address itself (rimib58944@ayable.com) has the structure of a randomly generated or disposable address (random alphanumeric local-part), which is a strong signal of a fake/throwaway signup.",
+    "notes": "No individual named 'Slava' could be linked to ayable.com or the org name 'Ydilny'. 'Slava' is a common Slavic given name (short form of Vyacheslav, Stanislav, Yaroslav, etc.), indicating possible Eastern European or Russian-speaking background, but no professional profile, LinkedIn page, or other first-party source was found connecting this person to any company at this domain.",
     "source_urls": []
   },
   "could_not_find": [
-    "No active website or business found at ayable.com \u2014 domain appears to be listed for sale with no real company behind it.",
-    "Org name 'Ydilny' returns zero results on any public search engine, company database, or registry \u2014 cannot be verified as a real organization.",
-    "No individual named 'Slava' could be connected to either ayable.com or Ydilny.",
-    "Email address format (rimib58944@ayable.com) resembles a randomly generated/disposable address, raising strong likelihood this is a fake or bot signup.",
-    "No LinkedIn, Crunchbase, or any other professional profile found for this individual or company combination."
+    "No live website or operating business found at ayable.com \u2014 domain is listed for sale.",
+    "Org name 'Ydilny' returns zero results as a company, startup, or brand anywhere on the web.",
+    "No individual named 'Slava' could be identified as affiliated with ayable.com or Ydilny.",
+    "No role, title, LinkedIn profile, or any professional information found for the recipient.",
+    "Email address (rimib58944@ayable.com) has a randomly generated-looking local part, which combined with the unrecognized org name and for-sale domain strongly suggests this may be a fake, test, or bot signup rather than a genuine prospect."
   ]
 }
