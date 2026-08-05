@@ -1,21 +1,21 @@
 {
   "company": {
     "website": null,
-    "what_they_do": "Unknown. The domain '20030310.com' does not resolve to any identifiable business website. No legitimate company or organization could be associated with this domain through web search.",
-    "raw_notes": "The domain '20030310.com' returns no meaningful search results pointing to a real company or website. It appears to be a non-existent, placeholder, or disposable domain. The string '20030310' resembles a date (March 10, 2003) often used in auto-generated or throwaway email addresses. No website content, company description, or business presence was found.",
+    "what_they_do": null,
+    "raw_notes": "The domain '20030310.com' returns no identifiable company website. Web searches for '20030310.com' yield no results linked to a real business \u2014 only incidental matches to the numeric string '20030310' (a date format for March 10, 2003) appearing in unrelated contexts (automotive recall records, insurance license numbers, Wikipedia articles, etc.). The domain appears to be fabricated or a throwaway/disposable domain with no legitimate business behind it.",
     "source_urls": []
   },
   "individual": {
-    "name": "wdefrgt (likely a fake/gibberish name)",
+    "name": "wdefrgt (first name as entered; clearly not a real name \u2014 random keyboard characters)",
     "role_if_found": null,
-    "notes": "The name 'wdefrgt' is a random string of characters with no vowels \u2014 consistent with keyboard mashing or bot-generated input. No real individual by this name could be found. The email 'aspencer066@20030310.com' also shows signs of being auto-generated (random number suffix on a disposable domain).",
+    "notes": "The name 'wdefrgt' is a nonsensical string of keyboard characters, not a real person's name. The email 'aspencer066@20030310.com' also follows a pattern consistent with a fake/spam signup. No individual matching this name or email could be found via web search. The surname fragment 'aspencer' in the email local part does not surface any identifiable individual associated with this domain.",
     "source_urls": []
   },
   "could_not_find": [
-    "No real company or website found for domain '20030310.com'.",
-    "No real person found matching 'wdefrgt'.",
-    "Organization name 'srdgftg' returned no matching business entity \u2014 appears to be gibberish/keyboard mash.",
-    "Email domain '20030310.com' appears to be a fake or disposable domain with no legitimate business presence.",
-    "All four inputs (first_name, email, org_name, email_domain) show strong indicators of being fake, bot-generated, or spam signup data. This signup should be flagged for review."
+    "No real company or website exists at 20030310.com \u2014 the domain does not correspond to any identifiable business.",
+    "The org name 'srdgftg' is a random keyboard string with no findable meaning or associated organization.",
+    "The first name 'wdefrgt' is a random keyboard string \u2014 not a real person's name.",
+    "No individual named 'aspencer' associated with this domain or org could be found.",
+    "This signup has all hallmarks of a fake/bot/spam submission: gibberish name, gibberish org name, numeric-string domain that is not a real company, and a sequentially numbered email local part (aspencer066)."
   ]
 }
