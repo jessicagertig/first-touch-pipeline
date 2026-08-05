@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://web-library.net",
-    "what_they_do": "web-library.net is a free public email service provider. It offers email addresses to the general public, positioning itself as a legitimate (non-throwaway) email service. Its stated primary goal is spam prevention and maintaining a safe/secure environment. It explicitly prohibits illegal activities and does not support outbound messaging to the internet.",
-    "raw_notes": "Self-described public email service. Claims to NOT be a throwaway/disposable email service and asks not to be blocklisted. However, the domain is commonly associated with temporary or anonymous email use in practice. No named business entity, no product, no team, no pricing, no company history mentioned. Abuse reporting handled via a ticket system. No indication of a real commercial organization behind it.",
+    "what_they_do": "web-library.net is a public email/mailbox service \u2014 it provides free email addresses to end users. It explicitly states it is not a 'throwaway' email service and prohibits illegal activity, but its core function is to supply disposable-style or shared public email addresses to anyone who signs up, with no apparent affiliation to any real business or product company.",
+    "raw_notes": "Homepage text is entirely about the email service itself: anti-spam policy, no outbound internet messaging, abuse reporting via ticket system, request not to be blocklisted. There is no product, SaaS, agency, or commercial offering described. The domain functions as a free/public inbox provider. No 'About', 'Team', 'Pricing', or product pages were referenced in the supplied content.",
     "source_urls": [
       "https://web-library.net"
     ]
@@ -10,15 +10,14 @@
   "individual": {
     "name": "Bob",
     "role_if_found": null,
-    "notes": "Only first name 'Bob' is known. Email address is polyb10261008@web-library.net \u2014 a free public email address with a randomized-looking username pattern (polyb + numeric string), not a corporate or professional domain. No role, company affiliation, LinkedIn, or any other identifying information found. 'BobSecTestCo' as org_name is almost certainly a fabricated/test entry, not a real organization.",
+    "notes": "Only a first name ('Bob') is available. The email address (polyb10261008@web-library.net) is a randomly formatted address on a public email service, not a corporate domain. No role, title, LinkedIn profile, or professional identity can be inferred. 'BobSecTestCo' as org_name has the hallmarks of a test/fake company name (contains 'Test' literally). No individual identity is verifiable.",
     "source_urls": []
   },
   "could_not_find": [
-    "No real company behind 'BobSecTestCo' \u2014 name pattern strongly suggests a test or fake signup.",
-    "No professional or personal identity information found for 'Bob' beyond the first name.",
-    "web-library.net has no named owner, team, about page, or business entity disclosed.",
-    "The email address uses a free public email provider with a randomized username \u2014 not a professional or organizational email.",
-    "No legitimate prospect company to research; org_name does not correspond to any findable real business.",
-    "High likelihood this is a spam, bot, or test signup rather than a genuine prospect."
+    "No real company found \u2014 'BobSecTestCo' does not appear to be a real organization; the name contains 'Test', strongly suggesting a test or throwaway signup.",
+    "The email domain (web-library.net) is a public/shared email provider, not a company domain \u2014 the recipient has no verifiable professional or organizational affiliation.",
+    "No individual identity, role, LinkedIn, or any professional presence found for 'Bob' at this domain.",
+    "No product, service, or business mission exists to research \u2014 web-library.net describes only its own email service operations.",
+    "Overall: this signup has multiple strong signals of being a test, bot, or throwaway registration (generic first name only, public inbox domain, org name with 'Test' in it, randomly generated-looking local-part of email). No genuine outreach research is possible."
   ]
 }
