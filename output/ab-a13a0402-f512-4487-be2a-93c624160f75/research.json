@@ -2,7 +2,7 @@
   "company": {
     "website": null,
     "what_they_do": null,
-    "raw_notes": "barumart.com is NOT a real business domain. It is a well-documented disposable/temporary email provider operated under temp-mail.org. It generates throwaway email addresses used for anonymous registrations and bypassing sign-up restrictions. It has a HIGH risk score of 91/100 across multiple email verification services. There is no company website, no product, no business entity associated with barumart.com. The org_name provided ('ab') is also a placeholder/nonsense value.",
+    "raw_notes": "barumart.com is not a real company domain. It is a well-documented disposable/temporary email provider operated by temp-mail.org. It has a HIGH risk score of 91/100 across multiple email verification services. No legitimate business website exists at barumart.com \u2014 there are no A records found for the domain. The org_name provided ('ab') is also a placeholder/non-real value. The email address 'wekaces726@barumart.com' follows the pattern of auto-generated throwaway addresses.",
     "source_urls": [
       "https://verifymail.io/domain/barumart.com",
       "https://check-mail.org/domain/barumart.com/",
@@ -13,14 +13,14 @@
   "individual": {
     "name": "a",
     "role_if_found": null,
-    "notes": "The first name 'a' is a single-character placeholder \u2014 not a real name. No individual could be identified. The email address wekaces726@barumart.com follows a pattern typical of auto-generated throwaway addresses (random string + numbers). No LinkedIn, company profile, or any other personal data found or searchable.",
+    "notes": "The first name 'a' is clearly not a real name \u2014 it is a single-character placeholder. No individual could be identified. The email 'wekaces726@barumart.com' appears auto-generated. No LinkedIn, company page, or any other source yields a real person associated with this signup.",
     "source_urls": []
   },
   "could_not_find": [
     "No real company exists behind barumart.com \u2014 it is a disposable email domain operated by temp-mail.org, not a business.",
-    "No real individual identified \u2014 first_name 'a' and email username 'wekaces726' are both placeholder/auto-generated values.",
-    "org_name 'ab' is a placeholder with no associated real organization.",
-    "No website, product, service, founding story, or any legitimate business signal found.",
-    "HIGH RISK FLAG: All signals (disposable domain, single-char name, nonsense org name, random email username) indicate this is a fake/bot signup and should be blocked or flagged for review."
+    "No real individual identified \u2014 first_name 'a' and org_name 'ab' are both single/double-character placeholders strongly indicating a fake or bot signup.",
+    "No company website, product, or service to research.",
+    "No role, LinkedIn profile, or any personal information findable for the recipient.",
+    "SIGNAL: This signup has strong indicators of being fraudulent/bot-generated: disposable email domain (risk score 91/100), nonsensical first name ('a'), nonsensical org name ('ab'), and a randomly generated-looking email local-part ('wekaces726'). Recommend blocking or flagging for review."
   ]
 }

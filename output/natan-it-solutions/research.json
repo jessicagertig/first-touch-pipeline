@@ -1,8 +1,17 @@
 {
   "company": {
     "website": "https://natanitsolutions.com",
-    "what_they_do": "Unknown. The website is a freshly installed WordPress site with no real content \u2014 only the default 'Hello world!' placeholder post and generic Lorem Ipsum / placeholder text. The only signal is a section heading that reads 'What We're Offering \u2014 Dealing in all Professional IT Services', suggesting an intent to position as an IT services company, but no specific services, products, clients, or differentiators are described anywhere on the site.",
-    "raw_notes": "Site is a default WordPress install. No About page, no Services page, no team page, no case studies, no client logos, no real copy. Section headings present: 'What We're Offering', 'Dealing in all Professional IT Services', 'What's Happening \u2014 Latest News & Articles from the Posts'. All body copy is Lorem Ipsum or WordPress default placeholder text. No social links, no phone, no address visible in scraped content. Brand name 'Natan IT Solutions' appears in the footer area. Site is almost certainly brand-new and unlaunched.",
+    "what_they_do": "Unknown \u2014 the website is a brand-new, unconfigured WordPress installation with no real content. The homepage contains only the default WordPress placeholder post ('Hello world! Welcome to WordPress. This is your first post.'), a generic 'What We're Offering \u2014 Dealing in all Professional IT Services' section heading, and lorem-ipsum filler text. No actual services, products, team, clients, or business description are published.",
+    "raw_notes": [
+      "Domain: natanitsolutions.com",
+      "Site platform: WordPress (freshly installed, default theme)",
+      "Only real text on the page: company name 'Natan IT Solutions', tagline 'What We're Offering \u2014 Dealing in all Professional IT Services', and the default WP placeholder post",
+      "All body copy is lorem ipsum / filler \u2014 not real company content",
+      "No About page, no Services page, no team page, no location, no contact details visible in the scraped content",
+      "Site appears to have been set up very recently and not yet customized",
+      "Web searches for 'natanitsolutions.com' and 'Natan IT Solutions' returned no matching results \u2014 no news, no directories, no social profiles tied to this exact domain/company",
+      "The email address used is hr@natanitsolutions.com, suggesting HR function or HR staff signed up"
+    ],
     "source_urls": [
       "https://natanitsolutions.com"
     ]
@@ -10,16 +19,15 @@
   "individual": {
     "name": "Natan",
     "role_if_found": null,
-    "notes": "First name only provided. Email is hr@natanitsolutions.com, suggesting either an HR function/role or simply the email alias chosen at setup. No individual profile, LinkedIn, bio, or role information found on the website (no team/about page exists). Could be a founder, HR lead, or admin \u2014 cannot confirm from available sources.",
+    "notes": "Only a first name ('Natan') is known. The signup email is hr@natanitsolutions.com, which is an HR-role address rather than a personal address \u2014 the individual is likely in an HR, recruitment, or people-ops capacity, but this is inferred from the email prefix only. No LinkedIn profile, bio, or any other publicly findable information could be matched to this specific person at this specific company.",
     "source_urls": []
   },
   "could_not_find": [
-    "No description of actual services offered \u2014 site uses only placeholder text.",
-    "No founding story, team page, or about page.",
-    "No information on company size, location, or target market.",
-    "No last name or role/title for the individual 'Natan'.",
-    "No social media profiles or external mentions found to supplement homepage gap.",
-    "Cannot determine if the company is operational or pre-launch.",
-    "The hr@ email prefix is ambiguous \u2014 could indicate HR role or simply a chosen alias."
+    "Any real description of what Natan IT Solutions actually does \u2014 site is an unconfigured WordPress default",
+    "Company location, founding date, size, or industry vertical",
+    "Any named individuals, founders, or leadership",
+    "The individual recipient's last name, job title, or any public profile",
+    "Any third-party mentions, news, or directory listings for natanitsolutions.com specifically",
+    "Whether the company is newly founded or just has a new website"
   ]
 }
