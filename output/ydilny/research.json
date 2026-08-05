@@ -1,8 +1,8 @@
 {
   "company": {
-    "website": null,
-    "what_they_do": null,
-    "raw_notes": "The email domain 'ayable.com' does not resolve to any live company website. The domain appears to be listed for sale on a domain marketplace (brandpa.com), where it is described as first registered in May 2021 and currently available for purchase \u2014 not operated by any identifiable business. No company named 'Ydilny' (the org_name provided at signup) could be found in any public source: no website, no business registry, no news, no Crunchbase/LinkedIn presence. 'Ydilny' does not correspond to any known company. The GitHub account 'ayable' exists (ayable.github.io) with a handful of basic public repos (HTML pages, Ruby microposts), but this appears to be an individual developer's personal learning account, not a company. The email address itself uses a disposable/random-looking local part ('rimib58944'), which is a common pattern for temporary or throwaway email addresses.",
+    "website": "ayable.com",
+    "what_they_do": "Cannot be determined. No real company operating at ayable.com was found.",
+    "raw_notes": "The domain ayable.com is listed for sale on a domain marketplace (brandpa.com), meaning it does not currently host an active company website. There is no discoverable business, product, or service operating under this domain. A GitHub account named 'ayable' exists with 7 public repositories (mostly basic HTML/Ruby learning exercises with no organizational affiliation), but shows no connection to a real company. The email address pattern 'rimib58944@ayable.com' \u2014 a random alphanumeric string before a domain that is listed as for-sale \u2014 is consistent with a disposable/throwaway email address. The org name 'Ydilny' returns zero results for any real company, organization, or brand. It does not appear to be a registered business name, product name, or publicly known entity in any search results.",
     "source_urls": [
       "https://brandpa.com/names/ayable",
       "https://github.com/ayable"
@@ -11,15 +11,15 @@
   "individual": {
     "name": "Slava",
     "role_if_found": null,
-    "notes": "No individual named 'Slava' could be found in connection with 'ayable.com' or 'Ydilny'. 'Slava' is a common Slavic given name (nickname for names like Vyacheslav, Stanislav, Yaroslav, etc.), so no meaningful identification is possible from the name alone. No LinkedIn profile, company page, or any other public record links this person to these organizations.",
+    "notes": "No individual named 'Slava' could be linked to ayable.com or Ydilny. 'Slava' is a common Slavic given name. No professional profile, LinkedIn, or any other source connecting a person named Slava to this domain or org name was found.",
     "source_urls": []
   },
   "could_not_find": [
-    "No live website or business found at ayable.com \u2014 domain appears to be for sale, not operated by a business.",
-    "No company named 'Ydilny' found in any public database, registry, news source, or directory.",
-    "No individual 'Slava' found associated with ayable.com or Ydilny.",
-    "The email local part ('rimib58944') is random/disposable-looking \u2014 possible throwaway or bot signup.",
-    "No role, title, or professional profile found for the recipient.",
-    "Cannot determine what product/service the supposed organization offers."
+    "No active company or website at ayable.com \u2014 domain is listed for sale on a domain marketplace.",
+    "No company, product, or organization named 'Ydilny' found anywhere online.",
+    "No individual named 'Slava' could be linked to ayable.com or Ydilny.",
+    "Email address 'rimib58944@ayable.com' has the hallmarks of a disposable/throwaway email (random alphanumeric local part + a domain with no active mail/company infrastructure).",
+    "No role, title, or professional background for the recipient could be found.",
+    "HIGH RISK FLAG: This signup shows multiple indicators of a fake or low-quality signup \u2014 disposable-style email address, domain listed for sale, and an org name with zero web presence. Recommend treating with caution before investing outreach effort."
   ]
 }
