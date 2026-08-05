@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://web-library.net",
-    "what_they_do": "web-library.net is a public email service provider. It offers free email addresses to users, positioning itself as a legitimate (non-throwaway) public email platform. It emphasizes spam prevention, prohibits illegal activity, and asks platform operators not to block its domain, noting that emails sent from it will not bounce.",
-    "raw_notes": "Self-described as a 'public email service'. Key claims: (1) primary goal is spam prevention and safe environment; (2) prohibits illegal activities; (3) does not allow sending messages to the internet; (4) explicitly states it is NOT a throwaway/disposable email service; (5) requests its domain not be blocked; (6) emails will not bounce; (7) recommends banning problematic users by IP rather than domain; (8) has an abuse reporting ticket system. The org_name 'BobSecTestCo' does not correspond to any real company \u2014 it reads as a test/fake organization name. The email username 'polyb10261008' is a random-looking alphanumeric string with no identifiable personal meaning. Taken together: this signup pattern (public/free email domain, fake org name, random username) is strongly consistent with a throwaway or test signup, not a genuine business prospect.",
+    "what_they_do": "web-library.net is a public email/inbox service \u2014 not a business or product company. It provides free email addresses to the public, positioning itself as a legitimate (non-throwaway) public email provider. It explicitly prohibits illegal activities and does not allow outbound sending to the internet. It requests that its domain not be blocklisted and directs abuse reports through a ticket system.",
+    "raw_notes": "Homepage copy confirms this is a public shared email service, not a real business organization. The domain is used by anyone to create free email addresses. The 'org_name' field ('BobSecTestCo') appears to be a fabricated/test organization name, not a real company. There is no product, service, team, or mission associated with a legitimate business. The email address pattern (polyb10261008@web-library.net) is consistent with a randomly generated or disposable-style address on a shared public email domain.",
     "source_urls": [
       "https://web-library.net"
     ]
@@ -10,15 +10,14 @@
   "individual": {
     "name": "Bob",
     "role_if_found": null,
-    "notes": "Only a first name ('Bob') is available. No last name, job title, LinkedIn profile, or any other identifying information is present. The email username 'polyb10261008' does not map to a real person's name or identity. No individual could be found via the provided inputs.",
+    "notes": "No individual named 'Bob' could be identified or verified. The email address (polyb10261008@web-library.net) is on a public shared email domain and carries no verified identity signal. The org name 'BobSecTestCo' is almost certainly a fabricated test entry, not a real organization with a real employee named Bob.",
     "source_urls": []
   },
   "could_not_find": [
-    "No real company behind 'BobSecTestCo' \u2014 org name appears to be fabricated or a test entry.",
-    "No individual identity for 'Bob' \u2014 no last name, role, or professional profile findable.",
-    "web-library.net is a free public email provider, not a business domain \u2014 cannot infer employer, industry, or use case from the email domain.",
-    "Email username ('polyb10261008') is a random alphanumeric string with no linkable identity.",
-    "No news, funding, product, or company context exists for 'BobSecTestCo'.",
-    "Overall: this signup lacks the signals of a genuine business prospect. It is consistent with a test signup, a disposable-email-style registration, or a bad-faith entry."
+    "No real company exists behind this signup \u2014 'BobSecTestCo' appears to be a fabricated/test organization name.",
+    "No real individual identity found \u2014 'Bob' is a first name only with no verifiable role, title, LinkedIn, or company affiliation.",
+    "The email domain (web-library.net) is a public shared email service, not a corporate or personal domain, providing zero identity or company signal.",
+    "The email address pattern suggests it may be auto-generated or used for testing/spam purposes.",
+    "This signup has the hallmarks of a low-quality or synthetic registration: public/shared email domain, generic first name only, nonsensical org name with 'Test' in it."
   ]
 }

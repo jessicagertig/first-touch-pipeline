@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "ayable.com",
-    "what_they_do": "Unknown. No active business website was found at ayable.com. The domain appears to have been listed for sale on a domain marketplace (brandpa.com), suggesting it is either unbuilt, parked, or very new with no public web presence.",
-    "raw_notes": "A search for ayable.com returns a domain-for-sale listing on brandpa.com, indicating no live company website is publicly indexed. A GitHub account under the handle 'ayable' exists with 7 repositories (mostly beginner/tutorial projects like microposts and a monolist clone), suggesting a personal developer account rather than a corporate presence. No company named 'Ydilny' was found anywhere \u2014 no website, no LinkedIn, no business registry, no press, no crunchbase listing. The org_name 'Ydilny' does not match any known company. The email address uses a disposable/throwaway-style pattern (random string: rimib58944@ayable.com), which is a strong signal of a low-quality or fake signup.",
+    "what_they_do": "Cannot be determined. The domain ayable.com has no active business website. It is currently listed for sale on a domain marketplace (brandpa.com). No real company operating under this domain could be found.",
+    "raw_notes": "ayable.com appears on brandpa.com as a domain for sale, first registered May 2021. There is no live company website, no product, no about page, and no business presence resolvable at this domain. A GitHub account ('ayable') exists with 7 public repositories (mostly student/tutorial-level Ruby and HTML projects \u2014 appears to be an individual developer's learning profile, not a business). No startup, company, or organisation named 'ayable' or operating at ayable.com was found in any business directory, news source, or company registry. The org_name 'Ydilny' returned zero results for any real company. Both 'Ydilny' and 'ayable.com' show all the hallmarks of a throwaway/fake signup: randomly-constructed org name, disposable-looking email address (rimib58944@ayable.com follows a random-string pattern), and a domain that is either parked or for sale.",
     "source_urls": [
       "https://brandpa.com/names/ayable",
       "https://github.com/ayable"
@@ -11,14 +11,15 @@
   "individual": {
     "name": "Slava",
     "role_if_found": null,
-    "notes": "No individual named 'Slava' could be tied to ayable.com or Ydilny. 'Slava' is a common Slavic given name (short form of names like Vyacheslav, Stanislav, Yaroslav, etc.). No LinkedIn profile, company bio, or any other first-party source connects a 'Slava' to either the email domain or the org name. Identity cannot be verified.",
+    "notes": "No individual named 'Slava' connected to ayable.com or 'Ydilny' could be found through web search. 'Slava' is a common Slavic given name (nickname for names like Vyacheslav, Stanislav, Yaroslav, etc.) but no specific person matching this signup was identified. No LinkedIn profile, company bio, or other professional presence surfaced.",
     "source_urls": []
   },
   "could_not_find": [
-    "No live or verifiable company website found at ayable.com \u2014 domain appears parked/for-sale.",
-    "No company named 'Ydilny' found anywhere (no website, no business registry, no LinkedIn, no Crunchbase).",
-    "No individual 'Slava' linkable to ayable.com or Ydilny.",
-    "Email address follows a random-string pattern (rimib58944@ayable.com), consistent with a disposable or auto-generated address rather than a real business email.",
-    "Overall signup signals are low-quality: unrecognized org name, parked/unknown domain, randomized email local-part, and no corroborating web presence for any of the inputs."
+    "No live company website at ayable.com \u2014 domain is listed for sale on a domain marketplace.",
+    "No real business, product, or service associated with 'ayable.com' or 'Ydilny' found anywhere.",
+    "Org name 'Ydilny' returns zero legitimate business results \u2014 appears to be a randomly generated or fictitious name.",
+    "Email address 'rimib58944@ayable.com' follows a random-string pattern strongly suggestive of a disposable/fake address.",
+    "No individual named 'Slava' linkable to this company or domain.",
+    "HIGH FRAUD/FAKE SIGNUP SIGNAL: combination of parked/for-sale domain, random-string email prefix, and nonsense org name is a strong indicator this is not a genuine signup."
   ]
 }
