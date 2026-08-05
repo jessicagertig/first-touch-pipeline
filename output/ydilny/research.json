@@ -1,25 +1,25 @@
 {
   "company": {
-    "website": null,
-    "what_they_do": "Unknown. No company named 'Ydilny' could be found via web search. The name does not correspond to any identifiable real business, brand, or organization.",
-    "raw_notes": "The org_name 'Ydilny' returns zero relevant results. It does not match any known company, startup, nonprofit, or brand. It appears to be a fabricated or randomly generated string. The email domain 'ayable.com' is listed for sale as an unregistered/parked domain on a domain marketplace (BrandPA), with no active website or business behind it. The domain was first registered in May 2021 per BrandPA listing. There is a GitHub account under the handle 'ayable' with 7 public repositories, but these appear to be personal/student-level coding projects (Ruby, HTML) with no commercial footprint. There is no ayable.com company website, no product, no services page. The email address itself \u2014 rimib58944@ayable.com \u2014 has the hallmarks of a disposable/temporary email address: random alphanumeric local-part ('rimib58944'), domain with no active business, and domain listed for sale. This pattern is consistent with a throwaway/fake signup email.",
+    "website": "ayable.com",
+    "what_they_do": "No real company found at ayable.com. The domain appears on disposable/temporary email domain lists associated with temp-mail.org. A third-party domain marketplace (brandpa.com) lists ayable.com as a domain for sale, with no active business behind it.",
+    "raw_notes": "1. brandpa.com lists ayable.com as a domain name FOR SALE \u2014 no real business operates from it. 2. ayable.com appears explicitly in the UserCheck.com list of disposable email domains associated with temp-mail.org, alongside other known throwaway domains (rykermi.com, mfeva.com, kedaiqq.com, missfuli.com, aghism.com). 3. The email address format 'rimib58944@ayable.com' \u2014 with a random-looking alphanumeric local part \u2014 is consistent with auto-generated disposable/throwaway email addresses. 4. No homepage, about page, product/service page, LinkedIn company page, Crunchbase entry, or any other first-party source for a real business called 'Ydilny' or operating at ayable.com was found.",
     "source_urls": [
       "https://brandpa.com/names/ayable",
-      "https://github.com/ayable"
+      "https://www.usercheck.com/provider/temp-mail.org"
     ]
   },
   "individual": {
     "name": "Slava",
     "role_if_found": null,
-    "notes": "'Slava' is a common given name in Slavic countries (shortform of names like Vyacheslav, Yaroslav, Stanislav, etc.). No individual named 'Slava' could be linked to ayable.com or Ydilny through any public source. No LinkedIn profile, company bio, or any other first-party record was found for this person.",
+    "notes": "'Slava' is a common given name in Slavic countries (often a nickname for Vyacheslav, Stanislav, Yaroslav, etc.). No individual named 'Slava' could be identified in connection with 'Ydilny' or ayable.com. The org_name 'Ydilny' returned zero matches in web searches \u2014 it does not appear to be a real registered or publicly known company.",
     "source_urls": []
   },
   "could_not_find": [
-    "No real company named 'Ydilny' found anywhere \u2014 appears to be a fabricated/randomly generated org name.",
-    "ayable.com has no active website; the domain is listed for sale on a domain marketplace (BrandPA) and has no business presence behind it.",
-    "The email address rimib58944@ayable.com has strong indicators of being a disposable/fake/throwaway email address: random numeric-string local-part, domain with no active MX or business use, domain listed for sale.",
-    "No individual named 'Slava' could be connected to either 'Ydilny' or 'ayable.com' via any public source.",
-    "No role, LinkedIn, website bio, or any other identifying information found for the individual recipient.",
-    "Overall assessment: This signup shows multiple strong fraud/fake-signup signals \u2014 disposable-style email domain, randomly generated email local-part, and a nonsensical org name. Treat with high suspicion."
+    "No real company website or business exists at ayable.com \u2014 domain is listed for sale.",
+    "ayable.com is a confirmed disposable/temporary email domain associated with temp-mail.org; the email address is almost certainly a throwaway and not a genuine business email.",
+    "The org_name 'Ydilny' returns zero results \u2014 no registered business, website, LinkedIn page, Crunchbase entry, or any other public record found.",
+    "No individual named 'Slava' could be linked to 'Ydilny' or ayable.com.",
+    "No role, title, or personal background information is available for the recipient.",
+    "This signup exhibits strong signals of a fake/bot signup: disposable email domain, randomised email local-part ('rimib58944'), and an unresolvable org name."
   ]
 }
