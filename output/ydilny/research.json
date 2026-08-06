@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "ayable.com",
-    "what_they_do": "Unknown. No live company website was found at ayable.com. The domain appears to be listed for sale on a domain marketplace (brandpa.com), suggesting it is either parked, not yet launched, or the company operates without a public web presence under this domain.",
-    "raw_notes": "A domain marketplace listing (brandpa.com) shows ayable.com is currently for sale, first registered in May 2021. No active business website, product pages, or 'About' content were found at ayable.com. A GitHub account named 'ayable' exists with 7 public repositories (mostly learning/tutorial projects: Ruby microposts, a monolist fork from techacademy-jp, an HTML page), but nothing indicating a commercial company. No press coverage, LinkedIn company page, Crunchbase entry, or other third-party business profile was found for 'ayable.com' as a company.",
+    "what_they_do": "Cannot be determined. No active company website found at ayable.com. The domain appears to be listed for sale on a domain marketplace (brandpa.com), with no content, products, or services associated with it.",
+    "raw_notes": "Search results for ayable.com return only a domain-for-sale listing on brandpa.com, noting the domain was first registered in May 2021. There is no homepage, about page, product page, or any business operating under this domain. A GitHub account named 'ayable' exists with 7 low-activity personal/tutorial repositories (Ruby, HTML micropost apps), but there is no connection to a company. No LinkedIn, Crunchbase, or news mentions of any business called 'Ayable' operating at ayable.com.",
     "source_urls": [
       "https://brandpa.com/names/ayable",
       "https://github.com/ayable"
@@ -11,15 +11,14 @@
   "individual": {
     "name": "Slava",
     "role_if_found": null,
-    "notes": "No individual named 'Slava' could be found in connection with ayable.com or the org name 'Ydilny'. 'Slava' is a common Slavic given name (used in Russia, Ukraine, and other Slavic countries), often a nickname for longer names such as Vyacheslav or Stanislav. No professional profile, LinkedIn page, or other public record linking this specific person to ayable.com or Ydilny was found.",
+    "notes": "'Slava' is a common Slavic given name (masculine or feminine), not uniquely identifying any individual. No person named 'Slava' could be found associated with ayable.com or 'Ydilny' in any public source. No LinkedIn profile, company bio, or any other public record links this first name to the email domain or org name provided.",
     "source_urls": []
   },
   "could_not_find": [
-    "No live, active company website at ayable.com \u2014 domain appears to be for sale or parked.",
-    "No information whatsoever about 'Ydilny' as a company, product, or brand \u2014 zero search results. It may be a misspelling, an internal project name, or a fictitious/test entry.",
-    "No identity or professional profile found for the individual 'Slava' tied to this domain or org name.",
-    "No role, title, or team information for the signee.",
-    "Cannot verify whether ayable.com is the correct domain for any real operating business.",
-    "The email address (rimib58944@ayable.com) uses a pattern (random string + number) that is atypical for a professional/business email, raising a flag that this may be a disposable or auto-generated address."
+    "No active website or business found at ayable.com \u2014 domain appears to be parked/for sale.",
+    "No organization named 'Ydilny' found anywhere in public records, web searches, business directories, or news sources. The name does not match any known company.",
+    "No individual named 'Slava' could be linked to ayable.com or Ydilny.",
+    "The email address (rimib58944@ayable.com) has a random-string local part, which is a common pattern for disposable or auto-generated email addresses.",
+    "HIGH FRAUD SIGNAL: Combination of parked/for-sale domain, entirely unresolvable org name ('Ydilny'), random-string email prefix, and unidentifiable individual strongly suggests this is a fake, bot, or spam signup rather than a legitimate business user."
   ]
 }
