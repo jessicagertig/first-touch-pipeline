@@ -1,0 +1,57 @@
+{
+  "company": {
+    "website": "https://stackone.com",
+    "what_they_do": "StackOne is an AI Agent Integration Platform. It provides developers and AI teams with pre-built connectors (450+, 28,000+ actions) to connect AI agents to enterprise SaaS systems (HRIS, ATS, CRM, LMS, IAM, etc.). The platform handles authentication (OAuth, SAML, API keys), permission scoping, prompt injection defense, audit logging, tool discovery, and token optimization \u2014 so that AI agents can reliably execute real-world workflows across enterprise apps without teams needing to build or maintain integrations themselves. It connects to AI clients and frameworks including Claude, Microsoft Copilot, Gemini, ChatGPT, and Glean via MCP, A2A, or REST API. The platform also includes a custom AI Integration Builder (using a 'Falcon' execution engine) that can generate production-ready connectors from a prompt. Key pillars marketed as Connect, Secure, and Optimize.",
+    "raw_notes": [
+      "450+ pre-built connectors, 28,000+ actions, 100k+ evals using real agent prompts to guarantee quality",
+      "Handles auth: OAuth, SAML, API keys, scopes \u2014 all in a single interface",
+      "Custom connector/action builder: build for any API in minutes",
+      "Connects via MCP, A2A, or REST API to Claude, Microsoft Copilot, Gemini, ChatGPT, Glean, and more",
+      "Trigger agentic workflows on any app event \u2014 filtered, enriched, trimmed; no polling",
+      "Prompt Injection Guard: claims 89% catch rate on malicious tool responses",
+      "Per-user tool scoping, field customization, access grants \u2014 governance layer",
+      "Full observability: request tracing, audit logs, real-time monitoring",
+      "Runs in any region (AWS, GCP, Azure); cloud-based or self-hosted; no customer data stored by default",
+      "Token optimization: cuts token usage by up to 80% via tool discovery (surfaces only relevant tools)",
+      "S1 Search Bench: 91.6% first-try accuracy on agentic semantic tool search",
+      "Falcon execution engine: self-improving, optimized for agentic tool calling",
+      "AI Integration Builder: researches provider APIs, generates production-ready configs, tests against real APIs from your coding assistant",
+      "Free tier: Gateway Starter includes 1,000 credits/seat/month + all 400+ pre-built connectors",
+      "Paid tiers: Team (AI Connector Builder, A2A, Defender Premium, SAML SSO), Enterprise (custom credits, audit logs with SIEM export, on-prem), OEM Core (embed in own product)",
+      "Founded 2023 by Romain Sestier (CEO) and Guillaume Lebedel (CTO), both ex-Google/Oracle/Yieldify",
+      "Raised $24M total: $3.6M seed (Episode 1 Ventures, Playfair, Portfolio Ventures) + $20M Series A led by GV (Google Ventures); also Workday Ventures, XTX Ventures, angels from OpenAI, DeepMind, Microsoft, MuleSoft",
+      "Incorporated in England and Wales; team distributed across Europe and US",
+      "Headcount estimated ~57 employees (RocketReach) or 11\u201350 range (other sources)",
+      "Named customers/case studies include: Drata (compliance automation), Kinfolk (AI for People Ops), Introist (HR automation)",
+      "Use cases highlighted: invoice processing, post-demo follow-up, SLA breach prediction/escalation, employee onboarding, job posting distribution",
+      "Competitors cited: Paragon, Cloud Elements, Composio",
+      "Blog post 'Bring AI Agents to Work with StackOne' (Aug 2025) describes internal dogfooding of MCP-powered platform called 'Disco'",
+      "org_name at signup was 'stackone-test' \u2014 suggests internal/testing account, likely an employee"
+    ],
+    "source_urls": [
+      "https://stackone.com",
+      "https://www.stackone.com/company/",
+      "https://www.stackone.com/platform/ai-integration-builder/",
+      "https://www.stackone.com/press-releases/stackone-raises-20m-series-a-led-by-gv-google-ventures-to-reinvent-saas-and-ai-agent-integrations",
+      "https://www.gv.com/news/stackone-the-next-generation-integration-layer",
+      "https://docs.stackone.com/",
+      "https://www.stackone.com/blog/bring-ai-agents-to-work-with-stackone/",
+      "https://tracxn.com/d/companies/stackone/__DXgd0IfW675l0t6uT8vRvfv5d2pDwrWDZTxOf2sNdEg"
+    ]
+  },
+  "individual": {
+    "name": "Pravin",
+    "role_if_found": null,
+    "notes": "No public profile found for a 'Pravin' at StackOne. The email domain is stackone.com, and the org_name 'stackone-test' strongly suggests this is an internal employee testing the platform rather than an external prospect. Known named team members from public sources are: Romain Sestier (Co-founder & CEO), Guillaume Lebedel (Co-founder & CTO), John Knudsen (VP of Sales), and Tomas Moschides (Product Manager). 'Pravin' does not appear in any public team listing or press coverage found.",
+    "source_urls": [
+      "https://rocketreach.co/stackone-management_b79a6a26c57c3f0c",
+      "https://tracxn.com/d/companies/stackone/__DXgd0IfW675l0t6uT8vRvfv5d2pDwrWDZTxOf2sNdEg"
+    ]
+  },
+  "could_not_find": [
+    "Pravin's specific role, title, or seniority at StackOne \u2014 no public profile found",
+    "Whether Pravin is a founder, engineer, product, sales, or other function",
+    "Exact headcount / team size (sources vary: 57 per RocketReach, 11\u201350 per other sources)",
+    "NOTE: org_name 'stackone-test' + @stackone.com email = almost certainly an internal team member testing their own product; this is not an external prospect and outreach messaging may not be applicable"
+  ]
+}

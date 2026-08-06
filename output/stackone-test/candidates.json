@@ -1,0 +1,94 @@
+{
+  "candidates": [
+    {
+      "item": "450+ connectors and 27,000+ actions \u2014 100k+ evals using real agent prompts to guarantee their quality.",
+      "why_interesting": "Most integration platforms tout connector counts; very few publish that they run 100k+ evaluations using *real agent prompts* to quality-test those connectors. This is a specific, unusual QA methodology \u2014 not just 'we have a lot of connectors' \u2014 that signals engineering rigor a competitor could credibly not claim.",
+      "level": "company",
+      "source_url": "https://www.stackone.com/",
+      "as_of_date_if_known": "2026",
+      "recency_note": "Live on homepage as of August 2026 search.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "StackOne Defender is 5% more accurate than DistilBERT while being 81\u00d7 smaller (22 MB vs 1,789 MB) and running on CPU instead of GPU.",
+      "why_interesting": "The size/performance trade-off is genuinely striking: a 22 MB model that outperforms a 1.8 GB GPU-dependent alternative is a concrete, verifiable engineering accomplishment \u2014 not just a benchmark cherry-pick. It ships inside an npm package and scans in ~4ms on CPU, making it deployable where GPU-dependent guards are not.",
+      "level": "company",
+      "source_url": "https://www.stackone.com/blog/indirect-prompt-injection-mcp-tools-defense/",
+      "as_of_date_if_known": "February 2026 evaluation data, blog published March 2026",
+      "recency_note": "Data is from Feb 2026 eval; confirmed live on product page as of June 2026.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "5.4% false positive rate vs. 49.9% for Meta Prompt Guard v1.",
+      "why_interesting": "A 50% false positive rate means an injection guard blocks half of legitimate content \u2014 essentially unusable in production. StackOne's 5.4% FPR stat is not marketing; it's a concrete reason why competing guards don't ship to production. The contrast is the hook.",
+      "level": "company",
+      "source_url": "https://www.stackone.com/platform/prompt-injection-guard/",
+      "as_of_date_if_known": "June 2026",
+      "recency_note": "Data source dated June 2026 per page footer.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Closing that gap manually meant a person reading a paper, hand-authoring attack samples, running an eval, and rebuilding the training set. The bottleneck wasn't the model; it was attention. This post is about Adaptive Defender, the system that runs that loop for us on a schedule, with optional human checkpoints along the way and a pull request at the end.",
+      "why_interesting": "StackOne built a self-updating injection classifier that monitors new attack techniques published on HuggingFace/arXiv/GitHub and autonomously retrains itself, ending with a GitHub PR. That's a genuinely novel operational pattern \u2014 a security model that evolves like software, not a static guard that ships once and drifts.",
+      "level": "company",
+      "source_url": "https://www.stackone.com/blog/closing-the-loop-self-evolving-defense/",
+      "as_of_date_if_known": "June 22, 2026",
+      "recency_note": "Published June 22, 2026 \u2014 very recent.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "The #1 agentic semantic tool search: 91.6% first-try accuracy on S1 Search Bench",
+      "why_interesting": "Tool discovery is a real, specific bottleneck in agentic AI (connecting 20 MCP servers alone consumes ~138,000 tokens in tool definitions). StackOne built and named their own benchmark (S1 Search Bench) and claims first-try accuracy of 91.6% \u2014 across tools the model was never trained on. The self-benchmarking is bold and auditable, not just a vague 'best-in-class' claim.",
+      "level": "company",
+      "source_url": "https://www.stackone.com/platform/tools-discovery/",
+      "as_of_date_if_known": "2026",
+      "recency_note": "Live on homepage and product pages as of August 2026 search.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "When you connect 20 MCP servers to an agent, tool definitions alone consume roughly 138,000 tokens.",
+      "why_interesting": "This is a sharp, counterintuitive insight that StackOne published: simply *connecting* tools can eat two-thirds of a 200K context window before the agent does any work. It's the concrete problem their Tool Discovery product solves, and it's the kind of specific engineering finding that makes a practitioner go 'huh, I hadn't calculated that.'",
+      "level": "company",
+      "source_url": "https://www.stackone.com/blog/mcp-tool-search-bm25-tfidf-hybrid/",
+      "as_of_date_if_known": "May 13, 2026",
+      "recency_note": "Published May 2026.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "With Falcon, you flag any action for approval in a single YAML config line.",
+      "why_interesting": "Human-in-the-loop for AI agents is a hard, under-solved problem. Reducing it to a single YAML config line \u2014 rather than bespoke middleware \u2014 is a specific, tangible capability claim that practitioners can immediately evaluate against their own pain.",
+      "level": "company",
+      "source_url": "https://www.stackone.com/platform/agent-execution-engine/",
+      "as_of_date_if_known": "April 2026",
+      "recency_note": "Product page confirmed live, dated April 2026.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "During the Cloudflare Connect demo, I showed an AI chat agent performing complete onboarding: retrieving applicant data from Greenhouse, identifying the latest hire, and creating new employee records in Workday \u2014 all orchestrated through ToolSet SDK. This cross-system automation would have taken days to manually coordinate but now requires minutes with agents plus tools.",
+      "why_interesting": "A concrete, named live demo (Cloudflare Connect) showing a specific multi-system workflow (Greenhouse \u2192 Workday employee onboarding) completed in minutes vs. days. Not a hypothetical \u2014 an actual public demo with a real use case that maps to a real customer pain.",
+      "level": "company",
+      "source_url": "https://www.stackone.com/blog/bring-ai-agents-to-work-with-stackone/",
+      "as_of_date_if_known": "August 2025",
+      "recency_note": "Blog dated August 19, 2025 \u2014 approximately one year old.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "From inception, StackOne used AI internally to accelerate integration-building capabilities. By developing a sophisticated RAG system that scrapes, chunks, and indexes API documentation, the internal 'StackChat' tool allows engineers to quickly query and understand various APIs. The result: building 70-90 integrations per quarter \u2014 far outpacing larger competitors.",
+      "why_interesting": "A small (~50-person) company claiming 70-90 integrations per quarter by eating their own cooking \u2014 using an internal RAG tool called StackChat to turbocharge connector-building. The specificity (tool name, quarterly pace, self-dogfooding) is distinctive; it's a credible operational claim, not a feature slide.",
+      "level": "company",
+      "source_url": "https://www.stackone.com/blog/bring-ai-agents-to-work-with-stackone/",
+      "as_of_date_if_known": "August 2025",
+      "recency_note": "Blog dated August 19, 2025 \u2014 approximately one year old. Connector count has grown since (now 450+), consistent with the pace claimed.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "If a test fails, it diagnoses the issue and fixes it in the same conversation. Each test run makes the connector better.",
+      "why_interesting": "The AI Integration Builder doesn't just generate connectors \u2014 it tests them against the *real* provider API (not mocks), self-diagnoses failures, and iterates within the same session. This closed-loop, self-correcting build process is qualitatively different from a code-gen tool that hands you a snippet.",
+      "level": "company",
+      "source_url": "https://www.stackone.com/platform/ai-integration-builder/",
+      "as_of_date_if_known": "April 2026",
+      "recency_note": "Product page confirmed live, dated April 2026.",
+      "sensitivity": "none"
+    }
+  ]
+}

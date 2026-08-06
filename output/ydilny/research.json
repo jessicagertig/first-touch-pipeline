@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "ayable.com",
-    "what_they_do": "Cannot be determined. No active company website found at ayable.com. Third-party domain marketplace (brandpa.com) lists ayable.com as a domain for sale, suggesting the domain is not currently associated with a live, operating business.",
-    "raw_notes": "ayable.com appears on brandpa.com as a domain listed for sale \u2014 no homepage, no about page, no product/service pages found. A GitHub account named 'ayable' exists with 7 public repositories (basic HTML/Ruby learning projects, no indication of a real business). An Instagram account '@ayable' also exists but is unrelated. No company named 'ayable' or operating from ayable.com is findable via web search. The domain was first registered in May 2021 per the brandpa listing.",
+    "what_they_do": "Cannot be determined. No active company website or business was found at ayable.com. A domain-for-sale listing on brandpa.com indicates the domain was first registered in May 2021 and is currently listed as available for purchase, suggesting no live company is operating under this domain.",
+    "raw_notes": "- ayable.com surfaces only on a domain-brokerage site (brandpa.com) as a domain listed for sale, with no associated real business.\n- A GitHub account under the handle 'ayable' exists (github.com/ayable) with 7 public repositories, mostly generic learning/practice projects (micropost, message-board, monolist fork from techacademy-jp). No company affiliation or product is described.\n- No corporate website, LinkedIn company page, Crunchbase entry, news coverage, or any other business presence was found for a company called 'ayable' or at the domain ayable.com.\n- The email address rimib58944@ayable.com has a randomly generated-looking local part ('rimib58944'), which is a strong signal of a disposable/temporary email address, not a real corporate email.",
     "source_urls": [
       "https://brandpa.com/names/ayable",
       "https://github.com/ayable"
@@ -11,14 +11,14 @@
   "individual": {
     "name": "Slava",
     "role_if_found": null,
-    "notes": "'Slava' is a common Slavic given name (short form of names like Vyacheslav, Stanislav, Yaroslav, etc.), but no specific individual named Slava associated with ayable.com or Ydilny could be found in any web search. No LinkedIn profile, personal website, or any other professional presence was discoverable.",
+    "notes": "'Slava' is a common given name in Slavic-speaking countries (often a nickname for names like Vyacheslav, Stanislav, Yaroslav, etc.). No individual named 'Slava' could be identified in connection with ayable.com or the org name 'Ydilny'. No LinkedIn profile, professional bio, or any other public record linking a person named Slava to these entities was found.",
     "source_urls": []
   },
   "could_not_find": [
-    "No active website or business presence found at ayable.com \u2014 domain appears listed for sale on a domain marketplace.",
-    "The org_name 'Ydilny' returns zero results across all web searches \u2014 no company, brand, or entity by this name is findable anywhere.",
-    "No individual named 'Slava' connected to ayable.com or Ydilny could be found.",
-    "No role, title, or professional profile for the recipient could be identified.",
-    "The email address uses a domain (ayable.com) that does not appear to host a live business \u2014 this combination of an unresolvable domain and a nonsense org name ('Ydilny') is a strong indicator of a fake/spam signup. Recommend flagging for review before outreach."
+    "No active company website or business entity found at ayable.com \u2014 domain appears to be for sale with no live company behind it.",
+    "No information found on 'Ydilny' as a company or organization name \u2014 zero search results; likely a nonsense/fictitious org name.",
+    "No individual named 'Slava' could be linked to ayable.com or Ydilny.",
+    "The email local part ('rimib58944') strongly resembles a randomly generated disposable/temporary email address, raising the possibility this is not a genuine signup.",
+    "No GitHub, LinkedIn, Crunchbase, news, or any other authoritative source confirms a real business behind this signup."
   ]
 }

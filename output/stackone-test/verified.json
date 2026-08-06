@@ -1,0 +1,42 @@
+[
+  {
+    "fact": "450+ connectors and 27,000+ actions \u2014 100k+ evals using real agent prompts to guarantee their quality. (Live StackOne homepage, stackone.com, August 2026; also independently confirmed via web-indexed version of the same page.)",
+    "source_url": "https://www.stackone.com/"
+  },
+  {
+    "fact": "StackOne Defender is 5% more accurate than DistilBERT while being 81\u00d7 smaller (22 MB vs 1,789 MB) and running on CPU instead of GPU. The model ships inside the npm package (@stackone/defender) and scans in ~4ms on CPU. Evaluation data sourced from Qualifire, xxz224, and Jayavibhav datasets (~89,000 samples), February 2026. Confirmed live on StackOne's product page (stackone.com/platform/prompt-injection-guard/, indexed June 4, 2026) and the canonical blog post (stackone.com/blog/indirect-prompt-injection-mcp-tools-defense/, March 12, 2026).",
+    "source_url": "https://www.stackone.com/blog/indirect-prompt-injection-mcp-tools-defense/"
+  },
+  {
+    "fact": "5.4% false positive rate vs. 49.9% for Meta Prompt Guard v1. \u2014 per StackOne's own product page (https://www.stackone.com/platform/prompt-injection-guard/), with data sourced from independent evaluation on xxz224, Jayavibhav, and InjecAgent benchmarks, updated June 2026.",
+    "source_url": "https://www.stackone.com/platform/prompt-injection-guard/"
+  },
+  {
+    "fact": "StackOne published a blog post on June 22, 2026 titled 'Closing the Loop: A Self-Evolving Defense' at https://www.stackone.com/blog/closing-the-loop-self-evolving-defense/. The post describes Adaptive Defender, a system that runs on a weekly schedule to discover new attack techniques across Hugging Face, arXiv, and GitHub; scores them against frontier models and the shipped Defender classifier; proposes corpus updates; retrains the classifier; and files a pull request on the Defender repository. The quoted passage \u2014 including 'The bottleneck wasn't the model; it was attention' and 'Adaptive Defender, the system that runs that loop for us on a schedule, with optional human checkpoints along the way and a pull request at the end' \u2014 appears verbatim in the live indexed page.",
+    "source_url": "https://www.stackone.com/blog/closing-the-loop-self-evolving-defense/"
+  },
+  {
+    "fact": "The #1 agentic semantic tool search: 91.6% first-try accuracy on S1 Search Bench \u2014 appearing verbatim as a site-wide banner across stackone.com as of August 2026, including on the dedicated Tools Discovery page (stackone.com/platform/tools-discovery/).",
+    "source_url": "https://www.stackone.com/platform/tools-discovery/"
+  },
+  {
+    "fact": "When you connect 20 MCP servers to an agent, tool definitions alone consume roughly 138,000 tokens. Each tool definition averages 150 tokens (name, description, JSON schema for inputs and outputs), and 916 tools across providers like Jira, GitHub, Salesforce, Gmail, and Slack add up to two-thirds of a 200K context window, before the agent has processed a single user query. (Source: https://www.stackone.com/blog/mcp-tool-search-bm25-tfidf-hybrid/, published May 13, 2026)",
+    "source_url": "https://www.stackone.com/blog/mcp-tool-search-bm25-tfidf-hybrid/"
+  },
+  {
+    "fact": "With Falcon, you flag any action for approval in a single YAML config line. (Source: https://www.stackone.com/platform/agent-execution-engine/, dated April 14, 2026)",
+    "source_url": "https://www.stackone.com/platform/agent-execution-engine/"
+  },
+  {
+    "fact": "During the Cloudflare Connect demo, a StackOne AI chat agent performed complete onboarding: retrieving applicant data from Greenhouse, identifying the latest hire, and creating new employee records in Workday \u2014 all orchestrated through ToolSet SDK. The demo took place at Cloudflare Connect 2025 in London on April 10, 2025. The blog post describing this is published on the live StackOne site (stackone.com/blog/bring-ai-agents-to-work-with-stackone/) dated August 19, 2025.",
+    "source_url": "https://www.stackone.com/blog/bring-ai-agents-to-work-with-stackone/"
+  },
+  {
+    "fact": "From inception, StackOne used AI internally to accelerate integration-building capabilities. By developing a sophisticated RAG system that scrapes, chunks, and indexes API documentation, the internal 'StackChat' tool allows engineers to quickly query and understand various APIs. The result: building 70-90 integrations per quarter \u2014 far outpacing larger competitors. (Source: https://www.stackone.com/blog/bring-ai-agents-to-work-with-stackone/, dated August 19, 2025; corroborated by https://www.stackone.com/blog/tools-not-rules, April 30, 2025, and https://www.stackone.com/ai-agents live page.)",
+    "source_url": "https://www.stackone.com/blog/bring-ai-agents-to-work-with-stackone/"
+  },
+  {
+    "fact": "If a test fails, it diagnoses the issue and fixes it in the same conversation. Each test run makes the connector better. (StackOne AI Integration Builder product page, https://www.stackone.com/platform/ai-integration-builder/, dated April 14, 2026)",
+    "source_url": "https://www.stackone.com/platform/ai-integration-builder/"
+  }
+]

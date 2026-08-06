@@ -1,0 +1,83 @@
+{
+  "lead_id": "stackone-test",
+  "company_name": "stackone-test",
+  "recipient_name": "Pravin Birla",
+  "email": "pravin@stackone.com",
+  "variations": [
+    {
+      "variant_n": 1,
+      "compliment": "StackOne looks like a great company - I love that you flag any action for approval in a single YAML config line, which seems like such a clean way to keep humans in the loop.",
+      "email": "Hello Pravin,\n\nThanks for checking out Polymer! StackOne looks like a great company - I love that you flag any action for approval in a single YAML config line, which seems like such a clean way to keep humans in the loop.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.stackone.com/platform/agent-execution-engine/"
+      ],
+      "score": 8,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1786001881.713609",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 2,
+      "compliment": "StackOne looks like a great company - flagging any action for approval with a single line of YAML config is such a clean, practical touch for teams working with AI agents.",
+      "email": "Hello Pravin,\n\nThanks for checking out Polymer! StackOne looks like a great company - flagging any action for approval with a single line of YAML config is such a clean, practical touch for teams working with AI agents.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.stackone.com/platform/agent-execution-engine/"
+      ],
+      "score": 9,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1786001881.996469",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 3,
+      "compliment": "StackOne looks like a really thoughtful company - the Adaptive Defender idea of running a weekly loop to hunt down new attack techniques and even file a pull request at the end is such a smart way to stay ahead of threats.",
+      "email": "Hello Pravin,\n\nThanks for checking out Polymer! StackOne looks like a really thoughtful company - the Adaptive Defender idea of running a weekly loop to hunt down new attack techniques and even file a pull request at the end is such a smart way to stay ahead of threats.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.stackone.com/blog/closing-the-loop-self-evolving-defense/"
+      ],
+      "score": 8,
+      "tells": [
+        "even file a pull request at the end is such a smart way to stay ahead of threats — the trailing clause restates the point ('smart way to stay ahead') that's already implied by the specific detail"
+      ],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1786001882.193649",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 4,
+      "compliment": "StackOne looks fascinating - I had no idea that connecting 20 MCP servers could eat up 138,000 tokens before an agent even sees a user query, so tackling that with semantic tool search seems incredibly valuable.",
+      "email": "Hello Pravin,\n\nThanks for checking out Polymer! StackOne looks fascinating - I had no idea that connecting 20 MCP servers could eat up 138,000 tokens before an agent even sees a user query, so tackling that with semantic tool search seems incredibly valuable.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.stackone.com/blog/mcp-tool-search-bm25-tfidf-hybrid/",
+        "https://www.stackone.com/platform/tools-discovery/"
+      ],
+      "score": 8,
+      "tells": [
+        "I had no idea that connecting 20 MCP servers could eat up 138,000 tokens before an agent even sees a user query, so tackling that with semantic tool search seems incredibly valuable"
+      ],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1786001882.471459",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 5,
+      "compliment": "StackOne looks like a great company - a 5.4% false positive rate versus nearly 50% for Meta's Prompt Guard v1 is seriously impressive.",
+      "email": "Hello Pravin,\n\nThanks for checking out Polymer! StackOne looks like a great company - a 5.4% false positive rate versus nearly 50% for Meta's Prompt Guard v1 is seriously impressive.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.stackone.com/platform/prompt-injection-guard/"
+      ],
+      "score": 8,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1786001882.782089",
+      "slack_channel": "C0B87Q5UEL9"
+    }
+  ]
+}
