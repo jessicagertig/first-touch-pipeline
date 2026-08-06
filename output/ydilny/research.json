@@ -1,8 +1,8 @@
 {
   "company": {
-    "website": null,
-    "what_they_do": "Unknown. No active website, business, or public presence could be found for ayable.com. The domain appears to be listed for sale on a domain marketplace (brandpa.com), suggesting it is not currently in use by an operating company. A GitHub account using the handle 'ayable' exists but contains only personal/learning-style repositories (Ruby microposts, HTML pages) with no commercial product or company affiliation evident.",
-    "raw_notes": "- ayable.com is listed for sale on brandpa.com as of the time of research; no live company website was reachable at that domain. - The domain was first registered in May 2021 per the brandpa listing. - A GitHub user 'ayable' exists with 7 public repos (workspace, ayable.github.io, message-board, micropost, microposts, monolist2 fork from techacademy-jp) \u2014 these look like personal coding practice/bootcamp projects, not a company product. - No LinkedIn company page, Crunchbase entry, news articles, or any other business-facing presence found for 'ayable.com' or a company called 'Ayable.'",
+    "website": "ayable.com",
+    "what_they_do": "Cannot be determined. No active company website found at ayable.com. Third-party domain marketplace (brandpa.com) lists ayable.com as a domain for sale, suggesting the domain is not currently associated with a live, operating business.",
+    "raw_notes": "ayable.com appears on brandpa.com as a domain listed for sale \u2014 no homepage, no about page, no product/service pages found. A GitHub account named 'ayable' exists with 7 public repositories (basic HTML/Ruby learning projects, no indication of a real business). An Instagram account '@ayable' also exists but is unrelated. No company named 'ayable' or operating from ayable.com is findable via web search. The domain was first registered in May 2021 per the brandpa listing.",
     "source_urls": [
       "https://brandpa.com/names/ayable",
       "https://github.com/ayable"
@@ -11,15 +11,14 @@
   "individual": {
     "name": "Slava",
     "role_if_found": null,
-    "notes": "No individual named 'Slava' could be found in connection with ayable.com or 'Ydilny.' 'Slava' is a common Slavic given name (short form of names like Vyacheslav, Stanislav, Yaroslav, etc.), suggesting possible Eastern European/Russian-speaking background, but no specific individual matching this signup could be identified from any public source.",
+    "notes": "'Slava' is a common Slavic given name (short form of names like Vyacheslav, Stanislav, Yaroslav, etc.), but no specific individual named Slava associated with ayable.com or Ydilny could be found in any web search. No LinkedIn profile, personal website, or any other professional presence was discoverable.",
     "source_urls": []
   },
   "could_not_find": [
-    "No active website or live presence found at ayable.com \u2014 domain appears to be for sale.",
-    "No company named 'Ydilny' found anywhere online (no website, no LinkedIn, no Crunchbase, no news coverage). 'Ydilny' does not match any known company name; it may be a misspelling, a very early-stage/stealth entity, or a fictitious/test entry.",
-    "No individual named 'Slava' linkable to ayable.com or Ydilny found in any public source.",
-    "No role, title, or professional profile for the recipient identified.",
-    "The email domain (ayable.com) and org name (Ydilny) do not match each other, raising a flag that this may be a low-quality, fake, or test signup.",
-    "Overall data quality is very low \u2014 high likelihood this is not a genuine business signup."
+    "No active website or business presence found at ayable.com \u2014 domain appears listed for sale on a domain marketplace.",
+    "The org_name 'Ydilny' returns zero results across all web searches \u2014 no company, brand, or entity by this name is findable anywhere.",
+    "No individual named 'Slava' connected to ayable.com or Ydilny could be found.",
+    "No role, title, or professional profile for the recipient could be identified.",
+    "The email address uses a domain (ayable.com) that does not appear to host a live business \u2014 this combination of an unresolvable domain and a nonsense org name ('Ydilny') is a strong indicator of a fake/spam signup. Recommend flagging for review before outreach."
   ]
 }
