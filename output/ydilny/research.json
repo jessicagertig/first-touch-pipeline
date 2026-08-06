@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "ayable.com",
-    "what_they_do": "Cannot be determined. No active company website found at ayable.com. The domain appears to be listed for sale on a domain marketplace (brandpa.com), with no content, products, or services associated with it.",
-    "raw_notes": "Search results for ayable.com return only a domain-for-sale listing on brandpa.com, noting the domain was first registered in May 2021. There is no homepage, about page, product page, or any business operating under this domain. A GitHub account named 'ayable' exists with 7 low-activity personal/tutorial repositories (Ruby, HTML micropost apps), but there is no connection to a company. No LinkedIn, Crunchbase, or news mentions of any business called 'Ayable' operating at ayable.com.",
+    "what_they_do": null,
+    "raw_notes": "ayable.com appears to be a parked / for-sale domain listed on the BrandPa domain marketplace. No live company website was found at this domain. The domain was first registered in May 2021 according to BrandPa. There is no product, service, team, or business description associated with ayable.com as an operating company. A GitHub account named 'ayable' exists with 7 mostly empty or tutorial repositories (e.g. micropost, monolist2 forked from techacademy-jp), suggesting an individual learning to code rather than a real business. The org_name 'Ydilny' returns zero results for any known company, product, or organization \u2014 it does not appear to correspond to any real entity.",
     "source_urls": [
       "https://brandpa.com/names/ayable",
       "https://github.com/ayable"
@@ -11,14 +11,15 @@
   "individual": {
     "name": "Slava",
     "role_if_found": null,
-    "notes": "'Slava' is a common Slavic given name (masculine or feminine), not uniquely identifying any individual. No person named 'Slava' could be found associated with ayable.com or 'Ydilny' in any public source. No LinkedIn profile, company bio, or any other public record links this first name to the email domain or org name provided.",
+    "notes": "'Slava' is a common Slavic given name (short form of names like Vyacheslav, Stanislav, Yaroslav, etc.), most prevalent in Russian/Eastern European contexts. No individual named 'Slava' was findable in connection with ayable.com or Ydilny. The email address (rimib58944@ayable.com) uses a random-looking alphanumeric local-part, which is a common pattern for disposable or auto-generated email addresses. No LinkedIn, personal site, news mention, or other public profile for this person was found.",
     "source_urls": []
   },
   "could_not_find": [
-    "No active website or business found at ayable.com \u2014 domain appears to be parked/for sale.",
-    "No organization named 'Ydilny' found anywhere in public records, web searches, business directories, or news sources. The name does not match any known company.",
-    "No individual named 'Slava' could be linked to ayable.com or Ydilny.",
-    "The email address (rimib58944@ayable.com) has a random-string local part, which is a common pattern for disposable or auto-generated email addresses.",
-    "HIGH FRAUD SIGNAL: Combination of parked/for-sale domain, entirely unresolvable org name ('Ydilny'), random-string email prefix, and unidentifiable individual strongly suggests this is a fake, bot, or spam signup rather than a legitimate business user."
+    "No live or archived company website at ayable.com \u2014 domain is listed for sale on BrandPa.",
+    "No company named 'Ydilny' found anywhere on the web; name appears to be fabricated or nonsensical.",
+    "No individual named 'Slava' linkable to ayable.com or Ydilny.",
+    "Email local-part 'rimib58944' follows a random/auto-generated pattern typical of disposable email addresses.",
+    "No industry, product, funding, team, or founding information available for either the domain or the org name.",
+    "HIGH SIGNAL OF FAKE/SPAM SIGNUP: parked domain + no-match org name + randomized email address all together strongly suggest this is not a genuine business signup."
   ]
 }

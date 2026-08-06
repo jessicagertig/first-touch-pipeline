@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://web-library.net",
-    "what_they_do": "web-library.net is a free public email service provider. It offers email addresses to end users, positions itself as a legitimate (non-throwaway) email service, and emphasizes anti-spam and anti-abuse policies. It does not allow outbound sending to the internet and handles abuse via a ticket system.",
-    "raw_notes": "Homepage text presents this as a public email hosting/inbox service \u2014 not a business, product company, or organization. The domain is used by members of the public to receive email. The 'org_name' field 'BobSecTestCo' does not correspond to any real company found at this domain. The signup pattern (generic first name 'Bob', numeric-heavy local-part 'polyb10261008', org name 'BobSecTestCo' with 'Test' in it, free public email domain) is strongly indicative of a test or throwaway/disposable signup, not a genuine business prospect.",
+    "what_they_do": "web-library.net is a public email service provider \u2014 it offers free email addresses to the general public, not a business product or SaaS tool. It explicitly states it is not a throwaway/disposable email service, prohibits illegal activity, and does not allow sending messages to the internet. It provides an abuse reporting ticket system.",
+    "raw_notes": "Homepage copy positions the domain as a public/shared email platform for end-users. There is no company, product, or SaaS offering here. The org_name 'BobSecTestCo' does not correspond to any real business found at this domain. The email address pattern (polyb10261008@web-library.net) is a free public mailbox, not a corporate email. The homepage explicitly asks recipients not to block the domain and to ban problematic users by IP \u2014 language directed at other email operators/spam fighters, suggesting awareness that its addresses are used in bulk registrations.",
     "source_urls": [
       "https://web-library.net"
     ]
@@ -10,14 +10,15 @@
   "individual": {
     "name": "Bob",
     "role_if_found": null,
-    "notes": "No identifiable individual named 'Bob' is associated with web-library.net as a founder, employee, or operator. The email address 'polyb10261008@web-library.net' is a user-created inbox on a public email service. 'BobSecTestCo' does not appear to be a real registered company \u2014 the name contains 'Test', suggesting this is a test/fake signup. No LinkedIn, company registry, or other professional profile could be reasonably attributed to this person.",
+    "notes": "No identifiable individual named 'Bob' is associated with this domain or org. The email address (polyb10261008@web-library.net) is a free public mailbox on a shared email platform. The org name 'BobSecTestCo' appears to be a fabricated/test company name, not a real registered or operating business. No professional profile, founder story, or role could be located.",
     "source_urls": []
   },
   "could_not_find": [
-    "No real company called 'BobSecTestCo' found \u2014 name strongly suggests a test entry, not a genuine organization.",
-    "No individual 'Bob' with a verifiable professional identity tied to this email domain or org name.",
-    "web-library.net is a free public email provider, not a business prospect \u2014 the email domain does not correspond to a company.",
-    "No founding team, leadership, or About page for any company at web-library.net.",
-    "Signup pattern (numeric local-part, 'Test' in org name, free public email domain) flags this as likely a bot, test, or throwaway signup rather than a genuine prospect."
+    "No real company behind 'BobSecTestCo' \u2014 name appears fabricated/test-generated.",
+    "No corporate website or business entity associated with the signup.",
+    "No identifiable individual 'Bob' with a verifiable role or profile.",
+    "Email domain (web-library.net) is a free public email provider, not a business domain \u2014 strong signal this is a throwaway or test signup.",
+    "No LinkedIn, Crunchbase, or other professional presence found for org or individual.",
+    "Signup exhibits multiple low-trust signals: free public email domain, numeric string in address (polyb10261008), and nonsensical org name."
   ]
 }
