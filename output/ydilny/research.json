@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "ayable.com",
-    "what_they_do": "Cannot be determined. The domain ayable.com appears to be listed for sale on a domain marketplace (brandpa.com) with no live company website found. No active business operating under ayable.com could be verified.",
-    "raw_notes": "brandpa.com lists ayable.com as a domain for sale \u2014 it is not associated with an active company. A GitHub account named 'ayable' exists (github.com/ayable) with 7 public repos of a personal/tutorial nature (Ruby microposts, HTML pages), unrelated to a commercial entity. No homepage, about page, product pages, or business identity could be found at ayable.com. The domain was first registered in May 2021 per the brandpa listing. No company named 'Ydilny' (the org_name provided) was found anywhere on the web \u2014 no website, LinkedIn, Crunchbase, or any other directory listing.",
+    "what_they_do": "Cannot be determined. The domain ayable.com does not resolve to an active, identifiable business. Third-party sources list it as a domain name for sale on a domain marketplace (brandpa.com). No homepage, about page, product, or service information is publicly accessible.",
+    "raw_notes": "ayable.com appears on brandpa.com as a domain listed for sale, first registered May 2021. There is a GitHub account under the handle 'ayable' with 7 repositories (mostly learning/practice projects: Ruby microposts, a message board, and a static HTML page), but no indication this is an active company or linked to this signup. No business entity, website, LinkedIn company page, Crunchbase profile, or any other company-level presence was found for ayable.com. The email address used (rimib58944@ayable.com) has characteristics of a disposable or auto-generated address (random alphanumeric local part).",
     "source_urls": [
       "https://brandpa.com/names/ayable",
       "https://github.com/ayable"
@@ -11,15 +11,15 @@
   "individual": {
     "name": "Slava",
     "role_if_found": null,
-    "notes": "'Slava' is a common Slavic given name, typically a nickname for masculine names ending/beginning in 'slav' (e.g., Vyacheslav, Stanislav) or feminine equivalents. No individual named Slava associated with ayable.com or Ydilny was found in any public source. No LinkedIn profile, company bio, or other identifying information could be located.",
+    "notes": "No individual named 'Slava' could be identified in connection with ayable.com or Ydilny. 'Slava' is a common Slavic given name. No LinkedIn profile, personal site, news mention, or other public record links this name to the email domain or org name provided. The email local part (rimib58944) is consistent with a randomly generated or throwaway address, which reduces confidence that this is a real named individual's work email.",
     "source_urls": []
   },
   "could_not_find": [
-    "ayable.com does not resolve to a live company website \u2014 it appears to be a domain listed for sale.",
-    "No company named 'Ydilny' exists in any findable public record (web, LinkedIn, Crunchbase, etc.). The org_name may be misspelled, fictional, or a very early-stage/stealth entity.",
-    "No individual 'Slava' could be linked to ayable.com or Ydilny.",
-    "No role, title, or professional background for the recipient could be identified.",
-    "The email address (rimib58944@ayable.com) pattern with a random string prefix suggests it may be a disposable or auto-generated address, raising a flag about signup authenticity.",
-    "Cannot confirm this is a real business signup vs. a test/bot/spam submission."
+    "No active website or business found at ayable.com \u2014 domain appears listed for sale.",
+    "No information found on 'Ydilny' as a company or organization \u2014 zero search results for this name.",
+    "No individual 'Slava' linkable to ayable.com or Ydilny.",
+    "Email address (rimib58944@ayable.com) has a randomly generated local part, raising likelihood this is a disposable/fake email.",
+    "No role, title, LinkedIn, or any professional profile found for the recipient.",
+    "High probability this signup is low-quality, fake, or spam: unresolvable domain, unrecognizable org name, randomly generated email prefix, and no corroborating web presence for any of the three inputs."
   ]
 }
