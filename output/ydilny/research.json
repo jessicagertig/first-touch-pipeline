@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "ayable.com",
-    "what_they_do": "Cannot be determined. The domain ayable.com does not resolve to an active, identifiable company website. Third-party sources indicate the domain is currently listed for sale on a domain marketplace (brandpa.com), suggesting it is parked or unoccupied by a real business at this time.",
-    "raw_notes": "Domain ayable.com was first registered in May 2021 per brandpa.com, which is actively listing it for sale. No homepage, about page, product or service pages were accessible. A GitHub account using the handle 'ayable' exists (github.com/ayable) with 7 public repositories (workspace, a GitHub Pages site, message-board, micropost, microposts, monolist2), but these appear to be personal/learning projects with no company affiliation \u2014 no description, zero stars, zero forks. The email address used (rimib58944@ayable.com) follows a pattern consistent with a disposable or randomly generated email address (random alphanumeric prefix). The org_name 'Ydilny' returns zero results across all searches \u2014 no company, product, or entity of that name found anywhere.",
+    "what_they_do": "Cannot be determined. No active business website was found at ayable.com. A domain-brokerage listing (brandpa.com) indicates the domain is currently listed for sale, suggesting ayable.com may not be hosting an active company website at this time. The domain was first registered in May 2021 per that listing.",
+    "raw_notes": "- brandpa.com lists ayable.com as a domain for sale, with speculative business concept descriptions (AI payment solutions, micro-loan apps) that are entirely generated marketing copy from the domain broker \u2014 not reflective of any real company at this domain.\n- A GitHub user handle 'ayable' exists (github.com/ayable) with 7 public repositories (mostly tutorial/practice projects: micropost, monolist2 forked from techacademy-jp), but no evidence this is the same entity as the email domain.\n- No homepage, about page, product page, or any first-party content from ayable.com was retrievable.\n- ayablehealth.com (Ayble Health) is a different, unrelated company (digital gut health / IBS tool) \u2014 NOT the same as ayable.com.\n- The org_name 'Ydilny' returned zero results for any recognizable company, product, or organization. It does not appear to be a known entity in any public index.",
     "source_urls": [
       "https://brandpa.com/names/ayable",
       "https://github.com/ayable",
@@ -12,16 +12,14 @@
   "individual": {
     "name": "Slava",
     "role_if_found": null,
-    "notes": "No individual named 'Slava' could be associated with ayable.com or 'Ydilny' through any web search. 'Slava' is a common Slavic given name. The email prefix 'rimib58944' is a random alphanumeric string inconsistent with a professional or personal email address, which raises a flag about the legitimacy of this signup. No LinkedIn profile, company page, or any other first-party source linking this individual to either the domain or the org name was found.",
+    "notes": "No information found linking a person named 'Slava' to ayable.com or to the org name 'Ydilny'. 'Slava' is a common Slavic given name (used as a nickname for multiple full names such as Vyacheslav, Stanislav, Yaroslav, etc.), which makes identification without a surname extremely difficult. The email address (rimib58944@ayable.com) has a randomized-looking local part ('rimib58944'), which is a pattern commonly associated with disposable/temporary email addresses, further reducing the likelihood of finding reliable individual identity data. No LinkedIn profile, press mention, or other public record was found tying this first name to this domain or org name.",
     "source_urls": []
   },
   "could_not_find": [
-    "Active website or any web presence for ayable.com \u2014 domain appears to be parked/for sale",
-    "Any company, product, or entity named 'Ydilny' \u2014 zero results across all searches",
-    "Any individual named 'Slava' linkable to ayable.com or Ydilny",
-    "Role or title of the recipient",
-    "Founder information, company description, or industry vertical",
-    "WHOIS/registrant details for ayable.com (not publicly accessible)",
-    "Email pattern 'rimib58944@ayable.com' is consistent with a disposable/fake email address \u2014 legitimacy of signup is questionable"
+    "No active website or any first-party content found at ayable.com \u2014 domain appears to be for sale or parked.",
+    "No information on what 'Ydilny' is \u2014 not found as a company, product, brand, or organization in any public source.",
+    "No individual profile found for 'Slava' at ayable.com or connected to 'Ydilny'.",
+    "The email local part ('rimib58944') follows a pattern typical of disposable/temporary email services, raising a data-quality flag about this signup.",
+    "Cannot confirm whether the GitHub 'ayable' account is related to the ayable.com email domain."
   ]
 }

@@ -1,21 +1,21 @@
 {
   "company": {
     "website": null,
-    "what_they_do": null,
-    "raw_notes": "The email domain '20030310.com' does not resolve to any identifiable business or organization. Search results for '20030310.com' return entirely unrelated content (an eBay seller username '20030310', date-formatted strings in unrelated documents, etc.). No legitimate company website, homepage, about page, or product/service information could be found associated with this domain. The domain string '20030310' appears to be a date (March 10, 2003) used as a domain name, which is a pattern commonly associated with throwaway or auto-generated email addresses.",
+    "what_they_do": "Cannot be determined. The email domain '20030310.com' does not correspond to any identifiable real business website. No company named 'srdgftg' could be found. The domain appears to be a randomly generated or throwaway domain with no associated legitimate organization.",
+    "raw_notes": "The domain '20030310.com' returns no relevant search results linking it to a real company or product. '20030310' appears to be a date string (March 10, 2003) commonly used as a random placeholder. The org_name 'srdgftg' is a nonsensical string with no recognizable business identity. No website, product, service, or business entity could be found associated with either the domain or the org name.",
     "source_urls": []
   },
   "individual": {
-    "name": "wdefrgt",
+    "name": "wdefrgt (first_name as entered \u2014 clearly not a real name)",
     "role_if_found": null,
-    "notes": "The first name 'wdefrgt' is not a real name \u2014 it is a random string of characters consistent with keyboard mashing or auto-generated/bot input. The email handle 'aspencer066' could notionally suggest 'A. Spencer', but no real individual by this name associated with this domain or organization could be found. No LinkedIn, company bio, or any other identifying information is findable.",
+    "notes": "The first name 'wdefrgt' is a gibberish keyboard-mash string, not a real person's name. The email handle 'aspencer066' could theoretically suggest a name like 'A. Spencer', but this is speculative and unverifiable. No individual matching this email or name could be found via web search. No LinkedIn profile, professional record, or any other identity signal was found.",
     "source_urls": []
   },
   "could_not_find": [
-    "No real company or organization behind 'srdgftg' or domain '20030310.com' \u2014 both appear to be nonsense/random strings.",
-    "No legitimate website resolvable from email domain '20030310.com'.",
-    "No real individual identifiable from first name 'wdefrgt' \u2014 not a plausible human name.",
-    "No role, title, or professional profile findable for the recipient.",
-    "Overall assessment: this signup exhibits strong indicators of a fake, bot-generated, or test submission \u2014 randomized name, randomized org name, and a numeric date-string domain with no associated business."
+    "No real company or organization associated with 'srdgftg' or '20030310.com'.",
+    "No active or legitimate website found at 20030310.com.",
+    "No real individual named 'wdefrgt' found anywhere.",
+    "Email address 'aspencer066@20030310.com' returns no findable identity.",
+    "All provided inputs (first_name, org_name, email_domain) appear to be randomly generated or fake. This signup shows strong signals of a bot, spam, or test submission rather than a genuine prospect."
   ]
 }
