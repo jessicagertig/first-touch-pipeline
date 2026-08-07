@@ -1,26 +1,24 @@
 {
   "company": {
-    "website": "ayable.com",
-    "what_they_do": "Cannot be determined. No active company exists at ayable.com. The domain is listed for sale on domain marketplace BrandPa, with no real business, product, or service behind it.",
-    "raw_notes": "ayable.com is listed for sale on brandpa.com \u2014 it is a domain marketplace listing, not an active company website. The GitHub account 'ayable' (github.com/ayable) is a personal/hobbyist account with 7 small public repos (basic HTML/CSS/Ruby learning projects), not a company. The org name 'Ydilny' returns no results for any real business. The email address local-part 'rimib58944' is a randomly generated string, consistent with disposable/throwaway email services. There is no homepage, no about page, no product or services page to read \u2014 because there is no live company site.",
+    "website": null,
+    "what_they_do": "Unknown. No active company or website found at ayable.com. The domain is listed for sale on a domain marketplace (BrandPA) and does not resolve to any real business. No information about an organization named 'Ydilny' could be found anywhere on the web.",
+    "raw_notes": "ayable.com is listed for sale on BrandPA (a domain reseller); domain was first registered May 2021 per that listing. No homepage, product pages, or about pages exist for any real business at this domain. The email address 'rimib58944@ayable.com' has a randomly-generated-looking local part (rimib58944), which is a strong indicator of a disposable or fake email address. 'Ydilny' returns zero search results \u2014 not a registered company name, brand, or known entity in any searchable database or index.",
     "source_urls": [
-      "https://brandpa.com/names/ayable",
-      "https://github.com/ayable",
-      "https://github.com/ayable/ayable.github.io"
+      "https://brandpa.com/names/ayable"
     ]
   },
   "individual": {
     "name": "Slava",
     "role_if_found": null,
-    "notes": "No individual named 'Slava' could be found in connection with ayable.com or 'Ydilny'. 'Slava' is a common Slavic given name (short form of Vyacheslav, Stanislav, Yaroslav, etc.) but no specific person with this name tied to these inputs was found in any public source. The randomly generated email local-part ('rimib58944') and non-existent org name ('Ydilny') suggest this signup may be a bot, throwaway registration, or test account.",
+    "notes": "No individual named 'Slava' could be linked to ayable.com or Ydilny. 'Slava' is a common Slavic given name (masculine and feminine). No professional profile, LinkedIn page, founder story, or other publicly findable information about this specific person was found. Last name is unknown.",
     "source_urls": []
   },
   "could_not_find": [
-    "No active company or business at ayable.com \u2014 domain is listed for sale, not hosting a real company.",
-    "Org name 'Ydilny' does not match any known company, brand, or entity.",
-    "Email address 'rimib58944@ayable.com' has a randomly generated local-part strongly characteristic of disposable/temporary email services.",
-    "No individual named 'Slava' linked to ayable.com or Ydilny in any public source.",
-    "No role, title, LinkedIn profile, or any other professional information found for the recipient.",
-    "HIGH RISK FLAG: This signup exhibits multiple signals of a fake/bot/throwaway registration \u2014 disposable-style email, non-existent domain-company, and nonsense org name. Outreach is likely not productive and deliverability is in question."
+    "No active website or business found at ayable.com \u2014 domain appears to be parked/for-sale.",
+    "Organization name 'Ydilny' returns zero results on any search engine or business database \u2014 likely fictitious, misspelled, or a placeholder.",
+    "Email address 'rimib58944@ayable.com' exhibits characteristics of a disposable/throwaway email (randomly-generated local part + non-operational domain) \u2014 signup may not be from a genuine user or business.",
+    "No individual named Slava could be identified or linked to this company or domain.",
+    "No role, last name, LinkedIn, or any other individual-level data found.",
+    "Cannot verify this is a real signup from a real company \u2014 high likelihood of a fake/bot registration."
   ]
 }
