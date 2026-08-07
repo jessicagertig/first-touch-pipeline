@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://natanitsolutions.com",
-    "what_they_do": "Unknown. The website is a brand-new, unconfigured WordPress install with no real content \u2014 only placeholder/default WordPress text ('Hello world! Welcome to WordPress. This is your first post.') and Lorem Ipsum-style filler copy. The only substantive text present is 'Dealing in all Professional IT Services,' which is itself a generic template phrase, not a meaningful description of actual offerings.",
-    "raw_notes": "Site is a default WordPress installation. No real homepage copy, no described services, no team page, no case studies, no pricing, no product detail. The phrase 'What We're Offering \u2014 Dealing in all Professional IT Services' and 'Latest News & Articles from the Posts' are standard theme placeholder sections populated with Lorem Ipsum. No logo, no real navigation items, no social links, no contact info beyond what's implied by the email domain. The org name 'Natan IT Solutions' appears once in what looks like a site footer/header label. Cannot determine industry vertical, company size, geography, founding date, or any differentiating characteristic from this source.",
+    "what_they_do": "Unknown. The website is a default/unconfigured WordPress installation with no real content \u2014 only placeholder text ('Hello world!', Lorem Ipsum variants, and 'Dealing in all Professional IT Services'). No specific services, products, team, clients, or any substantive information is published yet.",
+    "raw_notes": "Site appears to be a brand-new, unconfigured WordPress install. The only potentially meaningful text is the tagline 'Dealing in all Professional IT Services' and the site name 'Natan IT Solutions'. All other content is WordPress defaults and Lorem Ipsum filler. No About page, no Services detail, no team bios, no case studies, no social links, no location, no pricing \u2014 nothing actionable. The 'Latest News & Articles' section also contains only Lorem Ipsum. No real posts exist.",
     "source_urls": [
       "https://natanitsolutions.com"
     ]
@@ -10,15 +10,16 @@
   "individual": {
     "name": "Natan",
     "role_if_found": null,
-    "notes": "First name 'Natan' is provided at signup. Email address is hr@natanitsolutions.com \u2014 the 'hr' prefix suggests this person may work in a Human Resources capacity, or the email is a departmental/shared HR inbox rather than a personal address. No further information about this individual (surname, title, LinkedIn, etc.) could be determined from the website or the inputs provided.",
+    "notes": "No individual profile found. The email prefix is 'hr@', suggesting this person may work in a Human Resources function rather than being a founder or executive \u2014 but this is an inference only. No LinkedIn profile, bio, or any other identifying information was found. The org name 'Natan IT Solutions' shares the first name 'Natan', which may suggest a founder named Natan, but this cannot be confirmed from available sources.",
     "source_urls": []
   },
   "could_not_find": [
-    "What the company actually does \u2014 no real service or product description exists on the site yet.",
-    "Company size, founding date, geography, or any business context.",
-    "Individual's full name, surname, or confirmed job title.",
-    "Whether 'hr@' is a personal address for Natan or a shared departmental inbox.",
-    "Any news, press mentions, or third-party references to the company.",
-    "No usable hook or compliment basis found \u2014 the site contains only default WordPress placeholder content."
+    "What the company actually does \u2014 no real service descriptions exist on the website yet",
+    "Individual's last name, title, or role",
+    "Whether 'Natan' in the org name refers to the recipient or someone else",
+    "Company location, size, founding date, or any firmographic data",
+    "Any news, press mentions, or third-party references to the company",
+    "Social media profiles (LinkedIn, Twitter/X, etc.) for either the company or the individual",
+    "Any clients, case studies, or portfolio work"
   ]
 }
