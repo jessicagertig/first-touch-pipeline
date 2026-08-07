@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://natanitsolutions.com",
-    "what_they_do": "Unknown. The website is a default/unconfigured WordPress installation with no real content \u2014 only placeholder text ('Hello world!', Lorem Ipsum variants, and 'Dealing in all Professional IT Services'). No specific services, products, team, clients, or any substantive information is published yet.",
-    "raw_notes": "Site appears to be a brand-new, unconfigured WordPress install. The only potentially meaningful text is the tagline 'Dealing in all Professional IT Services' and the site name 'Natan IT Solutions'. All other content is WordPress defaults and Lorem Ipsum filler. No About page, no Services detail, no team bios, no case studies, no social links, no location, no pricing \u2014 nothing actionable. The 'Latest News & Articles' section also contains only Lorem Ipsum. No real posts exist.",
+    "what_they_do": "Unknown. The website is a brand-new, unconfigured WordPress installation with no real content \u2014 only the default 'Hello world!' placeholder post and generic Lorem Ipsum / dummy text. The only signal is the phrase 'Dealing in all Professional IT Services' and the site name 'Natan IT Solutions', suggesting a general IT services company, but no specific services, offerings, clients, or differentiators are described anywhere on the site.",
+    "raw_notes": "- Site is a default WordPress install; no real pages, no about page, no services page, no contact info beyond the HR email used at signup.\n- Only substantive phrase present: 'Dealing in all Professional IT Services' \u2014 extremely generic, no elaboration.\n- Section headings present but empty/placeholder: 'What We're Offering', 'What's Happening', 'Latest News & Articles from the Posts'.\n- All body copy is Lorem Ipsum / dummy filler text.\n- No product descriptions, no team bios, no client logos, no case studies, no social proof of any kind.\n- Company name 'Natan IT Solutions' mirrors the first name of the signee ('Natan'), suggesting this may be a founder-named micro/solo IT services business.\n- Email used is hr@natanitsolutions.com \u2014 an HR-prefixed address, which is slightly unusual for what appears to be a very early-stage or solo operation.",
     "source_urls": [
       "https://natanitsolutions.com"
     ]
@@ -10,16 +10,17 @@
   "individual": {
     "name": "Natan",
     "role_if_found": null,
-    "notes": "No individual profile found. The email prefix is 'hr@', suggesting this person may work in a Human Resources function rather than being a founder or executive \u2014 but this is an inference only. No LinkedIn profile, bio, or any other identifying information was found. The org name 'Natan IT Solutions' shares the first name 'Natan', which may suggest a founder named Natan, but this cannot be confirmed from available sources.",
+    "notes": "Only the first name 'Natan' is known. The email prefix 'hr@' does not clearly identify this person's role \u2014 they could be an HR contact, the founder using an HR alias, or an office administrator. No last name, LinkedIn profile, title, or biographical information is available. The company name ('Natan IT Solutions') shares the signee's first name, raising the possibility that Natan is the founder, but this cannot be confirmed from available sources.",
     "source_urls": []
   },
   "could_not_find": [
-    "What the company actually does \u2014 no real service descriptions exist on the website yet",
-    "Individual's last name, title, or role",
-    "Whether 'Natan' in the org name refers to the recipient or someone else",
-    "Company location, size, founding date, or any firmographic data",
-    "Any news, press mentions, or third-party references to the company",
-    "Social media profiles (LinkedIn, Twitter/X, etc.) for either the company or the individual",
-    "Any clients, case studies, or portfolio work"
+    "Natan's last name and confirmed role/title",
+    "Any real description of services offered by Natan IT Solutions",
+    "Company founding date, size, or team information",
+    "Any client, portfolio, or case study information",
+    "Any social media profiles (LinkedIn, Twitter/X, etc.) for the company or individual",
+    "Any third-party mentions, news, or press about the company",
+    "Physical location or market/geography served",
+    "Whether 'hr@' reflects an actual HR function or is simply an alias used by the founder"
   ]
 }
