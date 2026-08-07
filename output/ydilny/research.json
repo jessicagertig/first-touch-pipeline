@@ -1,26 +1,23 @@
 {
   "company": {
     "website": "ayable.com",
-    "what_they_do": "Cannot be determined. No live, real business website found at ayable.com. The domain is currently listed for sale on a third-party domain marketplace (brandpa.com). No product, service, or company operating under this domain could be verified.",
-    "raw_notes": "ayable.com resolves to a domain-for-sale listing on brandpa.com, not a real company website. The domain was first registered in May 2021 per the marketplace listing. A GitHub account named 'ayable' exists with 7 low-activity public repositories (HTML/Ruby learning projects, no stars or forks), suggesting a personal learning account, not a company. An Instagram handle @ayable exists but is unrelated. No Crunchbase, LinkedIn company page, news coverage, or any other business presence for a company called 'Ayable' or 'Ydilny' was found anywhere. The org name 'Ydilny' returns zero results across all searches \u2014 it does not correspond to any known company, product, or brand.",
+    "what_they_do": "Cannot be determined. The domain ayable.com is currently listed for sale on a domain marketplace (BrandPA) and does not resolve to a live company website or real business.",
+    "raw_notes": "BrandPA lists ayable.com as a domain for sale, registered first in May 2021. No homepage, no about page, no products or services exist at this domain. A GitHub account named 'ayable' exists but contains only 7 public repos consistent with a personal student coding portfolio (e.g., micropost, monolist2 forked from techacademy-jp), not a real company. No LinkedIn, Crunchbase, or news coverage of any company operating as 'ayable.com'. The org name 'Ydilny' returns no results whatsoever for any real organization.",
     "source_urls": [
       "https://brandpa.com/names/ayable",
-      "https://github.com/ayable",
-      "https://www.instagram.com/ayable/"
+      "https://github.com/ayable"
     ]
   },
   "individual": {
     "name": "Slava",
     "role_if_found": null,
-    "notes": "'Slava' is a common Slavic given name (nickname for Vyacheslav, Stanislav, Yaroslav, etc.), but no specific individual named Slava was found associated with ayable.com, Ydilny, or any related entity. The email address 'rimib58944@ayable.com' follows a pattern (random string + numeric suffix) typical of auto-generated or disposable addresses, which is a further red flag. No LinkedIn profile, news mention, or any public record of a 'Slava' connected to this domain or org name was found.",
+    "notes": "'Slava' is a common Slavic given name. No individual named Slava could be found associated with ayable.com or the org name 'Ydilny' in any public source. The email address 'rimib58944@ayable.com' has the structure of a randomly generated disposable/fake email (random character string + numeric suffix at a domain that is for sale).",
     "source_urls": []
   },
   "could_not_find": [
-    "No live business website at ayable.com \u2014 domain is listed for sale on a domain marketplace.",
-    "No company named 'Ydilny' found anywhere online; the name appears fabricated or randomly generated.",
-    "No individual named 'Slava' found associated with ayable.com or Ydilny.",
-    "No LinkedIn, Crunchbase, news coverage, or any business footprint for either 'Ayable' (as a company) or 'Ydilny'.",
-    "Email address pattern ('rimib58944@ayable.com') suggests a disposable or auto-generated address \u2014 high likelihood of a fake/bot signup.",
-    "Overall assessment: This signup has multiple strong signals of being fraudulent (non-existent company domain, nonsensical org name, auto-generated-style email). No genuine research hooks exist."
+    "No live website or business at ayable.com \u2014 domain is listed for sale.",
+    "No real company, product, or service associated with 'Ydilny' \u2014 zero search results for this org name.",
+    "No individual named Slava linkable to ayable.com or Ydilny.",
+    "Email address pattern ('rimib58944@ayable.com') is highly consistent with a disposable, bot-generated, or fake email address. This signup carries significant fraud/low-quality risk signals: (1) domain for sale, (2) nonsense org name, (3) randomized email local-part with numeric suffix, (4) no findable individual."
   ]
 }
