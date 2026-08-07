@@ -1,3 +1,31 @@
 {
-  "candidates": []
+  "candidates": [
+    {
+      "item": "does not allow sending messages to the internet",
+      "why_interesting": "A free public email service that explicitly blocks outbound email to the internet is a genuinely unusual technical constraint \u2014 most free email services exist precisely to send external email. This is quirky and specific to them.",
+      "level": "company",
+      "source_url": "https://web-library.net",
+      "as_of_date_if_known": null,
+      "recency_note": "Pulled from homepage text at time of step-1 research; date unknown.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "suggests blocking problematic users by IP rather than domain",
+      "why_interesting": "Rather than accepting domain-level blocklisting (the norm for free email providers), they actively lobby receiving mail servers to target individual IPs \u2014 an unusually proactive and technically specific stance on reputation management.",
+      "level": "company",
+      "source_url": "https://web-library.net",
+      "as_of_date_if_known": null,
+      "recency_note": "Pulled from homepage text at time of step-1 research; date unknown.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "claims it is NOT a throwaway/disposable email service and emails won't bounce",
+      "why_interesting": "Explicitly distancing from the throwaway-email category is an unusual positioning move for a free public email provider \u2014 most in this space either lean into the disposable angle or say nothing. The blunt public disclaimer is a distinctive, self-aware stance.",
+      "level": "company",
+      "source_url": "https://web-library.net",
+      "as_of_date_if_known": null,
+      "recency_note": "Pulled from homepage text at time of step-1 research; date unknown.",
+      "sensitivity": "none"
+    }
+  ]
 }

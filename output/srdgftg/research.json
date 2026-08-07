@@ -2,20 +2,21 @@
   "company": {
     "website": null,
     "what_they_do": null,
-    "raw_notes": "The email domain '20030310.com' does not correspond to any identifiable legitimate business website. Web searches returned no results pointing to a real company at this domain. The domain string '20030310' appears to be a date-formatted string (2003-03-10, i.e. March 10, 2003) with no known corporate association. No homepage, about page, or product/service pages could be found. The org_name 'srdgftg' is a random-looking string with no recognizable company match.",
+    "raw_notes": "No legitimate company or website could be identified for the domain '20030310.com' or the org name 'srdgftg'. Web searches returned no results connecting '20030310.com' to any real business \u2014 the string '20030310' appears to be a date (March 10, 2003) used as a domain name, which is a strong indicator of a throwaway or fake domain. The org name 'srdgftg' is a random-looking string with no matches to any known company, product, or organization.",
     "source_urls": []
   },
   "individual": {
-    "name": "wdefrgt",
+    "name": "wdefrgt (likely not a real name)",
     "role_if_found": null,
-    "notes": "The first_name 'wdefrgt' is not a real personal name \u2014 it appears to be a keyboard-mash placeholder. The email handle 'aspencer066' could suggest a real person (e.g., 'A. Spencer'), but no verifiable individual by this name could be linked to the domain '20030310.com'. No professional profile, social presence, or biographical information was found for this email address or handle.",
+    "notes": "The first name 'wdefrgt' is not a real human name \u2014 it appears to be a random keyboard string. The email prefix 'aspencer066' does not match the provided first name 'wdefrgt', further suggesting fabricated inputs. No individual named 'wdefrgt' or 'aspencer' associated with any real company could be found. No LinkedIn or professional presence found.",
     "source_urls": []
   },
   "could_not_find": [
-    "No real website or business found at 20030310.com \u2014 domain does not resolve to any known company.",
-    "Org name 'srdgftg' is a nonsensical string; no matching company identified.",
-    "First name 'wdefrgt' is not a real name \u2014 likely a placeholder or bot-generated input.",
-    "Email handle 'aspencer066' could hint at a real person (A. Spencer) but cannot be verified without a legitimate domain or additional context.",
-    "All signup fields (first_name, org_name, email_domain) show strong signals of fake/test/bot signup data."
+    "No real website exists or could be verified for the domain '20030310.com'.",
+    "The org name 'srdgftg' does not correspond to any known company or organization.",
+    "The first name 'wdefrgt' is not a real name \u2014 appears to be random keyboard input.",
+    "The email username 'aspencer066' does not match the provided first name, suggesting the signup data is fabricated or is a bot/spam submission.",
+    "No professional or public profile found for any individual associated with these inputs.",
+    "Overall assessment: This signup exhibits multiple strong signals of a fake/bot registration \u2014 nonsense name, nonsense org name, and a numeric date string used as a domain. Not a viable prospect for outreach."
   ]
 }

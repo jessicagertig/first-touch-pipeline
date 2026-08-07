@@ -2,7 +2,7 @@
   "company": {
     "website": null,
     "what_they_do": null,
-    "raw_notes": "barumart.com is not a real company domain. It is a disposable/temporary email domain operated by temp-mail.org. It has no company website, no products or services, and no legitimate business presence. The domain exists solely to generate throwaway email addresses for anonymous or fraudulent registrations. Risk score: 91/100 (HIGH). The org_name supplied at signup was 'ab', which is also a placeholder/fake value. The first_name supplied was 'a', another clear placeholder.",
+    "raw_notes": "barumart.com is not a real company domain. It is a well-documented disposable/temporary email domain operated by temp-mail.org. It has a HIGH risk score of 91/100 across multiple email verification services. No real business website exists at barumart.com \u2014 it has no A records and functions solely as a throwaway email provider. The org_name 'ab' is also a placeholder/fake value, as is the first_name 'a'. All signals point to a bot or fake signup.",
     "source_urls": [
       "https://verifymail.io/domain/barumart.com",
       "https://check-mail.org/domain/barumart.com/",
@@ -13,13 +13,14 @@
   "individual": {
     "name": "a",
     "role_if_found": null,
-    "notes": "No real individual identifiable. The first_name 'a' and email 'wekaces726@barumart.com' are characteristic of auto-generated or throwaway account inputs. No person by this name/email found in any public source. Cannot be researched further.",
+    "notes": "No real individual identifiable. first_name 'a' and email 'wekaces726@barumart.com' are consistent with auto-generated or bot-submitted throwaway credentials. No person of this description could be found via any public source.",
     "source_urls": []
   },
   "could_not_find": [
-    "No real company behind barumart.com \u2014 it is a known disposable email provider (temp-mail.org), not a business.",
-    "No real individual \u2014 first_name 'a' and org_name 'ab' are placeholder/fake inputs.",
-    "No company website, product, team, or any business information exists for this signup.",
-    "This signup shows all hallmarks of a fake/bot/spam registration and should be flagged for review or blocking."
+    "No real company behind barumart.com \u2014 it is a disposable email domain run by temp-mail.org, not a business.",
+    "No real individual: first_name 'a' and org_name 'ab' are non-names / placeholder inputs.",
+    "No company website, product, or service to research.",
+    "No role, LinkedIn profile, or any other identifying information for the recipient.",
+    "HIGH FRAUD SIGNAL: This signup exhibits all hallmarks of a bot or fake registration \u2014 disposable email domain (risk score 91/100), single-character name and org, randomly generated email local-part."
   ]
 }

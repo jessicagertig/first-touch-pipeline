@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "fact": "BobSecTestCo (web-library.net) explicitly states on its homepage: 'we do not allow sending messages to the internet'",
+    "source_url": "https://web-library.net"
+  },
+  {
+    "fact": "BobSecTestCo (web-library.net) explicitly requests that their domain names not be blocked and instead asks receiving parties to ban problematic users by IP address: 'we kindly request that our domain names not be blocked... In the event that you encounter difficulties with user registrations, please consider banning them by IP address instead.'",
+    "source_url": "https://web-library.net"
+  },
+  {
+    "fact": "BobSecTestCo (web-library.net) explicitly states on its homepage: 'we are not a throwaway email service and our emails will not bounce,' and requests that its domain names not be blocked.",
+    "source_url": "https://web-library.net"
+  }
+]

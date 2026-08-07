@@ -1,0 +1,22 @@
+{
+  "lead_id": "bobsectestco",
+  "company_name": "BobSecTestCo",
+  "recipient_name": "Bob Tester",
+  "email": "polyb10261008@web-library.net",
+  "variations": [
+    {
+      "variant_n": 1,
+      "compliment": "BobSecTestCo looks like a thoughtful service - I like that you ask receiving parties to ban problematic users by IP address rather than blocking your domain names.",
+      "email": "Hello Bob,\n\nThanks for checking out Polymer! BobSecTestCo looks like a thoughtful service - I like that you ask receiving parties to ban problematic users by IP address rather than blocking your domain names.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://web-library.net"
+      ],
+      "score": 8,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1786104588.773279",
+      "slack_channel": "C0B87Q5UEL9"
+    }
+  ]
+}
