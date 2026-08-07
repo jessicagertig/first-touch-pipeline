@@ -2,19 +2,24 @@
   "company": {
     "website": null,
     "what_they_do": null,
-    "raw_notes": "The email domain '20030310.com' does not correspond to any identifiable real business or organization. Web searches returned no results pointing to a legitimate company website at this domain. The string '20030310' appears to be a date (March 10, 2003) used as a domain name, which is a common pattern for throwaway, temporary, or fake email domains. The org_name 'srdgftg' is a random, non-meaningful string with no identifiable business associated with it.",
-    "source_urls": []
+    "raw_notes": "The email domain '20030310.com' does not correspond to any identifiable real business website. It appears on multiple third-party disposable/temporary email domain blocklists (verifymail.io lists it alongside hundreds of known throwaway email domains). No legitimate company website, homepage, or about page was found for this domain. The org_name 'srdgftg' is a random-seeming string with no matching real company found in any search results.",
+    "source_urls": [
+      "https://verifymail.io/domain/xiwinnie.icu",
+      "https://verifymail.io/domain/teambunnyfoundation.org.uk",
+      "https://verifymail.io/domain/purifyzed.org"
+    ]
   },
   "individual": {
-    "name": "wdefrgt (first name as entered)",
+    "name": "wdefrgt (as entered \u2014 almost certainly not a real name)",
     "role_if_found": null,
-    "notes": "The first name 'wdefrgt' is not a real name \u2014 it is a random string of characters. The email handle 'aspencer066' could superficially suggest a name like 'A. Spencer', but this is speculative and unverifiable. No individual matching these inputs could be found in any public source. The combination of a gibberish name, gibberish org name, and a numeric/throwaway domain strongly indicates a fake or bot-generated signup.",
+    "notes": "The first name 'wdefrgt' is a random keyboard-mash string, not a real name. The email handle 'aspencer066' could superficially resemble a name ('A. Spencer'), but no individual matching this identity at this domain or org was found. No social profile, LinkedIn, or any other source returned results for this person or email address.",
     "source_urls": []
   },
   "could_not_find": [
-    "No real company or organization associated with the domain '20030310.com' or org name 'srdgftg'.",
-    "No real individual named 'wdefrgt' or matching the email 'aspencer066@20030310.com'.",
-    "The domain '20030310.com' does not resolve to any known business website based on search results.",
-    "All provided inputs (first_name, org_name) appear to be random/gibberish strings, strongly suggesting a fake, spam, or bot-generated signup. No legitimate research is possible on this record."
+    "No real website exists for 20030310.com \u2014 domain is flagged as a known disposable/fake email domain.",
+    "Org name 'srdgftg' is a nonsense/random string \u2014 no real company found.",
+    "First name 'wdefrgt' is a nonsense/random string \u2014 not a real person's name.",
+    "No individual named 'aspencer066' or any variant found linked to this domain or org.",
+    "This signup has all the hallmarks of a fake/bot/spam submission: random keyboard-mash name, random org name, and a known disposable email domain."
   ]
 }
