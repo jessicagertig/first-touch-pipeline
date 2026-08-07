@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://natanitsolutions.com",
-    "what_they_do": "Unknown. The website is a default/unconfigured WordPress installation with no real content. The only meaningful text present is the default WordPress 'Hello world!' placeholder post and lorem ipsum filler text. The tagline 'Dealing in all Professional IT Services' and the section header 'What We're Offering' suggest a general IT services positioning, but no actual services, products, or descriptions are defined.",
-    "raw_notes": "Site is a freshly installed WordPress instance \u2014 no real homepage content, no service pages, no about page, no team page, no case studies, no pricing, no contact details beyond what was in the signup form. The phrases 'What We're Offering', 'Dealing in all Professional IT Services', and 'What's Happening / Latest News & Articles' are template section headings with zero real content beneath them. All body copy is lorem ipsum or WordPress defaults. Company name 'Natan IT Solutions' matches the domain and the signup org_name. No founding story, no team bios, no client logos, no locations, no specializations are present.",
+    "what_they_do": "Unknown. The website is a freshly installed WordPress site with no real content \u2014 only the default 'Hello world!' placeholder post and generic Lorem Ipsum / dummy text. The only substantive claim present is the phrase 'Dealing in all Professional IT Services,' but no specific services, products, industries served, team size, or value proposition are described anywhere on the page.",
+    "raw_notes": "Site appears to be a brand-new, unconfigured WordPress installation. Content consists entirely of: (1) the default WordPress 'Hello world!' post, (2) a section headed 'What We're Offering' with the subtitle 'Dealing in all Professional IT Services' but no actual service list \u2014 only Lorem Ipsum filler text, (3) a section headed 'What's Happening / Latest News & Articles from the Posts' with Lorem Ipsum filler, (4) no About page, no team page, no contact details beyond the email domain, no case studies, no client logos, no pricing, no social links visible in the scraped content. The org name 'Natan IT Solutions' matches the email domain and appears in the page footer/header.",
     "source_urls": [
       "https://natanitsolutions.com"
     ]
@@ -10,17 +10,16 @@
   "individual": {
     "name": "Natan",
     "role_if_found": null,
-    "notes": "First name 'Natan' matches the company name ('Natan IT Solutions'), which strongly suggests this person is the founder or owner. The email prefix is 'hr@', which could indicate an HR function or simply a chosen inbox label. No individual profile, LinkedIn presence, bio, or role title is findable from the website, which contains no team or about content whatsoever.",
+    "notes": "First name 'Natan' matches the company name ('Natan IT Solutions'), strongly suggesting this person is the founder or owner. The signup email is hr@natanitsolutions.com \u2014 the 'hr' prefix could indicate an HR function or simply be a chosen inbox alias. No individual profile, LinkedIn, biography, or role title was findable from the homepage content provided. No web search results surfaced a specific individual.",
     "source_urls": []
   },
   "could_not_find": [
-    "What specific IT services the company actually offers \u2014 no real service descriptions exist on the site",
-    "Natan's last name, title, or role",
-    "Company founding date, location, size, or target market",
-    "Any client base, case studies, or portfolio",
-    "Any news, press, or third-party mentions of the company",
-    "Whether 'hr@' reflects Natan's actual function or is just an inbox label",
-    "Any social media or LinkedIn profiles for the individual or the company",
-    "Whether the business is operational or still being set up"
+    "What specific IT services the company actually offers \u2014 no real service descriptions exist on the site yet",
+    "Company size, founding date, location, or target market",
+    "Natan's last name, title, or any biographical detail",
+    "Any team members beyond the implied founder",
+    "Any social media profiles, press mentions, or third-party references",
+    "Whether the 'hr@' prefix reflects an HR role or is simply an email alias",
+    "No web search results found for the domain or company name that add additional context \u2014 site appears too new to be indexed"
   ]
 }

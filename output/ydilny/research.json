@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "ayable.com",
-    "what_they_do": "Cannot be determined. The domain ayable.com appears to be listed for sale on a domain marketplace (brandpa.com) with no active business, product, or service found at that URL. No company operating under 'ayable.com' could be identified.",
-    "raw_notes": "Search results show ayable.com is listed for sale on brandpa.com, first registered in May 2021. A GitHub account under the handle 'ayable' exists with 7 public repositories (mostly boilerplate/learning projects: HTML, Ruby micropost apps, a fork of techacademy-jp/monolist2), but shows no signs of being a commercial product or company. No homepage, about page, product page, or any business presence was found for ayable.com. The org_name 'Ydilny' returned zero relevant results \u2014 no company, product, or entity by that name found anywhere online. The two inputs (email domain 'ayable.com' and org name 'Ydilny') do not appear to correspond to any identifiable, active business.",
+    "what_they_do": "Cannot be determined. The domain ayable.com appears to be listed for sale on a domain marketplace (brandpa.com) with no live company website found. No active business operating under ayable.com could be verified.",
+    "raw_notes": "brandpa.com lists ayable.com as a domain for sale \u2014 it is not associated with an active company. A GitHub account named 'ayable' exists (github.com/ayable) with 7 public repos of a personal/tutorial nature (Ruby microposts, HTML pages), unrelated to a commercial entity. No homepage, about page, product pages, or business identity could be found at ayable.com. The domain was first registered in May 2021 per the brandpa listing. No company named 'Ydilny' (the org_name provided) was found anywhere on the web \u2014 no website, LinkedIn, Crunchbase, or any other directory listing.",
     "source_urls": [
       "https://brandpa.com/names/ayable",
       "https://github.com/ayable"
@@ -11,14 +11,15 @@
   "individual": {
     "name": "Slava",
     "role_if_found": null,
-    "notes": "No individual named 'Slava' could be linked to ayable.com or Ydilny through any web search. 'Slava' is a common Slavic given name (often a nickname for Vyacheslav, Stanislav, Yaroslav, etc.). No professional profile, LinkedIn presence, or biographical detail connecting this specific person to either the email domain or org name was found.",
+    "notes": "'Slava' is a common Slavic given name, typically a nickname for masculine names ending/beginning in 'slav' (e.g., Vyacheslav, Stanislav) or feminine equivalents. No individual named Slava associated with ayable.com or Ydilny was found in any public source. No LinkedIn profile, company bio, or other identifying information could be located.",
     "source_urls": []
   },
   "could_not_find": [
-    "No active website or business found at ayable.com \u2014 domain appears to be listed for sale, not hosting a live company.",
-    "Org name 'Ydilny' returned zero results; no company, product, or entity by this name could be identified anywhere online.",
-    "No role, title, or professional background found for the individual 'Slava' in connection with ayable.com or Ydilny.",
-    "Email address (rimib58944@ayable.com) pattern (random-looking prefix + numeric string) is consistent with a disposable/temporary email address, which raises a data quality flag.",
-    "Cannot confirm whether this is a real business signup or a test/fake entry \u2014 both the org name and email domain are unverifiable as active entities."
+    "ayable.com does not resolve to a live company website \u2014 it appears to be a domain listed for sale.",
+    "No company named 'Ydilny' exists in any findable public record (web, LinkedIn, Crunchbase, etc.). The org_name may be misspelled, fictional, or a very early-stage/stealth entity.",
+    "No individual 'Slava' could be linked to ayable.com or Ydilny.",
+    "No role, title, or professional background for the recipient could be identified.",
+    "The email address (rimib58944@ayable.com) pattern with a random string prefix suggests it may be a disposable or auto-generated address, raising a flag about signup authenticity.",
+    "Cannot confirm this is a real business signup vs. a test/bot/spam submission."
   ]
 }
