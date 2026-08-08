@@ -2,20 +2,20 @@
   "company": {
     "website": null,
     "what_they_do": null,
-    "raw_notes": "The domain '20030310.com' does not resolve to any identifiable company website. No search results link this domain to a real business, product, or organization. The string '20030310' appears in unrelated contexts (an eBay seller username, a date-formatted string meaning March 10, 2003, and various data references), none of which correspond to a legitimate company with this domain.",
+    "raw_notes": "The email domain '20030310.com' returned no results pointing to a legitimate business website. Search results for '20030310.com' returned only unrelated content (an eBay seller handle, a date-formatted string in unrelated documents). No company website, homepage, about page, or product/service information could be found associated with this domain. The org_name 'srdgftg' appears to be a random string with no identifiable meaning or associated business.",
     "source_urls": []
   },
   "individual": {
-    "name": "wdefrgt (likely a placeholder/fake name)",
+    "name": "wdefrgt",
     "role_if_found": null,
-    "notes": "The first name 'wdefrgt' is a nonsensical keyboard-mash string and is almost certainly not a real person's name. The email handle 'aspencer066' was searched but returned no relevant results tied to this domain or any real individual. No credible information about a real person could be found.",
+    "notes": "The first name 'wdefrgt' is not a real name \u2014 it appears to be a random string of characters. The email handle 'aspencer066' likewise returned no identifiable individual in search results. No LinkedIn profile, company bio, or any other source connecting a real person to this signup was found.",
     "source_urls": []
   },
   "could_not_find": [
-    "No real company website found at 20030310.com \u2014 domain does not appear to belong to any legitimate business.",
-    "Org name 'srdgftg' is a nonsensical keyboard-mash string; no matching company found anywhere.",
-    "First name 'wdefrgt' is a nonsensical keyboard-mash string; almost certainly not a real person's name.",
-    "Email handle 'aspencer066' returned no relevant results tied to this domain or individual.",
-    "All four key inputs (first_name, email domain, org_name) show strong signals of fake/bot signup data: random character strings, numeric domain resembling a date, no web presence."
+    "No legitimate company website found for domain '20030310.com'.",
+    "Org name 'srdgftg' is a nonsensical string; no real business identified.",
+    "First name 'wdefrgt' is not a real name; no individual could be identified.",
+    "Email handle 'aspencer066' returned no identifiable person in search results.",
+    "All signup fields (first_name, org_name) appear to be randomly typed keyboard strings, strongly suggesting a fake or bot signup."
   ]
 }
