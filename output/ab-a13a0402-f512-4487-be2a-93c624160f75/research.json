@@ -1,8 +1,8 @@
 {
   "company": {
-    "website": null,
-    "what_they_do": "barumart.com is not a real company or organization. It is a disposable/temporary email domain operated by temp-mail.org, used to generate throwaway email addresses. It has no products, services, or business identity.",
-    "raw_notes": "barumart.com is universally flagged across multiple email verification services (verifymail.io, check-mail.org, usercheck.com, gatekeepr.io) as a disposable/throwaway email domain operated by temp-mail.org. Risk score: 91/100 (HIGH). It is commonly used to create short-lived email addresses for anonymous registrations, bypassing sign-up restrictions, or avoiding spam. No A records found for the domain. MX host: mail.barumart.com (IP: 161.35.253.124). Domain created: 2011-06-05. Block status flagged: 2026-07-23. It is one of 2,841+ domains operated by the same temp-mail.org disposable email provider network. There is no real company, homepage, about page, or product/service associated with barumart.com.",
+    "website": "barumart.com",
+    "what_they_do": "barumart.com is not a real company website. It is a disposable/temporary email domain operated by temp-mail.org, used to generate throwaway email addresses for anonymous or one-time registrations.",
+    "raw_notes": "Multiple independent email verification services (verifymail.io, check-mail.org, usercheck.com, gatekeepr.io) consistently flag barumart.com as a disposable/temporary email domain with a HIGH risk score (91/100). It is operated by temp-mail.org, a known disposable email provider with 2,841+ associated domains. The domain has no A records (no real website). It is commonly used to bypass sign-up restrictions, create fake accounts, and avoid spam. The domain was created 2011-06-05 but was flagged/blocked as recently as 2026-07-23. There is no legitimate business associated with barumart.com.",
     "source_urls": [
       "https://verifymail.io/domain/barumart.com",
       "https://check-mail.org/domain/barumart.com/",
@@ -13,15 +13,14 @@
   "individual": {
     "name": "a",
     "role_if_found": null,
-    "notes": "The first name 'a' is not a real name \u2014 it is a single-character placeholder. The email address wekaces726@barumart.com is a randomly generated throwaway address on a disposable email domain. No individual could be identified or researched. The org_name 'ab' is also a two-character placeholder with no real organization behind it.",
+    "notes": "The first name provided is 'a' (single character) and the org name is 'ab' (two characters) \u2014 both are almost certainly placeholder/fake values entered at signup. No real individual could be identified. The email address (wekaces726@barumart.com) is a throwaway address on a known disposable email domain. No research into a real person is possible.",
     "source_urls": []
   },
   "could_not_find": [
-    "No real company exists behind barumart.com \u2014 it is a disposable email provider, not a business.",
-    "No real individual identified \u2014 'a' is a placeholder first name, not a real person.",
-    "No org_name found \u2014 'ab' is a placeholder, not a real organization.",
-    "No website, homepage, about page, product, or service to review.",
-    "Email address (wekaces726@barumart.com) is a randomly generated throwaway address with HIGH fraud risk (score 91/100).",
-    "This signup bears all hallmarks of a fake/bot/spam registration and should be flagged for review or blocked."
+    "No real company behind barumart.com \u2014 it is a disposable email domain, not a business.",
+    "No real individual identifiable \u2014 first name ('a'), org name ('ab'), and email are all indicators of a fake/bot signup.",
+    "No website, product, or service to research.",
+    "No role, LinkedIn profile, or any personal information findable for the recipient.",
+    "This signup exhibits multiple strong signals of abuse: disposable email domain (risk 91/100), single-character first name, two-character org name."
   ]
 }
