@@ -1,8 +1,17 @@
 {
   "company": {
     "website": "https://natanitsolutions.com",
-    "what_they_do": "Unknown. The website is a default, unconfigured WordPress installation with no real content \u2014 only placeholder/lorem ipsum text and a 'Hello world!' default post. The only signal is the org name 'Natan IT Solutions' and the tagline fragment 'Dealing in all Professional IT Services', but no specific services, verticals, team, clients, or differentiators are described anywhere on the site.",
-    "raw_notes": "Site is a freshly installed WordPress instance. Visible text includes only: the default 'Hello world! Welcome to WordPress.' post, a section heading 'What We're Offering' with subtitle 'Dealing in all Professional IT Services', a section heading 'What's Happening / Latest News & Articles from the Posts', and lorem ipsum filler copy throughout. No real product pages, no about page content, no team bios, no case studies, no pricing, no contact details beyond the signup email (hr@natanitsolutions.com). The HR prefix on the email suggests this may be an HR contact or the owner is using hr@ as a general inbox. Company name is 'Natan IT Solutions' \u2014 likely named after the founder 'Natan'. No social links or external references visible in the scraped content.",
+    "what_they_do": "Unknown \u2014 the website is a brand-new, unconfigured WordPress installation with no real content. The only visible text is the default WordPress placeholder ('Hello world! Welcome to WordPress. This is your first post.') and a generic, lorem-ipsum-filled template that mentions 'Dealing in all Professional IT Services' as a section heading. No specific services, products, pricing, team, or about page content is published yet.",
+    "raw_notes": [
+      "Homepage is a default WordPress install \u2014 'Hello world!' placeholder post is still live.",
+      "Template copy mentions 'What We're Offering \u2014 Dealing in all Professional IT Services' but this is boilerplate template text, not authored company content.",
+      "'What's Happening \u2014 Latest News & Articles from the Posts' section contains lorem ipsum placeholder text only.",
+      "Company name in footer/header: 'Natan IT Solutions'.",
+      "No About page, no team page, no services page, no pricing, no case studies, no social links, no location, no founding date \u2014 none of this is present.",
+      "Web search for 'natanitsolutions.com' and 'Natan IT Solutions' returned no matching results for this specific entity. Search results returned unrelated companies (NAT IT Solutions at natitsolution.com, NAT IT & Digital Marketing Solutions at natitsolutions.com, Nahum Natan Technology Solutions in Israel, etc.) \u2014 none of these are the same company as the signup.",
+      "The email used is hr@natanitsolutions.com \u2014 the 'hr' prefix suggests the signer may be in an HR or people-ops role, or it is a shared HR inbox rather than a founder/owner address.",
+      "The site appears to be very newly launched (WordPress default state), consistent with a company that may be in pre-launch or early setup phase."
+    ],
     "source_urls": [
       "https://natanitsolutions.com"
     ]
@@ -10,16 +19,15 @@
   "individual": {
     "name": "Natan",
     "role_if_found": null,
-    "notes": "Only the first name 'Natan' is known, sourced from the signup input. The email prefix is 'hr@', which could indicate this person works in HR, or simply that hr@ is used as a general/admin inbox at a small/new company. No role, title, LinkedIn, or other individual-level information is findable from the website (which has no team/about content) or from the provided inputs. No web search results would likely surface a person tied to this very new, unconfigured domain.",
+    "notes": "Only the first name 'Natan' is provided. The email prefix is 'hr', which could indicate an HR department inbox rather than a personal address \u2014 meaning 'Natan' may or may not be the person who monitors this inbox. No LinkedIn profile, personal bio, founder story, or any other individual-level information could be found for a person named 'Natan' at Natan IT Solutions. The name 'Natan' appears to mirror the company name, which may suggest a founder/owner named Natan, but this cannot be confirmed from any source.",
     "source_urls": []
   },
   "could_not_find": [
-    "What the company actually does \u2014 no real service descriptions exist on the site yet",
-    "Natan's last name, title, or role",
-    "Whether 'hr@' indicates an HR function or is just a catch-all inbox",
-    "Company size, location, founding date, or target market",
-    "Any team members, clients, case studies, or social proof",
-    "Any external news, press, or web presence beyond the unconfigured WordPress site",
-    "Whether the company is even operational yet \u2014 site suggests it may be brand new and not yet launched"
+    "Any real company description, services, or product information \u2014 the website is an unconfigured WordPress default.",
+    "The individual recipient's last name, role, or any professional profile.",
+    "Whether 'hr@' is a personal inbox (belonging to Natan) or a shared HR department inbox.",
+    "Company location, founding date, team size, industry vertical, or target market.",
+    "Any third-party mentions, news, press, or social media presence for natanitsolutions.com specifically.",
+    "Whether 'Natan' in the company name refers to the founder's name or is simply a brand name."
   ]
 }

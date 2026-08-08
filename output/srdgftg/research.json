@@ -2,20 +2,20 @@
   "company": {
     "website": null,
     "what_they_do": null,
-    "raw_notes": "No legitimate company or website could be found for '20030310.com'. The domain does not resolve to any real business. The string '20030310' appears to be a date-formatted sequence (March 10, 2003) used incidentally in unrelated contexts (eBay seller handle, document timestamps, etc.). No homepage, about page, product/service pages, or any company identity is associated with this domain.",
+    "raw_notes": "The email domain '20030310.com' does not resolve to any identifiable business website. Search results for '20030310.com' return only unrelated content (an eBay seller handle, a date-formatted vehicle recall record, Wikipedia articles). No legitimate company website, product, or service could be found associated with this domain. The org_name 'srdgftg' also returns no meaningful results \u2014 it does not match any known company name, brand, or organization. It appears to be a random string of characters.",
     "source_urls": []
   },
   "individual": {
-    "name": "wdefrgt (stated first name \u2014 almost certainly not a real name; appears to be a random keyboard string)",
+    "name": "wdefrgt (first_name as provided)",
     "role_if_found": null,
-    "notes": "Email 'aspencer066@20030310.com' returns no findable presence online. The username 'aspencer066' is not linked to any identifiable individual or professional profile. No LinkedIn, company bio, or any other first-party source found.",
+    "notes": "The name 'wdefrgt' is not a real human name \u2014 it appears to be a random keyboard string. The email 'aspencer066@20030310.com' uses a similarly nonsensical domain. No individual named 'wdefrgt' or associated with this email/domain could be found. 'aspencer066' could suggest a real name like 'A. Spencer', but this is speculative and unsupported by any source.",
     "source_urls": []
   },
   "could_not_find": [
-    "No real website or business exists at 20030310.com \u2014 domain does not correspond to any known company.",
-    "Org name 'srdgftg' is a random keyboard string with no matching company in any search results.",
-    "First name 'wdefrgt' is a random keyboard string \u2014 not a real name.",
-    "Email username 'aspencer066' returns no identifiable individual.",
-    "All four key inputs (first_name, email, org_name, email_domain) show strong signs of being fake/throwaway data. This signup is very likely not a genuine prospective customer."
+    "No real website or business exists at '20030310.com' \u2014 domain appears fabricated or disposable.",
+    "Org name 'srdgftg' is not a recognizable company name; no search results connect it to any real organization.",
+    "First name 'wdefrgt' is not a real personal name \u2014 likely a random string entry.",
+    "No individual profile, LinkedIn, or any public record found for the recipient.",
+    "All inputs (first_name, org_name, email_domain) exhibit strong indicators of fake/bot signup: random character strings, implausible domain name formatted as a date, numeric suffix in email username."
   ]
 }
