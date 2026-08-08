@@ -1,21 +1,21 @@
 {
   "company": {
     "website": null,
-    "what_they_do": null,
-    "raw_notes": "The email domain '20030310.com' does not correspond to any identifiable real business or organization. Web searches return no website, no homepage, no about page, and no products/services associated with this domain. The string '20030310' appears to be a date formatted as YYYYMMDD (March 10, 2003), used as a throwaway or randomly generated domain name. No legitimate company presence found.",
+    "what_they_do": "Cannot be determined. The domain '20030310.com' does not resolve to any identifiable business website. Search results for '20030310.com' return entirely unrelated content (an eBay seller username, a date-formatted string appearing in unrelated documents, etc.). No legitimate company website was found at or associated with this domain.",
+    "raw_notes": "The domain '20030310.com' appears to be a date-formatted string (2003-03-10 = March 10, 2003). It does not correspond to any discoverable company, product, or service. No homepage, about page, or product/service information could be found. The org_name 'srdgftg' is also a nonsensical string with no recognizable meaning or matching entity.",
     "source_urls": []
   },
   "individual": {
-    "name": "wdefrgt (stated first name \u2014 almost certainly not a real name; likely random keyboard input)",
+    "name": "wdefrgt (as entered \u2014 not a real name)",
     "role_if_found": null,
-    "notes": "The name 'wdefrgt' is a nonsensical keyboard string and not a plausible personal name. The email handle 'aspencer066' could theoretically reference a person named 'A. Spencer', but no verifiable individual by this name at this domain or organization was found. The org name 'srdgftg' is likewise a random keyboard string with no traceable organization.",
+    "notes": "The first name 'wdefrgt' is a random keyboard-mash string, not a real person's name. The email 'aspencer066@20030310.com' does not surface any identifiable individual in search results. No LinkedIn profile, company bio, or any other first-party source was found for this person.",
     "source_urls": []
   },
   "could_not_find": [
-    "No real website or web presence found for 20030310.com",
-    "No identifiable company or organization behind the domain",
-    "No identifiable individual behind the name 'wdefrgt' or handle 'aspencer066'",
-    "Org name 'srdgftg' is not a real or traceable organization name",
-    "All provided inputs (first_name, org_name, email_domain) appear to be fake/randomly generated \u2014 this signup has strong indicators of being a bot, spam, or test submission"
+    "No real company website exists or is discoverable at 20030310.com",
+    "Org name 'srdgftg' is a nonsensical string \u2014 no matching organization found",
+    "First name 'wdefrgt' is a nonsensical string \u2014 no real individual identified",
+    "Email address 'aspencer066@20030310.com' returns no findable person or profile",
+    "This signup has all the hallmarks of a fake/bot/throwaway submission: random keyboard-mash name and org, date-string domain, numbered email handle"
   ]
 }
