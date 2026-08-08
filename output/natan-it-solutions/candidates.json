@@ -1,3 +1,23 @@
 {
-  "candidates": []
+  "candidates": [
+    {
+      "item": "Dealing in all Professional IT Services",
+      "why_interesting": "This is the only real text signal on the entire site \u2014 but it is a generic marketing tagline, not a concrete capability or differentiator. It cannot be reacted to in a meaningful way, only parroted back. No concrete fact, mechanism, result, or quirk sits behind it. Does NOT clear the bar.",
+      "level": "company",
+      "source_url": "https://natanitsolutions.com",
+      "as_of_date_if_known": "unknown",
+      "recency_note": "Site appears to be a brand-new, unconfigured WordPress installation as of research date.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "The company name 'Natan IT Solutions' mirrors the first name 'Natan', suggesting the founder named the company after themselves.",
+      "why_interesting": "Mildly distinctive \u2014 eponymous naming is a soft signal of a solo founder or owner-operator \u2014 but this is an inference, not a confirmed fact. It cannot be verified from any available source, so it carries real risk of being wrong. Does NOT clear the bar.",
+      "level": "individual",
+      "source_url": "https://natanitsolutions.com",
+      "as_of_date_if_known": "unknown",
+      "recency_note": "Inferred from company name only; no biography, LinkedIn, or team page exists to confirm.",
+      "sensitivity": "none"
+    }
+  ],
+  "_verdict": "NO candidates clear the bar. The site is a default WordPress placeholder with zero real content \u2014 no services described, no case studies, no team, no blog, no third-party mentions, no quirks, no bold stances, no novel capabilities. The only text that could be called 'real' is a generic tagline. There is nothing genuinely cool, surprising, or distinctive to surface. Attempting to manufacture a compliment from this material would result in either parroting a slogan or stating an unverifiable inference \u2014 both of which should be avoided."
 }

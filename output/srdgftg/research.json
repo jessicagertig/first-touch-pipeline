@@ -2,20 +2,25 @@
   "company": {
     "website": null,
     "what_they_do": null,
-    "raw_notes": "The email domain '20030310.com' returned no results pointing to a legitimate business website. Search results for '20030310.com' returned only unrelated content (an eBay seller handle, a date-formatted string in unrelated documents). No company website, homepage, about page, or product/service information could be found associated with this domain. The org_name 'srdgftg' appears to be a random string with no identifiable meaning or associated business.",
-    "source_urls": []
+    "raw_notes": "The email domain '20030310.com' does not correspond to any identifiable real business website. It appears on multiple third-party disposable/temporary email domain blocklists (verifymail.io and similar services), strongly indicating it is a known disposable or throwaway email domain, not a legitimate company domain. No website content, homepage, about page, or business description could be found for 20030310.com. The org_name 'srdgftg' is a random-looking string with no matches to any real company name, product, or organization.",
+    "source_urls": [
+      "https://verifymail.io/domain/xiwinnie.icu",
+      "https://verifymail.io/domain/purifyzed.org",
+      "https://verifymail.io/domain/kazava.tech"
+    ]
   },
   "individual": {
-    "name": "wdefrgt",
+    "name": "wdefrgt (as entered \u2014 almost certainly not a real name)",
     "role_if_found": null,
-    "notes": "The first name 'wdefrgt' is not a real name \u2014 it appears to be a random string of characters. The email handle 'aspencer066' likewise returned no identifiable individual in search results. No LinkedIn profile, company bio, or any other source connecting a real person to this signup was found.",
+    "notes": "The first name 'wdefrgt' is a nonsensical keyboard-mash string, not a real personal name. No person named 'wdefrgt' or with the email 'aspencer066@20030310.com' could be found in any public source. 'aspencer066' could be read as 'a spencer' with a numeric suffix, but no real individual named A. Spencer associated with this domain or org was found.",
     "source_urls": []
   },
   "could_not_find": [
-    "No legitimate company website found for domain '20030310.com'.",
-    "Org name 'srdgftg' is a nonsensical string; no real business identified.",
-    "First name 'wdefrgt' is not a real name; no individual could be identified.",
-    "Email handle 'aspencer066' returned no identifiable person in search results.",
-    "All signup fields (first_name, org_name) appear to be randomly typed keyboard strings, strongly suggesting a fake or bot signup."
+    "No real company exists for domain '20030310.com' \u2014 it is a known disposable/throwaway email domain listed on multiple blocklists.",
+    "Org name 'srdgftg' returns no results matching any real business or organization.",
+    "First name 'wdefrgt' is not a real name \u2014 appears to be random keyboard input.",
+    "No website, about page, product pages, or any business presence found for 20030310.com.",
+    "No individual matching this signup could be identified.",
+    "All four inputs (first_name, email, org_name, email_domain) show strong signals of a fake/bot or throwaway signup: random-character strings for name and org, and a confirmed disposable email domain."
   ]
 }
