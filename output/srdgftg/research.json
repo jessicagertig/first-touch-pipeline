@@ -1,21 +1,26 @@
 {
   "company": {
     "website": null,
-    "what_they_do": null,
-    "raw_notes": "The email domain '20030310.com' does not resolve to any identifiable business website. Search results for '20030310.com' return only unrelated content (an eBay seller handle, a date-formatted vehicle recall record, Wikipedia articles). No legitimate company website, product, or service could be found associated with this domain. The org_name 'srdgftg' also returns no meaningful results \u2014 it does not match any known company name, brand, or organization. It appears to be a random string of characters.",
-    "source_urls": []
+    "what_they_do": "Cannot be determined. The domain '20030310.com' does not resolve to any identifiable business website. It appears on multiple third-party disposable/temporary email domain blocklists.",
+    "raw_notes": "The domain '20030310.com' is listed on verifymail.io and similar services as a known disposable/temporary email domain. No legitimate business website was found at this domain. The org_name 'srdgftg' is a random-looking string with no matches to any real company. No website, product, service, industry, or business description could be identified for either the domain or org name.",
+    "source_urls": [
+      "https://verifymail.io/domain/xiwinnie.icu",
+      "https://verifymail.io/domain/teambunnyfoundation.org.uk",
+      "https://verifymail.io/domain/purifyzed.org"
+    ]
   },
   "individual": {
-    "name": "wdefrgt (first_name as provided)",
+    "name": "wdefrgt (supplied first_name \u2014 appears to be a random/gibberish string)",
     "role_if_found": null,
-    "notes": "The name 'wdefrgt' is not a real human name \u2014 it appears to be a random keyboard string. The email 'aspencer066@20030310.com' uses a similarly nonsensical domain. No individual named 'wdefrgt' or associated with this email/domain could be found. 'aspencer066' could suggest a real name like 'A. Spencer', but this is speculative and unsupported by any source.",
+    "notes": "No individual named 'wdefrgt' could be found. The email local-part 'aspencer066' does not surface any identifiable person tied to this domain. All provided identifiers (first_name, org_name) are consistent with randomly generated or keyboard-mashed strings, not real names.",
     "source_urls": []
   },
   "could_not_find": [
-    "No real website or business exists at '20030310.com' \u2014 domain appears fabricated or disposable.",
-    "Org name 'srdgftg' is not a recognizable company name; no search results connect it to any real organization.",
-    "First name 'wdefrgt' is not a real personal name \u2014 likely a random string entry.",
-    "No individual profile, LinkedIn, or any public record found for the recipient.",
-    "All inputs (first_name, org_name, email_domain) exhibit strong indicators of fake/bot signup: random character strings, implausible domain name formatted as a date, numeric suffix in email username."
+    "No real website exists at 20030310.com \u2014 domain is flagged as a disposable/throwaway email provider on multiple blocklists.",
+    "Org name 'srdgftg' returns no matching real company in any search.",
+    "First name 'wdefrgt' is not a real name \u2014 gibberish string.",
+    "Email address 'aspencer066@20030310.com' returns no findable individual.",
+    "No industry, product, service, or business purpose can be attributed to this signup.",
+    "HIGH CONFIDENCE this is a fake/bot signup: disposable email domain, gibberish name, gibberish org name, numeric-style throwaway domain matching known spam/disposable email patterns."
   ]
 }
