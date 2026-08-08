@@ -1,0 +1,80 @@
+{
+  "lead_id": "caring-inc",
+  "company_name": "CARING Inc",
+  "recipient_name": "Charina Wolfris",
+  "email": "cm4irv@caringinc.com",
+  "variations": [
+    {
+      "variant_n": 1,
+      "compliment": "CARING Inc looks like a wonderful organization - I love how each CARINGHouse residence gives four to eight people a family-like setting that helps them become more independent and transition into community life.",
+      "email": "Hello Charina,\n\nThanks for checking out Polymer! CARING Inc looks like a wonderful organization - I love how each CARINGHouse residence gives four to eight people a family-like setting that helps them become more independent and transition into community life.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.caringinc.net/caringhouse-projects"
+      ],
+      "score": 9,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1786208628.471909",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 2,
+      "compliment": "CARING Inc looks like a great organization - I love that you've grown from a group of volunteers in the 1970s to running 55 group homes across New Jersey for people with developmental disabilities.",
+      "email": "Hello Charina,\n\nThanks for checking out Polymer! CARING Inc looks like a great organization - I love that you've grown from a group of volunteers in the 1970s to running 55 group homes across New Jersey for people with developmental disabilities.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.caringinc.net/about"
+      ],
+      "score": 8,
+      "tells": [
+        "I love that you've grown from a group of volunteers in the 1970s to running 55 group homes across New Jersey for people with developmental disabilities"
+      ],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1786208628.561779",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 3,
+      "compliment": "CARING Inc looks like a great organization - I love that the Memory Resource Center lets someone with memory loss join the social daycare program while their caregiver gets support in a separate area.",
+      "email": "Hello Charina,\n\nThanks for checking out Polymer! CARING Inc looks like a great organization - I love that the Memory Resource Center lets someone with memory loss join the social daycare program while their caregiver gets support in a separate area.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.caringinc.net/memory-resource-center"
+      ],
+      "score": 9,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1786208628.650309",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 4,
+      "compliment": "CARING Inc looks like it does really meaningful work - I love that the group homes are set up in a family-like setting so residents can become more independent and transition into community life.",
+      "email": "Hello Charina,\n\nThanks for checking out Polymer! CARING Inc looks like it does really meaningful work - I love that the group homes are set up in a family-like setting so residents can become more independent and transition into community life.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.caringinc.net/caringhouse-projects"
+      ],
+      "score": 9,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1786208628.751399",
+      "slack_channel": "C0B87Q5UEL9"
+    },
+    {
+      "variant_n": 5,
+      "compliment": "CARING Inc looks like a great organization - I love that the group homes are set up for just four to eight people in a family-like setting.",
+      "email": "Hello Charina,\n\nThanks for checking out Polymer! CARING Inc looks like a great organization - I love that the group homes are set up for just four to eight people in a family-like setting.\n\nHappy to answer any questions you might have about Polymer.\n\nCheers,\nJessica\n\n\nJessica Gertig\nPolymer | polymer.co",
+      "source_urls": [
+        "https://www.caringinc.net/caringhouse-projects"
+      ],
+      "score": 9,
+      "tells": [],
+      "verdict": "ship",
+      "ship": true,
+      "slack_ts": "1786208628.866209",
+      "slack_channel": "C0B87Q5UEL9"
+    }
+  ]
+}

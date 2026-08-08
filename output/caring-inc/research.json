@@ -1,0 +1,35 @@
+{
+  "company": {
+    "website": "https://www.caringinc.net",
+    "what_they_do": "CARING, Inc. is a New Jersey-based nonprofit (501(c)3) that provides affordable housing, assisted living, day programs, and supportive services for seniors and adults with developmental or physical disabilities. Its core mission is preventing the premature institutionalization of these populations \u2014 helping them 'age in place' or live with dignity in community settings rather than long-term care facilities. Key programs include: Assisted Living Programs (ALP) offering nursing care, homemaker services, medication assistance, and transportation in publicly subsidized apartment buildings across Atlantic City, Millville, Wildwood, and Camden; CARINGHouse Projects \u2014 55+ community-based group homes throughout NJ for adults with developmental disabilities; Memory Resource Center in Mays Landing (social daycare + caregiver respite for adults 60+ with cognitive/memory impairment); Transitional Adult Program (T.A.P.) in Pleasantville for adults with developmental disabilities (nursing, OT/PT, recreational activities); Social Day Centers in Atlantic City and Millville; CARING Senior Residential Services (HUD Section 202 and 811 subsidized housing); and Homemaker Services for Housing Authority residents. The organization was founded in 1977, growing from a volunteer group, and has been developing disability/senior housing since 1984.",
+    "raw_notes": "- Legal name: CARING, Inc. (also stylized CARING INC); website caringinc.net, email domain in signup is caringinc.com (slightly different \u2014 possible internal/email domain vs. public website domain; both appear to reference the same organization)\n- Nonprofit 501(c)3, headquartered in Atlantic City / Pleasantville, NJ (multiple addresses: 407 W Delilah Rd, Pleasantville NJ 08232; 14 S California Ave and 11 S Iowa Ave, Atlantic City NJ 08401)\n- Founded 1977, began as volunteer group\n- ~$28.5M revenue (per ZoomInfo/D&B); employee count varies by source: LinkedIn says 501\u20131,000; ZoomInfo says 11\u201350; RocketReach says 144; D&B says 'actual' (undisclosed). LinkedIn figure likely includes all staff across 55+ group homes.\n- Key principal listed as Joe Dockerty (President, per D&B); CFO listed as Brian Curran (ZoomInfo)\n- Programs: ALP (Assisted Living Program), CARINGHouse Projects (group homes for DD adults), Memory Resource Center, T.A.P. (Transitional Adult Program), Social Day Centers, Residential/Senior Housing, Homemaker Services, Transportation\n- Housing portfolio: 2 HUD Section 202 senior housing projects, 1 HOME-funded project for physically disabled seniors, 6 HUD Section 811 projects for developmentally disabled individuals, 55 group homes statewide\n- Technologies in use: DocuSign, Sentry, ADP, Microsoft 365\n- Member of Chamber of Commerce of Southern New Jersey (CCSNJ)\n- Staff directory published at caringinc.net/directory \u2014 lists roles such as Compliance Coordinator, Benefits Coordinator, Accounting/IT/Pension, Director of Safety, Electronic Docs Specialist/Therap, Director of Transportation, Social Worker, Director of CARINGHouse Projects, Senior Assistant Directors, Regional Director, CALA Administrator, etc. No 'Charina' or 'cm4' initial pattern found in publicly visible directory entries.\n- Email pattern on directory appears to be FirstInitial+LastName@caringinc.org (e.g., CHarmon, SToribio, KKlein) \u2014 signup email cm4irv@caringinc.com follows a different pattern (possibly cm = Charina M, 4 = unknown, irv = Irvington or another identifier, or it could be a username-style address). The .com domain vs. .org/.net discrepancy is notable.",
+    "source_urls": [
+      "https://www.caringinc.net",
+      "https://www.caringinc.net/about",
+      "https://www.caringinc.net/programs",
+      "https://www.caringinc.net/directory",
+      "https://www.caringinc.net/memory-resource-center",
+      "https://www.caringinc.net/social-day",
+      "https://www.caringinc.net/transitional-adult-program",
+      "https://business.chambersnj.com/directory/Details/caring-inc-2291976",
+      "https://www.zoominfo.com/c/caring-inc/354032622",
+      "https://www.linkedin.com/company/caring-inc",
+      "https://www.dnb.com/business-directory/company-profiles.caring_inc.4379bb59ee23fb0f4da3ee403734ec55.html"
+    ]
+  },
+  "individual": {
+    "name": "Charina",
+    "role_if_found": null,
+    "notes": "No individual named 'Charina' was found in CARING Inc.'s publicly visible staff directory (caringinc.net/directory) or in any other indexed source. The email address cm4irv@caringinc.com uses the domain caringinc.com, which differs from the organization's primary public domains (caringinc.net and caringinc.org used in the staff directory). The email prefix 'cm4irv' does not match the standard FirstInitial+LastName pattern seen in the directory (e.g., CHarmon@caringinc.org), suggesting it may be a legacy, alternate, or role-specific email account. No LinkedIn profile, news mention, or other public record linking a 'Charina' to CARING Inc. was found. Last name and specific role remain unknown.",
+    "source_urls": [
+      "https://www.caringinc.net/directory"
+    ]
+  },
+  "could_not_find": [
+    "Charina's last name \u2014 not determinable from available public sources",
+    "Charina's role/title at CARING Inc. \u2014 not listed in the public staff directory or any other indexed source",
+    "Explanation for the caringinc.com email domain vs. the organization's primary caringinc.net / caringinc.org domains \u2014 may be an alternate domain owned by the org, but not confirmed",
+    "Email prefix 'cm4irv' does not follow the org's apparent naming convention \u2014 role or context of this address is unclear",
+    "No LinkedIn profile or other biographical information found for the individual recipient"
+  ]
+}

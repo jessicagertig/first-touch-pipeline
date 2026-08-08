@@ -1,0 +1,49 @@
+{
+  "candidates": [
+    {
+      "item": "Incorporated in 1977, CARING began earlier as a group of volunteers who realized the need for what has become the organization's present mission.",
+      "why_interesting": "The org predates its own incorporation \u2014 it started as a pure volunteer movement before formalizing. That's a rare founding story (most nonprofits incorporate first, then build programs) and signals deep community roots rather than a top-down launch.",
+      "level": "company",
+      "source_url": "https://www.caringinc.net/about",
+      "as_of_date_if_known": "current (live site)",
+      "recency_note": "Stable historical fact; consistent across multiple sources.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "It has developed two senior housing projects funded under HUD Section 202, one housing project primarily for physically disabled seniors using HOME funds, six housing projects for developmentally disabled individuals using HUD Section 811 funding and, including those 811 projects, developed or acquired, and currently staff and operate, 55 group homes through New Jersey that house and care for persons with developmental disabilities.",
+      "why_interesting": "55 group homes staffed and operated statewide is a surprisingly large physical footprint for a regional nonprofit \u2014 it means they are simultaneously a housing developer, a property manager, and a direct-care operator across NJ, using at least three distinct federal funding streams. That's an unusually integrated model.",
+      "level": "company",
+      "source_url": "https://business.chambersnj.com/directory/Details/caring-inc-2291976",
+      "as_of_date_if_known": "June 24, 2021",
+      "recency_note": "Confirmed on live caringinc.net/about as well; count consistent.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Each CARINGHouse residence has been developed to provide housing and supportive services for four to eight individuals in a family-like setting. The positive, affirming aspects of this environment have enabled many of the CARINGHouse residents to transition from life in a state Developmental Center to life in the community.",
+      "why_interesting": "They explicitly frame CARINGHouses as the mechanism that moved people OUT of state institutions into real homes \u2014 not just housing, but deinstitutionalization in practice. Most group-home operators describe their service, not their upstream impact; CARING names the state Developmental Centers as the alternative they are replacing.",
+      "level": "company",
+      "source_url": "https://www.caringinc.net/caringhouse-projects",
+      "as_of_date_if_known": "current (live site)",
+      "recency_note": "Stable program description.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "Unique to CARING's Caregiver Support and Educational Service, the person with memory loss may attend the CARING Memory Resource Center social daycare program while their caregiver participates--in a separate area--in the support and education group.",
+      "why_interesting": "The Memory Resource Center runs the care recipient and their family caregiver simultaneously but in separate spaces on the same visit. That 'parallel session' design \u2014 respite and caregiver education happening at the same time, same place \u2014 is genuinely clever logistics that solves the classic problem of caregivers being unable to attend support groups because they can't leave their loved one.",
+      "level": "company",
+      "source_url": "https://www.caringinc.net/memory-resource-center",
+      "as_of_date_if_known": "current (live site)",
+      "recency_note": "Stable program description; site calls it 'unique to CARING's' program.",
+      "sensitivity": "none"
+    },
+    {
+      "item": "CARING provides those residents with the services they require to 'age in place' rather than move into a long-term care facility.",
+      "why_interesting": "Their Assisted Living Program is delivered inside publicly subsidized apartment buildings \u2014 residents keep their own apartments and CARING brings the nursing, homemaker, medication, and transport services to them. Most ALPs require you to move into a dedicated facility; CARING inverts this by going to where low-income seniors already live.",
+      "level": "company",
+      "source_url": "https://www.caringinc.net/about",
+      "as_of_date_if_known": "current (live site)",
+      "recency_note": "Stable program description.",
+      "sensitivity": "none"
+    }
+  ]
+}
