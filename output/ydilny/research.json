@@ -1,25 +1,25 @@
 {
   "company": {
     "website": "ayable.com",
-    "what_they_do": "Cannot be determined. The domain ayable.com has no active business website. Search results show it listed as a domain for sale on a domain marketplace (brandpa.com), with no real company or product behind it.",
-    "raw_notes": "ayable.com appears on brandpa.com as a domain listed for sale, registered in May 2021. No homepage, no about page, no product or service pages found. A GitHub account under the handle 'ayable' exists with 7 mostly empty/tutorial repositories (micropost, monolist2, a GitHub Pages HTML file), suggesting a personal/learning account rather than any company. There is no business named 'Ayable' with this domain. The org_name 'Ydilny' returns zero results as any known company, product, or brand.",
+    "what_they_do": "Cannot be determined. The domain ayable.com does not resolve to a live, identifiable company website. The only search result referencing the domain is a third-party domain-for-sale listing on brandpa.com, indicating the domain is (or was recently) listed for sale \u2014 not an active business property.",
+    "raw_notes": "brandpa.com lists ayable.com as a domain for sale, registered in May 2021. No live company website, no product/service pages, no about page, and no business content found at ayable.com. A GitHub account named 'ayable' exists (github.com/ayable) with 7 public repos (mostly Ruby/HTML learning exercises, apparently from a coding bootcamp), but there is no link to any company named 'Ydilny' or a business product. An Instagram handle @ayable exists but is a personal account (___a/w). None of these are confirmed to be connected to the signup. 'Ydilny' as an org name returns zero results across all searches \u2014 it does not appear to be a known or publicly registered company name.",
     "source_urls": [
       "https://brandpa.com/names/ayable",
-      "https://github.com/ayable"
+      "https://github.com/ayable",
+      "https://www.instagram.com/ayable/"
     ]
   },
   "individual": {
     "name": "Slava",
     "role_if_found": null,
-    "notes": "No individual named 'Slava' could be identified in connection with ayable.com or Ydilny. 'Slava' is a common Slavic given name. The email address (rimib58944@ayable.com) follows an unusual pattern (random-looking string + 5-digit number) inconsistent with a professional or corporate email, which further suggests this may not be a genuine business signup. No role, bio, LinkedIn profile, or any other first-party information found.",
+    "notes": "No individual named 'Slava' could be found in connection with ayable.com or 'Ydilny'. 'Slava' is a common Slavic given name. The email address (rimib58944@ayable.com) follows an unusual pattern \u2014 a random-looking alphanumeric local-part \u2014 which is atypical for a professional or business email and may indicate a disposable/temporary email address. No professional profile, LinkedIn presence, founder bio, or any other first-party or third-party source connecting a person named 'Slava' to this domain or org name was found.",
     "source_urls": []
   },
   "could_not_find": [
-    "No active website or business found at ayable.com \u2014 domain appears to be parked/for sale.",
-    "No company named 'Ydilny' found anywhere online \u2014 likely a fabricated or misspelled org name.",
-    "No individual named 'Slava' linkable to ayable.com or Ydilny.",
-    "Email address format (rimib58944@ayable.com) is atypical and may indicate a disposable or fake email.",
-    "No role, title, or professional background found for the recipient.",
-    "Overall signup has strong indicators of being low-quality, bot-generated, or fictitious \u2014 recommend flagging for review before outreach."
+    "No live website or any web presence for ayable.com as an active business.",
+    "No information whatsoever about an organization named 'Ydilny' \u2014 likely a fictitious, placeholder, or misspelled org name.",
+    "No individual named 'Slava' linked to ayable.com or Ydilny in any public source.",
+    "The email address format (rimib58944@ayable.com) resembles a disposable or auto-generated address, raising data quality concerns about this signup.",
+    "Cannot confirm whether ayable.com is actually owned/operated by this signee \u2014 the domain appears to be for sale or dormant per third-party listing."
   ]
 }
