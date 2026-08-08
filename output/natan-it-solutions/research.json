@@ -1,8 +1,8 @@
 {
   "company": {
     "website": "https://natanitsolutions.com",
-    "what_they_do": "Unknown. The website (natanitsolutions.com) returned only a bot-verification/waiting page ('Please wait while your request is being verified...') and yielded no readable content. The domain does not appear in any web search results as a distinct, established company.",
-    "raw_notes": "The domain natanitsolutions.com returned a Cloudflare-style bot-check page with no indexable content. No web search results match this specific company or domain. Several similarly named companies exist (e.g., natitsolutions.com \u2014 an IT support/network/digital marketing firm for SMBs; nat-solutions.com \u2014 a digital transformation consultancy; NAT IT Solutions at natitsolution.com \u2014 custom web solutions) but none can be confirmed as the same entity as 'Natan IT Solutions' at natanitsolutions.com. The org name 'Natan IT Solutions' suggests an IT services or solutions business, but this cannot be verified from any source.",
+    "what_they_do": "Unknown. The domain natanitsolutions.com returned only a bot-verification holding page ('Please wait while your request is being verified...') with no readable content. No matching company \u2014 'Natan IT Solutions' at natanitsolutions.com \u2014 was found in any web search result. Several similarly-named but distinct companies exist (natitsolutions.com, natitsolution.com, nat-solutions.com, etc.) but none match this exact domain or org name.",
+    "raw_notes": "- natanitsolutions.com homepage returned a Cloudflare/bot-check interstitial only; no content extractable.\n- Web searches for 'Natan IT Solutions natanitsolutions.com' and 'Natan IT Solutions company' returned zero results pointing to this specific entity.\n- Closest domain found in search results: natitsolutions.com (NAT IT & Digital Marketing Solutions \u2014 IT support/network/maintenance for small-to-mid businesses, copyright 2018\u20132021). This is a different company and domain.\n- natitsolution.com (singular): a web/software development shop. Different entity.\n- nat-solutions.com: Egypt-based, Cairo. Different entity.\n- No press, LinkedIn page, Crunchbase, or business directory listing found for 'Natan IT Solutions' or natanitsolutions.com specifically.\n- The org_name 'Natan IT Solutions' and the email 'hr@natanitsolutions.com' suggest the signup contact works in HR at the company, but no further detail is available.\n- The domain appears to be new or very low-profile, consistent with the note that it 'may be too new to appear in web search.'",
     "source_urls": [
       "https://natanitsolutions.com"
     ]
@@ -10,15 +10,14 @@
   "individual": {
     "name": "Natan",
     "role_if_found": null,
-    "notes": "The signup email is hr@natanitsolutions.com, which suggests this person either works in HR at Natan IT Solutions or is using an HR-designated inbox. The first name 'Natan' matches the company name, which could indicate this is the founder/owner, but this is speculative and unconfirmed. No individual named 'Natan' at 'Natan IT Solutions' (natanitsolutions.com) could be found in any web search results. No LinkedIn profile, personal bio, or other first-party source was located.",
+    "notes": "Only the first name 'Natan' is provided. The email prefix is 'hr@', strongly suggesting this person works in a Human Resources function at the company. No last name, LinkedIn profile, or any other identifying information was found. 'Natan' may also be the founder's name reflected in the company name ('Natan IT Solutions'), but this is speculative and unconfirmed.",
     "source_urls": []
   },
   "could_not_find": [
-    "Company website content \u2014 natanitsolutions.com is behind a bot-verification page and returned no usable content.",
-    "No web search results exist for natanitsolutions.com or 'Natan IT Solutions' as a distinct company.",
-    "Individual's full name, last name, and confirmed role are unknown.",
-    "Company industry, services, founding date, size, and location are all unverifiable from available sources.",
-    "Cannot confirm whether 'Natan' in the first_name field is the founder, an employee, or an HR staff member \u2014 the hr@ prefix only indicates the inbox function.",
-    "No news, press, or third-party mentions of this company were found."
+    "Company website content \u2014 natanitsolutions.com served only a bot-verification page; no product/service/about information was accessible.",
+    "Any third-party mention of 'Natan IT Solutions' or natanitsolutions.com in web search results.",
+    "Individual's last name, full title, or LinkedIn/public profile.",
+    "Company founding date, location, size, or industry vertical.",
+    "Whether 'Natan' in the company name refers to the individual recipient or is unrelated."
   ]
 }
